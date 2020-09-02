@@ -1,0 +1,277 @@
+[Event "?"]
+[Site "Shredder"]
+[Date "2016.04.19"]
+[Round "?"]
+[White "Bobby Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "850"]
+[ECO "A45"]
+[EventDate "2016.04.19"]
+[Opening "Various Indian Systems"]
+
+1.d4 Nf6 2.Bf4 c5 3.dxc5 d6 4.cxd6 exd6 5.Bxd6 Bxd6 6.Nc3 Rf8 7.e4 Qb6 8.Bb5+
+Bd7 9.Bc4 Bg4 10.f3 Be6 11.Bb5+ Bd7 12.Bc4 Bh3 13.gxh3 Qxb2 14.f4 Qb4 15.Kd2
+Qa5 16.e5 Qc5 17.exf6 gxf6 18.Nf3 Qxc4 19.Rb1 Qxf4+ 20.Ke2 Qxf3+ 21.Kxf3 Bc7
+22.Qd2 f5 23.Rhe1+ Be5 24.Rxe5# 1-0
+
+[Event "?"]
+[Site "Camden Chess Club, Old Oakland Starbucks (Broadway), Oakland, CA"]
+[Date "2018.04.07"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Bobby Edmonds"]
+[Result "1-0"]
+[ECO "A80"]
+[EventDate "2018.04.07"]
+
+1.d4 f5 { Dutch Defence } 2.Bf4 g6 3.e3 Bg7 4.Nf3 d5 5.c3 Nc6
+{ [diagram] I am hoping to remove the Knight and Bishop protecting the e5
+square. (D.Edmonds) } 6.Bb5 Bd7 7.Bxc6 Bxc6 { [diagram] Now .. the Bishop. }
+8.Be5 Bxe5 9.Nxe5 e6
+{ [diagram] The White Knight is comfortably positioned on e5. } 10.Nd2 Ne7 $5
+11.h4
+{ [diagram] White is pushing the h-pawn ("Harry the H-pawn") to disrupt the
+Kingside structure hoping that Black plans to castle on this side of the
+board or is not able to move the King to safety on the Queenside fast enough to avoid the onslaught. }
+11...Rg8 12.h5 Qd6 13.hxg6 Nxg6 14.Qh5 O-O-O $1 15.Nf7 Qe7 16.Qxh7 $2
+{ [diagram] 16.Nxd8 is a better move. :) (B.Edmonds) } 16...Rdf8 $3
+{ Bobby found the perfect defense here. Stockfish 9 recommends this
+response (+0.00/43) as bringing the game back to even. I believe Black is
+slightly better. (D.Edmonds) } 17.Ne5 Rg7 ( 17...Qxh7 18.Rxh7 Nxe5 19.dxe5
+Rxg2 { [diagram] Here, Black is better .. maybe winning. } ) 18.Nxg6 Rxh7
+19.Nxe7+ Rxe7 20.f4 Be8 21.O-O-O c6 { [diagram] } 22.Nf3 $1 Bg6 23.Ne5 Bf7
+24.Rh7 { [diagram] } 24...Rfe8 $2 ( 24...Rc7 { Stockfish 9:+3.15/44 } 25.Rdh1
+) 25.Rxf7 Rxf7 26.Nxf7
+{ [diagram] White is up a piece in material and in control of the e5 square
+with the Knight. This should be an insurmountable advantage. } 26...Rf8
+27.Ne5 Rh8 $1 28.Rg1 Rh2 29.Nf7 Kd7 30.Ng5 $2 Kc8 31.Nxe6 Rh6 32.Ng5 Rh8
+33.g3 Rh5 34.Rg2 Rh1+ 35.Kc2 Kc7 36.Nf3 Rh3 37.b4 Rh1 38.Rh2 Ra1 39.Kb2 Rd1
+40.a4 Kc8 41.Rh7 a6 42.a5 Kb8 43.Rg7 Ka7 44.Rg8 $6
+{ 44.Nh4 is strongest (+15.84/44). Black resigned. Game analyzed by
+D.Edmonds and B.Edmonds (12-years-old) on 07 April 2018. } ( 44.Ne5 $5 Re1 $2
+45.Nxc6+ $1 Ka8 46.Rg8# ) 1-0
+
+[Event "?"]
+[Site "https://lichess.org/P2zS9u0v"]
+[Date "2018.04.08"]
+[Round "?"]
+[White "lichess AI level 1"]
+[Black "Bobby Edmonds"]
+[Result "0-1"]
+[ECO "C20"]
+[EventDate "2018.04.08"]
+[WhiteElo "1350"]
+
+1.e4 e5 2.d4 f6 3.d5 d6 4.Nc3 Be7 5.Nb5 c6 6.Nc3 Na6 7.Qf3 Nb4 8.Qd1 f5
+9.dxc6 Nxc6 10.h3 fxe4 11.Bb5 Bd7 12.h4 Nf6 13.Be3 g6 14.Nge2 Rf8 15.Bh6 Rg8
+16.Bg5 a6 17.Bxc6 Bxc6 18.O-O Ng4 19.a4 Bxg5 20.hxg5 Qxg5 21.Nd5 Qh5 22.Nc7+
+Kf7 23.Re1 Qg5 24.Qxd6 e3 25.Qe6+ Kg7 26.f4 Qh4 27.Nd5 Qf2+ 28.Kh1 Qh4+
+29.Kg1 Qh2+ 30.Kf1 Rgf8 31.Red1 { [diagram] } 31...Qh1+ $3
+{ Stockfish 9:#-15/48 } 32.Ng1 e2+ $3 33.Ke1 exd1=Q+ 34.Rxd1 Qxg1+ 35.Kd2
+Qxg2+ 36.Kc1 Bxd5 37.Rxd5 Rad8 38.Rxd8 Rxd8 39.Qe7+ Kh6 40.Qg5+ Kg7 41.c3
+Qf1+ 42.Kc2 Qd1# { [diagram] } 0-1
+
+[Event "?"]
+[Site "Shredder"]
+[Date "2016.04.10"]
+[Round "?"]
+[White "Bobby Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "850"]
+[ECO "A40"]
+
+1.d4 g6 2.Bf4 d5 3.Be5 f6 4.Bf4 f5 5.Be5 b6 6.Bxh8 f4 7.e3 fxe3 8.fxe3 c5
+9.h3 cxd4 10.exd4 a5 11.Be2 a4 12.Bb5+ Nd7 13.Bc6 Ra6 14.b3 axb3 15.cxb3 e6
+16.Qe2 Qc7 17.Qc2 Qg3+ 18.Kf1 Qb8 19.b4 Qc7 20.b5 Bg7 21.bxa6 Bxh8 22.a7 Bxd4
+23.a8=Q Bxg1 24.Rxg1 Qd6 25.Nc3 Qc5 26.h4 Qxc3 27.Qxc3 d4 28.Qxd4 b5 29.Bxb5
+e5 30.Qc4 h6 31.Qcc6 g5 32.hxg5 hxg5 33.Qaxc8+ Kf7 34.Q8xd7+ Kf8 35.Qcc8#
+1-0
+
+[Event "?"]
+[Site "Shredder"]
+[Date "2017.02.05"]
+[Round "?"]
+[White "Shredder"]
+[Black "Bobby Edmonds"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1340"]
+
+1.Nc3 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Nf6 6.Qe5+ Be7 7.a4 d5 8.b3
+O-O 9.g3 Re8 10.Bg2 Bb4 11.Qd4 Bxc3+ 12.Qxc3 Bf5 13.b4 c6 14.a5 a6 15.Bg5 h6
+16.Bxf6 Qxf6 17.Qxf6 gxf6 18.c3 Bd3 19.e3 Be4 20.Bxe4 Rxe4 21.Kd2 Rc4 22.Rhe1
+Re8 23.f3 h5 24.Rab1 Kg7 25.h3 f5 26.h4 Kg6 27.Rh1 f6 28.Rb2 Re7 29.Rbb1 Rc7
+30.Rbd1 Kf7 31.Kc2 Ke6 32.Kb3 Rd7 33.Rd2 Ke5 34.Rhd1 Rd6 35.Kc2 Rd7 36.Kb3
+Rd6 37.Kc2 Rd7 38.Kd3 Rd6 39.Rb1 Rd7 40.Rbd1 Rd6 41.Rf1 Rd7 42.Rg1 Rg7 43.Kc2
+Rg8 44.Rdd1 Rg7 45.Kb3 Rg8 46.Rd2 Rg7 47.Rdd1 Rg8 48.Rg2 Rg7 49.Rdd2 Rg8
+50.Rdf2 Rg7 51.Rd2 Rg8 52.Rg1 Rg7 53.Rd4 Rxd4 54.cxd4+ Ke6 55.Rg2 Rg8 56.Kc3
+Rg7 57.Kd3 Rg8 58.Kc3 Rg7 59.Rg1 Rg8 60.Kd3 Rg7 61.Kc3 Rg8 62.Kd3 Rg7 63.Ke2
+b6 64.axb6 Rb7 65.g4 fxg4 66.fxg4 hxg4 67.Rxg4 Rxb6 68.e4 Rxb4 69.Kd3 Rb3+
+70.Kd2 Rh3 71.Ke2 f5 72.Rg6+ Kd7 73.exf5 Rxh4 74.Ke3 Rh7 75.Kf4 Rf7 76.f6 Ke6
+77.Kg5 a5 78.Rh6 a4 79.Rg6 a3 80.Rh6 a2 81.Rh1 Rxf6 82.Re1+ Kf7 83.Rc1 Ke6
+84.Re1+ Kf7 85.Rh1 Rf2 86.Rc1 Ke7 87.Kg4 Kd7 88.Re1 Rd2 89.Kf4 Rxd4+ 90.Kg5
+Rd2 91.Kf5 Rb2 92.Rd1 Rb1 93.Rxb1 axb1=Q+ 94.Kg5 Qf1 95.Kg4 Ke6 96.Kg3 Ke5
+97.Kh4 Qg2 98.Kh5 Kf5 99.Kh4 Qg4# 0-1
+
+[Event "?"]
+[Site "Shredder"]
+[Date "2015.04.26"]
+[Round "?"]
+[White "Bobby Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "850"]
+[ECO "B00"]
+
+1.e4 b6 2.Bd3 d6 3.Nf3 c6 4.e5 dxe5 5.Nxe5 Qd4 6.Qe2 Qc5 7.O-O Qb5 8.Bxb5
+cxb5 9.Qd3 b4 10.Re1 b3 11.cxb3 f6 12.Ng4 Bxg4 13.Re3 b5 14.a4 bxa4 15.bxa4
+g6 16.Qc4 f5 17.Rd3 e5 18.h3 e4 19.Rd5 Bd1 20.b3 h5 21.Qc7 f4 22.Rd8# 1-0
+
+[Event "Hou Yifan Night"]
+[Site "Mechanics' Institute Library and Chess Room"]
+[Date "2018.05.24"]
+[Round "?"]
+[White "Bobby Edmonds"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B20"]
+
+1.e4 c5 2.Bc4 Nc6 3.Nc3 d6 4.d3 Nf6 5.Be3 g6 6.d4 cxd4 7.Bxd4 Nxd4 8.Qxd4 Bg7
+9.O-O-O O-O 10.Nf3 Ng4 11.Qd2 Bd7 12.Bd5 Rc8 13.Bxb7 Rb8 14.Qd5 Nxf2 15.Ng5
+Qb6 16.e5 Rxb7 17.e6 Nxd1 18.Nxd1 Bxb2+ 19.Nxb2 Qxb2+ 20.Kd2 fxe6 21.Nxe6
+Bxe6 22.Qxe6+ Rf7 23.Rf1 { threatening 24.Qxf7+ Kh8 25.Qf8# } 23...Qd4+
+24.Ke1 Rb1+ 25.Ke2 Rxf1 26.Qc8+ Kg7 27.c3 R7f2# 0-1
+
+[Event "Endgame Study"]
+[Site "?"]
+[Date "2018.05.26"]
+[Round "?"]
+[White "Stockfish 9 64"]
+[Black "Bobby Edmonds"]
+[Result "0-1"]
+[FEN "8/6p1/6k1/8/6K1/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[TimeControl "m500"]
+
+1.Kf4 Kh5 2.Kg3 Kg5 3.Kf2 Kh4 4.Kf3 Kh3 5.Kf4 Kh4 6.Kf3 g6 7.Kg2 Kg4 8.Kh2
+Kf3 9.Kh1 g5 10.Kg1 Kg3 11.Kh1 Kf2 12.Kh2 g4 13.Kh1 Kg3 14.Kg1 Kh3 15.Kf2 g3+
+16.Kf1 Kh2 17.Ke2 g2 18.Kd3 g1=Q 19.Kc4 Qd1 20.Kc5 Kg3 21.Kc4 Kf4 22.Kc5 Ke5
+23.Kb4 Qc1 24.Kb5 Kd4 25.Kb6 Kd5 26.Kb7 Kd6 27.Ka7 Qb1 28.Ka6 Kc5 29.Ka7 Kc6
+30.Ka6 Qb6# 0-1
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.05.29"]
+[Round "1"]
+[White "Bobby Edmonds"]
+[Black "LeelaChessZero (\"Cora\") (n.net: 9)"]
+[Result "1-0"]
+[ECO "C50"]
+[EventDate "2018.05.29"]
+[TimeControl "m500"]
+
+1.e4 Nc6 2.Bc4 e5 3.Nf3 f6 4.d3 a6 5.Bd5 Nge7 6.Nc3 Ra7 7.Be3 Nxd5 8.exd5 Bc5
+9.Bxc5 f5 10.Bxa7 e4 11.dxc6 dxc6 12.dxe4 c5 13.O-O fxe4 14.Nxe4 Bf5 15.Neg5
+Ke7 16.Bxc5+ Kf6 17.Qe2 Qd7 18.Qe5+ Kg6 19.Rad1 b5 20.Rxd7 Bxd7 21.g4 c6
+22.Qd6+ Be6 23.Qxe6# 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.05.29"]
+[Round "2"]
+[White "LeelaChessZero (\"Cora\") (n.net: 9)"]
+[Black "Bobby Edmonds"]
+[Result "0-1"]
+[ECO "A00"]
+[EventDate "2018.05.29"]
+[TimeControl "m500"]
+
+1.d3 d5 2.Nc3 Nf6 3.Bg5 h6 4.e4 hxg5 5.Nxd5 Nxd5 6.Nh3 g4 7.Ng5 e5 8.exd5
+Qxg5 9.c3 Bf5 10.f3 c6 11.fxg4 Bxg4 12.b4 Bxd1 13.Kxd1 cxd5 14.g4 Qxg4+
+15.Kd2 Nc6 16.Rb1 e4 17.dxe4 Qxe4 18.a4 Qxh1 19.Be2 Qxb1 20.h4 Rxh4 21.a5 Rh3
+22.a6 Qb2+ 23.Kd1 Rh1+ 24.Bf1 Rxf1# 0-1
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.06.12"]
+[Round "?"]
+[White "LeelaChessZero (\"Cora\") (n.net: 14)"]
+[Black "Bobby Edmonds"]
+[Result "0-1"]
+[ECO "A00"]
+[TimeControl "m500"]
+
+1.d3 e5 2.Nf3 d6 3.a3 Be6 4.e3 Nf6 5.h3 Be7 6.g4 O-O 7.g5 Nd5 8.c4 Nb6 9.Rg1
+e4 10.dxe4 Nxc4 11.Bxc4 Bxc4 12.b3 Be6 13.h4 d5 14.exd5 Bxd5 15.Nc3 c6
+16.Nxd5 cxd5 17.Bb2 Qa5+ 18.Kf1 Rd8 19.b4 Qb6 20.Bd4 Nc6 $4 21.Bxb6 axb6
+22.Rb1 Rxa3 23.Nd4 f6 24.Ne6 Rd7 25.Nd4 fxg5 26.hxg5 Ne5 27.Qd2 Rd3 28.Qxd3
+Nxd3 29.Nc2 Rc7 30.f4 Rxc2 31.b5 $4 Kf7 $6 ( 31...Rf2# ) 32.Rb3 Nf2 33.Rg2
+Rc1+ 34.Kxf2 Rc2+ 35.Kg3 Rc1 36.Kh2 Bc5 37.Rd3 h6 38.gxh6 gxh6 39.Rgd2 Bb4
+40.Rxd5 Bxd2 41.Rxd2 Rc5 42.Rd4 Rxb5 43.Rc4 h5 44.Rd4 Kg6 45.Rd6+ Kf5 46.Rh6
+Ke4 47.Rh7 Kxe3 48.Rxh5 { [diagram] } 48...Rxh5+ 49.Kg3 b5 50.Kg4 Rc5 51.f5
+Ke4 52.f6 Rf5 53.f7 Rxf7 54.Kg5 Ke5 55.Kg6 Rf1 56.Kh7 Rg1 57.Kh8 Kf6 58.Kh7
+Rg2 59.Kh8 Kf7 60.Kh7 Rh2# 0-1
+
+[Event "?"]
+[Site "The College at Holborn, London, England"]
+[Date "2018.11.26"]
+[Round "?"]
+[White "Bobby Edmonds"]
+[Black "Duane Edmonds"]
+[Result "*"]
+[ECO "B30"]
+[EventDate "2018.11.26"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 d6 4.d3 Bg4 5.O-O Ne5 6.Bd5 Nxf3+ 7.gxf3 Bh3 8.Bxb7
+Rb8 9.Bc6+ $1 Bd7 10.Bxd7+ Qxd7 11.Be3 Nf6 12.Qd2 g6 13.Nc3 Bg7 14.Kh1 O-O
+15.Rg1 Rxb2 16.Na4 $2 Qxa4 17.Rab1 Rfb8 18.Qc3 Rxb1 19.Bc1 Nh5 20.Qe1 Qxc2
+21.Qa5 Qxf2
+{ Game was interrupted by Magnus Carlsen's unexpected draw offer in Game 12
+of the 2018 World Chess Championship. This casual game took place in that
+venue. } *
+
+[Event "?"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2018.12.26"]
+[Round "?"]
+[White "Bobby Edmonds"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.Bf4 d6 4.Nc3 Nbd7 5.e3 Bg7 { King's Indian Defence } 6.Bd3
+O-O 7.Nge2 Re8 8.O-O b6 9.f3 Bb7 10.Be4 Nxe4 11.fxe4 e5 12.dxe5 Nxe5 13.Bxe5
+Bxe5 14.Qe1 Qg5 15.Qf2 Re6 $4 16.Qxf7+ Kh8 17.Qxe6 Qh6
+{ [diagram] (Stockfish 10:+9.75/36) } 18.Qg4 Qxh2+ 19.Kf2 Rf8+ 20.Ke1 Rxf1+
+21.Kxf1 Bxc3
+{ [diagram] This is a critical position and a dangerous choice for White. }
+22.Nxc3 ( 22.bxc3 $18 $1 { [diagram] 22.Nxc3 loses the Rook. } ) 22...Qh1+
+23.Kf2 Qxa1 $10 24.Qd1 $2 Qxd1 ( 24...Qxb2+ 25.Ne2 Bxe4 ) 25.Nxd1 Bxe4 26.Nc3
+Bf5 { [diagram] Black has an extra pawn in a Bishop vs Knight endgame. } ( 
+26...Bc6
+{ [diagram] Applying a similar light-square restriction to the White Knight
+as the one that will be obtained later in the game in the text. } ) 27.Nb5 c5
+28.Nxa7 Bd7 $1
+{ [diagram] Using the light-square Bishop to restrict the movement of the
+Knight. } 29.b3 h5 30.a3 Kg7 31.g3 g5 32.e4 Kf6 33.Kf3 Ke5 34.b4 Kd4 35.b5
+Kxc4 36.a4 Kb4 37.Nc6+
+{ Hoping for 37...Bxc6?? 38.bxc6 (+-) with an unstoppable passed pawn. }
+37...Kxa4 { [diagram] White resigns. } 0-1
+
+[Event "?"]
+[Site "Mechanics' Institute Library and Chess Room"]
+[Date "2019.06.02"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Bobby Edmonds"]
+[Result "1-0"]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Nc6 3.Bf4 e6 4.e3 Bd6 5.Bg3 Nge7 6.c3 b6 7.Bd3 Bb7 8.Nbd2 Qd7
+9.e4 O-O-O 10.e5 Nf5 11.Bxf5 exf5 12.exd6 f4 13.Bxf4 cxd6 14.O-O Rhg8 15.Re1
+Rge8 16.Qc2 Re6 17.Kf1 Rde8 18.a4 Ba6+ 19.Kg1 Be2 20.Be3 Bxf3 21.Nxf3 Rg6
+22.h3 f5 23.Nh4 Rge6 24.Nxf5 Qd8 25.Nxg7 Nxd4 26.cxd4+ Kd7 27.Qf5 Qf6 28.Qg4
+Re7 29.Nxe6 Qxe6 30.Qxe6+ Rxe6 31.b4 1-0
+

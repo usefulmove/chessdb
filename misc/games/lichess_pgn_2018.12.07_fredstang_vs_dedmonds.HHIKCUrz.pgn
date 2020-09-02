@@ -1,0 +1,22 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/HHIKCUrz"]
+[Date "2018.12.07"]
+[Round "-"]
+[White "fredstang"]
+[Black "dedmonds"]
+[Result "0-1"]
+[UTCDate "2018.12.07"]
+[UTCTime "20:09:01"]
+[WhiteElo "1606"]
+[BlackElo "1544"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+29"]
+[Variant "Standard"]
+[TimeControl "2700+45"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. h3 Nf6 5. Be2 g6 6. d3 Bg7 7. Be3 O-O 8. Qd2 Nd7 9. Bh6 Qa5 10. Bxg7 Kxg7 11. h4 Nde5 12. h5 Rh8 13. Nxe5 Nxe5 14. d4 Nc6 15. hxg6 fxg6 16. O-O-O cxd4 17. Qh6+ Kg8 18. Bc4+ e6 19. Ne2 Qe5 20. Rh4 Qg7 21. Qxg7+ Kxg7 22. Nxd4 d5 23. exd5 Nxd4 24. Rhxd4 e5 25. Re4 Kf6 26. g4 Re8 27. d6 Bd7 28. Rd3 Kg7 29. Rf3 Rf8 30. Be2 Rxf3 31. Bxf3 Bc6 32. Re3 Bxf3 33. Rxf3 Rd8 34. Rd3 Kf6 35. Rh3 Rd7 36. Rd3 Ke6 37. c4 Rxd6 38. Re3 Rd4 39. f3 Rxc4+ 40. Kd2 e4 41. Rxe4+ Rxe4 42. fxe4 Ke5 43. Ke3 b5 44. b3 a5 45. a3 h5 46. b4 axb4 47. axb4 hxg4 48. Kf2 Kxe4 49. Kg3 Kf5 50. Kg2 Kf4 51. Kf2 g5 52. Kg2 g3 53. Kg1 Kf3 54. Kh1 g4 55. Kg1 g2 56. Kh2 g1=Q+ 57. Kxg1 Kg3 58. Kh1 Kf2 0-1
+
+

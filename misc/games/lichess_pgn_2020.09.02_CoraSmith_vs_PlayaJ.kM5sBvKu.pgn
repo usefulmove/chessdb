@@ -1,0 +1,19 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/kM5sBvKu"]
+[Date "2020.09.02"]
+[White "CoraSmith"]
+[Black "PlayaJ"]
+[Result "1-0"]
+[UTCDate "2020.09.02"]
+[UTCTime "01:23:58"]
+[WhiteElo "1512"]
+[BlackElo "1209"]
+[Variant "Standard"]
+[TimeControl "480+5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Nd7 4. Nf3 c6 5. Bd3 Qb6 6. Qc1 Qa5+ 7. c3 a6 8. Nbd2 g6 9. e4 Ngf6 10. e5 Ng4 11. h3 Nh6 12. Nb3 Qc7 13. Bxh6 Bxh6 14. Qxh6 Nb6 15. Ng5 Na4 16. Nxh7 Nxb2 17. Bc2 Qe7 18. Nf6+ Kd8 19. Qxh8+ Kc7 20. O-O Nc4 21. Nc5 b5 22. Qh4 Na3 23. Nxd5+ cxd5 24. Qxe7+ Kb8 25. Bd3 Ra7 26. Nd7+ Bxd7 27. Qxa3 Kb7 28. Qf8 Bc8 29. Qxf7+ Kb8 30. Qxg6 a5 31. Bxb5 a4 32. Rfb1 Rc7 33. Bxa4+ Ka7 34. Bd7 Bxd7 35. a4 Rxc3 36. Qf7 Rc7 37. a5 Ka6 38. Rb6+ Ka7 39. Rxe6 Kb7 40. Rb6+ Ka7 41. e6 Rb7 42. Qxd7 Rxd7 43. exd7 Ka8 44. d8=Q+ Ka7 45. Qb8# 1-0
+
+

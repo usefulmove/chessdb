@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.08.27"]
+[Round "?"]
+[White "JustCora"]
+[Black "Andrew-Nupp"]
+[Result "1-0"]
+[BlackElo "1191"]
+[CurrentPosition "4N1k1/p2qrpb1/6p1/2pP4/2Q2P2/1P4P1/P3R1P1/2K1R3 b - - 0 29"]
+[ECO "A45"]
+[Termination "game_result.won_by_resignation"]
+[TimeControl "300+5"]
+[WhiteElo "1238"]
+
+1.d4 Nf6 2.Bf4 d6 3.e3 g6 4.c4 Nbd7 5.Nc3 Bg7 6.Nf3 O-O 7.Bd3 b6 8.e4 Nh5
+9.Bg3 Nxg3 10.hxg3 Bb7 11.Qe2 c5 12.d5 e6 13.O-O-O exd5 14.exd5 Re8 15.Qd2
+Ne5 16.Nxe5 Bxe5 17.f4 Bg7 18.Ne4 Qd7 19.Rde1 h6 20.Qc2 Ba6 21.Re2 b5 22.b3
+bxc4 23.Bxc4 Bxc4 24.Qxc4 Rad8 25.Rxh6 { [diagram] (Stockfish 9:-6.19/47) }
+25...Qf5 ( 25...Rxe4 { (Stockfish 9:-6.15/53) } ) ( 25...Rxe4 { -6.67/53 }
+26.Qxe4 Bxh6 27.Kd1 Rf8 28.Ke1 Bg7 29.Qd3 Qg4 30.Re4 Qh5 31.g4 Qh4+ 32.Kd2
+Qh1 33.g3 Qa1 34.Qc2 Rb8 35.Re3 Rb5 36.Re8+ Kh7 37.Re1 Qd4+ 38.Ke2 Qxd5
+39.Qd2 Qg2+ 40.Kd1 Qxg3 41.Qe3 Qxg4+ 42.Qe2 Qxe2+ 43.Kxe2 Rb4 44.Kf3 Bh6
+45.Re7 Rxf4+ 46.Kg2 g5 47.Rxa7 Kg6 48.a4 Rd4 49.a5 Rd2+ 50.Kf1 g4 51.Ra8 Ra2
+52.a6 Bg7 53.a7 f5 54.b4 cxb4 55.Rd8 Rxa7 56.Rxd6+ Kg5 57.Kg2 g3 ) 26.Rh1 Re7
+27.Rhe1 Rde8 $19 28.Nxd6 { [diagram] } 28...Qd7 29.Nxe8 1-0
+

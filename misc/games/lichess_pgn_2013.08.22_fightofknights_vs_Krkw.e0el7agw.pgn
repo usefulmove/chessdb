@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/e0el7agw"]
+[Date "2013.08.22"]
+[Round "-"]
+[White "fightofknights"]
+[Black "Krkw"]
+[Result "0-1"]
+[UTCDate "2013.08.22"]
+[UTCTime "09:09:53"]
+[WhiteElo "1412"]
+[BlackElo "1319"]
+[WhiteRatingDiff "-36"]
+[BlackRatingDiff "+25"]
+[Variant "Standard"]
+[TimeControl "360+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 Nf6 5. Ne2 Bc5 6. Qb3 Bxf2+ 7. Kxf2 Nxe4+ 8. Ke1 Qh4+ 9. Kd1 Nf2+ 10. Ke1 Nxh1+ 11. Kf1 Qf2# 0-1
+
+

@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/MoA98wPp"]
+[Date "2020.01.09"]
+[Round "-"]
+[White "soiled-dove"]
+[Black "Rahovart"]
+[Result "1-0"]
+[UTCDate "2020.01.09"]
+[UTCTime "20:22:35"]
+[WhiteElo "1580"]
+[BlackElo "1052"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "600+10"]
+[ECO "A48"]
+[Opening "London System"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. e3 O-O 5. Nbd2 d6 6. Bd3 Bf5 7. e4 Be6 8. c3 c5 9. Qe2 Qb6 10. Nb3 Bxb3 11. axb3 Qxb3 12. dxc5 e5 13. Bg3 Qe6 14. cxd6 Nbd7 15. O-O Rfe8 16. Rfd1 Nh5 17. Bb5 Nf4 18. Bxf4 exf4 19. Bxd7 Qxd7 20. e5 Re6 21. Rd5 h5 22. g3 h4 23. gxf4 h3 24. Ng5 Qc6 25. c4 Rae8 26. Nxe6 Rxe6 27. Qe3 Qd7 28. Qxh3 f5 29. Qa3 a6 30. b4 Bh6 31. Qc1 Kg7 32. c5 Qc6 33. Rd4 Kf7 34. d7 Qxd7 35. Rxd7+ Ke8 36. Rxb7 1-0
+
+

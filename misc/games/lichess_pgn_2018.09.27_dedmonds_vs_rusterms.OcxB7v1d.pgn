@@ -1,0 +1,20 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/OcxB7v1d"]
+[Date "2018.09.27"]
+[Round "-"]
+[White "dedmonds"]
+[Black "rusterms"]
+[Result "1-0"]
+[UTCDate "2018.09.27"]
+[UTCTime "03:33:55"]
+[WhiteElo "1664"]
+[BlackElo "1236"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 Be7 3. Nf3 Nf6 4. e3 Nd5 5. c3 O-O 6. Bg3 b6 7. Nbd2 Bb7 8. Bd3 d6 9. e4 Nf6 10. e5 dxe5 11. Nxe5 Bd6 12. Bh4 Bxg2 13. Rg1 Bh3 14. Bxh7+ Kxh7 15. Bxf6 Qxf6 16. Qe2 Bf5 17. O-O-O Kg8 18. Rg3 Bh7 19. Rdg1 g6 20. Ndf3 Qg7 21. Ng5 f6 22. Nxh7 Kxh7 23. Rxg6 Qe7 24. Qh5# 1-0
+
+

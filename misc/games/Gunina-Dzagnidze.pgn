@@ -1,0 +1,23 @@
+﻿[Event "FWCT 2019"]
+[White "Gunina, Valentina"]
+[Black "Dzagnidze, Nana"]
+[Site "Kazan"]
+[Round "11.1"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2019.06.13"]
+[WhiteElo "2506"]
+[BlackElo "2510"]
+[PlyCount "211"]
+
+1. Nf3 {} Nf6 2. c4 e6 3. e3 b6 4. b3 Bb7 5. Bb2 d5 6. Be2 dxc4 7. bxc4 c5 8. 0-0 Be7 9. Nc3 0-0 10. Qc2 {A13:
+English Opening: 1...e6} Nc6 11. Rad1 Rc8 12. d4 $146 {The position is equal.} ({Predecessor:} 12. Qb1 h6 13. Nb5 a6 14. Nc3 {0-1 (39) Harikrishna,P (2763)
+-Kramnik,V (2801) Stavanger 2016} )cxd4 13. exd4 Na5 14. d5 (14. Ne5 $15 )exd5 $17 15. Ng5 g6 (15... d4 $17 16. Nce4 Nxe4 17. Nxe4 Bc5 18. Nxc5 bxc5 )16. cxd5 $1 $15 Bb4 {} (16... Nxd5 17. Nge4 $17 )17. Qd3 Bxc3 $1 18. Bxc3 Nxd5 19. Bd2 {[#]} Nc3 $1 {} 20. Rde1 $2 {} (20. Bxc3 $15 Qxg5 21. g3 )Nxe2+ $19 21. Qxe2 Re8 $2 (21... Rc2 $19 22. Nxf7 Rxf7 23. Qe8+ Qxe8 24. Rxe8+ Kg7 )22. Qb5 (22. Qxe8+ $142 Qxe8 23. Rxe8+ Rxe8 24. f3 )Bc6 23. Qb4 {[#]} Qd5 $1 24. f3 $15 Qc4 25. Qa3 h6 26. Nh3 Qd4+ 27. Be3 Nc4 28. Bxd4 Nxa3 29. Rxe8+ Rxe8 30. Rc1 Bd5 31. Bb2 Nc4 32. Bf6 g5 $1 33. Nf2 Re2 34. Ng4 h5 ({Reject} 34... Rxa2 35. Rd1 $11 )35. Nf2 Rxa2 36. Bxg5 b5 37. Rd1 Be6 ({Black should play} 37... Bc6 $17 38. Rd8+ Kg7 )38. Rd8+ $11 Kg7 {White must now prevent ...f6.} 39. Ne4 $1 f5 40. Nc5 Bf7 41. Rb8 Rb2 42. h4 a5 43. Rb7 Re2 44. Nd3 Re8 45. Rxb5 a4 46. Rxf5 a3 (46... Bg6 $5 47. Rd5 $8 Bxd3 48. Rxd3 a3 49. Rd7+ Kg6 $11 )47. Bf6+ Kg6 48. Rf4 a2 $132 {
+Black is not keeping still} 49. Ba1 Re3 50. Rf6+ Kg7 51. Kf2 {Strongly
+threatening Re6+.} Kf8 52. Nc5 Ra3 53. Rc6 Ra5 54. Ne4 Bd5 55. Rc8+ Ke7 56. Nf6 Be6 57. Rc7+ Kd8 58. Rh7 Nd2 59. Nxh5 Nb3 60. Bf6+ Kc8 61. Ng7 Bd7 62. Rh8+ Kb7 63. Rd8 Kc7 {aiming for ...Ra6.} 64. Ne8+ Kc6 65. Rb8 Bxe8 66. Rxe8 { Endgame KRB-KRN} Kd7 (66... a1=R $11 67. Bxa1 Rxa1 )67. Re3 $1 $18 {
+} a1=Q (67... a1=B {was worth a try.} )68. Bxa1 Nxa1 {KRN-KR} 69. g4 $1 Nc2 70. Re4 $1 { White has strong compensation.} Ra6 71. h5 Re6 72. Rc4 Ne3 73. Rd4+ (73. Rc5 $18 )Ke7 $16 74. Kg3 Kf6 75. Rd7 (75. f4 $142 $1 )Re7 76. Rd6+ ({Weaker is} 76. Rxe7 Kxe7 77. Kf4 Nc4 $18 )Re6 77. Rd4 Kg5 78. f4+ Kh6 79. Kf3 ({Better is} 79. Rd8 $16 )Nc2 $11 80. Rd2 (80. Rc4 $5 {} Ne1+ 81. Kg3 $16 )Ne1+ (80... Re3+ $11 {remains equal.} 81. Kf2 Rh3 )81. Kf2 $16 Re4 82. Rd6+ Kh7 83. Rf6 Nc2 {[#]
+} (83... Nd3+ $16 84. Kf3 Rb4 )84. g5 $1 $18 {} Nd4 $2 {[#]} (84... Re7 85. Rh6+ Kg8 )85. Rf7+ $2 (85. g6+ $1 $18 Kg8 86. h6 Re2+ 87. Kg3 )Kg8 $11 86. g6 {Threatens to win with h6.} Re6 87. Kg3 {And now Rd7 would win.} Rd6 $2 {} (87... Re1 $11 )88. Kg4 $2 (88. f5 Nxf5+ 89. Rxf5 )Ne6 $18 89. Ra7 $2 (89. Kf5 $18 Nf8 90. Ra7 )Rd4 $11 90. Rf7 $2 {} (90. Ra8+ $1 $11 Kg7 91. Ra7+ Kg8 92. Rf7 )Rd6 $1 $18 91. Re7 {
+Hoping for Re8+.} Kf8 $2 (91... Rc6 92. h6 Nf8 93. Rg7+ Kh8 )92. Ra7 Ng7 93. f5 Rd4+ 94. Kg5 Rd5 95. Rf7+ Kg8 96. h6 Ne6+ 97. Kf6 Nf8 98. h7+ Nxh7+ 99. Rxh7 {
+KR-KR} Rd6+ 100. Kg5 Rd1 101. Ra7 Rd8 102. Kh6 Rf8 {[#]} 103. f6 $1 {
+Deflection} Rxf6 104. Ra8+ Rf8 105. Rxf8+ { Overworked Piece} Kxf8 106. Kh7 {Accuracy: White = 54%, Black = 50%.} 1-0
+

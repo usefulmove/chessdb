@@ -1,0 +1,36 @@
+[Event " British Championship"]
+[Site "Great Yarmouth, England"]
+[Date "2007.08.04"]
+[Round "6"]
+[White "Jacob Aagaard"]
+[Black "Jonathan Rowson"]
+[Result "1/2-1/2"]
+[ECO "C98"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6 13.d5 Nd8 { [diagram] } 14.a4 Rb8
+15.axb5 axb5 16.b4 Ne8 17.Nf1 Bd7 { [diagram] } 18.g4 $5 g6 19.Ng3 f6 ( 
+19...Ng7 20.Be3 f5 $2 21.exf5 gxf5 22.bxc5 dxc5 ( 22...fxg4 23.Qd3 $1
+{ [diagram] (Stockfish 9:+7.36/27) } ( 23.Nxe5 $5 { (Stockfish 9:+4.33/27) }
+) ) 23.Nxe5 $3 Qxe5 24.Bd4 Qxd5 ( 24...Qd6 25.Be5
+{ [%cal Ge5b8] [diagram] (Stockfish 9:+4.41/22) } ) 25.Bxg7
+{ [%cal Gd1d5] [diagram] (Stockfish 9:+4.57/25) } ) 20.Be3 Nf7 21.Qd2 Ng7
+{ [diagram] } 22.Ra2 Ra8 23.Rea1 Qb7 { [diagram] } ( 23...Rxa2 24.Rxa2 Rc8 )
+24.Bb3 $5 Rxa2 $6 ( 24...c4 $1 25.Ra7 Rfb8 $3 { [diagram] } ) 25.Rxa2 Rc8 $2
+26.bxc5 dxc5 27.d6 Bd8 { [diagram] a critical position } ( 27...Bf8 28.Bxf7+
+Kxf7 29.g5 Ne8 30.gxf6 Bxd6 31.Ra6 $3 Qxa6 32.Qd5+ Kxf6 33.Ng5
+{ [%cal Gd5f7] } 33...Ke7 34.Qf7+ Kd8 35.Ne6+ { [%cal Ge3g5] } 35...Bxe6
+36.Bg5+ Nf6 37.Bxf6+ Be7 38.Qxe7# ) 28.Bd5 $2 ( 28.Bxf7+ $1 Kxf7 29.Qd5+ Qxd5
+30.exd5 { [diagram] (Stockfish 9:+5.12/34) } 30...b4 31.Ra7 Ke8 32.c4
+{ [diagram] "The knight is coming ot e4, making c5 impossible to defend.
+Also, g4-g5 will be forever in the air. The passed b-pawn is entirely
+harmless and can always be blocked by Nf3-d2-bb1, if need be. On top of everything else, Bh6 is in the air , trapping the sad knight on g7." }
+) 28...Bc6 $5 29.Bxf7+ Qxf7 30.Bxc5 Ra8 31.Rxa8 Bxa8 32.Qd3 Bc6 33.Ne1 Qb3
+34.Nc2 Ne6 35.Be3 Ba5 36.d7 $1 { [diagram] } 36...Nd8 $1 ( 36...Qxc3 $2
+37.Qd6 Kf7 38.Nf5 gxf5 39.exf5 Nd8 40.Bc5
+{ [diagram] threatening 41.Qf8# (Stockfish 9:+8.80/30) } ) 37.Bh6 Qe6 38.c4
+{ [diagram] } 38...Nf7 $1 ( 38...bxc4 $4 39.Qa3
+{ [%csl Gf8][%cal Ga3a5,Ga3f8](Stockfish 9:+4.89/32) } ) 39.cxb5 Qxd7 40.Qa3
+Nxh6 41.Qa2+ Nf7 42.bxc6 Qxc6 43.Ne3 Bb6 44.Nd5 Kg7 45.Kg2 Qc5 46.Qb2 Ba7
+47.h4 Qd4 48.Qa2 Qc5 49.Qb2 Qd4 1/2-1/2
+

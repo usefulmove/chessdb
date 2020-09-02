@@ -1,0 +1,22 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/T4iyLtMQ"]
+[Date "2019.03.30"]
+[Round "-"]
+[White "v_clava38"]
+[Black "kazined"]
+[Result "1-0"]
+[UTCDate "2019.03.30"]
+[UTCTime "16:52:45"]
+[WhiteElo "1799"]
+[BlackElo "1831"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-12"]
+[Variant "Standard"]
+[TimeControl "900+15"]
+[ECO "C62"]
+[Opening "Ruy Lopez: Steinitz Defense"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nxc6 Bxc6 7. Bxc6+ bxc6 8. O-O Be7 9. Qf3 Qd7 10. Rd1 Bf6 11. Nc3 Ne7 12. Bf4 O-O 13. e5 Bh4 14. g3 Qh3 15. exd6 cxd6 16. Rxd6 Ng6 17. Rxc6 Bf6 18. Rc4 Rfe8 19. Rb1 Rad8 20. Qg2 Qf5 21. Ne4 Re6 22. Nxf6+ Rxf6 23. Re1 Qb5 24. b3 Qa5 25. Ra1 Re6 26. Re4 Qc3 27. Rc1 Ra6 28. a4 f5 29. Rc4 Qb2 30. Qb7 Nxf4 31. Re1 Nh3+ 32. Kg2 Rh6 33. Re7 Qf6 34. Rcc7 f4 35. Rxg7+ Kh8 36. Rxh7+ Rxh7 37. Rxh7+ Kg8 38. Rxh3 fxg3 39. Qh7+ Kf8 40. Rxg3 Qc6+ 41. Rf3+ Ke8 42. Qf7# 1-0
+
+

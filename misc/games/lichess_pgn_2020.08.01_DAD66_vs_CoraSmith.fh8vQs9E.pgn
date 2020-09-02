@@ -1,0 +1,19 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/fh8vQs9E"]
+[Date "2020.08.01"]
+[White "DAD66"]
+[Black "CoraSmith"]
+[Result "0-1"]
+[UTCDate "2020.08.01"]
+[UTCTime "17:12:24"]
+[WhiteElo "1171"]
+[BlackElo "1328"]
+[Variant "Standard"]
+[TimeControl "360+0"]
+[ECO "A45"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Normal"]
+
+1. Nc3 d5 2. d4 Nf6 3. f4 e6 4. Be3 Bb4 5. Qd3 Ne4 6. O-O-O Nxc3 7. bxc3 Ba3+ 8. Kb1 Qe7 9. Nf3 O-O 10. g3 c5 11. Bh3 c4 12. Qd2 Qc7 13. Ka1 Nc6 14. Rb1 Bd7 15. Ne5 Rab8 16. Nxc6 bxc6 17. f5 Rxb1+ 18. Rxb1 Rb8 19. Re1 Qb6 20. Bf4 Qb2# 0-1
+
+

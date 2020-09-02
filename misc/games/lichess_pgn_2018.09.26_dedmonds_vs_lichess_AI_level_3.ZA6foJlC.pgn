@@ -1,0 +1,20 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/ZA6foJlC"]
+[Date "2018.09.26"]
+[Round "-"]
+[White "dedmonds"]
+[Black "lichess AI level 3"]
+[Result "1-0"]
+[UTCDate "2018.09.26"]
+[UTCTime "08:38:06"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 g5 3. Be5 f6 4. Bg3 f5 5. h3 Nf6 6. e3 Nc6 7. Nd2 d6 8. Ngf3 Rg8 9. Bb5 a6 10. Bd3 Bd7 11. c3 Ne7 12. e4 f4 13. Bh2 g4 14. hxg4 d5 15. e5 Nxg4 16. Bxf4 Bb5 17. Bxh7 Rh8 18. Qc2 Qc8 19. O-O-O Bg7 20. Bg6+ Kd7 21. Rxh8 Bxh8 22. Rh1 Qf8 23. Bg3 Bg7 24. Rh7 Bh6 25. Kb1 Bg7 26. Bh5 Nh6 27. Ng5 b6 28. Ndf3 Nef5 29. Qd1 Ng8 30. Qh1 Bd3+ 31. Ka1 Qe7 32. Bh4 Nxh4 33. Qxh4 Bxh7 34. Nxh7 Kc6 35. Nfg5 Nh6 36. Bg4 Nf5 37. Bxf5 exf5 38. f4 Rh8 39. Qf2 b5 40. Qc2 Kb7 41. Qxf5 c6 42. Qc2 Qd7 43. a4 Bh6 44. Nf6 Qe7 45. axb5 axb5 46. Qb3 Kb6 47. Kb1 Bxg5 48. fxg5 Qg7 49. Qb4 Ka7 50. Qc5+ Kb7 51. Qd6 Rh2 52. Ne8 Qf7 53. Nf6 Rxg2 54. Ka2 Rg3 55. Kb3 Rxg5 56. Kb4 Qc7 57. Kc5 Rg3 58. e6 Rg6 59. e7 Qxd6+ 60. Kxd6 Kb6 61. Ke6 Rg2 62. b4 Rb2 63. Nd7+ Ka6 64. Nc5+ Kb6 65. e8=Q Re2+ 66. Kd7 Rxe8 67. Kxe8 Kc7 68. Ke7 Kb6 69. Kd6 Ka7 70. Kxc6 Ka8 71. Kxd5 Ka7 72. Kc6 Ka8 73. Kc7 Ka7 74. d5 Ka8 75. d6 Ka7 76. d7 Ka8 77. d8=Q+ Ka7 78. Qb8# 1-0
+
+

@@ -1,0 +1,20 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/lJSedPSV"]
+[Date "2019.05.09"]
+[Round "-"]
+[White "CoraSmith"]
+[Black "ehovde73"]
+[Result "1-0"]
+[UTCDate "2019.05.09"]
+[UTCTime "22:27:32"]
+[WhiteElo "1267"]
+[BlackElo "1101"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bf4 c6 3. e3 d5 4. Bd3 Bg4 5. Nf3 e6 6. Nbd2 Bd6 7. Bg3 Bxg3 8. hxg3 Bxf3 9. Nxf3 O-O 10. Qe2 h6 11. Ne5 Nbd7 12. O-O-O Qb6 13. f4 Nxe5 14. fxe5 Nd7 15. c3 Qc7 16. Bc2 Nb6 17. Qd3 g6 18. Rxh6 Kg7 19. Rdh1 Rh8 20. Rxg6+ fxg6 21. Qxg6+ Kf8 22. Rxh8+ Ke7 23. Rh7+ Kd8 24. Qg8# 1-0
+
+

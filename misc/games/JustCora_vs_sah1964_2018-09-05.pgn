@@ -1,0 +1,13 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.09.05"]
+[White "JustCora"]
+[Black "sah1964"]
+[WhiteElo "1263"]
+[BlackElo "1111"]
+[TimeControl "2700+45"]
+[Termination "game_result.won_by_resignation"]
+[Result "0-1"]
+[CurrentPosition "3K1k2/8/1P5p/7p/8/8/8/6q1 w - - 1 52"]
+
+1.d4 d5 2.Bf4 Nc6 3.e3 a6 4.h3 h6 5.Nf3 Nf6 6.c4 Ne4 7.Nbd2 Nf6 8.Bd3 Be6 9.Qe2 Nb4 10.g4 Nxd3+ 11.Qxd3 dxc4 12.Nxc4 Qd5 13.Rc1 Qxf3 14.Kd2 Qd5 15.b3 Bd7 16.Bxc7 Bb5 17.Qc2 Bxc4 18.Qxc4 Qxc4 19.Rxc4 Kd7 20.Rhc1 e6 21.Be5 Bd6 22.Bxd6 Kxd6 23.Rc7 Nd7 24.Rxb7 Rhc8 25.Rxc8 Rxc8 26.Ra7 Rc6 27.a4 Rb6 28.Kc3 Kc6 29.b4 e5 30.Kc4 Kd6 31.b5 axb5+ 32.axb5 exd4 33.exd4 Rb8 34.f4 g6 35.h4 f6 36.g5 fxg5 37.Ra6+ Rb6 38.h5 gxh5 39.f5 Ke7 40.Rxb6 Nxb6+ 41.Kc5 Nc8 42.d5 g4 43.d6+ Nxd6 44.f6+ Kd7 45.b6 Nb7+ 46.Kd5 g3 47.f7 Ke7 48.Kc6 Nd8+ 49.Kc7 g2 50.f8=Q+ Kxf8 51.Kxd8 g1=Q  0-1

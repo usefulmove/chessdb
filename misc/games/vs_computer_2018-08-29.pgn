@@ -1,0 +1,11 @@
+[Site "Chess.com"]
+[Date "2018.08.29"]
+[Event "Vs. Computer"]
+[Round "3"]
+[White "JustCora"]
+[Black "Computer Level 2"]
+[Result "1-0"]
+[ECO "A40"]
+[CurrentPosition "rn3NnN/1p1b1B1k/2p1p2p/p2pB2Q/3P4/2P1P3/P4PPP/1R2K2R b K - 3 21"]
+
+1.d4 c6 2.Bf4 d5 3.Nf3 e6 4.e3 h6 5.Nbd2 Be7 6.Bd3 Bd7 7.Ne5 Kf8 8.Ndf3 Qb6 9.Nxf7 Bb4+ 10.c3 Be8 11.Nxh8 Ba5 12.Rb1 a6 13.Ne5 Qd8 14.Bg6 Qc7 15.Qh5 Bd7 16.Bf7 g6 17.Nexg6+ Kg7 18.Bxc7 Bxc3+ 19.bxc3 a5 20.Be5+ Kh7 21.Nf8#  1-0

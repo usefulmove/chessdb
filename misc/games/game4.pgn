@@ -1,0 +1,20 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/J5XZ8lAR"]
+[Date "2019.12.06"]
+[Round "-"]
+[White "gyln"]
+[Black "CoraSmith"]
+[Result "0-1"]
+[UTCDate "2019.12.06"]
+[UTCTime "20:46:43"]
+[WhiteElo "1247"]
+[BlackElo "1416"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c4 d6 4. b3 a5 5. Nc3 Nf6 6. d3 Bg4 7. Be2 e6 8. Ng5 Bxe2 9. Nxe2 h6 10. Nf3 Be7 11. h4 O-O 12. Nc3 Nh7 13. Nb5 f5 14. Ba3 Bf6 15. d4 cxd4 16. Nxd6 Nb4 17. Nxb7 d3 18. Nxd8 Rfxd8 19. Rc1 Nc2+ 20. Kd2 Nxa3 21. Ne1 fxe4 22. f3 Be5 23. fxe4 Bf4+ 24. Kc3 d2 25. Ra1 dxe1=Q+ 26. Qxe1 Be5# 0-1
+
+

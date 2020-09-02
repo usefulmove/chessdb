@@ -1,0 +1,15 @@
+﻿[Event "GCT Zagreb 2019"]
+[White "Giri, Anish"]
+[Black "Carlsen, Magnus"]
+[Site "Zagreb"]
+[Round "1.1"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.06.26"]
+[WhiteElo "2779"]
+[BlackElo "2875"]
+[PlyCount "46"]
+
+1. e4 {} c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. h4 h5 {B30: Sicilian: 2...Nc6 3
+Bb5, lines without ...g6} 7. e5 d6 8. exd6 Ng6 {White is slightly better.} 9. Nfd2 $146 ({Predecessor:} 9. Bg5 f6 10. Qe2 Bxd6 11. Qe4 Ne7 12. Nbd2 fxg5 13. hxg5 e5 {0-1 (33) Lu,S (2514)-Yu,Y (2615) Beijing 2012} )Bxd6 10. Nc4 Be7 11. Nc3 Ba6 12. Qf3 Bxc4 13. Qxc6+ Kf8 {...Rc8 is the strong threat.} 14. dxc4 Nxh4 15. 0-0 Nf5 16. Ne2 (16. Rd1 $5 {} Qe8 17. Qe4 $11 )Rc8 17. Qa4 (17. Qe4 $11 )Rc7 18. Bf4 Rd7 19. c3 {[#]} (19. Ng3 $11 )g5 $1 $36 { Black has strong initiative.} 20. Rad1 $2 (20. Be5 $17 f6 21. Rad1 Rxd1 22. Rxd1 )Rxd1 $19 21. Rxd1 {[#]} Qa8 $1 22. Bc7 h4 23. f3 h3 {Accuracy: White = 39%, Black = 64%.} 0-1
+

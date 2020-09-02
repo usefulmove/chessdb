@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/PMJa0aOD"]
+[Date "2020.01.04"]
+[Round "-"]
+[White "soiled-dove"]
+[Black "jyd1970"]
+[Result "1-0"]
+[UTCDate "2020.01.04"]
+[UTCTime "20:45:36"]
+[WhiteElo "1558"]
+[BlackElo "942"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "720+5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Na6 3. e3 e6 4. Nf3 f6 5. Nbd2 Bd6 6. Bg3 Bd7 7. c3 Bxg3 8. hxg3 c6 9. Bd3 c5 10. Bxh7 Qb6 11. Bg6+ Ke7 12. Rxh8 Qxb2 13. Rb1 Qxa2 14. Rxb7 cxd4 15. cxd4 Kf8 16. Rxd7 Nb4 17. Rf7+ Ke8 18. Rxg8# 1-0
+
+

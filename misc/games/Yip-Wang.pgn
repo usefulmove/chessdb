@@ -1,0 +1,14 @@
+﻿[Event "US-ch Women 2019"]
+[White "Yip, Carissa"]
+[Black "Wang, Annie"]
+[Site "Saint Louis"]
+[Round "10.3"]
+[Annotator ""]
+[Result "0-1"]
+[Date "2019.03.30"]
+[WhiteElo "2279"]
+[BlackElo "2304"]
+[PlyCount "56"]
+
+1. e4 {[%emt 0:0:0]} c5 {[%emt 0:0:0]} 2. Nf3 {[%emt 0:0:0]} d6 {[%emt 0:0:0]} 3. d4 {[%emt 0:0:0]} cxd4 {[%emt 0:0:0]} 4. Nxd4 {[%emt 0:0:0]} Nf6 {[%emt 0:0:0]} 5. Nc3 {[%emt 0:0:0]} Nc6 {[%emt 0:0:0]} 6. Bg5 {[%emt 0:0:21]} e6 {[%emt 0:0:9]} 7. Qd2 {[%emt 0:0:23]} a6 {[%emt 0:0:9]} 8. 0-0-0 {[%emt 0:1:22]} Bd7 {[%emt 0:0:8]} 9. f4 {[%emt 0:0:10]} Be7 {[%emt 0:0:9]} 10. Nf3 {[%emt 0:2:11]} b5 {[%emt 0:0:8]} 11. Bxf6 {[%emt 0:4:24]} gxf6 {[%emt 0:0:9]} 12. Bd3 {[%emt 0:2:19]} Qb6 {[%emt 0:2:29] LiveBook: 21 Games} 13. Kb1 {[%emt 0:4:37]} 0-0-0 {[%emt 0:1:38] B69: Sicilian: Richter-Rauzer: 7...a6 8 0-0-0 Bd7 9 f4 Be7 10 Nf3 b5 11 Bxf6} 14. Rhe1 {[%emt 0:0:51]} Kb8 {[%emt 0:1:40]} (14... Rhe8 15. f5 Rg8 16. Bf1 Ne5 17. Nd4 Kb8 18. Qh6 Bc8 19. g3 Rde8 20. Bh3 Bd8 21. Nce2 {1-0 (32) Shirov,A (2643)-Jumabayev,R (2602) St Petersburg 2018} )15. Bf1 {[%emt 0:4:19]} Na5 $0 $146 {[%emt 0:5:1]} ({Predecessor:} 15... Rc8 16. Ne2 Na5 17. Ned4 Nc4 18. Bxc4 bxc4 19. Qe3 Rc5 20. e5 fxe5 21. fxe5 {½-½ (41) Chigaev,M (2520)-Lobanov,S (2271) St Petersburg 2014} )16. e5 {[%emt 0:11:36]} dxe5 {[%emt 0:13:41]} 17. fxe5 {[%emt 0:0:14]} f5 {[%emt 0:1:49]} 18. Qf4 {[%emt 0:13:38]} Bc6 {[%emt 0:7:26]} 19. g4 $2 {[%emt 0:14:35]} ({ White should play} 19. Ng5 $0 $15 )Qf2 {[%emt 0:14:3]} 20. Be2 {[%emt 0:4:23]} b4 {[%emt 0:0:18]} 21. Rxd8+ {[%emt 0:0:43]} Rxd8 {[%emt 0:0:9]} 22. Rf1 {[%emt 0:4:25]} Qc5 {[%emt 0:1:16]} 23. Nd1 {[%emt 0:0:9]} Be4 {[%emt 0:4:27]} 24. Ne3 {[%emt 0:2:56]} (24. Ne1 { was forced.} Rd4 25. Qc1 )b3 {[%emt 0:2:36]} 25. gxf5 $0 $19 {[%emt 0:13:49]} Qb4 {[%emt 0:16:2]} 26. Ne1 {[%emt 0:7:41]} Qa4 {[%emt 0:2:52]} 27. Bd3 {[%emt 0:3:22]} Qxa2+ {[%emt 0:2:7]} 28. Kc1 {[%emt 0:0:1]} bxc2 {[%emt 0:2:23]} 0-1
+

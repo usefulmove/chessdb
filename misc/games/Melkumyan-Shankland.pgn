@@ -1,0 +1,16 @@
+﻿[Event "43rd Olympiad Batumi 2018 Open"]
+[White "Melkumyan, Hrant"]
+[Black "Shankland, Samuel"]
+[Site "Batumi"]
+[Round "10.3"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2018.10.04"]
+[WhiteElo "2660"]
+[BlackElo "2722"]
+[PlyCount "74"]
+
+1. d4 {Krasenkow,M} d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. Bg5 dxc4 6. e4 {} b5 7. e5 h6 8. Bh4 g5 9. Nxg5 hxg5 10. Bxg5 Be7 11. exf6 Bxf6 12. Bxf6 Qxf6 13. g3 Bb7 14. Bg2 Na6 15. Ne4 Qe7 16. 0-0 {D44: Semi-Slav: Botvinnik System} 0-0-0 17. h4 c5 18. a4 Rxd4 19. Qe2 b4 $1 {LiveBook: 9 Games} 20. Rac1 Bd5 21. Rfd1 Rxd1+ 22. Rxd1 Rd8 $1 23. Rc1 {[#]} Nb8 $146 ({Predecessor:} 23... Qb7 24. Rxc4 {1/2-1/2 (49) Kramnik,V 
+(2793)-Aronian,L (2801) Antalya 2013 CBM 158 [Krasenkow,M]} )24. Qe3 Nc6 $1 $36 { Black has good play.} 25. Nxc5 Qf6 26. b3 (26. Bf1 $11 Nd4 27. Bg2 (27. Bxc4 Nf3+ 28. Kg2 Nxh4+ 29. Kg1 Nf3+ 30. Kg2 Nh4+ 31. Kg1 Nf3+ 32. Kg2 Nh4+ $11 ))c3 $17 27. Qe2 {[#] Black must now prevent Qa6+.} Qd4 $1 {
+} 28. Qb5 {} Kc7 29. Na6+ Kd6 30. Bxd5 exd5 31. a5 $2 {[#]} (31. h5 $17 )Re8 $1 $19 32. Qb7 Re7 33. Qc8 $2 (33. Qb5 c2 34. Kg2 )Qd2 {Black is clearly winning.} 34. Nb8 Qxc1+ 35. Kg2 Nxb8 36. Qxb8+ Kc5 37. Qc8+ Kd4 {Precision: White = 24%, Black = 100%.} 0-1
+

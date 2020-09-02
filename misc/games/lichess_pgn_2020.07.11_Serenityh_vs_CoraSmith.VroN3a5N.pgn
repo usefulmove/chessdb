@@ -1,0 +1,19 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/VroN3a5N"]
+[Date "2020.07.11"]
+[White "Serenityh"]
+[Black "CoraSmith"]
+[Result "0-1"]
+[UTCDate "2020.07.11"]
+[UTCTime "01:00:55"]
+[WhiteElo "1300"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "840+14"]
+[ECO "A00"]
+[Opening "Gedult's Opening"]
+[Termination "Normal"]
+
+1. f3 d5 2. f4 e6 3. f5 exf5 4. e4 Qh4+ 5. Ke2 Qxe4+ 6. Kf2 Bc5+ 7. Kg3 f4+ 8. Kh4 Be7+ 9. Kh5 Qg6# 0-1
+
+

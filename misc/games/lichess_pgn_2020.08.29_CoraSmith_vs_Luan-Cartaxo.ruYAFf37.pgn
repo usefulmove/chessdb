@@ -1,0 +1,19 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/ruYAFf37"]
+[Date "2020.08.29"]
+[White "CoraSmith"]
+[Black "Luan-Cartaxo"]
+[Result "1-0"]
+[UTCDate "2020.08.29"]
+[UTCTime "03:15:40"]
+[WhiteElo "1605"]
+[BlackElo "1323"]
+[Variant "Standard"]
+[TimeControl "10800+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 f5 3. e3 Nd7 4. Nf3 e6 5. Ne5 Bb4+ 6. c3 Bd6 7. Qh5+ g6 8. Nxg6 hxg6 9. Qxh8 Nf6 10. Bg5 Be7 11. Bxf6 Kd7 12. Bxe7 Kxe7 13. Qg7+ Kd6 14. Qxg6 Bd7 15. Nd2 Qe8 16. Qg3+ Kc6 17. Nf3 Qh5 18. Ne5+ Kb6 19. Nxd7+ Ka5 20. Qxc7+ b6 21. Qb7 Rd8 22. Qa6# 1-0
+
+

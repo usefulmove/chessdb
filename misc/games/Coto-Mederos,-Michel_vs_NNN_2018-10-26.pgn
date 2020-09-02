@@ -1,0 +1,33 @@
+[Event "Province Championship"]
+[Site "Artemisa"]
+[Date "2018.10.26"]
+[Round "7.3"]
+[White "Coto Mederos, Michel"]
+[Black "NNN"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2345"]
+[BlackElo "2233"]
+[PlyCount "87"]
+[EventDate "2018.10.23"]
+[CurrentPosition "8/p3r1k1/1p1R2p1/2p4p/2P1PK1P/1P4P1/P7/8 b - - 4 44"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 { My opponent is very good playing Indian Systems,
+he knows very well those positions. We have played many games before, that's
+why I decided to play something different, to get him out of his comfort zone.
+So I decided to play a London System scheme. } 3...c5 4.e3 b6 5.Bd3 Bb7 6.Nbd2 Nc6 7.O-O Be7 8.h3 { This is very typical in this system, the idea is to
+clear h2 for my bishop, so I won't have to trade it for the knight after Nh5. } 8...O-O 9.c3 d5 10.Qe2 Bd6 { And actually, White got nothing in the opening. This
+is an even position. But this was more less part of the plan, the idea is that
+I feel well playing this kind of quiet positions, as my opponent prefers more
+complicated situations. } 11.Bxd6 Qxd6 12.Ba6!? { If we look at the central
+fixed pawns, we can see that my bishop is good, as his bishop should be bad.
+Then this exchange doesn't make any sense... However, this idea is more less
+typical and very interesting when the opponent has made the fianchetto in the
+queenside, because now there will be some weak clear squares in that wing of
+the board. } 12...Rab8 13.Bxb7 Rxb7 14.Rfd1 e5? { And this is the most important
+moment of the game. The queen is in the same file than my rook at d1, but
+there are many pieces in the middle. However, White has a simple, but very
+strong tactic sequence. } 15.Nc4!! dxc4 16.dxe5 Qe6 17.Rd6! ( { Better than } 17.exf6 gxf6 $16 ) 17...Qe7 18.Rxc6 Nd7 19.Qxc4 Nxe5 20.Nxe5 Qxe5 21.Rd1 { Now White has a pawn and the open file, the rest is also instructive. } 21...Re7 22.Rcd6 g6 23.R1d5 Qg7 24.Qf4 f5 25.Rd8 Qf6 26.Qb8 Rxd8 27.Rxd8+ Kg7 28.Qd6 Qxd6 29.Rxd6 Rc7 30.c4 Kf7 31.g3 Ke7 32.Rd5 h5?! { Now there is another
+weakness at g6. } 33.Kg2 Ke6 34.h4 Kf6 35.Rd6+ Kg7 36.Kf3 Re7 37.b3 Kh6 38.Ke2 Kg7 39.Kd3 Kf7 { And this is the moment to create a passed pawn. Black
+pieces are tied, king has to protect g6 and the rook can't go out of 7th rank. } 40.f3 Kg7 41.e4 fxe4+ 42.fxe4 Kf7 43.Ke3 Kg7 44.Kf4 { Black resigned.
+Nothing stops e5, Ke4-d5... }  1-0

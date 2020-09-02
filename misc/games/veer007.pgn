@@ -1,0 +1,22 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/wRlzXe9G"]
+[Date "2018.10.12"]
+[Round "-"]
+[White "dedmonds"]
+[Black "veer007"]
+[Result "1-0"]
+[UTCDate "2018.10.12"]
+[UTCTime "06:31:58"]
+[WhiteElo "1447"]
+[BlackElo "1495"]
+[WhiteRatingDiff "+102"]
+[BlackRatingDiff "-11"]
+[Variant "Standard"]
+[TimeControl "900+15"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:15:00] } Nf6 { [%clk 0:15:00] } 2. Bf4 { [%clk 0:15:11] } d5 { [%clk 0:15:09] } 3. Nf3 { [%clk 0:15:22] } Nc6 { [%clk 0:15:23] } 4. e3 { [%clk 0:15:34] } Bg4 { [%clk 0:15:23] } 5. h3 { [%clk 0:15:44] } Bxf3 { [%clk 0:15:36] } 6. Qxf3 { [%clk 0:15:57] } e6 { [%clk 0:15:36] } 7. Bd3 { [%clk 0:16:05] } Bb4+ { [%clk 0:15:44] } 8. c3 { [%clk 0:16:17] } Bd6 { [%clk 0:15:54] } 9. Qe2 { [%clk 0:15:57] } e5 { [%clk 0:15:47] } 10. Bg5 { [%clk 0:15:41] } e4 { [%clk 0:15:52] } 11. Bb5 { [%clk 0:15:46] } O-O { [%clk 0:16:02] } 12. Nd2 { [%clk 0:15:17] } Qe8 { [%clk 0:16:14] } 13. Bxf6 { [%clk 0:15:26] } gxf6 { [%clk 0:16:17] } 14. O-O-O { [%clk 0:15:23] } Qe6 { [%clk 0:16:27] } 15. Qg4+ { [%clk 0:14:42] } Qxg4 { [%clk 0:16:33] } 16. hxg4 { [%clk 0:14:55] } Ne7 { [%clk 0:16:15] } 17. Rh3 { [%clk 0:14:52] } c6 { [%clk 0:16:25] } 18. Be2 { [%clk 0:15:02] } f5 { [%clk 0:16:14] } 19. gxf5 { [%clk 0:14:42] } Nxf5 { [%clk 0:16:24] } 20. Bg4 { [%clk 0:14:48] } Nh6 { [%clk 0:15:59] } 21. Rxh6 { [%clk 0:14:58] } Be7 { [%clk 0:15:47] } 22. Rdh1 { [%clk 0:15:05] } Kg7 { [%clk 0:14:21] } 23. Rxh7+ { [%clk 0:15:17] } Kf6 { [%clk 0:14:29] } 24. R1h5 { [%clk 0:14:02] } Rg8 { [%clk 0:12:35] } 25. f3 { [%clk 0:14:06] } exf3 { [%clk 0:12:41] } 26. gxf3 { [%clk 0:14:19] } Rg7 { [%clk 0:11:37] } 27. Nf1 { [%clk 0:14:15] } Rxh7 { [%clk 0:11:20] } 28. Rxh7 { [%clk 0:14:16] } Rg8 { [%clk 0:11:08] } 29. Ng3 { [%clk 0:14:27] } Rg7 { [%clk 0:11:03] } 30. Rxg7 { [%clk 0:14:31] } Kxg7 { [%clk 0:11:08] } 31. Nf5+ { [%clk 0:14:46] } Kf6 { [%clk 0:11:19] } 32. Nxe7 { [%clk 0:15:01] } Kxe7 { [%clk 0:11:32] } 33. Kd2 { [%clk 0:15:15] } Kd6 { [%clk 0:11:35] } 34. e4 { [%clk 0:15:14] } dxe4 { [%clk 0:11:44] } 35. fxe4 { [%clk 0:15:25] } f6 { [%clk 0:11:51] } 36. Bf5 { [%clk 0:15:37] } c5 { [%clk 0:11:47] } 37. Kd3 { [%clk 0:15:44] } b5 { [%clk 0:11:53] } 38. b3 { [%clk 0:15:52] } a5 { [%clk 0:11:46] } 39. d5 { [%clk 0:15:48] } c4+ { [%clk 0:11:36] } 40. bxc4 { [%clk 0:15:54] } b4 { [%clk 0:11:31] } 41. cxb4 { [%clk 0:16:01] } axb4 { [%clk 0:11:40] } 42. Kd4 { [%clk 0:16:09] } Ke7 { [%clk 0:11:46] } 43. c5 { [%clk 0:16:21] } Kd8 { [%clk 0:11:15] } 44. d6 { [%clk 0:16:29] } Ke8 { [%clk 0:11:20] } 45. c6 { [%clk 0:16:41] } Kd8 { [%clk 0:11:30] } 46. Kc5 { [%clk 0:16:44] } Ke8 { [%clk 0:11:25] } 47. c7 { [%clk 0:16:51] } Kf7 { [%clk 0:11:37] } 48. c8=Q { [%clk 0:16:55] } 1-0
+
+

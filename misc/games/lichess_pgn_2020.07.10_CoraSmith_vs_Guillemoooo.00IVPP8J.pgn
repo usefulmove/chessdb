@@ -1,0 +1,19 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/00IVPP8J"]
+[Date "2020.07.10"]
+[White "CoraSmith"]
+[Black "Guillemoooo"]
+[Result "1-0"]
+[UTCDate "2020.07.10"]
+[UTCTime "22:20:15"]
+[WhiteElo "1605"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "3600+90"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 Nf6 4. c3 Bf5 5. Bd3 g6 6. Bxf5 gxf5 7. Nf3 h5 8. Nbd2 e6 9. Qe2 Bb4 10. cxb4 Nxb4 11. Qb5+ Nc6 12. Ne5 Qd6 13. Nxf7 Qf8 14. Nxh8 Qxh8 15. Qxb7 Kd7 16. Qxc7+ Ke8 17. Qxc6+ Ke7 18. Qb7+ Kf8 19. Qxa8+ Ne8 20. Bd6+ Kf7 21. Qxa7+ Kf6 22. Be5+ Kg6 23. Bxh8 Nd6 24. Qg7# 1-0
+
+

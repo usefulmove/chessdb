@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/9pHwxoZr"]
+[Date "2020.05.17"]
+[Round "-"]
+[White "CoraSmith"]
+[Black "julius12345"]
+[Result "1-0"]
+[UTCDate "2020.05.17"]
+[UTCTime "18:16:21"]
+[WhiteElo "1497"]
+[BlackElo "981"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. Bd3 Nc6 5. c3 Qf6 6. Nf3 O-O-O 7. Bb5 a6 8. Bxc6 bxc6 9. Qa4 Kb7 10. Ne5 Ne7 11. O-O g5 12. Bg3 Bg7 13. Nd2 Bd3 14. Rfc1 Nf5 15. Nxd3 Nxg3 16. Nc5+ Kb6 17. Qxa6# 1-0
+
+

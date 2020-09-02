@@ -1,0 +1,15 @@
+[Event "White to Move. Draw"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+[FEN "8/1p6/1P1p4/1K1p2B1/P2P4/1P4pp/8/5k2 w - - 0 1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO ""]
+[SetUp "1"]
+[CurrentPosition "8/1p6/1P1p4/1K1p2B1/P2P4/1P4pp/8/5k2 w - - 0 1"]
+
+{ White's lonely bishop is not able to restrain Black's pawns from breaking into queens, therefore... } 1.Bd2 g2 ( { or } 1...h2 { that doesn't change anything. } ) 2.Ba5! { Why did the White's bishop go to the edge of the chessboard? The answer will be given by the next move! } 2...g1=Q 3.b4 { and no matter how Black try, they cannot give White the opportunity to make the next move. Stalemate! }  1/2-1/2

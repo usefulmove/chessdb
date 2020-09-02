@@ -1,0 +1,15 @@
+[Event "Botvinnik - Bronstein World Championship Match"]
+[Site "Moscow URS"]
+[Date "1951.05.06"]
+[Round "22"]
+[White "David Bronstein"]
+[Black "Mikhail Botvinnik"]
+[Result "1-0"]
+[EventDate "?"]
+[ECO "A91"]
+[WhiteElo ""]
+[BlackElo ""]
+[PlyCount "75"]
+[CurrentPosition "1r2bq1k/R3r2p/2pb4/1p2N3/1P1Pp1pB/1Q2P3/7P/R5K1 b - - 1 34"]
+
+1.d4 e6 2.c4 f5 3.g3 Nf6 4.Bg2 Be7 5.Nc3 O-O 6.e3 d5 7.Nge2 c6 8.b3 Ne4 9.O-O Nd7 10.Bb2 Ndf6 11.Qd3 g5 12.cxd5 exd5 13.f3 Nxc3 14.Bxc3 g4 15.fxg4 Nxg4 16.Bh3 Nh6 17.Nf4 Bd6 18.b4 a6 19.a4 Qe7 20.Rab1 b5 21.Bg2 Ng4 22.Bd2 Nf6 23.Rb2 Bd7 24.Ra1 Ne4 25.Be1 Rfe8 26.Qb3 Kh8 27.Rba2 Qf8 28.Nd3 Rab8 29.axb5 axb5 30.Ra7 Re7 31.Ne5 Be8 32.g4! { This move is featured in the chapter "Improving the Worst-Place Piece" in "Secrets of Chess Intuition" by Adrian Mikhalchishin and Alexander Beliavsky. White offers a pawn to get his bad bishop into the frey. } 32...fxg4 33.Bxe4 dxe4 34.Bh4 Rxe5 ( 34...Rg7 35.Qe6 { with Bf6 coming } ) 35.dxe5 Bxe5 36.Rf1 Qg8 37.Bg3! { The star move, and not easily found since White has many forcing moves and this move is also a retreat. } 37...Bg7 ( 37...Qxb3 38.Bxe5+ Kg8 39.Rg7+ Kh8 40.Rf8+ Qg8 41.Rxg4# ( 41.Rg6# ) ) ( 37...Qe6 ) 38.Qxg8+ { The Rb8 is en prise. } 38...Kxg8 39.Bxb8  1-0

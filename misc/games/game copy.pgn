@@ -1,0 +1,20 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/962U50St"]
+[Date "2019.11.27"]
+[Round "-"]
+[White "CoraSmith"]
+[Black "SetaOinas"]
+[Result "1-0"]
+[UTCDate "2019.11.27"]
+[UTCTime "08:19:47"]
+[WhiteElo "1416"]
+[BlackElo "1182"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. Nf3 Nf6 4. e3 Bg4 5. Nbd2 Bxf3 6. Nxf3 e6 7. c3 Bd6 8. Bg3 O-O 9. Bd3 Bxg3 10. hxg3 Ne4 11. Nd2 Nxd2 12. Qxd2 g6 13. O-O-O Qd6 14. Rh6 Na5 15. Rdh1 f5 16. Rxh7 Qc6 17. Rh8+ Kf7 18. R1h7+ Ke8 19. Rxf8+ Kxf8 20. Rh8+ Ke7 21. Rxa8 Nc4 22. Bxc4 Qxc4 23. b3 Qf1+ 24. Kb2 Qxg2 25. Rxa7 Kd6 26. Rxb7 Kc6 27. Rb8 g5 28. Rg8 g4 29. Rg7 Qe4 30. Qe2 Kd6 31. Qa6+ c6 32. Qa3+ c5 33. Qa6# 1-0
+
+

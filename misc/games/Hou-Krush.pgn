@@ -1,0 +1,19 @@
+﻿[Event "FIDE Chesscom Online Nations Cup"]
+[White "Hou, Yifan"]
+[Black "Krush, Irina"]
+[Site "Online"]
+[Round "5"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2020.05.07"]
+[WhiteElo "2621"]
+[BlackElo "2392"]
+[PlyCount "71"]
+
+1. e4 {} c5 2. Nf3 d6 3. Bb5+ Bd7 4. c4 Bxb5 5. cxb5 Nf6 6. Nc3 {
+B52: Sicilian: Moscow Variation with 3...Bd7.} g6 7. d4 cxd4 8. Nxd4 {White is
+slightly better.} Bg7 9. 0-0 0-0 10. Be3 Nbd7 11. Qe2 Rc8 12. Rfd1 Re8 13. Rac1 {[#]} e6 $146 ({Predecessor:} 13... Rc7 14. a4 Qb8 15. a5 Rec8 16. a6 Nxe4 17. Nd5 Rxc1 18. Bxc1 Bxd4 19. Nxe7+ Kg7 20. Qxe4 Rc4 21. Be3 Bxe3 22. Qxc4 Bc5 23. Qc3+ f6 24. b4 {1-0 (24) David,A (2585)-Georgiev,K (2627) Padova 2015} )14. Nb3 Nb6 15. Na5 $36 { Black is under pressure.} d5 $2 {Loses the game.} (15... Rc7 $11 )16. e5 $18 ({Don't do} 16. Nxb7 $6 Qe7 $16 )Nfd7 17. Nxb7 Qh4 18. Nd6 Bxe5 19. g3 Qf6 20. Nxc8 Rxc8 21. f4 Bb8 $2 (21... Bc7 {was worth
+a try.} 22. a4 Qd8 )22. Bxb6 Nxb6 {[#]} 23. Nxd5 $1 {} exd5 (23... Nxd5 24. Rxc8+ )24. Rxc8+ Nxc8 25. Qe8+ { Double Attack} Kg7 26. Qxc8 { Endgame KQR-KQB} Qb6+ 27. Kg2 Qxb5 {next ...Qe2+ is good for
+Black.} 28. Qc3+ Kg8 {With the idea ...Qe2+.} 29. Rd2 Bd6 {[#]} 30. Qb3 $1 Qa6 31. Qxd5 Be7 32. f5 {White is clearly winning.} Bf6 (32... g5 $142 33. Qe4 Qf6 )33. fxg6 hxg6 34. Rf2 Kg7 35. Qf3 Qe6 36. Qxf6+ {Accuracy: White = 100%, Black
+= 55%.} 1-0
+

@@ -1,0 +1,26 @@
+[Event "43rd Olympiad 2018"]
+[Site "Batumi GEO"]
+[Date "2018.10.02"]
+[Round "8.1"]
+[White "Caruana, Fabiano"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[ECO "C80"]
+[WhiteElo "2827"]
+[BlackElo "2820"]
+[PlyCount "127"]
+[EventDate "2018.09.24"]
+[Whiteteam "United States of America"]
+[Blackteam "Azerbaijan"]
+[Blackteamcountry "AZE"]
+[CurrentPosition "4Q3/2r3q1/p7/5pp1/2p2Pk1/2P3P1/1P4KR/8 b - - 1 64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.Nbd2 Nc5 10.c3 Be7 11.Bc2 d4 12.Nb3 d3 13.Bb1 Nxb3 14.axb3 Bf5 15.Be3 O-O 16.Bd4 Qd5 17.Re1 d2 18.Re2 Bxb1 19.Rxb1 Nxd4 20.Nxd4 Bg5 21.g3 c5 22.Nf5 Qd3 23.Nd6 Qg6 24.h4 Bf4 { Deviating from his game with Anand from last
+month. Caruana knew it was a good move, but couldn't remember the analysis. } ( 24...Bh6 25.h5 Qxh5 26.Rxd2 Qxe5 27.Rd5 Qf6 28.Ra1 g6 29.Ne4 Qc6 30.Nxc5 Rfe8 { Anand,V (2768)-Mamedyarov,S (2801) Saint Louis 2018 } ) 25.Ne4 $146 ( 25.h5 Qe6 26.Ne4 Bxe5 27.Rxd2 Qf5 28.Nd6 Qe6 29.Qe2 b4 30.Ne4 Rac8 { Stoeckert,M
+(2460)-Delavekouras,S (2427) corr. 2013 } ) 25...f5 26.Nxd2 Rad8 27.Ra1 { With
+this move, Caruana decided to play for a win. } ( 27.e6 { was more drawish. } ) 27...Rfe8 ( { Caruana had calculated } 27...Rd3 28.Qc2 Rxg3+ 29.fxg3 Qxg3+ 30.Rg2 { and } ) ( 27...Bxg3 28.fxg3 f4 29.Qe1 ) 28.Qe1 Bxd2 29.Rxd2 Rxd2 30.Qxd2 Rxe5 31.Qd8+ Re8 32.Qd5+ Qe6 33.Rd1 { With a slight edge for White, and a
+solid enough position to continue playing for a while. } 33...c4 34.bxc4 bxc4 35.Qb7 Re7 36.Rd8+ Kf7 37.Qf3 g6 38.Qf4 Qc6 39.Rd1 Re4 40.Qh6 Kg8 41.h5 Re8 42.hxg6 hxg6 43.Kf1 Re6?! ( { Caruana suggested } 43...Re4!? ) 44.Qh4! { An
+unexpected move back with the queen, which is annoying. The threat is 45.Rd8+
+and White wins the c-pawn. } 44...Re8 45.Rd4 Rc8 46.Qh6 Qe6 47.Rh4 Kf7 48.Qh7+ ( 48.Qf4 ) 48...Kf6 49.Rd4 Qe7 50.Qh6 { Caruana said he was playing this
+phase "move by move," constantly trying to and find something that will keep
+his opponent busy. } 50...Kf7 51.Qd2 ( 51.g4 ) 51...Rc7 52.Rh4 ( 52.Rd8 ) 52...Kf6 53.Qd4+ Qe5 54.Qb6+ Kg7 55.Qb8 Kf6 56.Qh8+ Ke6 57.Qg8+ Kf6 58.Rd4 Qe7 59.Rd8 Kg5?! ( 59...Rd7 ) 60.f4+ Kh5 61.Rd2 Qg7 62.Rh2+ Kg4 63.Kg2! g5 ( 63...Qxg8 64.Rh4# ) 64.Qe8  1-0

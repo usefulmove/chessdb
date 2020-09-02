@@ -1,0 +1,20 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/mEQ5qp8v"]
+[Date "2020.01.22"]
+[Round "-"]
+[White "soiled-dove"]
+[Black "ADAV123"]
+[Result "1-0"]
+[UTCDate "2020.01.22"]
+[UTCTime "00:01:22"]
+[WhiteElo "1567"]
+[BlackElo "1194"]
+[Variant "Standard"]
+[TimeControl "300+8"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 Qd6 3. e3 Bg4 4. h3 Bxf3 5. Qxf3 Qb4+ 6. Nd2 e6 7. c3 Qa5 8. Bd3 f5 9. Qe2 Nc6 10. Bb5 Nf6 11. Nf3 g5 12. Ne5 Ne4 13. Bxc6+ bxc6 14. Qh5+ Ke7 15. Nxc6+ 1-0
+
+

@@ -1,0 +1,2345 @@
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.09"]
+[Round "1"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[Annotator "Jan-Krzysztof Duda"]
+[BlackElo "2835"]
+[ECO "B31"]
+[EventDate "2018.11.09"]
+[WhiteElo "2832"]
+
+1.e4 c5 $5
+{ A minor surprise, as early as on move 1. Normally people tend to play
+relatively solid openings at the beginning of the WCC matches. Magnus
+decided however to play in a principled way, instead of choosing a Ruy Lopez / Italian torture. }
+2.Nf3 Nc6 3.Bb5
+{ The Rossolimo Variation, a favourite of the Challenger. Even though he
+lost beautiful game in the Wijk Ann Zee to Carlsen some years ago, everyone
+keeps in mind many of his masterpieces against strong opposition. And probably all kibitzers were happy - there is no easy draw in sight }
+3...g6 4.Bxc6 dxc6 { Lately the favourite of Magnus } 5.d3 Bg7 6.h3
+{ not allowing Bg4, which would ease Black's play } 6...Nf6 7.Nc3 Nd7 ( 
+7...b6
+{ was played between the same opponents 3 years ago. White was probably
+better after the opening, but the game became very tense, and eventually
+the Black player won. } 8.Be3 e5 9.O-O O-O 10.a3 Qe7 11.Qb1 Nh5 12.b4 f5
+13.bxc5 f4 14.Bd2 bxc5 15.Qb3+ Be6 16.Qa4 $36
+{ 0-1 (39) Caruana,F (2820)-Carlsen,M (2862) Wijk aan Zee NED 2015 } ) ( 
+7...O-O { is the most popular move } ) 8.Be3 e5 ( 
+{ in a similar way played Nakamura against Caruana some years ago: } 8...b6
+9.Qd2 h6 10.O-O e5 11.Nh2 g5 $13
+{ Here Hikaru didn't allow White to go for f4. The position becomes a
+pretty manoeuvre one, where a stronger player is likely to win. Computers
+give modest edge for White, but Black has also an easy play on his own: to re-route the knight and then start the pawn offensive on the kingside:
+1/2 (44) Caruana,F (2787)-Nakamura,H (2793) Saint Louis USA 2015 } ) 9.O-O ( 
+{ Usually White starts with } 9.Qd2 h6
+{ not allowing Bh6. After a sample line: } 10.O-O b6 11.Nh2 Nf8 12.f4 exf4
+13.Rxf4 Be6 14.Rf2
+{ there is the same position as in the game, but obviously both sides are
+flexible and can change something basically on every move } ) 9...b6 ( 
+9...Qe7
+{ It's a much more common way to free the d7-knight. I am not an expert in
+these kinds of positions and can hardly say which way to over-protect the
+c5 pawn is better. } 10.Qd2 Nf8 ) 10.Nh2 Nf8
+{ A typical maneouvre started with Nd7 } 11.f4 exf4 12.Rxf4 Be6 $5
+{ Interesting set-up. I thought he was going to play Ne6-Nd4 asap, but this
+is even nicer, as it controls all important squares } 13.Rf2 h6 14.Qd2 g5 $5
+{ Restraining White pieces. Honestly, I don't know what is White's best bet
+here, as he lacks visible improvements. It would be lovely to get the
+h2-knight to f5, but how? Also loosening Black's queenside is not at all that easy. a4 can always be parried by a5, while it's not easy to achieve b4
+in a comfortable way. Therefore I think Magnus won the opening duel, and now the Challenger move by move was using a large ammount of time. }
+15.Raf1 ( 15.Nf1 Qd6 16.Rf3 $2 Ng6 { and White is not on time with Ng3-Nf5 }
+) ( 15.a4 a5 $5 ( 15...Ng6 16.a5 O-O ) ) ( 15.a3 Qd6 16.Rb1 Ng6 17.b4 cxb4
+18.axb4 O-O $11 ) 15...Qd6 16.Ng4
+{ The American decides to improve his worst piece, the h2-knight. Even
+though computer doesn't like it, it's still better to have a faulty plan
+than none. } 16...O-O-O
+{ The king is safe on the queenside for the time being, and now Black is
+having all the fun on the kingside. } 17.Nf6 { Other plans are: } ( 17.a4 Nd7
+( 17...a5 $5 ) 18.a5 Qc7
+{ even here profits are not visible. Black intends b5, and if White opens
+the a-file, Black is always on time with Kb7-Ra8 } ) ( 17.e5
+{ is an easy-to-play sacriface for everyone but White player. White gets
+some minute activity, but it may evaporate easily, and pawn down is pawn
+down. } 17...Bxe5 ( 17...Qc7 18.Ne4
+{ and White is likely to take on e5 anyway } ) 18.b4 $5 ( 18.Ne4 Qc7 19.Nxe5
+Qxe5 ) 18...c4 { locking down the quuenside } ( 18...cxb4 19.Ne4 Qc7 20.Nxe5
+Qxe5 21.Qxb4 Qc7 22.a4 $44 ) 19.Nxe5 Qxe5 20.d4 Qc7 $15
+{ and I don't see any advantages for White for the missing pawn } ) 17...Nd7
+18.Nh5
+{ Not exchanging the knight, which made so many moves (consuming so many
+resources). } 18...Be5 19.g4
+{ [diagram] Such moves were unthinkable some 60 years ago, but now are
+standard. The kingside is so far locked, and White gains space. } 19...f6
+20.b3 Bf7 21.Nd1 ( { I would prefer } 21.Ne2
+{ defending some vital squares, but it's true that Black is in the driving
+seat, while White is solid but very passive at the same time. } 21...Bxh5
+22.gxh5 Kb7 23.Kg2 Nf8 $17 { and Black may go for the h5 pawn } ) 21...Nf8
+{ Imaginative, but not neccesary. Black could part with his light-square
+bishop, and try to gain the h5-pawn or break with g4. Important note is in
+that case White would remain even more passive than in the game } ( 21...Kb7
+22.c3 Bxh5 23.gxh5 Qe7 24.Qe2 Rhg8 $17
+{ and Black has many ideas like Nf8-Ne6 } ) 22.Nxf6 Ne6 23.Nh5 ( 23.Nd7 Rxd7
+{ was probably the idea } ( 23...Bf4 24.Nf6 Bg3
+{ comps think that Black is slightly better here, but White might try to
+complicate the position with some timely exchange sacriface } ) 24.Rxf7 h5
+25.Qg2
+{ and engine show its usual 0.00 but over the board Black for sure is
+having fun and White is being under considerable pressure } ) 23...Bxh5
+24.gxh5 Nf4 25.Bxf4 gxf4 26.Rg2 ( 26.Rxf4 $1
+{ was a good way to cut the gordian knot. Suprisingly it seems that Black
+can't stop White's d1-knight in reaching f5-square , from where it has a
+dominant position } 26...Bxf4 27.Qxf4 Qd4+ 28.Ne3 Kb7 ( 28...Rdf8 29.Qxf8+
+Rxf8 30.Rxf8+ Kb7 31.Rf7+ Ka6 32.Rf3 $11 ) 29.Kh1 Rdf8 30.Nf5 Qc3 31.Qc1
+$5 $13 ) 26...Rhg8 $36
+{ White's king is open, and Black is enjoying a long-lasting initiative }
+27.Qe2
+{ The position is not easy to analyse, and even harder to play. Both sides
+have many ideas, which sometimes are similar to each other. From now on I
+will focus on the most critical positions. } 27...Rxg2+ 28.Qxg2 Qe6 29.Nf2
+Rg8 30.Ng4 Qe8 $1
+{ Going after h5-pawn, and then kicking White's knight with h5 } 31.Qf3 Qxh5
+32.Kf2
+{ The place where White's king is least safe is kingside, so logically
+Fabiano moves it to the center. } 32...Bc7 33.Ke2 ( 33.e5 Kb7 34.Nf6 Qh4+
+35.Ke2 Rg3 36.Qxf4 Qxh3 37.Rf2
+{ doesn't look any good, but in the game after a couple of moves the a1-h8
+diagonal was wide open for Black pieces } ) 33...Qg5 34.Nh2 $6
+{ Looks strange, because White gives away the control of the big diagonal
+without even gaining a tempo, Black has to spend on h5. Still there is no
+good enough prepatory move, and I think Black is winning already } ( 34.Kd2
+h5 35.Nh2 Qe5 36.Qf2 Qb2 37.Rg1 Rg3
+{ it would be very odd that White can defend here } ) 34...h5 $2 ( 
+{ Why not } 34...Qf6
+{ with Qb2 coming, penetrating the queenside? White would be lost in that
+case } ) 35.Rf2 Qg1 { The wrong direction! } 36.Nf1 h4 $2 ( 36...Qg7 $1 $19 )
+37.Kd2 $2 ( 37.e5 $1 Rg5 ( 37...Bxe5 38.Qxc6+ Kb8 39.a4
+{ Paradoxically White can allow himself luxury of playing such a slow move.
+But there is nothing really threating Black can do } ) 38.Kd2 Kb7 39.e6 Re5
+40.Re2 Qg6 41.Qg4 { and White got his own play } ) 37...Kb7
+{ [diagram] The position is still dead lost for White, because of the
+threat Qg7-Qa1, there is one more, namely Rg3! It's really amazing that
+Caruana survived this storm! } 38.c3 Be5 ( 38...Rg3 $1 39.Nxg3 hxg3 40.Rg2
+Qa1 $19
+{ is game over. It turns out that in time control, even the World Champion
+plays far below his normal strengh! } ) 39.Kc2 Qg7 $6
+{ This would be a serious blunder, if not the fact that Black can repeat
+his position. } ( 39...b5 $1
+{ with b4 next would create too many holes in White's position } ) 40.Nh2 ( 
+40.Qh5 Ka6 $1 { it's very important to avoid eventual checks on f7 } 41.Qe2
+b5 42.a4 ) 40...Bxc3 $4
+{ Actually this move let all the advantage go. Black still could win by
+means of } ( 40...Qg1 $1 41.Nf1 b5 $1 $19
+{ with transposition to the position, which is mentioned in the earlier
+comment } ) 41.Qxf4 Bd4
+{ Now by force White can save himself in an rook endgame with pawn down.
+Other alternatives also failed to win: } ( 41...Ka6 42.Nf3 Ba1 43.e5 $11 )
+42.Qf7+ Ka6 43.Qxg7 Rxg7 44.Re2 Rg3 45.Ng4 Rxh3 46.e5 Rf3 47.e6 Rf8 48.e7 Re8
+49.Nh6 h3 50.Nf5 Bf6
+{ Initially when I first saw this position, I thought Black has nearly
+50/50 chances, but on the closer inspection I understood that White is
+going to play either d4 or b4, and 2 vs 3 pawn on the queenside is draw }
+51.a3 b5 ( 
+{ Being on Magnus' place I would have tried to play with the pawn on b6,
+but still this should be an easy draw } 51...Bxe7 52.Nxe7 h2 53.Rxh2 Rxe7
+54.Rh5 ) 52.b4 cxb4 53.axb4 Bxe7 { Otherwise Black runs out of moves }
+54.Nxe7 h2 55.Rxh2 Rxe7 56.Rh6 Kb6 57.Kc3 Rd7 58.Rg6 $11
+{ The endgame is a draw, although White needs to be a bit careful not to
+allow Black to get two rolling pawns. Magnus tries to win for another 60
+moves, but the draw is trivial } 58...Kc7 59.Rh6 Rd6 60.Rh8 Rg6 61.Ra8 Kb7
+62.Rh8 Rg5 63.Rh7+ Kb6 64.Rh6 Rg1 65.Kc2 Rf1 66.Rg6 Rh1 67.Rf6 Rh8 68.Kc3 Ra8
+69.d4 Rd8 70.Rh6 Rd7 71.Rg6 Kc7 72.Rg5 Rd6 73.Rg8 Rh6 74.Ra8 Rh3+ 75.Kc2 Ra3
+( 75...Kd6 76.Rxa7 Kd5 77.Rc7 $11 ) 76.Kb2 Ra4 77.Kc3 a6 78.Rh8 Ra3+ 79.Kb2
+Rg3 80.Kc2 Rg5 81.Rh6 Rd5 82.Kc3 Rd6 83.Rh8 Rg6 84.Kc2 Kb7 85.Kc3 Rg3+ 86.Kc2
+Rg1 87.Rh5 Rg2+ 88.Kc3 Rg3+ 89.Kc2 Rg4 90.Kc3 Kb6 91.Rh6 Rg5 92.Rf6 Rh5
+93.Rg6 Rh3+ 94.Kc2 Rh5 95.Kc3 Rd5 96.Rh6 Kc7 97.Rh7+ Rd7 98.Rh5 Rd6 99.Rh8
+Rg6 100.Rf8 Rg3+ 101.Kc2 Ra3 102.Rf7+ Kd6 103.Ra7
+{ One of possible defensive set-ups for White } 103...Kd5 104.Kb2 Rd3 ( 
+104...Ra4 105.Kc3 Ra1 106.Rd7+ Ke6 107.Ra7 $11 ) 105.Rxa6 Rxd4 106.Kb3 Re4
+107.Kc3 Rc4+ 108.Kb3 Kd4 109.Rb6 Kd3 110.Ra6 Rc2 111.Rb6 Rc3+ 112.Kb2 Rc4
+113.Kb3 Kd4 114.Ra6 Kd5 115.Ra8
+{ A fighting, nerve-racking, and unpleasant game for both players. Fabiano
+Caruana didn't manage to get even the slightest of an opening initiative,
+and quickly had to defend himself. Magnus Carlsen on the other hand was winning several times before the 40th move, but in time trouble he spoiled
+what looked like an easy win, and had to settle for the endgame which was drawn. Still 11 games to come, and it seems it will be an entertaining match. }
+1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.10"]
+[Round "2"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1/2-1/2"]
+[Annotator "Sam Shankland"]
+[BlackElo "2832"]
+[ECO "D37"]
+[EventDate "2018.11.09"]
+[WhiteElo "2835"]
+
+
+{ The second game of the match was much more in line with the kind of thing
+I expect in early rounds than the first one was. Unsurprisingly Black
+equalized without much trouble- this tends to be pretty easy to do with months of preparation time and your opponent not knowing what was coming. But
+unlike the first game, it never really strayed far from equality. Rounds 3 and 4 when each player plays their second game with White, knowing what may be coming, tend to be the time people seriously start fighting for advantages early on. }
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 ( 3...dxc4
+{ Caruana does not go into the QGA, which he has relied on heavily for the
+last couple years. } ) 4.Nc3 Be7
+{ The classical QGD is not Caruana's main choice as of late, but he
+certainly has played it off and on in the past, so it can't be considered a
+huge surprise. } 5.Bf4 O-O 6.e3 c5 $5
+{ The first interesting moment. Caruana chooses a less common move than the
+typical Nbd7, which he has played a lot in the past with reasonable
+success. } ( 6...Nbd7 { Is much more common. } ) 7.dxc5 Bxc5 8.Qc2 Nc6 9.a3
+Qa5 10.Rd1
+{ Thus far, there have been some minor surprises, but this position is
+still well known and Black is supposed to be doing all right. Nakamura and
+Anand have played the Black side a fair amount, and with perfectly reasonable results. But nearly every recent game has continued with Re8, and
+Caruana chose something else. } 10...Rd8 $5
+{ Not a novelty, but definitely not a common move, and I can't find any
+games played by anyone over 2600. } ( 10...Re8
+{ Is a much more normal move. The main line continues with } 11.Nd2 e5 $1
+12.Bg5 Nd4 $1 13.Qb1 ( 13.exd4 $2 exd4+ 14.Ne2 Ng4 { And Black wins } ) ( 
+13.Qc1 Bf5 14.Bxf6 Nc2+ 15.Ke2 Nd4+
+{ Is a well known draw, which was featured in several games, including a
+Carlsen-Nakamura encounter from 2017. } ) 13...Bf5 14.Bd3 Bxd3 15.Qxd3 Ne4 $1
+{ And White has not been able to show an advantage as of yet. } ) 11.Be2
+{ Undoubtedly caught by surprise, Carlsen chooses a safe option. We will
+see in future games if this line is repeated and e goes for the more
+principled move. } ( 11.Nd2
+{ Is of course the critical try. This is the main move against Re8, and
+makes just as much sense now because the e6-e5 thrust loses power. White
+threatens Nb3 and can quickly get a good position if Black is not careful. It would be interesting to know what Caruana had in mind here, and we
+may well find out in subsequent games. My best guess would be he thought simplifying with }
+11...dxc4 12.Nxc4 Rxd1+ 13.Qxd1 Qd8 14.Qxd8+ Nxd8
+{ Leads to a drawn ending. The machines give white a slight plus but the
+symmetry and Black's lack of weaknesses likely mean he should hold. Only
+future games will be able to tell if this is truly the case. } ) 11...Ne4 $1
+{ Black takes his chance to compromise White's queenside structure. } 12.O-O
+Nxc3 13.bxc3 h6
+{ Caruana was still playing instantly here, suggesting he was still in
+preparation. Black's position is pretty safe. } 14.a4 Ne7 $1
+{ Another good move, and undoubtedly still prep. } 15.Ne5 $6
+{ Magnus is asking for trouble with this move, but if he plays accurately
+he is not going to be in any real danger. } ( 15.Rb1
+{ The computer initially claimed White is better here, but it's just wrong.
+Following } 15...Bd7 16.Ne5 Qxa4 17.Qxa4 Bxa4 18.Rxb7 dxc4
+{ The position is obviously drawn. } ) 15...Bd6
+{ The most principled move, and a very forcing one. White has to be
+accurate not to be worse, but his moves are not too hard to find and I
+doubt Magnus was particularly worried. } ( 15...f6 16.Ng6 e5
+{ Was also possible, trying to maroon the bishop on g3. This probably would
+have been my choice, when White's moves seem harder to find than they were
+in the game. Still, after } 17.Bg3 Be6 18.cxd5 $1 ( 18.Nxe7+ $2 Bxe7 19.cxd5
+Bxd5 $1
+{ And Black is pleasantly better, since Rxd5 no longer takes control of the
+a2-g8 diagonal } ) 18...Nxd5 ( 18...Bxd5 $2 19.Rxd5 $1 Nxd5 20.Bc4 $1
+{ Black somehow just loses as he cannot escape the pin. Kh7 would walk into
+several deadly discoveries. } ) 19.Bc4 $1
+{ Simple and strong, but also not too difficult. White should have enough
+counterplay to maintain the balance, though I still would take Black in a
+practical game, and I think this may have been a more promising option than Caruana's choice. }
+19...Qb6
+{ Qc6 will follow and Black can play for an advantage, hoping to make good
+use of his better structure on the long term. } ) 16.cxd5 Nxd5 17.Bf3 ( 
+17.Nxf7
+{ White could have played this kooky move. Flashy as it may be, it
+certainly would not have changed the result. Still, it would have looked
+nicer for Magnus than what he got in the game. } 17...Kxf7 18.Bxd6 Rxd6
+19.Bh5+ Kg8 20.e4 Nf4 21.Rxd6 Qxh5 22.Rd8+ Kf7 23.Rfd1 b6
+{ The position is dynamically balanced and neither side can do much. } )
+17...Nxf4 18.exf4 Bxe5
+{ White has to be a little precise here, but should hold easily. } 19.Rxd8+
+$1 ( 19.fxe5 $2 { Is less accurate and Black can claim an edge with }
+19...Bd7 $1 20.Bxb7 Rab8 $1 ) 19...Qxd8 20.fxe5
+{ Black is not well developed enough to make good use of White's weakened
+queenside. } 20...Qc7 ( 20...Bd7 21.Rb1 { Should also be a draw promptly } )
+21.Rb1 Rb8 22.Qd3 Bd7 23.a5
+{ The machines hate this move, but they are wrong. It just forces a draw. }
+23...Bc6 24.Qd6 Qxd6 25.exd6 Bxf3 26.gxf3 Kf8 27.c4 Ke8
+{ The ending is a little dangerous for White if Black can get the king to
+c6, though even then it's very likely still a draw. Magnus forced matters
+right away. } 28.a6 $1 b6 29.c5 $1 Kd7 ( 29...b5 $2
+{ Not to be recommended! If Black could get the king to c6 he would just
+win with the b-pawn shoving. But he is a tempo too slow and loses after the
+simple } 30.c6 ) 30.cxb6 axb6 31.a7 Ra8 32.Rxb6 Rxa7
+{ Black will win the d6-pawn, but the position is a dead draw. In fact,
+White's doubled f-pawns make the defense even easier than it would be with
+a "healthier" structure of f2-g3-h4 because the king has a permanent happy home on g2, and Black can never get his pawns going past the fourth rank
+without massive trades. } 33.Kg2 e5 34.Rb4 f5 35.Rb6 Ke6 36.d7+ Kxd7 37.Rb5
+Ke6 38.Rb6+ Kf7 39.Rb5 Kf6 40.Rb6+ Kg5 41.Rb5 Kf4 42.Rb4+ e4 43.fxe4 fxe4
+44.h3 Ra5 45.Rb7 Rg5+ 46.Kf1 Rg6 47.Rb4 Rg5 48.Rb7 Rg6 49.Rb4
+{ Caruana understandably did not feel like trying further- he would never
+win. The match is of course wide open after the first two games. Still, I'd
+say the chessplaying trend is favoring Magnus, since he is the only one who has had any chances to strike yet, but the psychological advantage has to
+be on Caruana's side after today as he easily equalized with Black just like Magnus did, but unlike Magnus, he did not blow half a point. It will be interesting to see what happens on Monday, and if the Sicilian will be repeated. It certainly could, but I would not be surprised at all to see either
+side deviate. } 1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.10"]
+[Round "2"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1/2-1/2"]
+[Annotator "Jan-Krzysztof Duda"]
+[BlackElo "2832"]
+[ECO "D37"]
+[WhiteElo "2835"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7
+{ The ever solid Queen's Gambit Declined. Even though the Challenger
+recently played a lot of games in the Vienna Game, the QGD must have been
+one of top piorities of Magnus' team. } 5.Bf4 O-O 6.e3 c5
+{ This is a small surprise. It's the first time, when Fabiano chooses this
+line in his life. In that way Nakamura drew quite recently 2 games against
+Carlsen, so it was kind of expected though. The real surprise will come later }
+( 6...Nbd7
+{ is the most common move, and the way Caruana played before this game.
+Perhaps he wasn't keen facing } 7.c5
+{ where White is enjoying some space advantage, and it might be kind of
+Carlsen-type position. Of course it's just a beginning of far-advanced
+theory. } ) 7.dxc5 Bxc5 8.Qc2
+{ This is the main move, but White also may wish to play against Isolani
+with: } ( 8.cxd5 Nxd5 9.Nxd5 exd5 10.Bd3 Bb4+ 11.Nd2 Nc6
+{ This is one of tabiyas in QGD with 6...c5. Usually Black gets enough
+counterplay for his Isolani, for example Vishy Anand drew all three of his
+games with Black in this position in the Sinquefield Cup this year. In 2017, Carlsen was about outplaying Nakamura in this line, but the American
+managed to save himself. Now it's obvious to everyone that Caruana had some improvements, awaiting their hour }
+) 8...Nc6 9.a3 Qa5 10.Rd1
+{ Again, one of the tabiyas, known since infamous '78 Karpov-Korchnoi
+match. In contrast to } ( 10.O-O-O
+{ line which is slightly more popular, but can lead to an amazing mess,
+where either side can collapse easily, White is playing purely
+positionally. He just wants to develop with Be2 and 0-0, and is asking Black what he is going to do with his poor c8-bishop. Now Black has many
+choices, but what Caruana played was hardly predictible } ) 10...Rd8 $5
+{ Some time ago, this was considered dubious, because it isn't in any way
+preparing the freeing move e5. But of course computers change modern
+opening theory, also the effect of surprise these days is something everyone is trying for. The other lines are: }
+( 10...Re8 $5
+{ is having a boost of popularity, the position can quickly become quite
+complicated: } 11.Nd2 e5 12.Bg5 Nd4 13.Qb1 ( 13.Qc1
+{ was basically a draw offer: } 13...Bf5 14.Bxf6 Nc2+ 15.Ke2 Nd4+ 16.Ke1 Nc2+
+17.Ke2 Nd4+ 18.Ke1 Nc2+
+{ 1/2 (18) Carlsen,M (2827)-Nakamura,H (2781) Douglas ENG 2017 } ) 13...Bf5
+14.Bd3 Bxd3 ( 14...e4 $2
+{ was played in the famous 21st game in aforementioned K-K match. White is
+better after both } 15.Bc2 { (the game continuation. Even stronger is } ( 
+15.Bf1 $1 { where objectively Black is lost } ) 15...Nxc2+ 16.Qxc2 Qa6
+17.Bxf6 Qxf6 18.Nb3 Bd6 19.Rxd5 $1 $16
+{ 1-0 (60) Kortschnoj,V (2665)-Karpov,A (2725) Baguio City 1978 } ) 15.Qxd3
+Ne4 { where as far as I am concerned Black is doing fine after both } 16.Nxd5
+( { and } 16.Ncxe4 ) ) ( 10...Ne4 $6 { is probably wrong. After } 11.cxd5
+Nxc3 12.bxc3 exd5 13.Ng5 $1 g6 14.Rxd5 Qxa3 15.Bc4 $36
+{ White develops dangerous initiative } ) ( 10...Be7
+{ is the classical main line. After } 11.Be2 Ne4 ( 11...dxc4 ) 12.cxd5 Nxc3
+13.Qxc3 Qxc3+ 14.bxc3 exd5 15.Rxd5 Bxa3 16.Nd4 $36
+{ White has initiative 1/2 (95) Carlsen,M (2853)-Nakamura,H (2814) Saint
+Louis USA 2015 } ) 11.Be2 ( 11.Nd2
+{ is the most popular, with the idea to harass Black's queen. But this is
+the first thing Fabiano's team had a look at, so the Norwegian decides to
+deviate } 11...d4
+{ might be something like what the American prepared. The position is a
+mess after } ( 11...dxc4 12.Nxc4 Rxd1+ 13.Qxd1 Qd8 14.Qxd8+ Nxd8 15.Be2 $14 )
+12.Nb3 Qb6 13.Na4 Bb4+ 14.axb4 Qxb4+ 15.Nd2 $13
+{ but the computer not surprisingly is keen on White } ) 11...Ne4
+{ Now, where the d5-pawn is not hanging, this exchange maneouvre should
+gradually equalise the position } 12.O-O ( 12.Nd2 $5 Nxc3 13.Nb3 Qa4 14.Qxc3
+Be7 15.cxd5 exd5 16.Nc5 Bxc5 17.Qxc5 Be6 18.O-O Rac8 ) 12...Nxc3 13.bxc3 h6
+{ Defending against any Ng5 } 14.a4 Ne7 $11
+{ I think Black equalised. Now not to become worse with his shaky
+queenside, the World Champion has to play actively } 15.Ne5 Bd6 ( 15...f6
+16.Ng6 e5 17.Bg3 Be6
+{ is one of the favourite's of the engine, but in such cases, when the game
+is at stake, players tend to avoid such commital decisions. The move
+Caruana played is fine. } ) 16.cxd5
+{ from now on, there will be many exchanges, when Black gets developed
+finally, but White is too active to have any real issues } 16...Nxd5 17.Bf3
+{ White goes the route of interesting possibility, which looks risky but
+gets my approval. } ( 17.Nxf7 $5 Kxf7 18.Bxd6 ( 18.Bh5+ Kg8 19.Bxd6 Rxd6
+{ is the same thing } ) 18...Rxd6 19.Bh5+ Kg8 20.e4 ( 20.c4
+{ It seems that White has to play precisely to hold the position } 20...Bd7
+( 20...Rc6 ) ( 20...Nb4 ) ( 20...Qc7 ) 21.cxd5 Bxa4 22.Qa2 $8 Rxd5 23.Bg4
+Rxd1 24.Rxd1 Qb4 25.Bxe6+ Kh8 26.Rb1 Rd8 $13 ) 20...Bd7 ( 20...Nf4 $5
+{ is a winning try } 21.Rxd6 Qxh5 22.Rd8+ Kf7 23.Rfd1 e5 $13
+{ with unclear, but roughly equal position } ) 21.exd5 Qxa4
+{ one of many possibilities } 22.Qb1 Rxd5 23.Qxb7 Qc6 $11 ) 17...Nxf4
+{ the simplest } ( 17...Qc7 18.c4 Nxf4 19.exf4
+{ can only create difficulties for Black } ) 18.exf4 Bxe5 19.Rxd8+ Qxd8
+20.fxe5 Qc7 ( 20...Bd7 $5
+{ Black has the luxury of not being afraid of losing b7-pawn } 21.Bxb7 Rb8
+22.Bf3 Qa5 { and Black recaptures the missing pawn with equality } ) 21.Rb1
+Rb8 22.Qd3 Bd7 ( 22...b6 $5 { was a nice try for Black, I think } 23.a5 $1
+{ otherwise White may be worse with his bad pawn structure } 23...Bb7 ( 
+23...Qxe5 24.a6 $1 $44 { is a key, White must have foreseen beforehand } )
+24.axb6 axb6 25.Bxb7 Rxb7 26.Qd4 $11 { with a drawn position } ) 23.a5 Bc6
+24.Qd6
+{ White knows that the best he can do is exchange everything and make a
+draw -- not very pleasing when the onus is on White to score, but that's
+life } 24...Qxd6 25.exd6 Bxf3 26.gxf3 Kf8 27.c4 Ke8 28.a6 $1
+{ From the human viewpoint the simplest. White exchanges all pawns on the
+queenside, and defends in a 3 vs 4 on the same wing rook endgame } 28...b6
+29.c5 Kd7 30.cxb6 axb6 31.a7 Ra8 32.Rxb6 Rxa7 33.Kg2 e5 34.Rb4 f5 35.Rb6 Ke6
+36.d7+ Kxd7 37.Rb5 $11
+{ The endgame is dead drawn. The doubled pawns are actually a strengh here,
+because Black is unable to create a passed pawn. Now White can just do
+nothing and marks time. Black has no meaningful plan available } 37...Ke6
+38.Rb6+ Kf7 39.Rb5 Kf6 40.Rb6+ Kg5 41.Rb5 Kf4 42.Rb4+ e4 43.fxe4 fxe4 44.h3
+{ Funny, another 3 vs 2 rook endgame, but now Fabiano is a one with the
+pawn up. This means the game will last 60 moves shorter :) } 44...Ra5 45.Rb7
+Rg5+ 46.Kf1 Rg6 47.Rb4 Rg5 48.Rb7 Rg6 49.Rb4
+{ So, a relatively easy draw today by Fabiano Caruana. Perhaps the World
+Champion was frustrated a bit with yesterday's game, and decided to play a
+simple game today. My guess is that day after tomorrow we will have quite a tense game in the 'Spanish torture', unless the challenger changes his
+first move. Of course, it's just a shot in dark, but sometimes you are happy when you guess the right opening. }
+1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.12"]
+[Round "3"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[Annotator "Jan-Krzysztof Duda"]
+[BlackElo "2835"]
+[ECO "B31"]
+[WhiteElo "2832"]
+
+1.e4 c5
+{ So it turned out that my guess was wrong, and Magnus repeats the
+Rossolimo Sicilian once more. After a little reflection, I realised that
+it's a perfect opening for Magnus - no theory, no repetitions, no super-sharp positions and a complex strategic game ahead - everything he
+needs. } 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.O-O
+{ This time Caruana allows Black to play Bg4. Magnus instead chooses a
+sideline, in order to get a non-theoritical position as quickly as possible
+} 6...Qc7 $5 ( 6...Nf6 { is of course main move } ) 7.Re1
+{ A useful move, with the intention to see what Black is going to do. }
+7...e5
+{ An interesting move, played when the White rook is on e1, from where it
+can't help achiving f4. On the other hand, this move is strategically
+risky, because now a break with b4 is on the agenda. } 8.a3
+{ A logical push once Black played e5. The preference of the engine is } ( 
+8.Be3 { forcing Black to play b6, and only then start the minority attack }
+8...b6 9.a3 Nf6 ( 9...a5 $5 10.Nbd2 Nf6 11.b4 Ng4 12.Bg5 ( 12.bxc5 Nxe3
+13.Rxe3 b5 $5 { with decent chances } ) 12...axb4 ( 12...cxb4 13.axb4 a4
+14.c4 b5 { looks risky for Black, but the comp holds on } 15.h3 f6 16.Bh4 Nh6
+17.Nb3 $5 ) 13.axb4 Rxa1 14.Qxa1 cxb4 15.Qa4 O-O 16.Qxb4 c5 17.Qb2 f6 18.Bh4
+Be6 $13
+{ and Black can regroup his forces easily, while White's pieces on the
+kingside are stuck } ) 10.b4 ( 10.Nbd2 $5 O-O ( 10...Ng4 11.Bg5 f6 12.Bh4 )
+11.b4 cxb4 ( 11...Ng4 12.Bg5 ) 12.axb4 Ng4 13.Bg5 h6 14.Bh4 Nf6 $13 ) 10...c4
+11.Nbd2 cxd3 12.cxd3 O-O 13.Rc1 $36 { with easier play for White } ) ( 8.b4
+$2 { is not working: } 8...cxb4 9.a3 bxa3 10.Bxa3 Ne7 11.Nbd2 O-O 12.Nc4 c5
+$17 { with clear pawn up for Black } ) 8...Nf6 9.b4 O-O 10.Nbd2 ( 10.bxc5 $5
+{ I think this deserves attention. Black can postpone recapturing the pawn,
+but then White has chances to expose the d6-square with one of his knights.
+Black can also take the pawn by means of: } 10...Nd7 11.Be3 f5 12.a4 f4
+13.Bc1 Nxc5 { but White gets the upper hands after } 14.Ba3 b6 15.Nbd2
+{ with some initiative } ) ( 10.Be3 c4 { is completely toothless for White }
+) 10...Bg4
+{ Only now does Magnus decide to part with his light-squared bishop. A
+smart decision, because this piece has a very high potential to become a
+bad piece in the future. } 11.h3 Bxf3 12.Nxf3 cxb4 ( 12...Nd7 13.Be3 cxb4
+14.axb4 a5 { was another way to play } ) 13.axb4 a5 14.bxa5 Rxa5 15.Bd2 ( 
+15.Rxa5 $1
+{ I think this is stronger, because White gets control of the open a-line }
+15...Qxa5 16.Bd2 Qc7 17.Qa1 Nd7 18.Qa7 Rc8
+{ with the idea to play b5, e.g.: } 19.Ra1 Bf8 20.Be3 b5 21.g4 $36
+{ and White has pressure } ) 15...Raa8
+{ Of course Black doesn't allow White to get the a-file for free. } 16.Qb1
+Nd7
+{ At first sight this position looks nice for White, but there is no
+obvious way to pose even slightest challenge for Black. He is going to play
+b5 and exchange everything down the a-line. } 17.Qb4 ( 17.Qb2 b5 18.Rxa8 Rxa8
+19.Ra1 Qb7 { looks drawish } ) ( 17.Qb3 Nc5 18.Qc4 Ne6
+{ only improves Black's position } ) ( 17.Be3 $1 b5 18.Qb3 Rfb8 19.Ra2 Rxa2
+20.Qxa2 { was probably the only way to play for 'something' } ) 17...Rfe8
+18.Bc3 b5 19.Rxa8 Rxa8 20.Ra1 Rxa1+ 21.Bxa1 Qa7 22.Bc3 Qa2 23.Qb2 Qxb2
+24.Bxb2 f6 $11
+{ Now Black has easy equality, and Magnus as usual tries to squeeze his
+opponent in the endgame. This time the Challenger was very alert though. }
+25.Kf1 Kf7 26.Ke2 Nc5 27.Bc3 Ne6 28.g3 Bf8 29.Nd2
+{ It looks sensible to bring the knight to b3. } ( 29.d4
+{ was also possible, exchanging knights, but on the other hand Black may
+get 'the passer' on the queenside, which is always threating. } 29...exd4
+30.Nxd4 Nxd4+ 31.Bxd4 c5 32.Bb2 c4 33.f4 b4 34.g4 Bd6 35.f5 $11 ) 29...Ng5 $1
+{ Forcing White to play h4, which later might be used as a 'hook' } 30.h4 Ne6
+31.Nb3 h5 { Fixing the pawns on the wrong color. } 32.Bd2 Bd6 33.c3 c5 34.Be3
+Ke7 35.Kd1 Kd7 36.Kc2 f5
+{ The top preference of the engine. I also thought about } ( 36...g5
+{ but after } 37.f3 gxh4 38.gxh4
+{ is harmless for White, because Black can never get to the h4-pawn } )
+37.Kd1 fxe4 { Objectively it was better to keep the tension with } ( 
+37...Kc6 38.Na5+ Kb6 39.Nb3 Be7
+{ and now Black has a choice between f4 and fxe4, depending on
+circumstances. But of course the position is still close to equal. } )
+38.dxe4 c4 39.Nd2 Nc5 40.Bxc5 $1
+{ At first to me it felt counter-intuitive, but in fact it is a good move.
+White eliminates Black's strong knight, and all his weakness can be
+protected by his king. } 40...Bxc5 41.Ke2 Kc6 42.Nf1 b4
+{ Otherwise White plays Ne3, where the pawn endgame is dead drawn. } 43.cxb4
+Bxb4 44.Ne3 Kc5 45.f4 { exchanging as many pawns as possible } 45...exf4
+46.gxf4 Ba5 47.f5 gxf5 48.Nxc4 $1
+{ a nice interlude move, using the classical theme of a wrong corner }
+48...Kxc4 49.exf5
+{ and White moves his king to h1, from where it can't be chased. Today we
+have seen yet another Rossolimo Sicilian, where Magnus gradually equalised,
+and even tried to take over in the endgame. Caruana managed to draw with ease though. I am interested if in case of another 2...Nc6 Sicilian, Caruana
+will play 3.d4!? Or perhaps he will switch to another opening? The future will tell, but before reaching it, tomorrow he has to defend with Black first. }
+1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.13"]
+[Round "4"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1/2-1/2"]
+[Annotator "Michael Adams"]
+[BlackElo "2832"]
+[ECO "A29"]
+[EventDate "2018.11.09"]
+[WhiteElo "2835"]
+
+
+{ After the second game Carlsen would have been very keen to avoid Caruana
+demonstrating how good his preparation is again, but despite a slightly
+unexpected first move, he had another frustrating day with the White pieces. }
+1.c4 e5 ( 1...e6
+{ would be an option to try to steer the game back towards the QGD of game
+2. } ) 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5
+{ Although we haven't seen an Open Sicilian when Caruana is White (yet),
+here we get one with reversed colours. } 5.cxd5 Nxd5 6.Bg2 Bc5 7.O-O O-O 8.d3
+Re8 ( 8...Bb6 $5
+{ was played by Alexander Grischuk against Pavel Eljanov in the Geneva
+Grand Prix last year which brought this line to prominence. Since then many
+players have picked up the idea, including myself. } ) 9.Bd2 ( 
+{ Fabiano played the White side of this position against me! } 9.Ng5 $5 Nf6
+10.Qb3 Qe7 11.Nd5 Nxd5 12.Bxd5 Nd8
+{ Now it's hard to intensify the pressure and Black is not doing badly. }
+13.Qc4 Bd4 $1 { preventing the queen transferring to e4. } ( 13...Bb6 14.Qe4
+) 14.Bg2 h6 15.Nf3 Nc6 16.Be3 Bxe3 17.fxe3 e4 18.dxe4
+{ The Irish pawn centre as Tony Miles dubbed tripled pawns is often not as
+bad as it looks - here the position is roughly balanced. } 18...a5 19.a3 Ra6
+20.Rac1 Rb6 21.Rc2 Be6 22.Qc3 Rb3 23.Qd2 Rd8 24.Qc1 a4 25.Rc5 Rd7 26.h3 Qd8
+27.g4 g6 28.Kh1 Kg7 29.e5 Bd5 30.Kg1 Be6 31.Kf2 Qe7 32.Kg1 Rd5 $6 ( 
+{ After } 32...Qd8
+{ it's hard for either side to do anything, now things went wrong for me. } )
+33.Rc4 Ra5 34.Rc2 Bd5 35.Nd4 Nxd4 36.exd4 Rg3 37.Rf3 Bxf3 38.exf3 c6 39.Kh2
+Rxg2+ 40.Kxg2 Rd5 41.Rc4 c5 42.Rxc5 Rxd4 43.Qc3 Qd8 44.Rc8 Qb6 45.Re8 g5
+46.Re7 Kg8 47.e6 fxe6 48.Qc2 Kf8 49.Rh7 Qc6 50.Qxc6 bxc6 51.Rxh6 Kf7 52.Kg3
+Rd2 53.Rh7+ Kf6 54.Rb7 Ke5 55.h4 gxh4+ 56.Kxh4 Kf4 57.Rf7+ Ke3 58.Kg3 Rd1
+59.g5 Rg1+ 60.Kh4 Rg2 61.Rf6 e5 62.g6 Rxb2 63.Kg5 Rg2+ 64.Kh6 Rh2+ 65.Kg7 c5
+66.Kf7 c4 67.g7 Rh7 68.Ra6
+{ 1-0 (68) Caruana,F (2799)-Adams,M (2715) London 2017 } ) 9...Nxc3 10.Bxc3
+( { It looks more natural to capture towards the centre } 10.bxc3
+{ but then White's minor pieces are in each other's way after } 10...h6 $5 ( 
+10...e4 $5 11.dxe4 Qe7 { could also be interesting. } ) ) 10...Nd4 ( 
+{ Not the only move, but it counters White's threat: } 10...a5 11.Nxe5 Nxe5
+12.d4 $14 ) 11.b4 ( 
+{ Magnus was already thinking a bit here, somewhat surprisingly given
+Caruana played this only 5 months ago, in almost his last game against the
+English! } 11.Rc1 Bb6 12.Re1 Bg4 13.Bxd4 exd4 14.a3 c6 15.Nd2 a5
+{ Black was comfortable here in the blitz game So - Caruana. Magnus chooses
+a more critical move, gaining some queenside space. } ) 11...Bd6 ( 
+{ This unnatural move was played quickly } 11...Bf8
+{ allows White the option of } 12.Nxe5 Rxe5 13.e3 ) ( 11...Bb6 12.a4
+{ is also not straightforward. } ) 12.Rb1 ( 12.Nxd4 $5 exd4 13.Bxd4 Bxg3 ( 
+13...Bxb4 ) 14.hxg3 Qxd4
+{ looks like it could be interesting, but with home analysis no doubt Black
+survives. } ) ( 12.e3 $5 ) 12...Nxf3+ 13.Bxf3 a6 14.a4 c6 15.Re1 $5 ( 15.Qc2
+$5 ) ( { The critical move must be } 15.b5 $1 { Could } 15...cxb5 $5 ( 
+15...axb5 16.axb5 Bd7 ( 16...Bh3 $2 17.bxc6 bxc6 18.Bxc6 $16 ) 17.bxc6 Bxc6
+18.Bxc6 bxc6 19.Qc2 $14
+{ looks no fun at all for Black. Perhaps Magnus was concerned 15.b5 would
+still be within his opponent's homework. } ) 16.axb5 a5 { be Black's idea? }
+) 15...Bd7 { Preventing the b5 break for now. } 16.e3 Qf6 ( 16...Qe7 $5
+{ was also possible. } ) 17.Be4 Bf5 ( { A forcing option } 17...Rad8 $5
+{ still looks sensible to me. } ) 18.Qf3
+{ Magnus is also happy to swap material. } 18...Bxe4 19.Qxf6 gxf6 20.dxe4
+{ Black's kingside structure is ugly but it won't be easy to get at it. }
+20...b5 { fixing the pawn on b4 as a target for the Black bishop. } 21.Red1
+( { Another fast move } 21.Rb2 $5 { was another option. } ) 21...Bf8 22.axb5
+axb5 ( 22...cxb5 { is met by } 23.Be1 Rec8 24.Rdc1
+{ preventing the Black rook getting to c4. } ) 23.Kg2
+{ White's king would like to get to f5 but that's not going to happen. }
+23...Red8 24.Rdc1 Kg7 25.Be1 Rdc8 26.Rc2 Ra4
+{ It's hard for White to improve as he is tied to the b4 pawn. } 27.Kf3 ( 
+27.g4 $5 ) 27...h5 { A good move taking some space on the kingside. } 28.Ke2
+Kg6 29.h3 f5
+{ Getting rid of the doubled pawns and improving the Black king position }
+30.exf5+ Kxf5 31.f3 Be7
+{ The position is fairly dead and the players bring proceedings to a swift
+conclusion. } 32.e4+ Ke6 33.Bd2 ( 33.Rbc1 { can be met by } 33...Kd7 { or }
+( 33...Bxb4 { as in the next note. } ) ) 33...Bd6 34.Rbc1 { Draw agreed as }
+34...Kd7 ( { Even } 34...Bxb4 35.Bxb4 Rxb4 36.Rxc6+ Rxc6 37.Rxc6+ Ke7 38.Rh6
+Rb2+ { is fine as there is no way to hide from the checks. } ) 35.Rb1
+{ repeats } 1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.15"]
+[Round "5"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[Annotator "Sam Shankland"]
+[BlackElo "2835"]
+[ECO "B31"]
+[EventDate "2018.11.09"]
+[WhiteElo "2832"]
+
+
+{ The fifth game produced the fifth draw, but unlike the last few
+encounters, this one was much more notable and interesting. It was the
+first time Magnus at least seemed to get caught in the opening to some extent, and the first time I wondered if he might actually get himself
+into trouble. Still, when pressured to find some difficult moves, he managed to keep his head above water without much trouble. }
+1.e4 c5 2.Nf3 Nc6
+{ Magnus clearly is sticking with the Sicilian, but each game is getting
+tougher for him. I will be interested to see if he pivots in game 8 or if
+he sticks with it all the way through, because the trend is not going his direction. }
+3.Bb5 g6 4.O-O { A new move for the match. } ( 4.Bxc6
+{ Carana chose to take on c6 in the previous two encounters. } ) 4...Bg7
+5.Re1 e5 ( 5...Nf6
+{ I would be interested to know what Caruana had in mind here. I would not
+be surprised if he was hoping to transpose back to the Bxc6 lines now that
+Black has committed to Nf6, and can't play the Qc7 stuff he tried previously. }
+6.Bxc6 $5 dxc6 7.d3 ) 6.b4 $5
+{ An enterprising, aggressive, and very principled move. Black does not
+need to do much to equalize, and the c5 pawn promises him strong central
+control. If he could play Nge7 and get castled, he might even have the more comfortable game. But for the moment, he is behind on development, and
+White tries to break down the center and open the position before that happens. }
+( 6.c3 $2 { Continuing quietly with a normal developing move will not do. }
+6...Nge7 7.d3 O-O
+{ I already prefer Black. He has an easy plan to play d6, h6, and
+eventually f5, launching a kingside attack, and I can't think of much for
+White to do. } ) 6...Nxb4 $1 ( 6...cxb4 { Is also possible, but after } 7.a3
+$1
+{ White has excellent compensation in a weird Sicilian-Benko hybrid. If
+Black is too insistent about keeping his extra pawn, he can get into
+massive trouble: } 7...bxa3 $2 ( 7...b3 $1
+{ Is to be preferred, leading to rough symmetry and good chances to
+equalize, although it still looks unpleasant to me. } ) 8.Bxa3 Nge7 9.Bd6 $1
+{ Black is already more or less lost. His pieces have no good route to get
+into the game and Nc3-d5 is coming. } ) 7.Bb2
+{ White is down a pawn but his lead in development is very dangerous, as
+the game shows. } 7...a6 ( 7...Qb6 { This was also possible, but after }
+8.Na3 $1 a6 9.Bf1 Nc6 10.Nc4 Qc7 11.c3 $1
+{ Black cannot prevent d2-d4, when the position opens up faster than he
+will enjoy. The machine thinks he is okay, but it looks terrifying for a
+human. } ) ( 7...Qc7 { Is also too materialistic. After } 8.c3 $1 Nc6 9.d4 $1
+{ White's lead in development should soon become a big problem for Black
+when the center opens. } ) 8.a3 $1 axb5 9.axb4 Rxa1 10.Bxa1
+{ Caruana was still blitzing his moves and clearly in preparation. This was
+the first moment in the match where I thought he might have chances to
+score a full point. Black's center is coming under serious fire and he is not too close to castling yet. }
+10...d6 ( 10...Ne7 11.bxc5 O-O
+{ Getting castled as soon as possible comes at a heavy price. White wins a
+central pawn, and the game. } ( 11...d6 $1 { Transposes to the game } )
+12.Bxe5 ) 11.bxc5 Ne7 $1 ( 11...dxc5 $2
+{ Of course it is senseless to lose the e5 pawn and fall further behind on
+development. } 12.Bxe5 { Black is in big trouble } ) 12.Qe2 $5
+{ I'm not sure what this move was about. } ( 12.cxd6
+{ The computer is pretty insistent that this is the best try. after }
+12...Qxd6 13.d4 $1 exd4 14.Bxd4 O-O 15.Bxg7 Qxd1 16.Rxd1 Kxg7
+{ White has a slightly better endgame due to his better structure, but I
+think it should be holdable. Perhaps Caruana reached the same conclusion
+and chose to play the "objectively inferior" Qe2 (according to the machine) hoping to make use of the practical chance that Black was in a position
+where a mistake would be more costly. } ) 12...b4 $1
+{ Material is equal, and Black cannot afford to lose a pawn. This must have
+been an unsettling moment for Magnus, but he found the best move. } 13.Qc4
+{ Caruana was still blitzing, but I think he must have confused his
+preparation or forgotten something. He started thinking quite a bit after
+Black's next move, which is the first choice of the machine! I can gaurantee that while preparing this line, if one reaches this position, they
+would certainly check Qa5 as it's the computer's recommendation and the most obvious move. So it is very surprising to me that Caruana would blitz up to here, and only then start thinking. I have a feeling he got confused or misremembered something, but one can never truly know what
+went on. } ( 13.Qb5+ Nc6 { Leads nowhere for White } ) 13...Qa5 $1
+{ Simple and strong, but has to be well calculated. Black hits the a1
+bishop, defends the b4 pawn to prepare for Bc8-e6, and pressures the
+c5-pawn. Play now takes on a very forced nature. } 14.cxd6
+{ Entirely forced. } ( 14.Bb2 $2 Be6
+{ White loses the c-pawn, and probably the game. } 15.Qe2 Qxc5 ) ( 
+{ Ed note: At press conference, Caruana mentioned that } 14.d4
+{ "Is ridiculous and probably losing for White" -- Caruana. } 14...Qxa1
+15.cxd6 Nc6 16.d5 { and it doesn't look like it should work, perhaps after }
+16...Na7 { but the computer actually likes White after } 17.Qxb4 ) 14...Be6
+$1 { An important resource. } 15.Qc7 Qxc7 16.dxc7 Nc6 $1
+{ Black has a very healthy position in the longrun. He can play Kd7, take
+the c-pawn, bring a rook to the a-file, and enjoy the bishop pair. White's
+only chance is to try to make something of his lead in development before Black consolidates- the typical story of any Sicilian. }
+17.c3 { This doesn't do much and Magnus is absolutely fine now. } ( 17.d4 $5
+{ Blasting open the center at all costs was worth a shot, but Black should
+equalize with precise play. The moves are very forcing and not that
+difficult. } 17...exd4 18.Rd1 d3 $1 { Now things get messy, albeit briefly. }
+( 18...Kd7 { Probably holds, but won't be fun. } 19.Nxd4 Nxd4 20.Bxd4 Bxd4
+21.Rxd4+ Kxc7 22.Rxb4 Ra8
+{ With no weaknesses, active pices, and chances to play for a 4 vs 3 rook
+ending in the worse case scenario, I suspect Black would eventually hold
+this. But he will suffer a lot first. } ) 19.Bxg7 dxc2 20.Rc1 Rg8 $5
+{ The machine gives a slightly psychotic line, which is fun, but also
+unnecessary. } ( 20...cxb1=Q { The human move equalizes easily. } 21.Rxb1 Rg8
+$11 ) 21.Bd4 Nxd4 22.Nxd4 cxb1=Q 23.c8=Q+ $1
+{ This does not change the result, but a double queening is amusing. } ( 
+23.Rxb1 Kd7 { Is also a draw } ) 23...Bxc8 24.Rxb1 Kd7 25.Rxb4 $11 ) ( 
+17.Rd1 $1
+{ This was probably the best chance to make trouble. Still, I think Black
+should hold. } 17...Kd7 18.d4 Bg4 $6 ( 18...exd4 19.Nxd4
+{ Black is forced into the 18...Kd7 line of the 17. d4 variation, with an
+unpleasant but probably holdable position. } ) 19.d5 ( 19.dxe5+ Kxc7
+{ Is better for Black, as he will regain the e-pawn with a lot of activity
+} ) 19...Nd4 20.Nbd2 $1 Rc8
+{ The machine calls this equal but it looks a little unpleasant for Black
+to me. I'd worry about the protected passer on d5. } 21.Nc4 $1 ) 17...Kd7
+18.cxb4 Ra8 19.Bc3 Kxc7
+{ White won the b4-pawn, but it will be a hard pawn to maintain. He
+certainly is not better as the short and long term weakness of the b4-pawn
+and the horrible knight on a1 provide Black with excellent compensation. }
+20.d3 Kb6 ( 20...b5 $5
+{ Magnus could have tried fixing the pawn on b4 as a long term weakness,
+and eventually try to pick it off with some combination of Ra4 and/or f6
+followed by Bf8. This would have given him some vague chances to play for an edge, but I don't think it would be enough to win. }
+) 21.Bd2
+{ From here on out, the game follows a very forced line that chops all the
+pieces off. } 21...Rd8 22.Be3+ Kb5 23.Nc3+ Kxb4 24.Nd5+ Bxd5 25.exd5 Rxd5
+26.Rb1+ Kc3 ( 26...Ka4 27.Rxb7 Rb5 { Is also a draw } ) 27.Rxb7 Nd8 $1
+28.Rc7+ Kxd3
+{ Black has won a pawn, but his minor pieces are stuck and passive, plus
+his king is a little vulnerable, so he has no serious winning chances. }
+29.Kf1 h5 ( 29...e4 $2
+{ Setting the pawn majority in motion is not to be recommended! } 30.Ne1# )
+30.h3 Ke4
+{ The simplest route to a draw. White should take the f7 pawn before Black
+gets the king far enough back to consolidate and hoping to push with 4 vs
+3. } 31.Ng5+ Kf5 32.Nxf7 Nxf7 33.Rxf7+ Bf6
+{ An interesting game, and probably the first seriously unsettling one for
+Carlsen. I'll be interested to see if he repeats the Sicilian again in game
+8, or if he pivots to something else, as he has thus far done in his two white games. }
+1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.15"]
+[Round "5"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[Annotator "Aryan Tari"]
+[BlackElo "2835"]
+[ECO "B31"]
+[EventDate "2018.11.09"]
+[WhiteElo "2832"]
+
+1.e4 { Not surprisingly, Caruana sticks to his usual first move. } 1...c5
+{ Again a Sicilian by Carlsen, which is logical considering the fact that
+Black was doing quite OK in the previous games. } 2.Nf3 Nc6 3.Bb5 ( 3.d4 cxd4
+4.Nxd4
+{ I would be very interested in which variation Carlsen would chose here,
+and I hope we will see this in one of the upcoming games. } ) 3...g6 4.O-O $5
+{ White diviates from games 1 and 3, where he played Bxc6. This logical
+move is also very popular, and played many times on the top level. } 4...Bg7
+5.Re1 e5
+{ As in the earlier games, Magnus likes to put his pawn on e5 as early as
+possible, not allowing e4-e5. } 6.b4 $5
+{ Played instantly by Caruana and clearly his preperation. This move made
+me happy to watch, as it looks sharp and interesting. The most dangrous
+scenario for Carlsen would now to be unprepared for this move. But actually he had faced it before! }
+( 6.c3 { is how White usually continues when they don't take on c6. } )
+6...Nxb4
+{ Played after only a few minutes thought, which means that Carlsen was
+probably ready for this line. } ( 6...cxb4
+{ is what Carlsen answered as a young kid many years ago, and the move
+which seems most logical. The game followed: } 7.a3 Nge7 ( 7...b3
+{ Played recently by Grischuk with success against Bacrot in rapid. The
+point is just to sacrifice the pawn back and keep the a-file closed, and
+then to just develop. } 8.cxb3 Nge7 9.Bb2 O-O 10.d4 ( 10.b4
+{ 0-1 (48) Bacrot,E (2708)-Grischuk,A (2761) Paris 2017 } 10...d5 $1 $146
+{ And Black is first to strike in the center with a good game. } ) 10...d5
+{ with a complicated battle } ) 8.axb4 O-O 9.Bxc6 bxc6 10.Bb2 d6 11.d4 f6
+12.Nbd2 $14
+{ Where Black was quite passive and the White posistion looks very nice.
+½-½ (52) Stellwagen,D (2524)-Carlsen,M (2553) Wijk aan Zee 2005 CBM 105
+[Finkel,A] } ) 7.Bb2
+{ Simply developing the bishop to a good square and threatening a pawn.
+Other moves do not make much sense. } ( 7.c3 Nc6 8.d4 exd4 9.cxd4 Nxd4 $1 $17
+) 7...a6
+{ Again played quite fast, probably meaning that Carlsen was just spending
+some time remembering his analyses. } ( 7...Qc7
+{ is also a move to consider, just protecting the pawn. } 8.c3 Nc6 9.d4 d6
+{ I would be curious to see what Caruana had planned here, but it looks
+easier to play White as he has the attacking chances. } ( 9...Nf6 10.dxc5 $14
+{ looks nice for White } ) 10.d5 a6 11.Na3 Ke7 $13
+{ With an unclear and very sharp game. I believe that White has
+compensation for a pawn at least, but if he is better or not remains a
+question. Black went on to win a fighting game in 0-1 (44) Rapport,R (2676) -Granda Zuniga,J (2665) Camarinas 2013 }
+) 8.a3 { The only challenging move, still in Caruana's preperation. } ( 
+8.Bf1 $2 { Just does not make sense, and after } 8...Nc6
+{ White cannot play Bxc6 and Black remains a pawn up. } ) 8...axb5
+{ Played after 5 minutes of thought, and I believe it was still in his
+preperation. This leads to some simplifications, which is usually
+beneficial for the defending side: } ( 8...Nc6 9.Bxc6 dxc6 10.Nxe5 Nf6 11.Nf3
+{ Was also a possibility, but I would chose White as he has the better
+structure here. } ) 9.axb4 Rxa1 10.Bxa1 d6
+{ Defending the important e5 pawn. } ( 10...cxb4 11.Bxe5 $1
+{ Does not look so healthy for Black } 11...Bxe5 12.Nxe5 Ne7 13.Qe2 $14 )
+11.bxc5 Ne7
+{ Finally Black gets time to develop his knight and is preparing to get the
+king to safety. White must try to create something fast, as if Black gets
+one more developing move he has a perfectly fine posistion with the bishop pair. }
+12.Qe2
+{ Forcing the play. Still blitzed out by Caruana and his prep, although it
+does not lead to much: } ( 12.cxd6 Qxd6 13.d4
+{ Looked very logical to me, opening up the game before Black has castled.
+} 13...exd4 14.Bxd4 ( 14.e5 Qb4 15.Nxd4 ( 15.Qxd4 Qxd4 16.Nxd4 b4
+{ Black will castle next and have nothing to worry about. } ) 15...O-O
+{ Black has activity and a nice posistion } ) 14...O-O 15.Bxg7 Qxd1 16.Rxd1
+Kxg7
+{ A critical posistion. The question remains if White can create something
+against Black's doubled pawns in this ending, but probably Black is too
+active. } 17.Na3 ( 17.Nd4 b4 18.Nd2 Rd8 $132 ) 17...b4 18.Nc4 Nc6 $11 )
+12...b4 { The only move which saves the pawn. } ( 12...O-O $2 13.Qxb5 $16
+{ Would just lose a pawn. } ) 13.Qc4
+{ Renewing the threat and stopping Black from castling. } ( 13.c3 Nc6 14.cxb4
+dxc5 15.bxc5 Qa5 16.Nc3 Qxc5 ) ( 13.Qb5+ Nc6
+{ and Black should be OK as he gets to castle next! } ) 13...Qa5 $1
+{ Forcing the queens off: } ( 13...Nc6 14.d4 $1 { Seems dangrous for Black: }
+14...exd4 15.Nxd4 Bxd4 ( 15...Nxd4 16.Bxd4
+{ would lead to collapse of the Black posistion } 16...O-O 17.Bxg7 Kxg7
+18.Rd1 $16 { and White wins a pawn. } ) 16.Bxd4 Be6 ( 16...O-O $2 17.cxd6
+Qxd6 18.Bc5 $18 { loses the exchange. } ) 17.Qb5 O-O 18.Be3
+{ White has a risk-free advantage. } ) 14.cxd6 ( 14.Bb2 $2 Be6 $17 ) 14...Be6
+( 14...Nc6 15.d4 $1 $36 Qxa1 16.d5 { Looks only fun for White } ) 15.Qc7 ( 
+15.Qe2 Qxa1 16.dxe7 Qa6 $1 { Black is doing great } ) 15...Qxc7 16.dxc7 Nc6
+$11
+{ Protecting the important e5-pawn before planning to eat the pawn on c7
+with Kd7. I guess that probably around here the notes of the players ended,
+and they are on their own. We have reached a position where White has a healthier structure, but at the same time Black has the bishop pair and some
+activity - I would say enough counterplay for being OK. Still White needs to spend some tempi to bring the b1-knight to life. Black should be happy about the outcome of the opening! }
+17.c3 { Prepares to bring the b1-knight into the game. } ( 17.Rd1
+{ What I was expecting. Simply preparing to open up with d2-d4. } 17...Kd7
+18.d4 b3 $1
+{ A surprising move, but it solves the problems mainly because of the
+activity: } ( 18...exd4 19.Nxd4 Nxd4 20.Bxd4 Bxd4 21.Rxd4+ Kxc7 22.Rxb4 Kc6
+{ and the question is if Black has enough compensation for the pawn, but it
+is clear that White is in the driver's seat at least: } 23.Nc3 Ra8 24.Kf1 $14
+{ And Black is the one who has to play precisely in order to make a draw. } )
+19.Nxe5+ ( 19.dxe5+ Kxc7 20.cxb3 Bxb3 $44
+{ Black is too active and has a nice b-pawn. I would definetly take Black
+in this posistion. } ) ( 19.cxb3 Bxb3 $15 ) 19...Kxc7 $1 ( 19...Nxe5 20.dxe5+
+Kxc7 21.cxb3 Bxb3 22.Rc1+ $14 ) 20.cxb3 Ra8 21.Nd2 ( 21.Nc3 Bxb3 $1 )
+21...Bxe5 22.dxe5 Ra2
+{ Although Black is two pawns down, he has enough compensation: Extremely
+active and good king, and the b3 pawn should fall at some point. The White
+pieces are rather stuck. } ) 17...Kd7 ( 17...b3 $2 18.d4 $18 { is a killer! }
+) 18.cxb4 Ra8
+{ Annoying move. Although he could take on c7, it makes more sense to get
+the rook to a better square first. } 19.Bc3 ( 19.Nc3 $2 Nxb4 $1 ) ( 19.Bb2
+Ra2 $1 ) 19...Kxc7
+{ Black remains a pawn down, but still White did not solve the b1-knight
+problem, and Black has a much better king + bishop pair. Carlsen definetly
+has an easier posisiton here } 20.d3 { Gets a new square for the b1-knight. }
+( 20.Ng5
+{ Actually the only move that reaches equality. But quite desperate and not
+so logical.. } 20...Bc4 21.Nxh7
+{ Obviously an ice-cold way for a human to play... } ) ( 20.Rc1 Kd7 $15 )
+20...Kb6 $6 ( 20...b5 $1 $15
+{ The only chance Carlsen had in the game to be better. The b4-pawn is
+weak, and this just seems as a more comfortable posistion to play for
+Black. At least Caruana would have to be precise here. Usually Carlsen is always taking these small chances when he gets them, so I'm a bit
+curious what he missed. As the game continued, there was not much happening. }
+21.Kf1 ( 21.Bd2 Rd8 $1 22.Nc3 Rxd3 23.Nxb5+ Kb6 24.Nc3 Nd4 $17
+{ maybe the line Carlsen missed? } ) 21...Ra4 22.Bd2 Nxb4 ) 21.Bd2 $1
+{ Preparing Nc3, and kind of prophylactic against Kb5. } ( 21.Ng5 Kb5 22.Nxe6
+fxe6 23.Kf1 Bf8 $1 ) 21...Rd8 ( 21...Kb5 $6 22.Nc3+ Kxb4 23.Rc1 ( 23.Na4+ $1
+) ) 22.Be3+ Kb5 ( 22...Kc7 23.b5 $1 ) 23.Nc3+
+{ White finally gets to develop his knight and the posistion gets
+simplified: } 23...Kxb4 24.Nd5+ $1 { Basically a draw is forced. } 24...Bxd5
+( 24...Kb3 25.Rb1+ ) 25.exd5 Rxd5 26.Rb1+ Kc3 27.Rxb7 Nd8 $1 28.Rc7+ Kxd3
+{ Black is a pawn up, but White is too active and the d8 knight is stuck to
+protect f7. One of the pawns will be lost. } 29.Kf1 h5 ( 29...e4 $4 30.Ne1#
+{ Would be a funny mate! } ) 30.h3 Ke4 31.Ng5+ Kf5 32.Nxf7 $11 Nxf7 33.Rxf7+
+Bf6
+{ Black offered a draw as there is nothing to play for with 3 against 3
+pawns on same side. } 1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.16"]
+[Round "6"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1/2-1/2"]
+[Annotator "Duane Edmonds"]
+[BlackElo "2832"]
+[ECO "C42"]
+[EventDate "2018.11.09"]
+[WhiteElo "2835"]
+
+1.e4 e5 2.Nf3 Nf6
+{ Petroff Defence – Caruana is known for his strength in this opening. }
+3.Nxe5 d6 4.Nd3 Nxe4 5.Qe2 Qe7 6.Nf4 Nc6 7.Nd5 Nd4 8.Nxe7 Nxe2 9.Nd5 Nd4
+{ [diagram] Both Queens are already off the board. } 10.Na3 Ne6 11.f3 N4c5
+12.d4 Nd7 13.c3 c6 14.Nf4 Nb6 15.Bd3 d5 16.Nc2 Bd6 17.Nxe6 Bxe6 18.Kf2
+{ [diagram] } 18...h5 19.h4 Nc8 20.Ne3 Ne7 21.g3 c5 $1
+{ [diagram] Great move to open the position. } 22.Bc2 $6
+{ "This move was the start of Carlsen's troubles." S.Shankland } ( 22.Ng2
+{ preparing for Bf4 } ) 22...O-O 23.Rd1 Rfd8 24.Ng2
+{ "[Carlsen] makes the positional threat of dxc5 followed by Be3 to make an
+isolated d5-pawn." S.Shankland } 24...cxd4 25.cxd4 Rac8 26.Bb3 Nc6 27.Bf4 Na5
+28.Rdc1 ( 28.Bxd6 $2 Nxb3 $1 29.axb3 Rc2+ $1 ) 28...Bb4 29.Bd1 Nc4 30.b3 Na3
+31.Rxc8 Rxc8 32.Rc1 Nb5 33.Rxc8+ Bxc8 { [diagram] } 34.Ne3 $6 Nc3 35.Bc2 Ba3
+$1 36.Bb8 $6 a6 37.f4 Bd7 $1 38.f5 Bc6 39.Bd1 Bb2 40.Bxh5 Ne4+ ( 40...Nxa2 $5
+) 41.Kg2 Bxd4
+{ [diagram] Caruana now has a dangerous passed pawn on the d-file. } 42.Bf4
+Bc5 { Caruana makes room to advance the d-pawn. } 43.Bf3 $1 Nd2 { [diagram] }
+44.Bxd5
+{ Magnus chooses to exchange the light square Bishop for three pawns in
+order to remove the threat of continued advancement of the passed d-pawn. }
+44...Bxe3 45.Bxc6 Bxf4 46.Bxb7 Bd6 47.Bxa6 { [diagram] } 47...Ne4 48.g4 Ba3
+$1
+{ [diagram] With this move, Fabiano wins one of the connected Queenside
+pawns. Magnus admitted during the press conference that he missed this
+possibility when calculating 41...Bxd4. } 49.Bc4 Kf8 50.g5 Nc3 51.b4 $1
+{ [diagram] Carlsen wisely chooses to give up the b-pawn and preserve the
+pawn on the a-file. Caruana's dark square Bishop can control the b8 square
+preventing promotion. This is not the case with a8. The a-pawn is also the pawn furthest away from the Caruana's King. }
+51...Bxb4 52.Kf3 Na4 53.Bb5 Nc5 54.a4 { [diagram] } 54...f6 55.Kg4 $1 Ne4
+56.Kh5 Be1 $1 57.Bd3 Nd6
+{ [diagram] The Bishop on e1 controls both the a5 square preventing the
+advancement of a-pawn and the h4 square preventing 57.Kg6 and the attempted
+formation of a fortress. } 58.a5 $3 { Forcing the e1 Bishop to move. }
+58...Bxa5 59.gxf6 ( 59.Kg6 Bd8 60.gxf6 Bxf6 61.h5 Nf7
+{ and there is no longer any threat of a passed pawn. } ) 59...gxf6 60.Kg6
+Bd8 61.Kh7 Nf7 62.Bc4 Ne5 63.Bd5 Ba5 64.h5 Bd2 65.Ba2 Nf3 66.Bd5 Nd4 67.Kg6
+$2 ( { Correct is } 67.Bc4 ) 67...Bg5 68.Bc4 Nf3 { (Stockfish 9:-1.28/84) }
+( 68...Bh4 $3 { (Stockfish 9:-4.05/94) } 69.Bd5 Ne2 70.Bf3 Ng1 71.Bg4
+{ [diagram] "The computer shows Black wins with 68..Bh4 here. But had
+Caruana played the incredible 69.Bd5 Ne2 70.Bf3 Ng1!! they would request
+metal detectors immediately! No human can willingly trap his own knight like that." G.Kasparov }
+71...Kg8 72.Kh6 Bf2 73.Kg6 Bd4 74.Kh6 Be3+ 75.Kg6 Bg5
+{ [diagram] Here, we've reached a sort of zugzwang position. With White to
+move, the game is lost. This is the position the computer (Elo 3390)
+anticipated. } 76.Bd1 $2 ( 76.h6 { does not fair much better for White. }
+76...Kh8 77.Kh5 Kh7 { [diagram] and White's position is lost. } ) 76...Nh3
+{ [diagram] Threatening 77...Nf4#. } 77.Bb3+ Kh8 78.Kf7 Kh7
+{ [diagram] White can no longer protect the h-pawn. } ) 69.Kh7 $1
+{ [diagram] } 69...Ne5 70.Bb3 Ng4 71.Bc4 Ne3 72.Bd3 Ng4 73.Bc4 Nh6 74.Kg6 Ke7
+75.Bb3 Kd6 76.Bc2 Ke5 77.Bd3 Kf4 78.Bc2 Ng4 79.Bb3 Ne3 80.h6 Bxh6
+{ Both players agreed to a draw after an intense six-and-a-half hour fight
+in which the World Champion narrowly avoided defeat. Certainly the most
+exciting game of the championship match so far. Carlsen 3.0 – Caruana 3.0 }
+( 80...Bxh6 81.Kxh6 Nxf5+ ) 1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.18"]
+[Round "7"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1/2-1/2"]
+[Annotator "Sam Shankland"]
+[BlackElo "2832"]
+[ECO "D37"]
+[EventDate "2018.11.09"]
+[WhiteElo "2835"]
+
+1.d4
+{ As I predicted, Carlsen goes back into a line that he had seen
+previously, and came with a hopeful improvement in mind. Eventually one
+runs out of good first moves to try! } 1...Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7
+5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.Qc2 Nc6 9.a3 Qa5 10.Nd2 ( 10.Rd1
+{ Carlsen chose this in game 2. Caruana countered with the very unusual }
+10...Rd8
+{ Which Magnus presumably did not find anything good against in the days
+between games 2 and 7. Otherwise he likely would have tried this again. } )
+10...Qd8 $5
+{ Another extremely rare move. Caruana definitely was well prepared with
+this c5 line. } ( 10...Be7 { and } ) ( 10...Bb4
+{ Are the mainlines. I had marked the latter as the best move in my own
+analysis, though it was old work and could definitely be wrong. } ) 11.Nb3
+Bb6 12.Be2 ( 12.Rd1
+{ I thought White might want to make a useful developing move and hope to
+recapture on c4 in one move- this is hardly an uncommon occurrence in
+Queen's Gambit positions. But Black does seem fine after the accurate }
+12...Qe7 $1 { Pointing out that White cannot comfortably take on d5. }
+13.cxd5 $2 ( 13.Be2 dxc4 14.Bxc4 Rd8
+{ Would be prudent, but I think Black is easily equalizing. } ) 13...Nxd5 $1
+14.Nxd5 exd5
+{ The pawn is taboo as White is too far behind on development (in fact he
+is already worse.) } 15.Rxd5 $2 Be6 16.Rd3 Rac8
+{ The goons are coming and White will be crushed long before he can get
+castled. } ) 12...Qe7 13.Bg5 $1
+{ The most challenging move. Black now has to be pretty accurate to
+maintain a tenable position, but it's not such a difficult task and Caruana
+had no problem managing. } ( 13.cxd5 Nxd5 14.Nxd5 exd5 15.O-O d4
+{ Would promptly lead to a draw. Magnus' choice is more ambitious. } )
+13...dxc4 $1
+{ This will allow Black's kingside pawns to be compromised, but it turns
+out not to be an issue as he will get a lot of counterplay. } ( 13...h6 $2
+14.cxd5 $1 { Favors White. } ) 14.Nd2 ( 14.Bxc4 Bd7
+{ Is nothing for White. His pieces don't coordinate very well. } ) 14...Ne5
+$1
+{ Basically the last important move of the game. Black protects the c4 pawn
+so that White will have to make some concessions to get it back if he
+wishes to compromise the black kingside. } ( 14...Bd7 $2
+{ An innocent move like this one could lead to some trouble after } 15.Nxc4
+Bc7 16.Ne4
+{ When Black cannot prevent his kingside pawn cover from being disturbed. } )
+15.O-O ( 15.Nce4
+{ A move like this would definitely mess up the Black kingside, but it
+comes at a heavy price as c4 will be hard to recapture. Following } 15...Bd7
+16.Nxc4
+{ White has taken the c4 pawn back and if he could consolidate and chop on
+f6, he'd have some chances. But after } ( 16.Nxf6+ $2 gxf6 17.Bh6 Rfc8
+{ Favors Black, as White will not be able to take back on c4 and I don't
+think his attacking chances are so great. } ) ( 16.Qc3
+{ Caruana thought White needed to play this move for a chance at something.
+His line goes: } 16...Nxe4 17.Nxe4 f6 18.Qxe5 fxg5 19.Bxc4 Rac8 20.Bb3 h6
+21.O-O
+{ "If White consolidates this it could potentially get a bit unpleasant for
+me." -- Caruana. The two players discussed this line at the board after the
+game. "I wasn't sure about this at all." -- Carlsen } ) 16...Nxc4 17.Bxc4
+Rfc8 $1 { Black has enough activity to hold the balance. } 18.O-O Bc6 $1
+19.Nxf6+ gxf6 20.Bh4
+{ If White had one move to consolidate he would be somewhat more
+comfortable, but after } 20...Bd5 $1 21.b3 Bxc4 22.bxc4
+{ White is left with pawn weaknesses of his own, and the position is
+balanced. } ) ( 15.f4 { "Interesting but probably nonsensical." -- Carlsen. }
+) 15...Bd7 16.Bf4 Ng6 17.Bg3 Bc6 18.Nxc4 Bc7
+{ Someone more imaginative than me might find something interesting to say
+about the rest of this game, but I certainly can't. It's a tribute to the
+30-move rule that the players did not shake hands right here. } 19.Rfd1 Rfd8
+20.Rxd8+ Rxd8 21.Rd1 Rxd1+ 22.Qxd1 Nd5 23.Qd4 Nxc3 24.Qxc3 Bxg3 25.hxg3 Qd7
+26.Bd3 b6 27.f3 Bb7 28.Bxg6 hxg6 29.e4 Qc7 30.e5 Qc5+ 31.Kh2 Ba6 32.Nd6 Qxc3
+33.bxc3 f6 34.f4 Kf8 35.Kg1 Ke7 36.Kf2 Kd7 37.Ke3 Bf1 38.Kf2 Ba6 39.Ke3 Bf1
+40.Kf2
+{ I'll be interested to see what happens tomorrow, and if we get a fourth
+Rossolimo or not. } 1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.18"]
+[Round "7"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1/2-1/2"]
+[Annotator "Daniel Fernandez"]
+[BlackElo "2832"]
+[ECO "D37"]
+[EventDate "2018.11.09"]
+[WhiteElo "2835"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5
+{ Straight into one of the thematic battlegrounds of the world champions!
+This is an opening that seems to be very much beloved by Nakamura, Anand,
+and more recently Caruana himself. } 7.dxc5 ( 7.cxd5 Nxd5 8.Nxd5 Qxd5
+{ holds less venom and was the battleground for an encounter between a
+Topalov second and a Carlsen second... Edouard,R -Hammer,J Drancy 2016 } )
+7...Bxc5 8.Qc2 ( 8.cxd5 Nxd5 9.Nxd5 exd5 10.a3 Nc6 11.Bd3
+{ To be honest, I am a little surprised Carlsen didn't choose this. He
+tends to like playing against the IQP, and while it might appear that Black
+can play ...d4, this is a mirage: either there will be some trick yielding an edge (like exd4 followed by Be3) or else White will simply push past
+with e4. The textbook encounter features a commentator from this match: }
+11...Bb6 12.O-O Bg4 13.h3 Bh5 14.b4 a6 15.Rc1 d4 16.g4 Bg6 17.e4 Re8 18.Re1
+Rc8 19.Bc4 $1 $14 { Svidler,P-Harikrishna,P Shenzhen 2017 } ) 8...Nc6 9.a3
+{ During Norway Chess 2018, when I last looked at this variation, I
+commented that I did not believe the present move to be White's most
+critical, but I am now revising this assessment. } 9...Qa5 10.Nd2
+{ On this move, my only earlier comment was that it "might be an
+interesting try for an advantage, but that it ultimately fails"- giving
+10...Bb4. The challenger, however, did not play that move, indicating that neither player reads the details on chessbase.com! }
+( 10.O-O-O $5
+{ See my detailed notes on this in Karjakin-Anand, Norway Chess 2018. }
+10...Ne4 $1 11.Nxe4 ( 11.Nb5 a6 12.Nc7 e5 $1 $40
+{ Originally played by Karjakin, but ultimately used against him by Anand
+in the above-mentioned encounter. } ) 11...dxe4 12.Qxe4 Bxa3 $1
+{ There follows a forced line. } 13.bxa3 Qxa3+ 14.Kd2 Rd8+ 15.Ke2 Qb2+ 16.Rd2
+Rxd2+ 17.Nxd2 e5 18.Bg3 Bg4+ $3
+{ New and detailed analysis now reveals that White needs to accept first
+the bishop and then the perpetual check which results after best play. } ) ( 
+{ Of course, } 10.Rd1
+{ is also possible. It is impossible to annotate the present game without
+paying attention to what occurred in the 2nd match game, and also more
+generally one of the defining decisions White faces in such games is the choice between long-castling and playing Rd1. }
+10...Re8 $1 ( 10...Be7
+{ is more common, but mistaken. In January 2018 I wrote that White has an
+edge after } 11.Be2 Ne4 12.cxd5 Nxc3 13.bxc3 exd5 14.O-O $14
+{ and I see no reason to change this verdict. } ) ( 10...Rd8
+{ was what happened in the 2nd game. I wonder what Fabi has in mind
+following 11.Nd2 here? } 11.Nd2 $5 ( 11.Be2 Ne4 12.O-O Nxc3 13.bxc3 h6 14.a4
+Ne7 15.Ne5 Bd6 $1 $11 { Carlsen, M-Caruana,F London WC (2) 2018 } ) 11...dxc4
+12.Bxc4 ( 12.Nxc4 $5 Rxd1+ 13.Qxd1 Qd8 14.Qxd8+ Nxd8 $14
+{ Caruana might have intended to defend this position, or a similar one,
+and make the structure into 'his Berlin'. Certainly, with the centre nearly
+bereft of pawns, it is difficult to turn the engine's '0.4' into something a human would recognise as a clear and lasting plus. }
+) 12...Be7 13.O-O Qh5 14.Nde4 Rxd1 15.Qxd1 Qxd1 16.Rxd1 Nxe4 17.Nxe4 e5
+$1 $11 { Roiz,M-Khamrakulov,D Tashkent 2011 } ) 11.Nd2 ( 11.Be2 e5 $15
+{ is the point } ) 11...e5 12.Bg5 Nd4 13.Qb1 $1 ( 13.Qc1 Bf5
+{ is liable to lead to a forced draw. } 14.Bxf6 Nc2+ 15.Ke2 Nd4+ $11
+{ Carlsen, M-Nakamura,H Douglas 2017 } ) 13...Bf5 14.Bd3
+{ White might have had a tiny something in Mamedyarov-Anand, Tata Steel
+2018, but this was ultimately neutralised. } ) ( 10.Ra2 $5
+{ This move is nice and experimental, but after the accurate retreats }
+10...Be7 11.b4 Qd8 12.h3
+{ Black should deviate from a Topalov game and play } 12...d4 $1 $11 )
+10...Qd8
+{ Perhaps Caruana is getting some kind of thrill out of playing this kind
+of thing: personally I don't consider Nd2 anywhere near the size of
+concession Black needs to extract to merit the 2 tempi. 10.Ra2, on the other hand, would do. The question was asked by a perplexed Anna Rudolf of
+exactly what Black has gained by these perambulations, as White always seems to win at least one tempo during them. }
+( 10...Bb4 $5 11.cxd5 exd5 12.Nb3 Bxc3+ 13.bxc3 Qd8 $132
+{ This continuation was seen in Topalov,V-Nakamura,H Paris 2017, and
+perhaps slightly biased by the fact that Black won the game, I concluded it
+was unlikely anyone would play 10.Nd2 for an advantage. To be honest, I still don't know what White would do here. }
+) ( 10...Be7
+{ This move was the majority choice in the 'live commentary' room helmed by
+GM Judit Polgar, as well as among grandmasters who have reached this
+position. } 11.Rd1
+{ is main and now England's fast-rising talent Shreyas Royal opined,
+completely correctly, that Black has to go ...e5! and let the pawns take
+care of themselves! } ( 11.Bg3 $5
+{ is an interesting idea that may give chances } ) 11...e5 12.Bg5 ( 12.Nb3
+Qb6 { gives White an extra tempo, but there is still nothing after } 13.Bg5
+d4 14.Bxf6 Bxf6 15.Nd5 Qd8 $11 ) 12...d4 $8 13.Nb3 Qd8 14.exd4 Nxd4 15.Nxd4
+exd4 16.Nb5
+{ Now, in my considered opinion, Black has to know about, and play, the
+ultra-precise } 16...Bd7 $1 { and only then does he stand equal. } ) 11.Nb3
+Bb6 ( 11...Be7
+{ is maybe just a little bit too easy for White to play, as there isn't any
+idea of ...d4 left. } 12.cxd5 ( 12.Rd1 e5 { should again be fine } )
+12...Nxd5 13.Rd1 $14 ) 12.Be2 { Giving up on an opening advantage. } ( 
+12.Rd1
+{ This move springs to mind immediately for anyone with even a passing
+knowledge of the structure, and doesn't run the risks of castling. A
+process of logical elimination tells us that Carlsen must have seen, and disliked, the Black idea of }
+12...a5 $5 13.Bg5 a4 14.Nd2 d4 $5 $14
+{ when the battle for loss of frivolous tempi might actually be won by
+White. Certainly, over the board this could be difficult to assess. } ) ( 
+{ In this position, after } 12.O-O-O Bd7 $1 13.g4 $1
+{ the incredibly messy complications can be analysed almost to a forced
+draw. } ) 12...Qe7 $11
+{ One last time: are you SURE you don't want me to have an IQP? } 13.Bg5 ( 
+13.cxd5 Nxd5 14.Nxd5 exd5 $11
+{ is nothing though; White's pieces are poorly placed to cope with Black's
+forthcoming ideas like ...Be6, ...Rac8, ...Rfd8. } ) 13...dxc4
+{ This exchange made sense on the previous turn too, but here it is close
+to being forced. } 14.Nd2 ( { Carlsen thought for some time about } 14.Bxc4
+{ ,clearly wondering whether it was actually such an amazing idea to move
+the knight another 2 times. A bit of analysis, though, indicates that it is
+with the direct recapture that White risks becoming worse. } 14...Bd7 15.O-O
+Ne5 16.Be2 Rfc8 $5
+{ Here, in a bizarre echo of the 6.Be3 Najdorf, Black is intending to put
+his opponent in a highly annoying double-pin with ...Ba4. } 17.Nd4 h6 $1
+18.Bxf6 gxf6 $5 { and play is for 3 results. } ) 14...Ne5 15.O-O ( 15.Nxc4 $2
+Nxc4 16.Bxc4 Qc5 $1 $17 { simply gains the bishop pair for nothing. } ) ( 
+15.Nce4 $5
+{ is a meaningful alternative, and Magnus said it was his 'main chance to
+play dynamically' but, as above, Black doesn't need to tremble in fear at
+the prospect of being left with doubled f-pawns. Indeed, neither player particularly believed it. }
+15...Bd7 16.Nxc4 ( 16.Qc3 $5
+{ was the move both players suggested in the press conference. } 16...Nxe4 $1
+17.Nxe4 f6 18.Qxe5 fxg5 19.Bxc4 Rac8 20.Bb3 h6 $132
+{ with a dynamically balanced game. } ) 16...Nxc4 17.Bxc4 Rac8 18.O-O Bc6 $11
+{ The tactical issues faced by each side more or less balance each other
+out, and the most likely scenario is that all the pieces, save either 1 or
+2 pairs of rooks, will be vacuumed off the board quite soon, leaving a draw. }
+) 15...Bd7 $1 16.Bf4 $1
+{ White should hurry to take back the pawn, in whichever way he chooses to
+do that. } ( 16.Rfd1 Rac8 17.Nde4
+{ is plausible, but without the engine around we don't actually know
+whether White will regain the pawn or not. } 17...Bc6 ( 17...Bc7 $5 18.Bxc4
+$1 Bc6 19.Bb5 Bxe4 20.Qxe4 a6 21.Be2 Nxe4 22.Bxe7 Nxc3 23.bxc3 Rfe8 $11
+{ and both sides play for a win. The position is reminiscent of my game
+against Gawain Jones in the British Championships 2018. } ) 18.Nd6 Rcd8
+19.Nce4 ( 19.Nxc4 Nxc4 20.Bxc4 Qc5 21.Bxf6 gxf6 22.Bd3 f5 $11
+{ Now White has to trade off light-squared bishops with some urgency, or
+else simply stand worse. } ) 19...h6 $1 20.Bh4 g5 21.Nxf6+ Qxf6 22.Bg3 Bc7
+23.Nxc4 Nxc4 $1 24.Bxc7 Rc8 25.Bxc4 Rxc7 $11
+{ The position is ever so slightly more comfortable for Black, but is still
+well within the 'equal' band in objective terms. } ) ( 16.Nxc4 Nxc4 17.Bxc4
+Qc5 18.Bxf6 Qxc4 19.Rfd1 Bc6 20.Bd4 $1 $11 ) 16...Ng6 $1 ( 16...Qc5
+{ is a hard move to make, because of all White's Ne4/b4 tactical ideas.
+Nevertheless, the computer sees it as best, and then obliges White to take
+the pawn back immediately: } 17.Bxe5 Qxe5 18.Nxc4 Qc7 19.b4 $5 ( 19.Rac1 Bc5
+20.b4 Be7 $11
+{ is an equal position where Black might stand better after a few moves } )
+19...Rac8 20.Rac1 Rfd8 21.Nxb6 Qxb6 22.Rfd1 $11 ) 17.Bg3 $1
+{ With their last moves, both players have shown that they appreciate the
+full value of the bishop pair in this position- even where the two flanks
+are largely distinct from each other and the engine doesn't mind White giving it up. }
+17...Bc6
+{ A correct response from Caruana, who understands that White's
+dark-squared bishop is better than his own, and takes steps to trade them
+off. } 18.Nxc4 Bc7 19.Rfd1 Rfd8 20.Rxd8+
+{ This move smacks of boredom; surely normally Magnus would ask himself
+whether it's impossible to gain some other minor edge while Black is
+troubling himself with the exact mechanics of the double-rook trade? }
+20...Rxd8 21.Rd1
+{ Possibly, somewhere at the back of Magnus' mind, there might have been an
+idea of eventually making an edge like 'slightly better light-squared
+bishop' or 'slightly better knight' count; however, as it turned out there wasn't a concrete opportunity to play for a win. From this point onwards,
+the objective evaluation never veered from complete equality, but I have tried to point out marginally more ambitious ideas for each side. }
+21...Rxd1+ 22.Qxd1 Nd5 23.Qd4 Nxc3 24.Qxc3 Bxg3
+{ My own personal feeling about this move was that it gives White
+unnecessary chances. After all, White's pawn structure is improved and
+furthermore there's a possibility that Black's kingside could become very cramped indeed. The engine, of course, doesn't think this is a
+problem. } ( 24...Bb5 { seemed a lot more normal to me. } ) 25.hxg3 Qd7
+26.Bd3
+{ At this point, White decided his plan, which was to make it inconvenient
+for Black to play ...f6/...e5, and to go for Bxg6, f3, e4 himself. } ( 
+{ Otherwise there is a chance he might have seen the idea of } 26.f4
+{ followed by g4-g5 (if allowed) as being more auspicious. } ) 26...b6 ( 
+{ This was Black's chance to play } 26...f6
+{ but possibly he just found ideas like } 27.Qc2 Kf7 28.Na5
+{ to be a little annoying. } ) 27.f3 Bb7 ( 27...f6 $5 28.g4 Kf7 29.g5 Bd5 $11
+{ Black's construction looks a little loose, but there is nothing
+objectively wrong with it. I would personally think of it as a reasonable
+choice if Black wanted to retain the possibility of perhaps one day winning the game. }
+) 28.Bxg6 $5
+{ This had been coming for a while- White was hardly going to play e4
+without it- but I do wonder if maybe it could have been delayed a further
+move. } ( 28.g4 Qc7 29.f4 $11 { is quite ambitious. } ) 28...hxg6 29.e4 Qc7
+$1
+{ From a human perspective, this looks clearly correct. Black needs to make
+the queen trade White seeks as inefficient as possible. } ( 29...f6 30.e5 $1
+{ has become, practically speaking, a little difficult. } ) 30.e5 Qc5+ 31.Kh2
+( 31.Ne3 Qxc3 32.bxc3 Ba6 $11
+{ One of the hardest things for a human player to realise in this position
+(and related ones which we shall come to) is that if Black can come with
+his king to c6, then in spite of his awful bishop, which possesses a grand total of no targets to aim at, he is the one playing for a win! }
+) 31...Ba6 ( 31...f6 $5 { leads to the same thing: } 32.Nd6 Qxc3 33.bxc3 Ba6
+) 32.Nd6 Qxc3 33.bxc3 f6 34.f4 ( 
+{ The next note is the move suggested by a friend with whom I was watching
+the games, live and in person. Around this time, we made a bet (which I
+won) about the sequence of moves that would finish the game... } 34.Kh3 $6
+fxe5 35.Kg4 Kf8 36.Kg5 Bd3
+{ It is White treading on thin ice here (though the position is still a
+draw.) It is not clear to me how White regains a pawn without suffocating
+his own knight, and g2 is also weak. } ) 34...Kf8 35.Kg1 Ke7 36.Kf2 Kd7
+{ With Black's king active, it is difficult to be ambitious. } 37.Ke3 Bf1 ( 
+{ I did wonder whether Black could play for a win: } 37...fxe5 $5 38.fxe5 Kc6
+39.c4 Kc5 40.Kd3 b5 41.Ne4+ Kc6
+{ Now White has a choice of ways to draw, which differ only in the
+multiplicity of the choice that he has thereafter. } 42.Kd4 $1 ( 42.cxb5+
+Bxb5+ 43.Kd4 Be2 ( 43...Bf1 ) 44.Nc5 Bg4 $11
+{ Both sides have fortresses, despite the World Champion's skepticism about
+the concept, but it is still easier for White to go wrong. } ) 42...bxc4
+43.g4 c3 44.Nxc3 g5 45.g3 Bf1 46.Ne4 Be2 47.Nxg5 Bxg4 48.a4 $11 ) 38.Kf2 Ba6
+39.Ke3 Bf1 40.Kf2 { Here Caruana claimed a draw, by the approved method. }
+1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.19"]
+[Round "8"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[Annotator "Sam Shankland"]
+[BlackElo "2835"]
+[ECO "B33"]
+[EventDate "2018.11.09"]
+[WhiteElo "2832"]
+
+1.e4 c5 2.Nf3 Nc6
+{ Magnus once again sticks with his Sveshnikov/Rossolimo repertoire, though
+he really got away with one today. It will be interesting to see if he
+decides to keep going with it even though his positions out of the opening are getting more and more dangerous. }
+3.d4
+{ Caruana enters the mainline. With the Sveshnikov being implied very
+heavily in game 1, his team has had a lot of time to come up with ideas. } ( 
+3.Bb5
+{ Was Caruana's choice in his first 3 white games. I think he took the
+right choice to go into the riskier open Sicilian mainlines, as his best
+chance to win the match is in regulation. I also think the positions suit his style better than Magnus's style. }
+) 3...cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 $5
+{ This is a very forcing move that leads to a defined and unbalanced pawn
+structure right away. } ( 7.Bg5 { Would lead to the Sveshnikov mainlines. } )
+7...Nxd5 8.exd5 Nb8 9.a4 $1
+{ I always felt running the a-pawn the most critical try in pawn structures
+like this one. More often than not it comes from a Najdorf with Be3 and an
+early Nd5, but White will definitely appreciate leaving the c-pawn at home in certain positions. }
+9...Be7 10.Be2 O-O 11.O-O Nd7
+{ This position is not nearly as common as the Sveshnikov mainlines, but
+it's still reasonably well known and there have been plenty of games
+played. Caruana's next move was the one that got Magnus thinking. } 12.Bd2 $5
+{ A rare choice, but a very logical move. White prioritizes developing his
+pieces- what could be more natural. In a lot of cases, White will play f4,
+and the bishop will stand well on c3 to pressure Black's center. This certainly turned out to be the case during the game. }
+( 12.Kh1
+{ For better or for worse, this has been the most common move in the past.
+It doesn't make much sense to me. I can't imagine avoiding Qb6 coming with
+check is worth a tempo. Caruana's move looks much stronger. } ) 12...f5 ( 
+12...a6
+{ In light of how the game proceeded, Magnus could have considered stopping
+White from playing a5. First he can push the knight back, and then after }
+13.Na3 a5 $5
+{ The position doesn't seem so bad to me. The machines like White but I
+don't see a great plan and Black's pieces have good squares to go to. It
+has to be said that this is one of the positions where it is very clear that remaining flexible with the c-pawn was in White's favor, as if the
+pawn were on c4, he would have no good way to open the queenside or deal with a knight sitting on c5 for the rest of the game. A sample line could go }
+14.f4 f5 ( 14...exf4 $5 15.Bxf4 Bf6 16.c3 Be5
+{ Also looks fine for Black to my unrefined and unintelligent human eye,
+but the machine disagrees. } ) 15.Nc4 ( 15.c3 Bf6 ) 15...Bf6
+{ Black has decent counterplay and I do not mind his position at all. It
+would be interesting to know what Caruana had in mind had Magnus tried
+a6-a5. } ) 13.a5 a6
+{ Not a bad move I guess, but it looks wrong to me. The knight is not
+particularly good on b5 and likely would want to reroute to a3 and c4
+anyway, and Magnus now forces this to happen with a loss of tempo and weakens the b6-square at the same time. Magnus's idea was to play e4
+without allowing Nd4, but still, I dislike the move. } ( 13...f4 $5
+{ It makes a lot of sense to prevent White from playing f2-f4 to contest
+the center and the kingside. The position is locked and Black looks like he
+should have decent attacking chances, for instance after } 14.Bb4 Nf6 15.c4
+a6 16.Nc3 Bf5
+{ The machines like White but g5-g4 is a real plan. Black is not without
+counterplay } ) 14.Na3 e4 15.Nc4 Ne5
+{ Magnus was clearly aiming for this position when he played a6. But it
+seems unpleasant for Black. } 16.Nb6 $1
+{ Caruana was still in preparation and playing very quickly. } ( 16.Nxe5 $2
+dxe5
+{ Would give Black a lot of counterplay. I actually prefer his position. } )
+16...Rb8 17.f4 $1 { Black must not be allowed to play f4 himself } 17...exf3
+18.Bxf3 g5 $2
+{ This was asking too much. White is breaking through on the queenside too
+fast to expect the kingside attack to work. } ( 18...Bf6
+{ A solid move like this one looks fine to me. } 19.c3 Nd7 $1 20.Be3 Be5 $1
+{ Black's pieces have found good squares. The machine slightly prefers
+White but I don't think Black has much to worry about. } ) 19.c4 $1
+{ Bc3 followed by c5 is a very easy plan to execute. The loose position of
+the e5 knight means White will not even need to defend the c5 pawn to get
+the advance through, and if Nxf3 ever comes, Black may well regret advancing g7-g5 with the open long diagonal. Black is in big trouble. }
+19...f4 20.Bc3 $1
+{ Another strong move. Apparently Sesse was claiming that White is
+absolutely winning here- this is far too optimistic an assessment in human
+play, there is a lot of potential counterplay to contain, much like one sees in a mainline King's Indian. But his position is definitely very
+promising. } 20...Bf5 $1
+{ Magnus chooses the combattive move. He understood his position was
+"dangerous" though I would go a step further and just call it "bad". But he
+handled it absolutely the way he needed to- in a combattive manner looking for counterplay, as is the general plan in the Sveshnikov. }
+( 20...Qc7 $2
+{ Trying to prevent c5 is only a temporary fix. Black has a lost position
+on the queenside as c5 will eventually win the game. He needs to look for
+kingside counterplay. } 21.b4 Bf6 22.Rc1
+{ White should be winning. Even a simple plan like Bxe5 followed by Nxc8
+leaves Black unable to get g5-g4 through or make any kind of counterplay
+while c5-c6 comes very fast. } ) 21.c5
+{ Caruana found the best move. His position is close to winning
+technically, it's more his kind of game, and he had a huge time advantage.
+This was his first real chance to score a full point after only missing a completely impossible line in game 6, and he did not manage to
+come through. If he loses the match, he will likely look at this game as the turning point. }
+21...Nxf3+ 22.Qxf3 dxc5 23.Rad1 Bd6 24.h3 $4
+{ I wavered between offering this move one question mark and two,
+eventually settling on the harsher evaluation, even though I normally only
+offer it for a move that squanders a full point rather than a half point. Time is absolutely of the essence. White is a pawn down and facing
+the bishop pair with an imbalanced structure. His position is strong, but he absolutely needed to look for the most direct moves. Magnus is now instantly fine after one slow move that was not at all in the spirit of the position, and he even said so himself after the game. }
+( 24.Nc4 $1
+{ Of course this move needed to be played. The idea is totally obvious and
+White did play it on the next move, only he needed to do so faster. Black
+cannot allow d5-d6 to come through so eventually his dark squared bishop will be exchanged, and then the attack is decisive. }
+24...g4
+{ Undoubtedly Caruana was worried about this move, otherwise h3 would
+really be inexplicable. But White is faster. } ( 24...Qd7
+{ Black cannot simply move the queen to bring the sleeping b8-rook into the
+game on e8 the way he did after White played h3, because the queen lacks
+access to the g6 square- the only way to hold both h5 and d6. After } 25.Qh5
+{ Black can resign. } ) 25.Qf2 f3 ( 25...g3 26.Qd2 $1 gxh2+ 27.Kh1
+{ Is hopeless for Black. Rxf4 is a big threat, and } 27...Bg6 28.Rde1 $1
+{ Offers no salvation as Re6 will come next. } ) 26.Rfe1 $1
+{ Black is hard pressed to deal with Nxd6 followed by Be5. He should lose.
+} ) ( { Also possible was } 24.Qh5 Bg6 25.Qh6 Rf7 26.Nc4 Bf8 27.Qh3
+{ as was given by Carlsen at the press conference. "It was very hard for me
+to evaluate but it felt like White is having all the funâ€¦ This felt like
+a dangerous moment to me." } ) 24...Qe8 $1
+{ The move came instantly. The queen will be perfect on g6, preventing Qh5,
+defending the d6 bishop, and preparing for Rbe8 to context the open e-file.
+Black is not absolutely fine and can even take over the game if White is not careful- he is a pawn up with the bishop pair after all. }
+25.Nc4 Qg6 26.Nxd6
+{ Caruana messed up in a big way to let Black hold, but he was also
+professional and objective enough to make a draw when it was time. } ( 
+26.Rfe1 { Trying for a win at all costs was possible, but after } 26...Rbe8
+( 26...g4 $5
+{ Looks decent too. h3 did not stop anything and now even serves as a hook
+} ) 27.Be5 Bxe5 28.Nxe5 Qg7 29.Qc3 g4 $1 { Lots of counterplay } ) 26...Qxd6
+27.h4 gxh4 $1
+{ The simplest. White must trade queens and then Black doesn't have a care
+in the world. } 28.Qxf4 Qxf4 29.Rxf4 h5 30.Re1 Bg4 31.Rf6 Rxf6 32.Bxf6 Kf7
+33.Bxh4 Re8 34.Rf1+ Kg8 35.Rf6 Re2 36.Rg6+ Kf8 37.d6 Rd2 38.Rg5
+{ Caruana has had some good moments and been able to apply pressure here
+and there, and had that one impossible engine win in the piece up ending.
+But today was the only game thus far where he absolutely had it within his power to come home with a full point. Magnus does not give many people
+chances like this, and he might not give another one. Still, while Caruana can't be feeling too happy (or confident) that he missed his opportunity today, he is clearly outpreparing Magnus every game with both colors for several games in a row. If Magnus loses the match, I suspect it will be
+due to another opening mishap. I'm sure he notices this trend himself and I expect him to switch things up a bit in the final four games. }
+1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.21"]
+[Round "9"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1/2-1/2"]
+[Annotator "RC"]
+[BlackElo "2832"]
+[ECO "A29"]
+[EventDate "2018.11.09"]
+[WhiteElo "2835"]
+
+
+{ While the Women’s World Championship Cycle is going to imitate the
+overall World Championship, it might also hold the other way around. After
+eight rounds, there remained four games and an eventual tie-break to be played to determine the winner. The finale of the Women’s World
+Championship looks quite similar in this respect, doesn’t it? The match has been quite tense, both players have been fighting hard and it is therefore surprising that all the games finished in draws. This shows high class of both players as well as their superb defensive abilities.
+Moreover, the permanent progress of the opening theory makes it increasingly difficult to achieve an advantage with White against a well-prepared opponent. We all have probably hoped to see more decisive games, but it is really very hard to beat a 2800-rated player. }
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Bc5
+{ This is currently the most fashionable continuation. It had been played
+by club players many times before GM Grischuk introduced it to a top level.
+} 7.O-O ( { White could win a pawn by means of } 7.Nxe5 Nxc3 8.Bxc6+ ( 
+8.bxc3 Nxe5 9.d4 Bd6 $11 ) 8...bxc6 9.bxc3
+{ , but Black would get an ample compensation after } ( 9.dxc3 Qxd1+ 10.Kxd1
+Bxf2 11.Rf1 Bc5 12.Rxf7 Bd6 13.Rf3 Bxe5 14.Re3 O-O $1 15.Rxe5 Rf1+
+{ should be fine for Black as well according to GM Marin and IM Stoica (NIC
+Yearbook 125). } ) 9...Qd5 10.Nf3 Bh3 { owing to his better development. } )
+7...O-O 8.d3 ( { A funny-looking continuation } 8.Nxd5 Qxd5 9.Ng5 Qd8 10.Nxh7
+Re8 11.Ng5 Qxg5 12.d4 Qh5 13.dxc5 Rd8 14.Bd2 Nd4
+{ gives Black a decent counterplay according to GM Marin and IM Stoica. } )
+( 8.Nxe5 Nxc3 9.Nxc6 $2 { is not to be recommended in view of } 9...Nxd1
+10.Nxd8 Bxf2+ $1 11.Kh1 Bg4 $1 { . } ) 8...Re8
+{ This variation has already been played in the 4th round. } ( 
+{ A bishop retreat } 8...Bb6
+{ is equally playable, but it enables White to play b2-b4 in certain lines.
+} ) 9.Bg5 $5
+{ This motif has been known from the Sicilian Dragon (with reversed
+colours). } 9...Nxc3 ( { It it also possible to play } 9...Nde7
+{ , but retreating the centralized knight contradicts the spirit of this
+variation (if there is any). } ) ( { Black would like to play } 9...f6 $6
+{ , but it allows } 10.Qb3 Be6 11.Qxb7
+{ , when White seems to be better, e.g. } 11...Ndb4 $6 12.Qb5 $1
+{ and the queen escapes. } ) 10.bxc3 f6 11.Bc1
+{ If any piece belongs to d2, it is the knight. Black players have been
+doing very well in this match. Magnus therefore sort of "switched colours"
+by losing time with his bishop. Well, he has slightly improved his pawn structure in return. Black can no longer claim the d4-square. }
+11...Be6
+{ Pushing e5-e4 with an undeveloped queenside would be clearly inferior to
+this healthy developing move. } 12.Bb2 Bb6 ( { Here my computer likes }
+12...e4 $5 { for some reason. } 13.Nd4 ( 13.dxe4 Qxd1 14.Rfxd1 Bc4 15.e3 Rad8
+{ gives Black a good compensation owing to White's queenside weaknesses. } )
+13...Nxd4 14.cxd4 Bxd4 15.Bxd4 Qxd4 16.Bxe4 c6 ( { or even } 16...Bd5 17.e3
+Qe5 { should not be too dangerous for Black. } ) ) ( { I expected } 12...Qe7
+{ , when } 13.d4 { allows Black to play } 13...Rad8 { . } ) 13.d4 Bd5
+{ Black neutralizes White's kingside bishop. } 14.Qc2 exd4 15.cxd4 Be4
+16.Qb3+ Bd5 ( { The endgame arising after } 16...Qd5 17.Qxd5+ Bxd5 18.e3
+{ is somewhat more pleasant for White. Not much, but it is hard to achieve
+more, nowadays. } ) 17.Qd1
+{ Magnus played quickly up to this moment. I like his opening choice. This
+seemingly unambitious variation with few long forced lines gives him decent
+chances to outplay his opponent in the subsequent course of the game. The b6-bishop might remain out of play after e2-e3, Nf3-d2. True, Fabiano
+Caruana is quite hard to be outplayed. } ( 17.Qc2 Be4
+{ would not be very inspiring. } ) 17...Bxf3 $6
+{ Watching the game, I also considered this move. It is a logical and
+straightforward one. While it is certainly not bad, it leads to a position
+where White can play for the win without any risk. } ( { I like } 17...Qd7
+{ . Black can complete his development and play Na5, c5 later on. } ) ( 
+17...Na5 $5 { was another option. } ) 18.Qb3+
+{ This limits Black's options. } ( 18.Bxf3 Nxd4 19.Bxd4 Qxd4 20.Qb3+ Kh8
+{ is a mere transposition } ( { , while } 20...Kf8 $5
+{ was not possible in the game. } ) ) 18...Kh8 19.Bxf3 Nxd4 20.Bxd4 Qxd4
+21.e3 $1 Qe5
+{ Black would like to exchange the queens, but it is not that simple. } ( 
+21...Qd6 22.Bxb7 Rab8 { is also slightly better for White after } 23.Rad1 Qf8
+24.Bc6 { , as } 24...Bxe3 $2
+{ loses an exchange after almost any queen retreat. } ) 22.Bxb7 Rad8 23.Rad1
+$14
+{ White has achieved a small but stable advantage. His king is safer and
+his bishop is more active than its counterpart. He should keep the queens
+on the board to maintain attacking chances. Magnus Carlsen has already won many equal-looking positions with rooks and opposite-coloured bishops on
+the board. On the other hand, Black's position is quite solid and the drawing margin is quite broad unless White launches a mating attack. Black can sometimes sacrifice a pawn to exchange the major pieces and achieve a drawish bishop endgame. }
+23...Qe7 24.h4 $1 { White needs to weaken his opponent's king. } 24...g6
+25.h5 $6 ( 25.Bc6
+{ looks better in hindsight, but Black's defensive resources should be
+sufficient anyway. Still, some accuracy is needed, as } 25...Rxd1 $6 26.Rxd1
+Rd8 27.Rxd8+ Qxd8 28.Qf7 { would be fairly unpleasant for Black. } )
+25...gxh5 $1
+{ A brave decision. Instead of defending an inferior position after
+25...Kg7, Black launches counterplay. GM Mihail Marin has recently written
+an article on such an unexpected recapture for a German magazine "Schach". }
+( { White would keep his trumps after } 25...Kg7 26.Bf3 $14 { . } ) 26.Qc4 f5
+$1
+{ Another good move. Black prepares h5-h4, after which both kings would be
+equally weak. Black has equalized, but the fight continues. } 27.Bf3 h4
+28.Rxd8 Rxd8 29.gxh4 Rg8+ 30.Kh1 Qf6 31.Qf4 Bc5 $1
+{ The bishop joins the play. } 32.Rg1 Rxg1+ ( { It was safer to play }
+32...Bd6 33.Rxg8+ Kxg8
+{ , as the h4-pawn would then be hanging with check in many lines. Still,
+Black's continuation does not spoil anything. } ) 33.Kxg1 Bd6 34.Qa4
+{ Fabiano Caruana was a bit short of time, but he kept everything under
+control. } 34...f4 $1 35.Qxa7 fxe3 36.Qxe3 Qxh4
+{ All Black needs to do is to exchange the queens without losing the pawns.
+} 37.a4 Qf6 38.Bd1 Qe5 { The bishop endgame is drawn. } 39.Qxe5+ Bxe5 40.a5
+Kg7 41.a6 Bd4 42.Kg2 Kf6 43.f4 Bb6 44.Kf3 h6
+{ Black does not advance his pawns to far to be able to protect them.
+Watching this endgame, I recalled an important game Aronian - Bacrot from
+the World Cup 2005 semifinal, where Black gave up in a similar position without his c-pawn and with White's bishop on h3 and pawn on f5. It looks
+like a dream scenario for White, but the final position of that game was still drawn! Needless to say, White cannot achieve it now. }
+45.Ke4 Ba7 46.Bg4
+{ From here White's bishop blocks the h-pawn and protects the f4-pawn.
+White can win a bishop for the a-pawn, but then Black's c-pawn could run
+forward to save a draw (at least). } 46...Bg1 47.Kd5 Bb6 48.Kc6 Be3
+{ The c7-pawn can also be protected indirectly. There is nothing to be
+done. } 49.Kb7 Bb6 50.Bh3 Be3 51.Kc6 Bb6 52.Kd5 Ba7 53.Ke4 Bb6 54.Bf1 Ke6
+55.Bc4+ Kf6 56.Bd3 Ke6 1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.22"]
+[Round "10"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[Annotator "Maxime Vachier-Lagrave"]
+[BlackElo "2835"]
+[ECO "B33"]
+[EventDate "2018.11.09"]
+[WhiteElo "2832"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5
+{ I didn't really expect a repeat of this line, even though Fabiano had
+achieved a great deal with it, simply because I thought it was mostly
+chosen because of the surprise value. } 7...Nxd5 8.exd5 Nb8 9.a4 Be7 10.Be2
+O-O 11.O-O Nd7 12.b4
+{ We have an early deviation from Fabiano. It is very direct but at the
+same time it seems a bit strange to me to allow so happily the direct
+counter with a5. } ( 12.Bd2
+{ was seen in game 8. But no doubt Magnus was this time not only prepared
+for that move but also remembered the nuances! } ) 12...a6 ( 12...a5
+{ is also fairly natural because the Nb5 could end up being misplaced in
+the long run but I'm guessing Magnus didn't like too much the possible
+pressure on the d6 pawn after say } 13.bxa5 Rxa5 14.Ba3 ) 13.Na3 a5 14.bxa5
+( { I had wrongly assumed that } 14.c3
+{ was White's idea but it does look a bit slow. Black can just answer with
+} 14...f5 { as } 15.Nc4 b6 { and Black's queenside is very safe. } )
+14...Rxa5 15.Nc4 Ra8 16.Be3 f5 17.a5
+{ Fabiano goes for the b6 square, and that idea was undoubtedly part of his
+preparation. } 17...f4 18.Bb6 Qe8
+{ Magnus played the most natural moves and now surprisingly Fabiano thought
+for a while, although probably not because he was out of preparation but
+more likely to try and see the position with a fresh eye with so many options available to him. Although from my point of view, it seems like White can
+run into so much trouble with his king that entering this line without having a very clear idea of what happens next seems very dangerous. }
+19.Ra3
+{ This relocating of the rook via the 3rd rank is extremely natural but at
+the same time I realized I didn't see the upside of going into this sort
+position as it seemed to be neither safe nor objectively better or easier to play. }
+( 19.Bc7 { would have been the direct approach. But Black can answer with }
+19...Rf6 20.Re1 Rh6 ) ( 19.Re1
+{ was possibly a more subtle waiting move. If Black goes like in the game }
+19...Qg6 ( 19...Rf6 { would still be my preferred choice } ) 20.Bc7
+{ he doesn't have the same resource as in the game! Still his position is
+reasonable after a move like } 20...Nc5 21.Bh5 Qf6 22.Nb6 Ra6 23.Nxc8 Rxc8
+24.Bb6
+{ but there at least White got rid of the light-squared bishop. I would
+even consider something like } 24...Bd8 25.Be2 Bxb6 $5 26.Bxa6 Bxa5 27.Rxa5
+bxa6
+{ with Black and hope to have enough compensation for the exchange thanks
+to the Nc5. } ) 19...Qg6 20.Bc7
+{ White has to play this one day or another as he needs to restrain the
+Nd7. Now Nc5 would be answered by Nb6. } ( 20.Re1 Nf6 21.Bc7 e4 $1 22.Nb6 Ra7
+{ looks extremely dangerous for White. } ) 20...e4 ( 20...b5 $1
+{ was possible immediately. I didn't initially see it while I was casually
+watching the game but once you realize the option exists there's basically
+no other move that you'll consider! } ) 21.Kh1 b5 $1
+{ And Magnus goes for it. Not that there was anything wrong with any other
+attacking move on the kingside but this move seems the most challenging.
+Carlsen: "I thought for so long and I wasn't sure about it but I thought I just go for it and up the stakes even more. Either you win the game, or you
+get mated." } ( { Caruana did consider this, but was expecting } 21...Kh8
+{ saying "I thought it actually asked White what the next move is. Many of
+my useful moves have problems." } 22.f3 ( 22.Re1 Nf6
+{ and then f2 hangs in some lines. (Caruana) } ) 22...e3 23.g3 ) 22.Nb6 ( 
+22.axb6 { doesn't seem to work. } 22...Rxa3 23.Nxa3 f3 $1 ( 23...Nc5
+{ was my first thought when looking at the position but playing slowly
+might be too much. White is definitely not resourceless after a move like.
+} 24.Nb5 $1 ) 24.gxf3 Ne5 $1
+{ and the computer seems really happy about this position, which might not
+come as a surprise. White's best defence is } 25.Rg1 Qh6 $1 26.Nc4 ( 26.Qc1
+Qh4 ) 26...exf3 27.Nxe5 ( 27.Bf1 Nxc4 28.Bxc4 Rf4 29.Qc1 $2 ( 29.b7 $1
+{ only move but after } 29...Bxb7 30.Qc1 Qf6
+{ Black is obviously much better. } ) 29...Bg5 $1
+{ threatening both the trivial Rh4 and Qxh2+ after } 30.b7 Qxh2+ $3 31.Kxh2
+Rh4+ 32.Kg3 Rh3# ) 27...fxe2 28.Qxe2 dxe5 29.Bxe5 g6 $1
+{ And while White retains practical chances the pair of bishops manages to
+contain the passed pawns on the queenside. } ) 22...Nxb6 23.Bxb6 Qg5 $5
+{ A very interesting practical decision by Magnus. Basically every sensible
+move was possible in this position so it doesn't make sense to try and
+analyse them in depth but this approach of going straight at White's king is not only the most direct but also the most frightening in practice. }
+24.g3
+{ I have to admit this move didn't cross my mind at all. My guess on why
+Fabiano went for this is that the advantage of this approach is that now
+Black cannot really choose how to proceed on the kingside and has only one setup available. So if he decided he could hold everything together he
+decided to go for it. } ( 24.Bxb5
+{ Of course the computer would play that. I can only assume Magnus intended
+} 24...Rf6 25.Re1 ( { At the press conference Carlsen suggested } 25.f3 e3
+26.g3 Rh6 27.g4 Bd8 ) 25...Rg6 26.Bf1 Bf5
+{ And while objectively this should be better for White it is also quite
+scary. } ) ( 24.f3
+{ with an idea similar to the game, could have led to a very cute end }
+24...e3 25.g3 $1 Rf6 ( 25...fxg3 26.Rg1
+{ and there's no real attack anymore. } ) 26.gxf4 Qh5 $1 27.Bxe3 Qxh2+ $3
+28.Kxh2 Rh6+ 29.Kg1 Rg6+
+{ and White is better advised to agree to the perpetual as } 30.Kf2 $4 Bh4#
+{ is an immediate mate. } ) 24...b4 25.Rb3 ( 25.gxf4 Qxf4 26.Rg3
+{ was also an option but Black is certainly pressing after } 26...Bh4 )
+25...Bh3 ( 25...f3 26.Bb5 Bh3 $2 ( 26...Rf6 27.Re1 Qg4 28.Bf1
+{ and among others White has the idea of Rxe4 followed by Re3 (which could
+have been available on this move), and also in some moment e3 is available
+for his bishop to defend the h file. } ( 28.Rxe4
+{ might be even more practical although it's hard to say what this is after
+} 28...Qxe4 29.Re3 Qg4 30.Rxe7 Bf5 ) ) 27.Re1
+{ is the reason why Magnus started with Bh3. } ) 26.Rg1 ( 26.Re1 Bf6 $1 ( 
+26...e3
+{ looks scary enough and might be the main reason Fabiano rejected this
+move, but White has the cold-blooded } 27.Rg1 $1 { available. } 27...f3
+28.Bxf3 exf2 29.Bxf2 Rxa5 30.Be3 { would just be equal now. } ) 27.Rxb4 Bc3
+28.Rxe4 fxg3 $1 29.hxg3 Bxa5 $1 30.Bxa5 Rxf2
+{ and here White barely saves a raw after } 31.Bg4 Bxg4 32.Rxg4 Qh5+ 33.Rh4
+Qxd1 34.Rxd1 Rxa5 ) 26...f3 27.Bf1 Bxf1 28.Qxf1
+{ Any direct approach with the rook would fail as White's bishop can get to
+e3 and cover the crucial h6 square. } 28...Qxd5 ( 28...Rf6 29.Rxb4 Qh5 30.Be3
+$1 { and Black's attempt at an attack is easily repelled. } ( 30.Rxe4 $4 Rh6
+31.h4 Bxh4 32.Rxh4 Qxh4+ 33.gxh4 Rxh4+ { would mate } ) ) 29.Rxb4
+{ The dust settled and while White's king is clearly no longer in danger --
+there's an argument that he never was really in danger other than
+psychological, but even then it felt serious. Black has a beautiful pawn center and could be aiming at pushing his central pawns at the appropriate
+moment. Also even if the position is less complicated to navigate now both players were getting short on time around here. }
+29...Qe6 30.Rb5 $1 { An excellent move, even if rather obvious. } 30...Bd8 ( 
+30...d5 { would be strongly met by } 31.Qd1 Rf5 32.g4 $1 Rg5 33.Be3
+{ and White is the side pressing. } ) 31.Qe1 Bxb6 32.axb6 Rab8
+{ The position is around equal but there is still room for a big fight.
+White's obvious trump is his pawn on b6, while Black can count on his
+center and the weakened White king, which while not in immediate danger, can never easily join the center in case of an endgame. }
+33.Qe3 Qc4 34.Rb2 Rb7 35.Rd1
+{ A bit of an inaccuracy due to Magnus' strong answer. But not even sure we
+can call it that as Fabiano kept things well under his control afterwards.
+} 35...Qe2 $1 36.Re1 $1 ( 36.Qxe2 fxe2 37.Re1 Rxf2 38.Kg1 Rbf7 $1
+{ while still being within drawing margin, would be ostensibly unpleasant
+to fac as White has no easy way to regain the pawn. } 39.Rbb1 ( 39.b7 Rf1+
+40.Kg2 Rxb7 41.Rxe2 Rxb2 42.Kxf1 Kf7 ) 39...d5 $1 40.c3 h6
+{ and b7 is always met by Rf1+ } ) ( 36.Qb3+ $4 Kh8 37.c4
+{ would trap the queen if not for } 37...Rxb6 $1 38.Rxe2 fxe2
+{ and Black wins } ) ( 36.Qd4 $4
+{ would also be a serious attempt if not for the beautiful and winning }
+36...e3 $1 37.c4 exf2 $1 38.Rxe2 fxe2
+{ and as Magnus pointed it out afterwards, the pawn on c4 prevents White
+from capturing the pawn with the fork Qc4+ } ) 36...Qxe3 37.Rxe3 d5 38.h4
+{ This is the most practical approach to get White's king more active. He
+aims to reach g3 via g4. } 38...Rc8 ( 38...Rf6 39.c4 $1 dxc4 40.Rxe4 Rbxb6
+41.Rxb6 Rxb6 42.Rxc4 { would liquidate into a draw. } ) 39.Ra3 $1 ( 
+{ The attempt to liquidate everything fails: } 39.Rb5 $2 Rxc2 40.Rxd5 Rxb6
+41.Rxe4 Rxf2 { would lose on the spot } ) 39...Kf7 ( 39...Rc6 $4
+{ would be a huge blunder because of } 40.Ra8+ Kf7 41.Ra7 Rxa7 42.bxa7 Ra6
+43.Rb7+ { and now the king has no good square } 43...Kf6 ( 43...Kf8 44.Rb8+ )
+44.Rb6+ { wins } ) 40.Kh2 ( 40.Ra7 Rb8 41.c4 $1 dxc4 42.Rc2
+{ would have drawn immediately. } ) 40...Ke6 41.g4 Rc6 42.Ra6 $1
+{ A very important decision and the correct one. Fabiano correctly judged
+that with both rooks on the b file he wouldn't be able to obtain the
+necessary counterplay with his rooks. } ( 42.Rab3
+{ would still objectively hold but White is reduced to passivity after say
+} 42...h6 43.Kg3 ( 43.h5 Ke5 44.Rb5 g5 45.hxg6 Rxg6 46.c4 $1 Rxg4 47.Rxd5+
+Kf4 48.Rh5 { also looks scary but is holding. } ) 43...g5 44.hxg5 hxg5 45.Rb1
+Kd6 46.Rb5 Rc5 47.R5b2 Kc6 { and even if the computer claims } 48.c3 $1 Rxc3
+49.Rh1
+{ is a draw, you definitely don't want to get to that point if you can
+avoid it. } ) 42...Ke5 43.Kg3 h6 44.h5 Kd4
+{ Maybe underestimating Fabiano's next move, Magnus gets into a bit of a
+scare. } ( { Here I expected } 44...g5 { but both } 45.hxg6 ( 
+{ or the immediate } 45.Rb5 Rxc2 46.Raa5 Rd2 47.Rb1
+{ and Black makes no progress. } ) 45...Rxg6 46.Rb5 h5 47.Raa5 Rxg4+ 48.Kh3
+{ are easily holding as the rooks create more than enough counterplay. } ) ( 
+{ Carlsen mentioned } 44...Rb8 { when } 45.Rb5 { is interesting (Caurana). }
+) 45.Rb5 $1
+{ White is more than in time to create counterplay and the king is now
+misplaced. Hard to figure what Magnus missed on that one, but he took his
+time and found the arguably best practical decision. } 45...Rd6 $1 ( 
+45...Kc4
+{ was the move recommended as best by the now famous Sesse although } 46.Raa5
+d4 ( 46...Rbxb6 47.Rxd5 Rb1 48.Re5 Rg1+ 49.Kf4
+{ even if this is a draw it looks downright scary. } 49...Rf6+ 50.Rf5 Rxf5+
+51.Rxf5 Rg2 52.Kxe4 Rxg4+ 53.Kxf3 Rg1
+{ and Black holds as the king will eventually manage to come back to the
+kingside. } ) 47.Re5
+{ definitely looks scary as the king is so far away from the kingside. If
+Black loses his central pawns he might be lost in any rook endgame with his
+king cut. I also can't see an immediate way to draw even if I'm confident in the fact that it still exists. }
+47...Rcxb6 48.Rxe4 Rb2 49.Ra4+ R7b4
+{ is possibly still holding but looks far too scary. } ) 46.Ra4+ Ke5 47.Rab4
+Ke6 $1
+{ Here Fabiano saw no point to torture Magnus even though with colors
+reversed the game might still be going on at the time I'm typing those
+words. } 48.c4
+{ There is no real point in delaying that move as Black is aiming at Rc6
+anyway. } 48...dxc4 49.Rxc4 Rdxb6 50.Rxe4+ Kf7 51.Rf5+ ( 51.Rf4+ Kg8 52.Rc5
+{ was arguably a try at keeping both pairs of rooks on the board. But in
+general Black always manages to eventually exchange them either by
+harassing the rooks (with two rooks on the same file like here, just moving endlessly the rooks) or arguably by staying passive on the last two
+ranks as White will have a hard time making progress anyway. Let's note though that }
+52...Rf6 $6 53.Rxf6 gxf6 54.Kxf3
+{ would be a downright draw with the pawn on f7, but with the pawn on f6
+the additional weakness on the seventh rank makes it a tad more difficult
+to defend in practice. } ) 51...Rf6 52.Rxf6+ Kxf6 53.Kxf3 Kf7 54.Kg3
+{ Fabiano doesn't see the point in keeping on playing, and I can't argue
+with that decision as White can't make any progress without exchanging
+pawns on the kingside, but then there's really not enough pawns remaining as it is well known for a few centuries! In any case we got a very
+interesting game today in spite of a peaceful result once again, and I felt like both players took some risky or principled decisions on purpose, which means they're not waiting for what looks like a probable tiebreak. So I wouldn't dismiss the possibility of a decisive result kicking in in
+the last two games. Also, the quality of the games seems very high to me in general especially considering they've been at it for almost three weeks now. }
+1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.22"]
+[Round "10"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[Annotator "Sam Shankland"]
+[BlackElo "2835"]
+[ECO "B33"]
+[EventDate "2018.11.09"]
+[WhiteElo "2832"]
+
+
+{ The 10th game of the World Championship match was the most back and forth
+affair of any game thus far. There were plenty of games where one side did
+not make the most of their chances, but this has been the only one where I thought both players at some point had very real winning chances. }
+1.e4 c5 2.Nf3 Nc6
+{ Magnus stays true to his Rossolimo/Sveshnikov repertoire for the 5th time
+in a row. Starting from game 5, I have expected him to pivot every single
+game, and been wrong every single time. Perhaps he will just play this the whole way through? }
+3.d4 { Caruana eschews Bb5, which he chose in his first 3 White games. }
+3...cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5
+{ I was a bit surprised to see Caruana enter the same line as game 8. Even
+though he got an excellent position in that game, he had to figure Magnus
+would have come with improvements, and the line is supposed to be okay for Black. }
+( 7.Bg5 { Leads to the mainline Sveshnikov. } ) 7...Nxd5 8.exd5 Nb8 9.a4 Be7
+10.Be2 O-O 11.O-O Nd7 12.b4 $5
+{ The first major deviation. Caruana chose Bd2 in the previous game. Still,
+the move does not look too impressive to me. } ( 12.Bd2
+{ Carlsen misplayed the position and quickly ended up worse. } ) 12...a6
+13.Na3 a5 $5
+{ A very commital decision, but not a bad one. Magnus forces the queenside
+open right away, a fearless decision against a prepared opponent, but he
+had other options. } ( 13...b6
+{ Appeals the most to me. Black tries to keep the queenside closed and will
+look for his own counterplay with f7-f5. In fact, I actually prefer Black
+in a practical game here. } ) 14.bxa5 Rxa5 15.Nc4 Ra8 16.Be3
+{ Caruana was still playing very fast. He probably was in his preparation.
+} 16...f5 $1
+{ Black absolutely needs counterplay, and f5-f4 is coming. However, unlike
+game 8, here White cannot comfortabll play f2-f4 himself to keep his
+kingside secure. } 17.a5 ( 17.f4 { Black is absolutely fine after } 17...exf4
+18.Bxf4 Nb6 ( 18...g5 $5 { If Black is in a feisty mood } ) ) 17...f4 $1
+18.Bb6 Qe8
+{ The battle lines are drawn. White clearly has an edge on the queenside,
+Black's pieces (particularly the c8-bishop and d7-knight) look a little
+clumsy, and the b6 square could prove to be a problem. But Black's kingside pawn mass promises him decent counterplay. }
+19.Ra3
+{ A not so mysterious rook move. It looks pointless now but Black's plan is
+clearly to launch a kingside attack, and the rook will be a good defender
+laterally along the third rank. } ( 19.Re1
+{ This is the computer's recommendation by a wide margin, but I don't
+really understand the move? I guess it just serves as some vague
+prophylaxis against e5-e4. It claims white is better but I am unconvinced because after }
+19...Rf6 $1 { Black is ready to challenge the b6-bishop via Be7-d8. } )
+19...Qg6 20.Bc7 e4 $1
+{ Carlsen is in burn the bridges mode. His pawns are vulnerable and could
+quickly fall if the center were to open at an inopportune moment, but he is
+looking for direct counterplay against White's king, truly in the style of the Sveshnikov. }
+( 20...Ra6
+{ A quiet defensive move like this one was surely fine, but I think the
+World Champion was right to go for it. } ) ( 20...b5 $5
+{ It was also possible to play in the same manner as the game, only without
+committing to e5-e4. This could make some sense as the central pawns proved
+weak. } 21.Nb6 ( 21.axb6 $2
+{ It's possible this move annoyed Magnus since e5-e4 no longer works, but
+it is also insufficient. } 21...Rxa3 22.Nxa3
+{ The problem is here Black needs a new attacking plan since e5-e4 fails to
+bring its desired returns. } 22...Nc5 $1
+{ The b-pawn is well under control, and most importantly, White's pieces
+are totally unprepared to defend his king. How will the c7-bishop ever
+contribute to a proper defense? Rf6-h6 is coming and Black should win. } ( 
+22...e4 23.Bh5 $1 Qg5 24.Qg4 $1
+{ White is doing well. Getting his queen to g4 will really lesse any
+attacking chances Black can hope for } ) ) 21...Nxb6 22.Bxb6
+{ This leads to a similar position to the game, but Black does not need to
+play e5-e4 if he so desires. For instance, he seems to have a good position
+after } 22...b4 23.Rb3 Bf5 $1
+{ When it is clear there are reasons the pawn is good on e5 as well. } )
+21.Kh1 b5 $5 { A very commital move, but not a bad one. } ( 21...Qh6
+{ The machines prefer a slower buildup with something like this. Black
+certainly will have attacking chances by lifting the f8-rook, but I don't
+mind Magnus's decision either. } ) 22.Nb6 $1 ( 22.axb6 $2
+{ This would be asking for trouble. I find it unlikely White will survive
+after the energetic } 22...Rxa3 23.Nxa3 f3 $1 24.gxf3 Ne5 $1
+{ Black's attack looks devastating. } ) 22...Nxb6 23.Bxb6 Qg5 $6
+{ Technically, this move loses the game against best play, but it comes
+with a very nasty idea of playing Rf6-h6 and delivering mate on the h-file.
+A machine with its nerves of steel would have no trouble grabbing h5, but for a human, it looks absurdly dangerous. }
+24.g3
+{ Caruana's move makes a lot of sense. Taking on f4 and bringing the rook
+to g3 should dispel any mating dreams. } ( 24.Bxb5 $1
+{ White could have gotten away with this. } 24...Rf6
+{ Extreme precision is needed to beat back the attack, but it is possible.
+} 25.Re1 $1
+{ An important move. White hits the e4-pawn while simultaneously clearing
+f1 for the bishop. } 25...Bf5 ( 25...Rh6 26.Rxe4 ) ( 25...Rg6 26.Bf1 Bf5 ( 
+26...Ba6 27.Rxe4 $1 $18 ) 27.a6 Rh6 28.a7 Qh4 29.h3 f3
+{ This loks absolutely terrifying for a human, but apparently White wins
+with another only move: } 30.Qd4 $1 $18
+{ The point is to defend against the threat of Bxh3 followed by Qg4. }
+30...Bxh3 31.gxh3 Qg4 32.Rxf3 $1
+{ No more exf3 thanks to the pin exerted by the queen being on d4. After }
+32...Qxf3+ 33.Bg2
+{ The a-pawn will carry the day. One certainly cannot fault Caruana for not
+seeing all of this. } ) 26.f3 $1 e3 27.a6 Rh6 28.Re2 $3
+{ An incredibly difficult only move that would have to have been prepared
+in advance. White is ready to play Qg1 and hold the position together. Even
+then, the variation continues. } 28...Qh5 29.Qg1 Bh4 30.g4 $1 fxg3 31.Raxe3
+$1
+{ White wins. But this is really just a machine line, and outside of human
+capability. } ) 24...b4 25.Rb3 ( 25.gxf4
+{ I would have been tempted to clear the 3rd rank for defensive purposes,
+and this probably is an easier route to equality. Still, while Caruana's
+choice gives him some only moves to find, he did find the moves and he objectively was not worse. }
+) 25...Bh3 26.Rg1 $1 { The rook is needed for defensive purposes. } ( 26.Re1
+Bf6 $1 { Moves like Bc3 or Be5 could come next. White is in trouble. } )
+26...f3
+{ White is under a lot of pressure. Around here I thought Caruana might
+crack and give Magnus the first decisive result, but he defended very well.
+} 27.Bf1 $1
+{ This is a tough move. I would have been tempted to just let the bishop
+stay on h3, since White can always sacrifice an exchange on g2 very happily
+and otherwise it's not clear what active role the bishop plays. But it was absolutely critical to play Bf1. }
+( 27.Bb5 $2 { A move like this looks sensible... } 27...Rf6 $1
+{ Until you realize White will simply be mated on the h-file! Rh6 and Qh5
+is coming, and there is nothing to be done. } ) 27...Bxf1 $1 ( 27...Qh5
+{ Caveman play does not work here since White is in better shape to keep
+the h-file under control. The queen coming to f1 is very important, for
+instance after } 28.Rxb4 Rf6 29.Bxh3 Qxh3 30.Be3 $1
+{ Black will not get Rh6 very easily, and e4 is hanging to boot. White
+should win. } ) 28.Qxf1 $1
+{ Another important decision. White cannot allow a disaster on the h-file.
+His position looks awful with the queen and the rook so passively placed
+and the d5-pawn falling, but he remains solid and can rely on the a5-pawn for counterplay. }
+( 28.Rxf1 $2 { Keeping active pieces comes at a heavy price. After } 28...Qg4
+$1 29.Rxb4 Rf5 $1 { White will promptly be mated by Rh5 and Qh3. } )
+28...Qxd5 29.Rxb4 Qe6 30.Rb5 $11
+{ The position is dynamically balanced, but White has to be more careful
+than Black. He managed without a ton of trouble. } 30...Bd8 31.Qe1 $1
+{ The queen returns to life. } 31...Bxb6 32.axb6 Rab8 33.Qe3 Qc4 34.Rb2 Rb7
+35.Rd1 Qe2 $1
+{ Setting a devilish trap, though it is not enough to claim an advantage. }
+36.Re1 $1
+{ Far from the only holding move, but I am awarding an exclamation point
+for not falling for Black's idea. } ( 36.Qb3+ $2 Kh8 37.c4
+{ Looks like it traps Black's queen. But the nasty response } 37...Rxb6
+$1 $19 { Would promptly turn the tables! } ) 36...Qxe3 37.Rxe3 d5
+{ The position is balanced as neither side can easily mobilize their pawn
+majority. Black's center looks impressive, but he can't do anything with it
+so long as he is left with a passive rook on b7. } 38.h4 Rc8 39.Ra3 Kf7
+40.Kh2 Ke6 41.g4 Rc6 42.Ra6 Ke5 43.Kg3 h6 44.h5
+{ The position is some kind of mutual stalemate where neither side can do
+anything. Magnus tried to make something happen with } 44...Kd4 $2
+{ But only made trouble for himself after the strong response } 45.Rb5 $1
+{ When Black has to be somewhat accurate to not get into trouble. Still, he
+has more than one route to a draw, and Magnus found a very easy one. }
+45...Rd6 $1
+{ Overprotecting the d5-pawn White was planning to harass with Raa5. }
+46.Ra4+ Ke5 47.Rab4 Ke6
+{ Nice and easy. White has no good way to challenge Black's central pawn
+mass without allowing liquidation. } 48.c4 dxc4 49.Rxc4 Rdxb6 50.Rxe4+ Kf7
+51.Rf5+ Rf6
+{ Black loses a pawn but simplifies into an easily drawn 3 vs 2 on the
+kingside. Caruana did not even bother trying. His winning chances are
+approximately zero. } 52.Rxf6+ Kxf6 53.Kxf3 Kf7 54.Kg3
+{ With only 2 games to go, each player has only one game to try with White.
+Carlsen gets to go first, and I'll be interested to see what first move he
+chooses, as well as if we will see a 6th 2.Nf3 Nc6 Sicilian in the final game. }
+1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.24"]
+[Round "11"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1/2-1/2"]
+[Annotator "Sam Shankland"]
+[BlackElo "2832"]
+[ECO "C42"]
+[EventDate "2018.11.09"]
+[WhiteElo "2835"]
+
+1.e4
+{ I was little surprised to see 1.e4 today, but then again, I have failed
+to predict basically any opening choice Magnus has made. Maybe that's why
+he is so hard to prepare for. } 1...e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3
+Nxc3 6.dxc3 Be7 7.Be3 O-O ( 7...Nc6
+{ Was Caruana's choice in the infamous "shush" game in St. Louis in August,
+2018. } ) 8.Qd2 Nd7 9.O-O-O Nf6
+{ A somewhat unusual move, but not a bad one, and mentioned on one of
+Caruana's Chessbase files in the leaked video! } ( 9...c6
+{ Is definitely the main try. Caruana has played this move multiple times.
+I'm sure Magnus had some idea in mind. } ) 10.Bd3
+{ Up until here Magnus was blitzing, but he started to think more after
+Black's next move. This I do not really understand... } 10...c5
+{ This is Black's most common move by far, and the top choice of the
+machine. I don't see how Magnus could have been prepared up to Bd3 and
+surprised when Black plays the best move according to both human and silicon practice. }
+11.Rhe1 Be6 12.Kb1 ( 12.Bg5
+{ Is a more critical try. The machines offer it as a clear improvement and
+in practice it has fared well, including a fine win by Karjakin over
+Harikrishna. It must be the most challenging move, though obviously one has to believe Caruana would have been prepared for it. }
+) 12...Qa5 $1
+{ This forces the queens off. Black has to be a little careful I guess. }
+13.c4 Qxd2 14.Bxd2 h6
+{ This was the point where I joined the Chess.com live broadcast, and
+basically called the game perfectly up to the point where it was no longer
+interesting. } ( { Caruana deviated from } 14...Rfe8 15.Ng5 Bd7 16.f3 Bc6
+17.a3 h6 18.Ne4 Nxe4 19.Bxe4 Bxe4 20.Rxe4 Bf8
+{ as played very recently in Sasikiran,K (2671)-Miroshnichenko,E (2606)
+Saint Louis USA 2018 } ) 15.Nh4 $6
+{ This is very forcing, extremely direct, and basically just a draw. Black
+is in horrible shape if he doesn't play the most forcing moves at his
+disposal. Given this is Caruana's normal M.O. anyway, I can't imagine Magnus expected to get much. }
+( 15.h3
+{ A patient move like this one was certainly a better try. White might go
+for Nh4 in the future now than Ng4 becomes less enticing, and g2-g4 is a
+plan as well. The computer even offers White a slight edge, but it's hard to imagine a 2800 losing with Black. }
+) 15...Rfe8 ( 15...Ng4 16.Nf5 ( 16.Ng6 fxg6 17.Rxe6
+{ Carlsen noted that he thought Black would be a bit worse here. We agreed
+during the live analysis. But it's hard to imagine Caruana subjecting
+himself to this when Rfe8 equalizes easily. } 17...Nxf2 18.Rde1 Nxd3 19.cxd3
+Bf6 20.Rxd6 Bd4 21.Rde6
+{ And White will play Kc2 and one of the rooks to e2 if needed [Carlsen]. } )
+16...Rfe8 { Would transpose to the game } ( 16...Bxf5 $2 17.Bxf5 Nxf2 18.Rc1
+$1
+{ Nice and simple. I found this line with Robert and Danny during the live
+broadcast, and the knucklehead cliub figured out that White is pleasantly
+better. The knight is in serious danger of getting trapped. } ) ) 16.Ng6 Ng4
+$1 { Strong, but also very straightforward. } 17.Nxe7+ Rxe7 18.Re2
+{ If White had a move to consolidate, he would be much better. But he
+doesn't. } 18...Ne5 $1
+{ The bishop pair is halved, and everything liquidates in short order. }
+19.Bf4 ( 19.Bc3 f6 $1 ( 19...Nxd3 $6 20.Rxd3 Rd7 21.Rg3 $1
+{ Would be a little uncomfortable for Black, though I do think he should
+hold without a ton of trouble. } ) 20.Bxe5 ( 20.b3 Nxd3 21.Rxd3 Rd8
+{ White cannot stop Kf7 followed by d5 } ) 20...dxe5
+{ I was not sure about this position at first, worrying about White being
+able to dominate the d-file. But Black is definitely fine, and if White
+plays Red2, f6-f5 followed by Kf7-f6 becomes an idea, when Black sets his healthy majority in motion. }
+) 19...Nxd3 20.Rxd3 Rd7 $1
+{ The last accurate move ends the game. The d6 pawn could have been a
+target, and now it will be exchanged. } 21.Rxd6 ( 21.b3 Rad8
+{ With d6-d5 to follow, and absolute equality. } ) 21...Rxd6 22.Bxd6 Rd8
+23.Rd2 Bxc4 24.Kc1 b6 25.Bf4 Rxd2
+{ This was unnecessary as Black will likely lose a pawn, but with opposite
+colored bishops, it is still a very straightforward draw. } ( 25...Re8
+{ Was a simpler route to full equality. The text is hardly a mistake
+though. } ) 26.Kxd2 a6 27.a3 Kf8
+{ The simplest. Black does not try to save his pawns, will lose one button,
+and have an easy fortress. } 28.Bc7 b5 29.Bd6+ Ke8 30.Bxc5 h5
+{ Once g6 comes, the kingside is permanently secured. The black king can
+come to c6 and White's extra pawn is of no value. } 31.Ke3 Kd7 32.Kd4 g6
+33.g3 Be2 34.Bf8 Kc6 35.b3 Bd1 36.Kd3 Bg4 37.c4 Be6 38.Kd4 bxc4 39.bxc4 Bg4
+{ The only plan other than the one Carlsen tried is to play h4 and then
+hope for f2-f3, g3-g4, and then Kg5 to create a passed h-pawn. Black would
+have to be extremely cooperative for this to work. } 40.c5 Be6 41.Bh6 ( 
+41.h4 Bf5 42.Ke3 Be6 43.Kf4 Bf5 44.f3 Be6 45.g4
+{ Is an illustration of my plan in action. Black probably did not have to
+allow even this. But still, it's just a draw if he stops the king from
+coming to g5. } 45...Bd5 { With dead equality. } ( 45...Bc4 $2 46.Kg5
+{ And White wins with the h-pawn. } ) ) 41...Bd5 42.Be3 Be6 43.Ke5 Bd5 44.Kf4
+Be6 45.Kg5 Bd5 46.g4 hxg4 47.Kxg4 Ba2 48.Kg5 Bb3 49.Kf6 Ba2 50.h4 Bb3 51.f4
+{ Now f5 is coming. If Black takes it, the h-pawn goes. But it's not a
+problem. } 51...Ba2 ( 51...Bc2 $2
+{ Too soon. Black needs to wait for f5 first. } 52.Kxf7 ) 52.Ke7 Bb3 53.Kf6
+Ba2 54.f5
+{ If Black were to fall asleep at the wheel, fxg6 would win. But after }
+54...Bb1 $1 { Now Kxf7 is no longer an issue since it can be met with Bxf5. }
+55.Bf2
+{ The last trick. White hopes Black will take on f5. But it's almost like
+hoping Santa Claus will bring you Christmas presents. Once you reach a
+certain level, you know it will never happen. } ( 55.fxg6 fxg6
+{ Is also a draw. Obviously Black should not take with the bishop to allow
+a second passed pawn. } ) 55...Bc2
+{ Caruana finished the game with more time than he started with, and
+Carlsen with only three minutes less. There wasn't much to say, and if I
+thought Chess. com would pay me my standard ! million per game fee for leaving my annotations blank, maybe I would have done it! Game 12 should
+be interesting. The high pressure might induce more mistakes than normal and we could see more of a fight. One wonders if Carlsen will stick with the Sveshnikov for a sixth game in a row. Caruana is very likely to keep playing 1. e4. }
+( 55...Bxf5 $2 { Lets the h-pawn through. } 56.h5 ) 1/2-1/2
+
+[Event "2018 World Chess Championship"]
+[Site "London, England"]
+[Date "2018.11.26"]
+[Round "12"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[Result "1/2-1/2"]
+[Annotator "Sam Shankland"]
+[BlackElo "2835"]
+[ECO "B33"]
+[EventDate "2018.11.09"]
+[WhiteElo "2832"]
+
+1.e4 c5 2.Nf3 Nc6
+{ Magnus sticks to his same Sicilian repertoire in the all decisive final
+game. One can only admire his willingness to enter sharp positions with it
+all on the line. } 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5
+Ne7 $5 { The first surprise. Games 8 and 10 saw 8...Nb8 } ( 8...Nb8
+{ And here Caruana was playing } 9.a4
+{ a very different plan from what we saw in the present game. } ) 9.c4 Ng6
+10.Qa4 Bd7 11.Qb4 Bf5
+{ Up to this point both sides were blitzing. Caruana now thought for a bit
+before ultimately going for the most testing move. } 12.h4 $5
+{ White aims to play against the g6 knight. The threat of h4-h5 is not
+particularly subtle, but a bit annoying for Black to meet since playing
+h7-h5 himself will leave him with a weak h5-pawn and potentially a problem on the g5 square. }
+12...h5 $146
+{ There had only been one human game up to this point, and h5 is formally a
+novelty. But, it was contested between top engines in the TCEC competition,
+so Magnus surely was familiar with the ideas. He was still blitzing out his prep at this point. }
+( 12...a6 $2 { would be well met by } 13.h5 $1
+{ when White has an excellent position. } ) ( 
+{ [That was in fact played in the recent game Kramnik-Roganovic, Batumi
+Olympiad 2018 which continued } 12...a6 13.h5 Nf4 14.Nc3 Be7 15.Be3 Nd3+
+16.Bxd3 Bxd3 17.h6 { and White won in 42 moves. - ed.] } ) 13.Qa4 Bd7 14.Qb4
+Bf5 15.Be3 { No early draws this time! } ( 15.Bg5 $5
+{ may have been a more critical move. Still, I am sure Magnus would have
+been ready for it. } 15...Qb8 16.Be2 a6 17.Nc3 Nf4 18.Bf1 Be7 19.Bxe7 Kxe7
+20.g3 Ng6
+{ and a draw after 59 moves in Houdini 6.03-Stockfish earlier this year. } )
+15...a6 { The first move Magnus thought about. } ( 15...Be7 $5
+{ The machine thinks giving the a7-pawn is interesting. It might be right
+but it looks risky to me. } 16.Bxa7 O-O 17.g3 Be4
+{ Otherwise White just goes Bg2 with an extra pawn } 18.Rg1 Bf3
+{ Black has obvious compensation, but I'm not fully convinced it is enough.
+} ) 16.Nc3 Qc7 ( 16...Be7
+{ Again, Black could have pitched the pawn to speed up his development. But
+I don't really mind Magnus' choice. He clearly understood the resulting
+middlegame better than Caruana. } ) 17.g3 Be7 18.f3 $6
+{ The first dubious move of the game. Perhaps White was worried about e5-e4
+then Ng6-e5 can come to solve the problem of the poorly placed g6-knight,
+but this strikes me as too defensive and too slow. } ( 18.Be2
+{ The computer flirts with weird checks on a4. This move looks by far the
+most natural to me. } 18...e4 19.Bb6 Qd7 20.Bd4
+{ White looks better to me, but of course it is still complicated. } )
+18...Nf8 $1
+{ One bad piece makes a bad position, and White's play has been slow enough
+that Black has time for Nf8-d7 before castling. } 19.Ne4 Nd7 20.Bd3 O-O
+21.Rh2 $6
+{ White's second dubious decision. It's not such a silly way to develop the
+rook as it clearly belongs on the c-file. but it appears to articifial to
+me. } ( 21.O-O
+{ Sometimes boring is prudent. I don't think White is better, but he is
+definitely not worse and has a fair plan to expand with c4-c5 eventually. } )
+21...Rac8 ( 21...Bg6
+{ Preparing f7-f5 immediately was fine as well. I suspect Carlsen did not
+want to allow White to respond with } 22.g4
+{ Though here Black is also better after the accurate response } 22...Nf6 $1
+) 22.O-O-O Bg6 $1
+{ f7-f5 is coming. Black is setting his central pawn majority in motion
+while White's queenside is badly stalled- c4-c5 looks impossible to ever
+pull off. I think Black is already seriously better. Note that Carlsen chose this moment to go for Bf5-g6 since White cannot comfortably play g3-g4
+in response due to the hanging c-pawn. } 23.Rc2 ( 23.g4 $2 hxg4 $1 24.fxg4
+Bxe4 $1 { The point. White loses the c4-pawn, and the game. } ) 23...f5
+24.Nf2 ( 24.Ng5
+{ The computers prefer this move by a wide margin, but I still would not
+want to be White after something like } 24...Bxg5 25.hxg5 e4 $1 26.Bf1 ( 
+26.fxe4 fxe4 27.Be2 Ne5 { Also looks awful } ) 26...f4 $1
+{ When the bishop on g6 becomes a monster. } 27.Bxf4 Nc5
+{ Black's attack is extremely dangerous. } ) 24...Nc5
+{ Around here, I thought Magnus would win the game, and in fine style to
+close out the match after eleven draws. White's position looks miserable. }
+25.f4 a5 $5
+{ This move is not best. But it doesn't really bother me- I think Black
+should still win. } ( 25...exf4
+{ Sesse claims opening the position was the best way. White will either
+lose the h4-pawn after } 26.gxf4 ( 26.Bxf4 { Or this can be met with }
+26...b5 $1
+{ When the queenside is blasted open. Technically this may be best, but
+White suddenly has a solid looking position, a good bishop on f4, and the
+g6-bishop is not inspiring. Magnus's choice is no worse in my opinion. } )
+26...Bxh4 { and White has no meaningful compensation } ) ( 25...b5
+{ This also looks very strong, and may be the most human way to bring in
+the full point. Black forces open the queenside. The machine's
+recommendation of } 26.Bxc5 dxc5 27.Qd2 Bd6
+{ Looks rather hopeless for White to me. Eventually he will lose on the
+dark squares. } ) 26.Qd2 e4
+{ White is completely stuck, has no counterplay, no plan. But the position
+is locked. All Black has to do is get the b7-b5 advance through. If he
+manages, he should win. And he should manage. } 27.Be2 Be8 28.Kb1 Bf6 29.Re1
+a4 $4
+{ Much like I did to Caruana for playing h2-h3 in game 8, I am giving an
+exceptionally harsh evaluation to Magnus for this move, which is totally
+not in the spirit of the position. His only plan to win the game is b7-b5. It should be enough if he manages under decent circumstances. But now, he
+has cleared the b4-square for White's queen! This makes his task significantly harder, if not impossible. In addition, the pawn on a4 deprives Black's knight and bishop access to this square, which both pieces would want to use. Magnus said this was prophylaxis against Bd4 due to Nb3, but it
+still doesn't come close to justifying allowing the queen to b4. } ( 
+29...Ba4 $1
+{ This was the most convincing route to victory according to the machine,
+and Caruana mentioned it was what he was most concerned about. Black wins
+in all lines, for instance } 30.b3 ( 30.Bxh5
+{ This looks like a little bit of counterplay but Black wins the race after
+} 30...Bxc2+ 31.Qxc2 b5 $1 32.Bg6 bxc4 33.Qe2 Rb8 { Black mates first. } ) ( 
+30.Rcc1 b5 $1 31.cxb5 Qb6 { The b-file opens, and Black should win. } )
+30...Bxb3 $1 31.axb3 Nxb3 32.Qd1 a4 $1
+{ And Black can just ignore White's extra piece, which is meaningless.
+b7-b5 comes next. Still, this is hard to do in an OTB game. I don't really
+mind Magnus not playing Ba4. Playing a4 was what I took issue with. } ) ( 
+29...Rb8 $5
+{ A move like this one is what I would expect a human to do. b5 is coming
+and White can't do anything about it. } 30.Bd4
+{ A bad move, but what else? In addition to Nd3 winning material, this
+position is also just wretched after the simple } 30...Bxd4 31.Qxd4 b5
+{ Black should win, easily. } ) ( 29...g6
+{ Even a patient waiting move like this might be enough. } ) 30.Qb4 $1
+{ Now how will b5 come? Black has no other way to open the position. }
+30...g6 31.Rd1 Ra8
+{ Magnus has gotten a lot of grief for offering a draw here, from both club
+level online kibitzers to past World Champions. I'll spare him my full
+thoughts on the matter, but I will say I don't really understand his decision. He faces absolutely no risk ever and still has some plans at his
+disposal to try to get b5 through, with as Bd7, Rrb8, etc. Maybe White is holding, maybe he isn't. I'd need to look a lot longer to draw any conclusions. But I really think Black should have played, at least until time control. All that said, I still think he is a favorite in the playoff. His
+rapid and blitz skills have long been atop the world, and I do think he played better overall chess in the classical portion (if this can ever be said for a 6-6 tie with no decisive games). Still, while he is a favorite in the playoff, his victory is by no means gauranteed. Upsets can happen, and Magnus would do well to try not to be tilted by both starting and ending the match by drawing a winning position with Black. }
+1/2-1/2
+
+[Event "2018 World Chess Championship – Rapid Tiebreak"]
+[Site "London, England"]
+[Date "2018.11.28"]
+[Round "13.1"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1-0"]
+[Annotator "Daniel Fernandez"]
+[ECO "A22"]
+[EventDate "2018.11.09"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.e4 $5
+{ This move is extremely rare, and judging by the time situations that
+followed, it seems this came as a surprise to the Challenger. } 4...O-O ( 
+4...Bxc3
+{ is possible, but super-GM opinion coalesced against White's position in
+the line } 5.dxc3 Nxe4 6.Qd5 Ng5 7.Qxe5+ Ne6 $14
+{ Black's position is slightly worse, even if from my modest perspective I
+consider it to be relatively easy to play! } ) 5.Nge2 c6
+{ This move makes sense in conjunction with ...Ba5-c7, or alternatively...
+} 6.Bg2 a6 $5
+{ At this point, if not on the move before, Black commits to a plan which
+might be practically interesting, but doesn't particularly inspire
+confidence on an objective level. } ( 6...d6 7.O-O a5 8.d3 Nbd7
+{ is a more 'traditional' English follow-up. } ) 7.O-O b5 8.d4 $1
+{ This has to be critical. White is a little better, but with the murky
+strategic situation and the rapid time control anything could happen. }
+8...d6 9.a3 ( 9.f4 $6 exd4 10.Nxd4 bxc4 $15 ) 9...Bxc3 ( 9...Ba5 10.b4 Bc7
+11.cxb5 axb5 12.d5
+{ may simply be a strategic disadvantage, so it's wise to try and avoid
+this. } ) 10.Nxc3 bxc4 11.dxe5 ( { It is not yet time for } 11.f4 { : }
+11...Bg4 $1 12.Qd2 Qb6 ) 11...dxe5 12.Na4 ( 12.Qe2
+{ was the engine suggestion, and it seems to me that Black has to play
+another unusual move in order to avoid being clearly worse. } 12...a5 ( 
+12...Qd3 $2 13.Qxd3 cxd3 14.Rd1 $16 ) ( 12...Be6 13.f4 $16 ) 13.Na4 $1 Ba6
+14.Nc5 Qb6 15.Nxa6 Qxa6 $14
+{ White should be a little better, but nothing is too clear yet. } ) 12...Be6
+$1
+{ Black has to play this cold-blooded move in my opinion- recognising that
+Nc5 isn't quite the dramatic positional masterstroke that it seems. } ( 
+12...Nbd7 13.Qc2 Nb6 14.Nxb6 Qxb6 15.Qxc4 $14 { is miserable. } ) 13.Qxd8 ( 
+13.Nc5 Qe7 14.Nxe6 Qxe6 15.Be3 Rc8 $1
+{ With ...c5 and ...Nc6-d4 to come; Black seems to be emerging from his
+difficulties now. } ) 13...Rxd8 14.Be3 Nbd7 15.f3
+{ White opts for a steady approach, seemingly convinced of having some kind
+of edge. Indeed, in practical games between ordinary mortals this would be
+the case. } 15...Rab8 16.Rac1 Rb3 17.Rfe1 Ne8 $6
+{ This move is strategically desirable, but only if Black can also get
+...f6, ...Nd6 and ... Kf7 without being interrupted. Now, he probably risks
+being somewhat worse again. } ( 17...Rdb8 $1
+{ is better, intending to give back the pawn in a way that makes White's
+structure a little weaker. } 18.Bf1 c3 19.Rxc3 Rxc3 20.bxc3 Rb3 21.Ra1 a5 $11
+) 18.Bf1 Nd6 19.Rcd1 Nb5 $2 ( 19...Nb7 $1
+{ was required, followed by the cold-blooded sequence } 20.f4 g6 21.f5 gxf5
+22.exf5 Bd5 23.Nc3 Nf6
+{ when despite the strange location of some of Black's pieces, there is no
+objective problem. I suspect that Fabiano saw this, didn't notice that the
+Nb7 defended the Rd8 and opted for a move that stopped Nc3. } ) 20.Nc5 $1
+{ This is a key move for White to see, after which he is clearly better. }
+20...Rxb2 21.Nxe6 fxe6 22.Bxc4 Nd4 23.Bxd4 exd4 24.Bxe6+ ( 
+{ The engine suggests the brutal and unfindable } 24.Rxd4 Kf7 25.Kh1 $3 $18
+{ when Black has no defence against Red1 and Rd6; White will probably come
+out 2 pawns ahead. } ) 24...Kf8 25.Rxd4 Ke7 26.Rxd7+ Rxd7 27.Bxd7 Kxd7
+28.Rd1+ Ke6 29.f4 c5
+{ Watching this position live in the 'kibitzing' area, I was shocked to
+discover that barely anyone else thought the position was closer to a draw
+than a win. } 30.Rd5 $6 ( 30.Rc1 Kd6 31.a4 $5
+{ is the engine opinion. Almost all these positions will come down to some
+version of 3v2 on the kingside with an extra a-pawn each to confuse the
+players; the point is to identify which versions entail Black having a worse rook! For instance, see the line }
+31...Rd2 $6 32.e5+ Kd5 33.e6 Kxe6 34.Rxc5 g6 35.Re5+ Kf6 36.Ra5 Ke6 37.h3 Rd6
+38.Kf2 $18 { when White is close to winning. } ) 30...Rc2 31.h4 c4 32.f5+ Kf6
+33.Rc5 h5 34.Kf1 Rc3 $6 { Not losing, but a bad idea. } ( { Following }
+34...c3 35.Ke1 Rg2 36.Rxc3 Ke5 $11
+{ Black would have very comfortably held this ending even two pawns down. } )
+35.Kg2 Rxa3 36.Rxc4 Ke5 37.Rc7 Kxe4 $2
+{ Based on a flawed trick. This is probably the decisive error. } ( 
+37...Ra2+ $1
+{ could have been played first, and then the trick works as in the next
+note: } 38.Kh3 Kxe4 39.Rxg7 Ra1
+{ and since White has to think about getting mated, he is not able to stay
+in position to deliver Rg5+. } ) 38.Re7+ ( 38.Rxg7 Ra2+ 39.Kh3 Ra1 $1 $11
+{ is the tricky point. } ) 38...Kxf5 39.Rxg7 Kf6 40.Rg5 a5 41.Rxh5 $18
+{ Now the position is winning for Carlsen. Sometimes, a flank pawn can hold
+off two central pawns in such cases, but definitely not when the opponent's
+two pawns are both on the opposite side of the board. } 41...a4 42.Ra5 Ra1
+43.Kf3 a3 44.Ra6+ Kg7 45.Kg2 Ra2+ 46.Kh3 Ra1 47.h5 Kh7 48.g4 Kg7 49.Kh4 a2
+50.Kg5 Kf7 51.h6 Rb1 52.Ra7+ Kg8 53.Rxa2 Rb5+ 54.Kg6 Rb6+ 55.Kh5 1-0
+
+[Event "2018 World Chess Championship – Rapid Tiebreak"]
+[Site "London, England"]
+[Date "2018.11.28"]
+[Round "13.2"]
+[White "Fabiano Caruana"]
+[Black "Magnus Carlsen"]
+[Result "0-1"]
+[Annotator "Daniel Fernandez"]
+[ECO "B33"]
+[EventDate "2018.11.09"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 $5
+{ I didn't completely understand Fabiano's insistence on trying this move
+again in game 12, and I certainly don't understand it now, given his
+apparent lack of comfort with the resulting positions. } 7...Nxd5 8.exd5 Ne7
+( { In the 10th game, } 8...Nb8
+{ was chosen, and while Black developed thematic play on the kingside, it
+never looked like he was going to give mate. } 9.a4 Be7 10.Be2 O-O 11.O-O Nd7
+12.b4 a6 13.Na3 a5 14.bxa5 Rxa5 15.Nc4 Ra8 16.Be3 f5 17.a5 f4 $13
+{ Caruana,F-Carlsen,M WC(10) London 2018 } ) 9.c4 Ng6 10.Qa4 Bd7 11.Qb4 Qb8
+( 11...Bf5
+{ was played in the 12th standard game, and after some messing around play
+took an independent trajectory: } 12.h4 h5 13.Qa4 Bd7 14.Qb4 Bf5 15.Be3 a6
+16.Nc3 Qc7 17.g3 Be7 18.f3 Nf8 $1 $132
+{ Caruana, F-Carlsen,M WC(12) London 2018 } ) 12.h4 h5 13.Be3 a6 14.Nc3 a5
+{ With the text move, Magnus makes it clear that he doesn't want a White
+knight to appear on b6, which is understandable, but may leave him worse. }
+( 14...f5 { would nevertheless be playable, since a line like } 15.Na4 ( 
+15.g3 Be7 16.Be2 Kf7 17.Na4 f4 $40 ) 15...f4 16.Bd3 Nxh4 17.Rxh4 fxe3 18.Nb6
+$13
+{ is simply a mess rather than necessarily favouring one side or another. } )
+15.Qb3 ( 15.Qa3 f5 16.g3 Be7 17.Be2 Kf7 18.Na4 $14
+{ would be logical, when it seems that Black's ...a5 has left the b6-square
+more rather than less weak. } ) 15...a4 16.Qd1 Be7 ( 16...Ne7 $5
+{ is one way to get an approximately equal position. } ) 17.g3 Qc8 18.Be2 Bg4
+19.Rc1 Bxe2 20.Qxe2 Qf5 $5
+{ This move is interesting in that it commits in some sense to a long-term
+regrouping. Black delays ...f5, preferring to think about that push only
+after establishing his knight on d7 and queen on g6. } ( 
+{ The engine suggests } 20...O-O { and only after } 21.b3 { then } ( 21.O-O
+Qh3 22.Qxh5 Nxh4 23.gxh4 Bxh4 $11 ) 21...axb3 22.axb3 Qf5 $11 ) 21.c5 $6
+{ This move is based on the flawed idea that White's advantage is large
+enough to justify big-picture, light-square based play. } ( 21.O-O O-O 22.Kg2
+{ was perfectly possible and was indeed suggested by Malcolm Pein in the
+press room. Black needs to do quite a bit more thematic re-arrangement
+before he is ready with ...f5, for instance } 22...Rfc8 23.f3 Nf8 $5 24.f4
+$3 $14 ) 21...O-O
+{ Now Black is at least equal and White goes on to provide a perfect
+example of why we usually castle in chess. } 22.c6 bxc6 23.dxc6 Rfc8 24.Qc4
+Bd8 25.Nd5 { Automatic, but there was better. } ( 25.Ne4 Bc7 26.O-O $11 )
+25...e4
+{ Now Black has probably gained somewhat the upper hand. White took some
+minutes to think about the question of whether allowing Black's knight to
+assume its 'favourite Sveshnikov post' on e5 was worth a piece, eventually coming up with the wrong answer. }
+26.c7 $2 { The losing mistake. } ( 26.Bd4
+{ was probably correct, notwithstanding that after } 26...Ba5+ 27.Bc3 Bxc3+
+28.Rxc3 Ra5 $40 { Black will get the thrust ...d5 through. } ) 26...Bxc7
+27.Nxc7 Ne5 28.Nd5 { Finishing the game. } ( 
+{ Concretely, I couldn't see anything after } 28.Qd5
+{ and would have said Black simply has to play } 28...Rab8
+{ with good compensation. Just how good was only revealed by subsequent
+engine checks: -2.7! White is unable to castle due to the trick } 29.O-O Rxc7
+$1 $19 ) 28...Kh7 $1 ( 28...Nxc4 $4 29.Ne7+ Kh7 30.Nxf5 Nxe3 31.Rxc8 $1 Rxc8
+32.Nxe3 Rc1+ 33.Nd1 $1 { would be embarrassing. } ) ( 28...Kh7 29.Ne7 Qf3 $1
+{ was the point, and White can only solve 2 out of the 4 problems faced by
+his major pieces. } ) 0-1
+
+[Event "2018 World Chess Championship – Rapid Tiebreak"]
+[Site "London, England"]
+[Date "2018.11.28"]
+[Round "13.3"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1-0"]
+[Annotator "Daniel Fernandez"]
+[ECO "B40"]
+[EventDate "2018.11.09"]
+
+1.e4 c5 2.Nf3 e6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Bc5
+{ Enough with the Berlin and the Petroff, now that Caruana needs to win,
+it's an Open Sicilian! Interestingly, Magnus opts for as similar a
+formation as possible to the one he used to clinch the 2016 tiebreak... }
+6.Nc2 Nf6 ( 6...Qb6 $5
+{ is probably the most obvious test of White's slow setup. Notwithstanding
+which, it was only played in one game, between 1900-level players, so we
+may as well just analyse without reference to praxis. } 7.Qd2 $5 ( 7.Qe2 d6
+8.Nc3 Bd7 9.Rb1 Nf6 10.Be3 Bxe3 11.Nxe3
+{ seems easy enough, but it's also possible to imagine White getting
+outplayed on the dark squares. } ) 7...Nf6 8.Nc3 Ng4 9.f3 Nf2 10.Na4 Qc7
+11.Nxc5 Nxh1 12.f4 $13
+{ With a horrifically messy position where the prepared player wins: White
+intends Be2, Kf1-g1, but Black can play ...d5 and open the centre. } ) 7.Nc3
+O-O 8.Be3 b6 9.Be2 Bb7 10.O-O Qe7 11.Qd2 Rfd8 12.Rfd1 $6
+{ This may be a little inaccurate and Black seems to have ways to make his
+equality clearer. } ( 12.a3 a5 13.Rad1
+{ seems preferable, securing the right to transfer a knight via b5 at will.
+} ) 12...Ne5
+{ In this way Black is forcing through ...d5, though for some reason he
+ultimately decided not to play it. } 13.Bxc5 ( 13.Bd4 d6
+{ and the tension doesn't help White, as (e.g.) ...Rac8 and ...h6 can be
+played before Black needs to do any further thinking, while White's pushes
+b4 and f4 require some serious thought. } ) 13...bxc5 14.f4 Ng6 15.Qe3 d6 ( 
+15...d5
+{ seemed clever to me, but it's worth pointing out that the simplifications
+would not have been useful in the match situation. } 16.exd5 exd5 17.Qxe7
+Nxe7 18.cxd5 Nexd5 19.Nxd5 Rxd5 20.Ne3 $11
+{ It is hard to imagine Magnus losing this as White, but maybe...? } ) 16.Rd2
+a6 17.Rad1 Qc7 18.b3 h6 19.g3 Rd7 20.Bf3 Re8
+{ White has a small something around here, even if engines disagree,
+because Black simply has no way to execute either ...e5 or ...d5. } 21.Qf2
+{ The first of a few moves that tempted Black to play ...d5 and accept
+drawishness; while these weren't the most exact for White they may have
+been the least risky. } 21...Ne7 22.h3 Red8 23.Bg2 Nc6 ( 23...d5
+{ again seems to give safe equality, but that's not good enough. } 24.cxd5
+exd5 25.e5 Ne4 26.Nxe4 dxe4 27.Ne3 $11 ) 24.g4 Qa5 25.Na4 Qc7
+{ An ill omen: Black doesn't know what to do. } 26.e5 $6
+{ Seeking simplification and possibly a bishop-vs-knight situation, but
+maybe this is too quick. } ( 26.Nc3 $14
+{ was perfectly possible, challenging Black to do better! } ) 26...dxe5
+27.Nxc5 Rxd2 28.Rxd2 Rxd2 29.Qxd2 Ba8
+{ This is not a bad move, but White is able to pretty much kill the game
+now, whereas after the alternative Black could have played for 3 results. }
+( { I'm not sure if Black thought he was worse after } 29...exf4 30.Nxb7 Qxb7
+31.Qxf4 $13
+{ but I don't think he is, and neither does the engine; the practical
+chances look quite alright. } ) 30.fxe5 Qxe5 31.Nd7 Qb2 32.Qd6 Nxd7 33.Qxd7
+Qxc2
+{ Around here, there are of course tons of ways for Black to deliver
+perpetual check, but it is extremely difficult to think of how he could do
+more. } 34.Qe8+ Kh7 35.Qxa8 Qd1+ 36.Kh2 Qd6+ 37.Kh1 Nd4 38.Qe4+ f5 39.gxf5
+exf5 40.Qe3 Ne6 41.b4 Ng5 $6
+{ Now Black is more likely to lose, but of course he may not have minded
+this. } ( 41...g5 { tries to keep something in the position, but after }
+42.c5 Qd1+ 43.Kh2
+{ it transpires that Black can't generate anything without allowing White
+to deliver perpetual: } 43...Nf4 44.Qe7+ Kg6 $11 ) 42.c5 Qf6 43.c6 $16 Ne6 $2
+{ This is where the 3rd game, and hence the match, were lost. } ( 43...Qd6
+44.Qc1 Ne6 45.Qc4
+{ is passive for Black, but there are a few more tricks than in the game. } )
+44.a4 Nc7 45.Qf4 Ne6 46.Qd6
+{ You could see Magnus wondering whether to give one last tease and play
+Qe3, either for the draw or for the trolling effect. In the end he chose
+this way, which is very simply winning. } 46...Qa1+ 47.Kh2 Nd4 48.c7 Qc3
+49.Qc5 Qe3 50.c8=Q f4 51.Qg4 { And it was all over. } 1-0
+

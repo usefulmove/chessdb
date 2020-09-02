@@ -1,0 +1,3327 @@
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.15"]
+[Round "?"]
+[White "HIARCS 14 WCSC"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "A20"]
+[EventDate "2018.03.15"]
+[TimeControl "m500"]
+[WhiteElo "1338"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 Bc5 4.Nc3 d6 5.e3 O-O 6.d4 exd4 7.exd4 Re8+ 8.Nge2 Bb4
+9.O-O c5 10.Bf4 Nc6 11.Bd5 Bxc3 12.bxc3 Nxd5 13.cxd5 Na5 14.Qd3 c4 15.Qc2 b6
+16.Rae1 Bh3 17.f3 Bxf1 18.Kxf1 Qd7 19.Kf2 Qh3 20.Kg1 Qd7 21.Kh1 Re7 22.Bg5 f6
+23.Bf4 Rae8 24.a3 Nb3 25.Kg1 g5 26.Bc1 Qh3 27.Bb2 Re3 28.f4 gxf4 29.gxf4 Qg4+
+30.Kf2 Rf3# 0-1
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.21"]
+[Round "?"]
+[White "Deep HIARCS 14 WCSC"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "A20"]
+[EventDate "2018.03.21"]
+[TimeControl "m500"]
+[WhiteElo "1338"]
+
+1.c4 e5 2.b3 g6 3.Bb2 Bg7 4.g3 d6 5.Bg2 Ne7 6.Nc3 Nbc6 7.e3 O-O 8.Nge2 Bf5
+9.d4 Nb4 10.Bxb7 Rb8 11.Bd5 Nd3+ 12.Kf1 Nxb2 13.Qd2 Nd3 14.Kg2 Nxd5 15.Nxd5
+c6 16.Ndc3 exd4 17.Nxd4 Qd7 18.Nxf5 Qxf5 19.e4 Bxc3 20.Qxd3 Qe5 21.Rad1 Rbd8
+22.f4 Qa5 23.a4 c5 24.Rhg1 Bd4 25.Rgf1 Rb8 26.Qc2 Rb4 27.g4 Rfb8 28.Rf3 Qb6
+29.Rdd3 Re8 30.Qe2 Rb8 31.Qa2 Qb7 32.e5 dxe5 33.fxe5 Bxe5 34.g5 Qc6 35.Qf2
+Rxb3 36.Rxb3 Rxb3 37.a5 Rb2 38.Qxb2 Bxb2 39.Kg3 Qc7+ 40.Kg2 Qxa5 41.Rf2 Bd4
+42.Re2 Qb4 43.Rc2 a5 44.h3 a4 45.h4 a3 46.Kf3 Qb3+ 47.Rc3 Qxc3+ 48.Kf4 Qe1
+49.Kg4 Qf2 50.h5 Be5 51.hxg6 hxg6 52.Kh3 Qg3# 0-1
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.22"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "0-1"]
+[BlackElo "1602"]
+[ECO "B56"]
+[EventDate "2018.03.22"]
+[Opening "Sicilian Defence"]
+
+1.e4 $6 { Stockfish 9:-0.03/28 } ( 1.d4 { Stockfish 9:+0.45/22 } 1...e6 2.c4
+d5 3.Nf3 c5 4.cxd5 exd5 5.Nc3 Nc6 6.dxc5 d4 7.Ne4 Nf6 8.Nxf6+ Qxf6 9.Bg5 Qg6
+10.e3 Bxc5 11.Bd3 Qe6 12.e4 Bb4+ 13.Bd2 Bxd2+ 14.Qxd2 ) 1...c5 $6
+{ Stockfish 9:+0.25/27 } ( 1...e6 { Stockfish 9:-0.03/28 } 2.d4 d5 3.exd5
+exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Re1 c6 8.Ne5 c5 9.dxc5 Bxc5 10.Nc3 Nc6
+11.Bf4 Re8 12.Nxc6 Rxe1+ 13.Qxe1 bxc6 14.Qd2 Bb4 15.a3 Ba5 16.b4 Bc7 17.Bxc7
+Qxc7 18.h3 ) 2.Nf3 $6 { Stockfish 9:-0.11/27 } ( 2.Nc3
+{ Stockfish 9:+0.25/27 } 2...Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 d5 6.Nf3 Nf6 7.Bg5
+h6 8.Bh4 Be7 9.O-O O-O 10.e5 Nd7 11.Bxe7 Qxe7 12.b3 Bb7 13.Qd2 Nb6 14.Rad1
+Nd7 15.Rde1 Rfb8 16.h3 ) 2...d6 $6 { Stockfish 9:+0.30/25 } ( 2...e6
+{ Stockfish 9:-0.11/27 } 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Be2 d5 7.exd5 exd5
+8.Bf3 Bd6 9.Qe2+ Be7 10.Be3 O-O 11.O-O Re8 12.Qb5 a6 13.Nxc6 bxc6 14.Qxc6 Bd7
+15.Qb7 Rb8 16.Qxa6 Rxb2 17.Qd3 Be6 18.a3 ) 3.d4 $6 { Stockfish 9:0.00/32 } ( 
+3.Bb5+ { Stockfish 9:+0.30/25 } 3...Bd7 4.Bxd7+ Qxd7 5.d4 cxd4 6.Qxd4 Nc6
+7.Qd3 g6 8.O-O Nf6 9.Bg5 Bg7 10.Nbd2 h6 11.Be3 Ng4 12.c3 O-O 13.Rad1 Nxe3
+14.Qxe3 Rfd8 15.Qd3 Ne5 16.Nxe5 dxe5 17.Qxd7 ) 3...cxd4 $6
+{ Stockfish 9:+0.38/27 } ( 3...Nf6 { Stockfish 9:0.00/32 } 4.Nc3 cxd4 5.Nxd4
+Nc6 6.Be3 Ng4 7.Bc1 Nf6 ) 4.Nxd4 $6 { Stockfish 9:0.00/32 } ( 4.Qxd4
+{ Stockfish 9:+0.38/27 } 4...Nc6 5.Qe3 Nf6 6.Be2 g6 7.h3 Bg7 8.Nc3 O-O 9.O-O
+Nd7 10.Rd1 Nde5 11.Nxe5 Nxe5 12.b3 Nc6 13.Bb2 Bd7 14.Rab1 Qb6 15.Qxb6 axb6
+16.Nd5 Rxa2 17.Nxb6 Rxb2 ) 4...Nf6 5.Nc3 Nc6 6.Be3 e5 7.Nb3 Be6 8.Qd2 $6
+{ Stockfish 9:-0.05/31 } ( 8.Be2 { Stockfish 9:+0.41/25 } 8...d5 9.exd5 Nxd5
+10.Nxd5 Qxd5 11.O-O Be7 12.c3 Qxd1 13.Raxd1 f5 14.Nc5 Bxc5 15.Bxc5 Kf7 16.b3
+Rac8 17.g3 Ne7 18.Bd6 Nd5 19.Bxe5 Nxc3 20.Rd2 Nxe2+ 21.Rxe2 Rhd8 22.Bxg7 Kxg7
+) 8...d5 9.exd5 Nxd5 10.O-O-O $6 { Stockfish 9:-0.74/28 } ( 10.Bb5
+{ Stockfish 9:+0.25/29 } 10...Bb4 11.Bc5 Qc7 12.O-O Bxc3 13.bxc3 a6 14.c4 Nf4
+15.Bd6 Qc8 16.Bxe5 axb5 17.Qxf4 bxc4 18.Nd4 O-O 19.Rfe1 Nxe5 20.Rxe5 Re8
+21.a4 Bd7 22.h3 Rxe5 23.Qxe5 b6 24.Qd6 Rxa4 25.Re1 Ra7 26.Qxb6 Qc7 27.Qxc7
+Rxc7 28.c3 f6 ) 10...Bb4 11.a3 $6 { Stockfish 9:-1.01/31 } ( 11.Bb5
+{ Stockfish 9:-0.61/30 } 11...O-O 12.Bc5 Nxc3 13.bxc3 Qxd2+ 14.Kxd2 Rfd8+
+15.Bd3 Ba5 16.Nxa5 Nxa5 17.Rhe1 f6 18.Kc1 b6 19.Bb4 Nc4 20.Bxc4 Bxc4 21.Rxd8+
+Rxd8 22.a4 a5 23.Ba3 Kf7 24.Rd1 Rxd1+ 25.Kxd1 Ke6 26.Bc1 g5 27.Be3 b5 28.axb5
+Bxb5 29.Kc1 Bc6 30.f3 ) 11...Nxc3 12.Qxd8+ Nxd8 13.bxc3 Bxa3+ 14.Kb1 $6
+{ Stockfish 9:-1.55/27 } ( 14.Kd2 { Stockfish 9:-0.62/28 } 14...Nc6 15.Ra1
+Bd6 16.Bb5 O-O 17.Rhd1 Rfc8 18.Nc5 Bxc5 19.Bxc5 f6 20.Bxc6 Rxc6 21.Bxa7 Bf5
+22.Ra3 b6 23.f3 h5 24.Rda1 Rd8+ 25.Kc1 Rdc8 26.Kd2 e4 27.Rb1 e3+ 28.Kxe3
+Rxc3+ 29.Rxc3 Rxc3+ 30.Kf2 ) 14...Kf8 $2 { Stockfish 9:-0.40/32 } ( 14...a6
+{ Stockfish 9:-1.55/27 } 15.Nc5 Rc8 16.Nxe6 Nxe6 17.Rd5 f6 18.Be2 Ke7 19.Rhd1
+Rhd8 20.c4 g6 21.Bb6 Rxd5 22.cxd5 Nc5 23.c4 Nd7 24.Ba5 Bc5 25.Be1 b6 26.f3 a5
+27.Bc3 a4 28.Kb2 Kd6 29.h3 Ra8 30.g3 a3+ 31.Ka2 f5 32.Ra1 e4 33.fxe4 )
+15.Bc5+ $2 { Stockfish 9:-1.43/30 } ( 15.Bxa7 { Stockfish 9:-0.40/32 }
+15...Ke7 16.Bc5+ Bxc5 17.Nxc5 Ra5 18.Nb3 Ra7 19.Bb5 f6 20.Nc5 b6 21.Nxe6 Nxe6
+22.Kb2 Rha8 23.Ra1 Rxa1 24.Rxa1 Rxa1 25.Kxa1 Nf4 26.g3 Nh3 27.f3 Ng5 28.Be2
+f5 29.Kb2 Kf6 30.Kc1 e4 31.fxe4 Nxe4 32.c4 Ke5 ) 15...Bxc5 16.Nxc5 Rc8 $6
+{ Stockfish 9:-1.15/32 } ( 16...Ke7 { Stockfish 9:-1.72/29 } 17.Bb5 Rc8
+18.Nxe6 Nxe6 19.Rhe1 Kf6 20.Rd5 Rxc3 21.Rexe5 g6 22.Re2 Rc7 23.Re3 Kg7 24.Rd6
+Nc5 25.c3 a6 26.Bd3 b5 27.Bc2 Rb8 28.Kc1 a5 29.f4 b4 30.cxb4 axb4 31.f5 b3
+32.f6+ Kg8 ) 17.Rxd8+ $2 { Stockfish 9:-3.59/39 } ( 17.Nd7+
+{ Stockfish 9:-1.15/32 } 17...Ke7 18.Nxe5 Rxc3 19.Bd3 Nc6 20.Kb2 Rc5 21.Nxc6+
+Rxc6 22.Rhe1 Rhc8 23.Ra1 a6 24.Kc1 Kf8 25.Kd2 Rd8 26.Ra3 Bc4 27.Rc3 Rdd6
+28.Ke3 Re6+ 29.Kd2 Rxe1 30.Kxe1 Bxd3 31.Rxc6 bxc6 32.cxd3 g6 33.Kd2 Kg7
+34.Kc3 a5 35.g4 a4 ) 17...Rxd8 18.Nxe6+ fxe6 19.Bd3 Kf7 20.Kc1 a5 21.Rd1 $6
+{ Stockfish 9:-4.45/36 } ( 21.c4 { Stockfish 9:-3.17/36 } 21...h5 22.Kb2 Rc8
+23.f3 b6 24.Rb1 Rb8 25.Kc3 Kf6 26.Ra1 Rhc8 27.Kb3 Rc5 28.Re1 h4 29.h3 Rh8
+30.Ka4 Rcc8 31.Kb5 Rb8 32.Re4 g5 33.Ka4 Rhc8 34.Re1 Rc5 35.Kb3 Ke7 36.Rb1 Kd6
+37.Ra1 Rbc8 38.Rf1 e4 39.fxe4 Ke5 ) 21...Rc8 $6 { Stockfish 9:-3.52/35 } ( 
+21...e4 { Stockfish 9:-4.45/36 } 22.Bxe4 Rxd1+ 23.Kxd1 a4 24.Kc1 a3 25.Bd3
+Rc8 26.c4 a2 27.Kb2 Ra8 28.Ka1 b6 29.f3 g6 30.c5 bxc5 31.h3 Ra3 32.Bc4 Ra4
+33.Bb5 Ra7 34.Bc4 Kf6 35.Bd3 Ra3 36.Bc4 Rc3 37.Bb3 c4 38.Ba4 Re3 39.Kxa2 Re2
+40.Kb2 Rxg2 41.Kc3 Rh2 42.Kxc4 Rxh3 43.Bc6 h5 44.Kb4 h4 45.c4 Rh2 46.c5 )
+22.c4 a4 $6 { Stockfish 9:-2.75/36 } ( 22...Kf6 { Stockfish 9:-3.66/29 }
+23.Re1 h5 24.f3 g5 25.Kd2 g4 26.Rf1 gxf3 27.Rxf3+ Ke7 28.Re3 Rc5 29.Rg3 Rf8
+30.Rg7+ Rf7 31.Rg8 e4 32.Bxe4 Rxc4 33.Ke3 a4 34.Ra8 Kd6 35.Bd3 Rh4 36.h3 Rc7
+37.Be4 b5 38.Ra6+ Ke5 39.Bd3 ) 23.Kb2 $6 { Stockfish 9:-3.50/28 } ( 23.Re1
+{ Stockfish 9:-2.75/36 } 23...Kf6 24.Kb2 g5 25.Ka3 Rc6 26.Rb1 e4 27.Bxe4 Rxc4
+28.f3 Rb8 29.Bxh7 Rh4 30.Be4 Rxh2 31.Kxa4 Rxg2 32.Re1 Rd8 33.Kb5 Rh2 34.Kb6
+Rd7 35.Rb1 Re2 36.Rb4 Rg7 37.Rb1 Rg8 38.Kxb7 g4 39.Bd3 gxf3 40.Bxe2 fxe2
+41.Re1 ) 23...Kf6 $6 { Stockfish 9:-2.67/36 } ( 23...e4
+{ Stockfish 9:-3.50/28 } 24.Bxe4 Rxc4 25.Bd3 Rf4 26.f3 b5 27.Be4 Rh4 28.h3
+Rc8 29.Rd4 Kf6 30.Rb4 Rc5 31.c4 bxc4 32.Rxa4 Rg5 33.g4 Rxh3 34.Rxc4 g6 35.Rc8
+h5 36.gxh5 gxh5 37.Rf8+ Ke7 38.Rh8 Ra5 39.Kc3 Ra3+ 40.Kc4 Rh4 41.Rh7+ Kd6
+42.Kb5 Rb3+ 43.Ka5 ) 24.f3 g6 25.Ka3 Ra8 26.Be4 Ra7 $6
+{ Stockfish 9:-2.51/35 } ( 26...Rhd8 { Stockfish 9:-2.87/29 } 27.Rb1 Ra7
+28.Bd3 h5 29.h4 g5 30.hxg5+ Kxg5 31.Re1 Kf6 32.Rh1 Rh8 33.Rh3 b6 34.g3 Kg5
+35.Rh1 Ra5 36.Rb1 Rg8 37.Rh1 Raa8 38.Bh7 Rg7 39.Be4 Ra5 40.Rb1 Kf6 41.Rxb6
+Raa7 42.Rb8 Rxg3 43.Rf8+ Kg5 44.c5 h4 45.Rh8 ) 27.Rd7 Rc8 $2
+{ Stockfish 9:-1.38/36 } ( 27...h5 { Stockfish 9:-2.55/34 } 28.h4 Rc8 29.Bd3
+e4 30.fxe4 Rca8 31.Rc7 b6 32.Rc6 Rb8 33.Be2 Ra5 34.Rc7 g5 35.g3 gxh4 36.gxh4
+Ke5 37.Bxh5 Rh8 38.Be2 Kxe4 39.Rc6 e5 40.Rxb6 Ke3 41.Bf1 e4 42.Rb5 Raa8 43.h5
+Rhf8 44.Bh3 Rf2 45.c3 Kd3 46.Bf5 ) 28.Bd3 $2 { Stockfish 9:-2.44/30 } ( 
+28.Rxh7 { Stockfish 9:-1.38/36 } 28...Rxc4 29.h4 Rc3+ 30.Ka2 a3 31.g4 g5
+32.h5 Rc4 33.Bg6 e4 34.Rf7+ Ke5 35.Bxe4 Rb4 36.Rd7 Rb2+ 37.Ka1 Kf6 38.Rd8 a2
+39.Rd1 Rb6 40.h6 Ra8 41.Rh1 Rb4 42.Bd3 Rd4 43.Be4 Rd7 44.Bd3 Rd6 45.Be4 Rb6
+46.Rd1 Rb4 47.Rh1 Kf7 48.Rd1 Kg8 49.Re1 Kf7 50.Rh1 ) 28...h5 29.g3 $6
+{ Stockfish 9:-3.41/32 } ( 29.Rh7 { Stockfish 9:-2.30/34 } 29...e4 30.fxe4
+Rg8 31.Rc7 Ke5 32.g3 Rf8 33.c5 Rfa8 34.Bb5 Kd4 35.c6 b6 36.Rd7+ Kxe4 37.Bd3+
+Ke5 38.Rb7 Rxb7 39.cxb7 Rb8 40.Kxa4 Rxb7 41.Bxg6 Rd7 42.Bxh5 Rd2 43.h4 Rxc2
+44.Kb5 Rc3 45.g4 Rh3 46.Kxb6 Rxh4 47.Kc7 Rh2 48.Kd8 ) 29...g5 30.h3 $6
+{ Stockfish 9:-4.01/33 } ( 30.Rh7 { Stockfish 9:-3.35/35 } 30...g4 31.fxg4
+hxg4 32.Rh6+ Ke7 33.Rh4 e4 34.Bxe4 Rxc4 35.Bd3 Rd4 36.Rh7+ Kd6 37.Rh8 Kc7
+38.Rh7+ Kc6 39.Re7 Kd5 40.Rd7+ Ke5 41.Rg7 Kd6 42.Rh7 e5 43.Rh6+ Kd5 44.Rh7 e4
+45.Be2 Kd6 46.Rh8 Rd5 47.Re8 Re5 48.Rd8+ Kc5 49.Rd7 Rf5 50.Bxg4 Rf2 51.Re7
+Kd4 52.c3+ Ke3 53.h4 ) 30...h4 31.g4 $6 { Stockfish 9:-5.35/29 } ( 31.gxh4
+{ Stockfish 9:-4.00/32 } 31...gxh4 32.Rh7 Kg5 33.Rf7 Rc5 34.Be2 Rca5 35.Rf8
+b6 36.Rb8 Kf4 37.Rxb6 Kg3 38.Rxe6 Kxh3 39.Rg6 Rf7 40.Kb4 Raa7 41.Ka3 Kh2
+42.c5 h3 43.Rg5 Kh1 44.Rxe5 h2 45.Bd3 Kg2 46.Rg5+ Kxf3 47.Rh5 ) 31...e4
+32.Bxe4 $6 { Stockfish 9:-6.97/28 } ( 32.fxe4 { Stockfish 9:-5.04/32 }
+32...Ke5 33.Rf7 Rca8 34.Rf1 b6 35.Rf2 Rd8 36.Rf1 Rb8 37.Rf2 Rc8 38.Rf3 Raa8
+39.Rf7 Rf8 40.Rg7 Kf4 41.c5 bxc5 42.Bc4 Kxe4 43.Rxg5 Rf3+ 44.Ka2 Rxh3 45.Bxe6
+Re3 46.Rxc5 h3 47.g5 Kf4 48.Bd5 Ra6 49.g6 Rxg6 50.Ra5 ) 32...Rxc4 33.Rxb7 $4
+{ Stockfish 9:-132.20/29 } ( 33.Bd3 { Stockfish 9:-6.98/34 } 33...Rc3+ )
+33...Rxb7 34.Bxb7 Kg6 35.Be4+ Kf6 36.Bd3 Rd4 37.Be4 Ke5 38.Bc6 Kf4 39.Be4 Rc4
+40.Bd3 Rd4 41.Be4 Ke3 42.Bc6 e5 43.Be4 Kf4 44.Bc6 Kg3
+{ [diagram] White resigns } 0-1
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.23"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "1602"]
+[ECO "B00"]
+[EventDate "2018.03.23"]
+
+1.e4 $6 { Stockfish 9:-0.11/37 } ( 1.d4 { Stockfish 9:+0.30/31 } 1...d5 2.c4
+e6 3.Nf3 Nf6 4.Nc3 c5 5.cxd5 cxd4 6.Qxd4 exd5 7.e4 Nc6 8.Bb5 dxe4 9.Qxd8+
+Kxd8 10.Ng5 Ke8 11.O-O h6 12.Ngxe4 Nxe4 13.Nxe4 f5 14.Nd2 Be6 15.Nc4 Kf7
+16.Rd1 Rd8 17.Be3 Rd5 18.Rxd5 ) 1...g5 2.Nc3 e6 3.d4 Nc6 4.Be3 $6
+{ Stockfish 9:+1.07/36 } ( 4.d5 { Stockfish 9:+1.88/29 } 4...Ne5 5.Nf3 Nxf3+
+6.Qxf3 h5 7.dxe6 dxe6 8.h4 g4 9.Qg3 Bd6 10.e5 Be7 11.Be3 Nh6 12.Bxh6 Rxh6
+13.Qf4 Rh8 14.Rd1 Bd7 15.Ne4 a5 16.Bb5 Bxb5 17.Rxd8+ Rxd8 18.Nf6+ Kf8 19.c3
+b6 20.Qe4 Bc5 21.Qf4 Ba6 22.c4 Be7 ) 4...Bg7 5.Qd2 h6 6.O-O-O Nf6 7.h3 $6
+{ Stockfish 9:+1.20/33 } ( 7.f3 { Stockfish 9:+2.04/34 } 7...d6 8.Nge2 a6
+9.h4 g4 10.Ng3 b5 11.Kb1 Bb7 12.d5 Ne7 13.Bd4 gxf3 14.gxf3 e5 15.Be3 Bc8
+16.Rg1 Bd7 17.Bd3 Rb8 18.f4 Ng6 19.Nf5 Bf8 20.Qf2 Bxf5 21.exf5 Ne7 22.Qf3 b4
+23.fxe5 bxc3 24.exf6 Rxb2+ 25.Ka1 ) 7...d5 8.exd5 $2 { Stockfish 9:+0.52/34 }
+( 8.e5 { Stockfish 9:+1.86/31 } 8...Ne4 9.Nxe4 dxe4 10.h4 gxh4 11.Ne2 b6
+12.f3 exf3 13.Nf4 Bb7 14.gxf3 Qe7 15.Nh5 O-O-O 16.Nxg7 Nxe5 17.Be2 Nxf3
+18.Qc3 Ng5 19.Rxh4 Ne4 20.Qe1 Rhg8 21.Nh5 Ng3 22.Rg4 Nf5 23.Rxg8 Rxg8 24.Bf2
+Kb8 25.Kb1 Rd8 26.Bd3 ) 8...Nxd5 9.Nxd5 $6 { Stockfish 9:+0.17/41 } ( 9.Nge2
+{ Stockfish 9:+0.80/32 } 9...Nxe3 10.Qxe3 O-O 11.Kb1 Ne7 12.g4 Nd5 13.Nxd5
+Qxd5 14.Rg1 e5 15.Bg2 exd4 16.Nxd4 Qe5 17.Qxe5 Bxe5 18.Rge1 Bf4 19.Ne2 Bd6
+20.Nc3 Bc5 21.f4 gxf4 22.Nd5 f5 23.Nxc7 Rb8 24.Ne6 Bxe6 25.Rxe6 fxg4 26.hxg4
+) 9...Qxd5 10.Nf3 $2 { Stockfish 9:-0.96/37 } ( 10.c4
+{ Stockfish 9:+0.73/38 } 10...Qa5 11.Qxa5 Nxa5 12.f4 gxf4 13.Bxf4 Bd7 14.Nf3
+O-O-O 15.b4 Nc6 16.b5 Ne7 17.Bd3 Nf5 18.Bxf5 exf5 19.Ne5 Rhg8 20.g3 Rde8
+21.Rde1 h5 22.Kc2 a6 23.bxa6 bxa6 24.Kd3 Bxe5 25.Rxe5 Rxe5 26.Bxe5 f6 27.Bf4
+Re8 28.h4 Ba4 29.Rb1 Re4 30.d5 a5 31.Kc3 ) 10...Qxa2 11.c3 $2
+{ Stockfish 9:-2.84/34 } ( 11.Qc3 { Stockfish 9:-0.80/39 } 11...Bd7 12.Bc4
+Qa1+ 13.Kd2 Qa5 14.Qxa5 Nxa5 15.Be2 Nc6 16.Kc1 O-O-O 17.c3 b6 18.Kc2 Ne7
+19.h4 f6 20.Rhe1 Nf5 21.Bd3 a5 22.Bd2 Rde8 23.h5 Bc6 24.Re2 Kd7 25.Ree1 a4
+26.Ra1 Ra8 27.c4 Bxf3 28.Bxf5 Bd5 29.cxd5 exf5 30.Re2 Rhe8 31.Rxe8 Kxe8 32.d6
+cxd6 ) 11...O-O 12.Bd3 $2 { Stockfish 9:-2.89/30 } ( 12.Qc2
+{ Stockfish 9:-0.68/38 } ) 12...Bd7 13.g3 $4 { Stockfish 9:-8.27/31 } ( 
+13.Bb1 { Stockfish 9:-0.24/41 } 13...Qa4 14.Qc2 Qxc2+ 15.Bxc2 a5 16.Nh2 f5
+17.f4 a4 18.fxg5 hxg5 19.Bxg5 b5 20.d5 exd5 21.Rxd5 Be8 22.Rf1 a3 23.bxa3
+Rxa3 24.Rfxf5 Rxc3 25.Rxf8+ Kxf8 26.Bd2 Bf7 27.Rg5 Rc4 28.Ng4 Nd4 29.Ne3
+Rxc2+ 30.Nxc2 Nb3+ 31.Kd1 Nxd2 32.Rxb5 Ne4 33.Rb7 Nc3+ 34.Kd2 Be5 35.Ne3 Ne4+
+36.Ke2 Ng3+ 37.Kf2 Ke7 38.Rb1 Bd6 39.Re1 Kd7 40.Kf3 Bh5+ 41.Kf2 ) 13...a6
+14.Rde1 $4 { Stockfish 9:-6.86/37 } ( 14.Bb1 { Stockfish 9:-0.37/38 }
+14...Qa4 15.Qc2 Qxc2+ 16.Bxc2 a5 17.g4 a4 18.h4 f6 19.Be4 a3 20.hxg5 fxg5
+21.Kc2 axb2 22.Kxb2 Na5 23.Nd2 Bc6 24.f3 b5 25.Kc2 Bd5 26.Rb1 Nc4 27.Nxc4
+bxc4 28.Ra1 c6 29.Kd2 Kf7 30.Bxd5 exd5 31.f4 Kg6 32.fxg5 Rxa1 33.Rxa1 hxg5
+34.Ra6 ) 14...Qb3 15.h4 g4 16.Bxh6 Bxh6 17.Qxh6 f5 18.Ng5 Qxc3+ 19.bxc3 Rfd8
+20.Qh7+ Kf8 21.Qf7# 1-0
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.24"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1-0"]
+[BlackElo "1533"]
+[ECO "B53"]
+[EventDate "2018.03.24"]
+[TimeControl "m500"]
+
+1.e4 d6 2.Nf3 $6 { Stockfish 9:0.00/40 } ( 2.d4 { Stockfish 9:+0.41/32 }
+2...Nf6 3.Bd3 e5 4.d5 Nbd7 5.c4 Nc5 6.Nc3 Nxd3+ 7.Qxd3 Be7 8.h3 O-O 9.Nge2 c6
+10.Be3 cxd5 11.cxd5 Bd7 12.O-O Qa5 13.Ng3 Rac8 14.Rfc1 Rc7 15.a4 Rfc8 16.Qe2
+Rd8 17.f3 Rdc8 18.Kh1 Qa6 19.Qxa6 ) 2...c5 3.d4 Nf6 4.dxc5 $6
+{ Stockfish 9:0.00/36 } ( 4.Nc3 { Stockfish 9:+0.26/34 } 4...cxd4 5.Nxd4 a6
+6.Nb3 e5 7.Be2 Be7 8.O-O b6 9.Bg5 Nbd7 10.Nd5 h6 11.Bh4 Bb7 12.Nxe7 Qxe7
+13.f3 g5 14.Bg3 O-O 15.Qd2 Rfd8 16.c4 Nh5 17.Bf2 Nf4 18.Rad1 Nc5 19.Be3 Rac8
+20.Rfe1 Nfe6 21.Nxc5 ) 4...Nxe4 5.cxd6 Nc6 6.Bg5 $2 { Stockfish 9:-1.52/34 }
+( 6.Be3 { Stockfish 9:+0.46/32 } 6...Nxd6 7.Nc3 e5 8.Bd3 f6 9.O-O Be6 10.Qe2
+Be7 11.Rfd1 Qc7 12.Nd2 Qc8 13.Nde4 Nf5 14.Bb5 O-O 15.Nd5 Bxd5 16.Rxd5 Kh8
+17.c3 Nxe3 18.fxe3 a6 19.Ba4 Rd8 20.Rxd8+ Qxd8 21.Bxc6 bxc6 22.Rd1 Qc7 23.Qf3
+) 6...Qb6 7.Qe2 $2 { Stockfish 9:-4.67/22 loses the b2 pawn and the Rook } ( 
+7.Be3 { Stockfish 9:-1.00/25 } 7...Qxb2 8.Bd3 Qxa1 9.Bxe4 exd6 10.O-O Be6
+11.Ng5 Rc8 12.Nxe6 fxe6 13.Qg4 Qf6 14.Nd2 Be7 15.Nf3 h5 16.Qg3 a6 17.Bg5 Qf7
+18.Be3 Nb4 19.Ng5 Bxg5 20.Bxg5 ) 7...Bf5 8.d7+ $6 { Stockfish 9:-0.71/26 } ( 
+8.c3 { Stockfish 9:+0.09/28 } 8...Nxg5 9.Nxg5 f6 10.Nf3 O-O-O 11.Na3 exd6
+12.Nc4 Qc7 13.Ne3 Be6 14.Rd1 d5 15.Nc2 Bf7 16.Qd2 Bc5 17.Be2 Kb8 18.O-O Bb6
+19.Ncd4 Ne5 20.Rfe1 Rhe8 21.Nb5 Qe7 22.Nfd4 Bg6 23.Kh1 Ka8 ) 8...Kxd7 9.Nbd2
+$6 { Stockfish 9:-0.18/28 } ( 9.Nc3 { Stockfish 9:+0.20/26 } 9...Nxc3 10.Qd2+
+Ke8 11.Qxc3 f6 12.Be3 Qb4 13.Qxb4 Nxb4 14.Nd4 Nxc2+ 15.Nxc2 Bxc2 16.Bb5+ Kf7
+17.Rc1 Be4 18.f3 Bd5 19.O-O Bxa2 20.Rc7 a6 21.Bd7 b5 22.Rd1 Bc4 23.Bf5 Rb8
+24.Be4 g6 25.Ra1 Bg7 ) 9...Nxg5 10.Nxg5 $6 { Stockfish 9:-0.41/28 } ( 
+10.O-O-O { Stockfish 9:+0.45/27 } 10...Kc7 11.Nc4 Qc5 12.Nxg5 Bxc2 13.Qxc2
+Qxg5+ 14.Kb1 e6 15.g4 Qxg4 16.f4 Qf5 17.Bd3 Qc5 18.Be4 Rc8 19.Qe2 Kb8 20.Bxc6
+Qxc6 21.Ne5 Qa4 22.Nxf7 Rg8 23.Rc1 Bb4 24.Qe5+ Ka8 25.Qxe6 Rc6 26.Rxc6 Qxc6
+27.Qxc6 bxc6 28.Rd1 Kb7 29.a3 ) 10...Qxb2 11.Rd1 $2
+{ Stockfish 9:-1.04/24 missed opportunity here perhaps } ( 11.Rb1
+{ Stockfish 9:+1.79/21 } 11...Qxc2 12.Nxf7 e6 13.Nxh8 Bb4 14.Rxb4 Qc1+ 15.Qd1
+Qxd1+ 16.Kxd1 Nxb4 17.a3 Nd5 18.Nf7 Ke7 19.Ng5 Rd8 20.Ngf3 Nc3+ 21.Ke1 Kf6
+22.h4 e5 23.Be2 e4 24.Ng5 b5 25.g4 Nxe2 26.gxf5 Nc3 27.Ngxe4+ Nxe4 28.Nxe4+
+Kxf5 ) 11...Nd4 12.Nde4 $2 { Stockfish 9:+0.07/22 12.Nb3 is better } ( 
+12.Nb3 { Stockfish 9:+2.39/21 } 12...Qc3+ 13.Rd2 e6 14.Ne4 Bxe4 15.Qxe4 Rd8
+16.Qxd4+ Qxd4 17.Rxd4+ Bd6 18.Bd3 Ke7 19.O-O Rc8 20.Rb1 Rc7 21.Na5 b6 22.Nc4
+Bc5 23.Re4 Rd8 24.g3 Rd4 25.Ree1 Kf8 26.Red1 Kg8 27.Kg2 ) 12...Ke8 13.Nd6+ $1
+{ [diagram] Stockfish 9:+6.40/32 } 13...Kd7 14.Nxf5 e5
+{ [diagram] uncovers Black's dark-square Bishop and supports the d4 Knight
+} 15.Qxe5 $4
+{ Stockfish 9:#-3/83 fatal blunder left unpunished! oblivious to the
+uncovered threat from Black's dark-square Bishop } ( 15.f4
+{ Stockfish 9:+6.65/32 giving the White King an escape square and attacking
+the e5 pawn supporting the d4 Knight } 15...f6 16.fxe5 Qc3+ 17.Kf2 fxg5
+18.Rd3 Qa5 19.Nxd4 Bc5 20.Kg3 Bxd4 21.Rxd4+ Kc7 22.Qc4+ Kb8 23.Qd5 Qxd5
+24.Rxd5 Kc7 25.e6 Rhd8 26.Rxg5 g6 27.Bc4 Rd4 28.Bb3 Kd6 29.Rf1 Re8 30.Rf7 Re7
+31.Ra5 a6 32.Kf2 Rb4 33.Rd5+ Kxe6 34.Rd1+ Rxb3 35.Rxe7+ Kxe7 36.cxb3 b5 )
+15...Qxc2 $4 ( 15...Bb4+ { #-3/100 } 16.c3 Qxc3+ 17.Rd2 Qxd2# ) ( 15...Qc3+
+{ #-4/100 } 16.Rd2 Qa1+ 17.Rd1 Bb4+ 18.c3 Bxc3# ) ( 15...Qb4+ { #-4/100 }
+16.c3 Qxc3+ 17.Rd2 Qc1+ 18.Rd1 Bb4# ) 16.Bb5+ Kc8 17.Qxd4 Qxf5 18.Qd8# 1-0
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.26"]
+[Round "?"]
+[White "Deep HIARCS 14 WCSC"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B20"]
+[EventDate "2018.03.26"]
+[TimeControl "m500"]
+[WhiteElo "1608"]
+
+1.e4 c5 2.Na3 Nc6 3.Bb5 e6 4.Nc4 d5 5.exd5 exd5 6.Ne3 Nf6 7.Nf3 Bd6 8.O-O Bg4
+$2 { Stockfish 9:+1.58/30 } ( 8...O-O { Stockfish 9:-0.47/32 } 9.Bxc6 bxc6
+10.Re1 Re8 11.b3 Be6 12.Bb2 Ne4 13.h3 h6 14.d3 Ng5 15.Nxg5 Qxg5 16.Qf3 h5
+17.Nf1 f6 18.c4 Kh7 19.Bc3 Rab8 20.Rac1 Bf4 21.Rc2 Bd7 22.Ng3 h4 23.Rxe8 Rxe8
+24.Ne2 Bd6 25.Bd2 Qf5 26.Nf4 Bxf4 27.Qxf4 ) 9.Nxg4 Nxg4 10.Re1+ Be7 11.d4 $2
+{ Stockfish 9:+0.08/28 } ( 11.Bxc6+ { Stockfish 9:+1.42/29 } 11...bxc6 12.Qe2
+Nf6 13.b3 Kf8 14.Bb2 h5 15.Rad1 Bd6 16.d4 Ne4 17.c4 Rh6 18.Nd2 Nf6 19.h3 cxd4
+20.Bxd4 Kg8 21.cxd5 Nxd5 22.Qf3 Bb4 23.Re4 Bxd2 24.Rxd2 Qd7 25.Rd1 Re8
+26.Rxe8+ Qxe8 27.Bxa7 h4 28.Bd4 f6 29.Be3 Rh7 ) 11...O-O 12.Bf4 Bd6 13.Bxd6
+Qxd6 14.dxc5 $2 { Stockfish 9:-1.02/30 } ( 14.Bxc6 { Stockfish 9:+0.57/34 }
+14...bxc6 ) 14...Qxc5 15.Qe2 { [diagram] } 15...Rfe8 $4
+{ Stockfish 9:+7.99/27 major blunder that goes unpunished! the 16.Qxe8!
+Queen sacrifice eventually leads to the loss of the Black Queen and White
+gaining a Rook in the exchange. ironically, this is the same mistake Black makes later to end the game. }
+( 15...Nxf2 { Stockfish 9:-1.05/33 } 16.Qxf2 Qxb5 17.b3 Rae8 18.Re3 Re4
+19.Rae1 Qb4 20.c3 Qe7 21.Nd2 Rxe3 22.Rxe3 Qa3 23.Nf3 Qc1+ 24.Qe1 Qxe1+
+25.Rxe1 f6 26.Kf2 Kf7 27.g4 Rc8 28.Re3 b5 29.a3 a5 30.h4 Rc7 31.g5 Re7
+32.Rxe7+ Nxe7 33.gxf6 Kxf6 34.Nd4 Nf5 35.Nxb5 Nxh4 ) 16.Qf1 $4
+{ Stockfish 9:-0.87/32 [diagram] } ( 16.Qxe8+ { Stockfish 9:+7.99/27 }
+16...Qf8 17.Bxc6 Rxe8 18.Rxe8 bxc6 19.Rae1 Nf6 20.Rxf8+ Kxf8 21.Ne5 c5 22.Nc6
+Nh5 23.Re5 Nf4 24.Rf5 Ne6 25.Rxd5 a6 26.f3 Ke8 27.Rd6 h5 28.Ne5 Ke7 29.Rd7+
+Kf6 30.Nxf7 Nd4 31.Rc7 Nxc2 32.Nd6 Ke6 33.Rc6 Ke7 ) 16...a6 $2
+{ Stockfish 9:+0.15/34 16...Nxf2 wins a pawn. if 17.Qxf2, then 17...Qxb5
+exchanging the Knight for a Bishop. } ( 16...Nxf2 { Stockfish 9:-0.87/32 }
+17.Qxf2 Qxb5 18.c3 f6 19.h3 Re4 20.a4 Qc4 21.Re3 Qa6 22.b4 Rxe3 23.Qxe3 Qb6
+24.Re1 Qxe3+ 25.Rxe3 Kf7 26.Kf2 Re8 27.Rxe8 Kxe8 28.Ke3 Ke7 29.Nd4 g6 30.a5
+Kd6 31.Ne2 Ne5 32.Kd4 b5 33.axb6 axb6 34.b5 Nc4 35.Nf4 ) 17.Bd3 Nce5 18.Nxe5
+Nxe5 19.Qe2 Nxd3 $4
+{ Stockfish 9:+7.47/26 same unthinkable (though unpunished) blunder as
+before that should lead to the loss of a Rook } ( 19...g6
+{ Stockfish 9:-0.25/35 } 20.Qd2 Qd4 21.b3 b5 22.Rac1 Rac8 23.h3 Re6 24.Red1
+Nxd3 25.Qxd3 Qxd3 26.Rxd3 Rc5 27.b4 Rc4 28.a3 Rd6 29.c3 Rdc6 30.Rxd5 Rxc3
+31.Rxc3 Rxc3 32.a4 bxa4 33.Ra5 a3 34.Rxa6 Rb3 35.b5 Kg7 36.b6 Kf6 37.b7+ Ke5
+38.Rxa3 Rxb7 39.Kh2 Kd5 40.Kg3 Rb2 ) 20.Qxd3 $4 { Stockfish 9:-0.18/33 } ( 
+20.Qxe8+ { Stockfish 9:+7.47/26 } 20...Qf8 21.Qxf8+ Rxf8 22.cxd3 g5 23.Rac1
+Kg7 24.f3 d4 25.Re7 b5 26.Kf2 h5 27.Rc6 b4 28.Rd7 Rb8 29.Rd5 Rb5 30.Rxb5 axb5
+31.Rb6 b3 32.Rxb5 bxa2 33.Rxg5+ Kf6 34.Ra5 Kg7 35.Rxa2 ) 20...Rac8 21.c3 b5
+22.Rxe8+ Rxe8 23.Qd4 Qe7 ( 23...Qxd4 { -0.87/43 } 24.cxd4 Re4 25.Kf1 Rxd4
+26.Ke1 Kf8 27.b3 Ke7 28.Rc1 Kd6 29.Rc8 Rh4 30.h3 Rh6 31.Ke2 Rg6 32.g3 Rf6
+33.Ke3 d4+ 34.Ke2 g5 35.g4 Rh6 36.Rg8 Rg6 37.Rc8 Rf6 38.Rg8 Ke5 39.Rxg5+ Ke4
+40.Rf5 Rxf5 41.gxf5 f6 42.a4 bxa4 43.bxa4 a5 44.f3+ Kxf5 45.Kd3 Ke5 46.Kc4 )
+24.Qxd5 $4 { Stockfish 9:#-2/127 } ( 24.Rf1 { Stockfish 9:0.00/42 } 24...g6
+25.Qxd5 Rd8 26.Qc6 Rd6 27.Qf3 Rd2 28.Qa8+ Kg7 29.Qxa6 Rxb2 30.a4 bxa4 31.Qxa4
+Qc5 32.c4 Rb4 33.Qa1+ f6 34.Qd1 Qc7 35.g3 Rxc4 36.h4 Rc5 37.Qd2 Rc2 38.Qd5 h5
+39.Rb1 Rc1+ 40.Rxc1 Qxc1+ 41.Kg2 Qc7 42.Qf3 Qf7 43.Kh3 Qc4 44.Kh2 Qb4 45.Qd5
+Qe1 46.Qf3 Qb4 ) 24...Qe1+ 25.Rxe1 Rxe1# 0-1
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.26"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1/2-1/2"]
+[BlackElo "1608"]
+[ECO "B27"]
+[EventDate "2018.03.26"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 Nh6 3.d4 d6 4.Bxh6 $2 { Stockfish 9:+0.29/33 } ( 4.dxc5
+{ Stockfish 9:+1.66/30 } 4...dxc5 ) 4...gxh6 5.dxc5 dxc5 6.Qxd8+ Kxd8 7.Bc4
+Ke8 8.O-O Nc6 9.Bb5 Bd7 10.Ne5 $4 { Stockfish 9:-4.30/33 } ( 10.c3
+{ Stockfish 9:+0.62/35 } ) 10...Nxe5 11.Bxd7+ Kxd7 12.Nc3 Bg7 13.Rfd1+ Kc7
+14.Nd5+ Kd7 15.Nb6+ Kc7 16.Nxa8+ Rxa8 17.c3 Nc4 18.b3 Nd6 19.Rac1 $2
+{ Stockfish 9:-3.15/34 } ( 19.Rd3 { Stockfish 9:-1.85/34 } ) 19...Nxe4 20.c4
+Nc3 21.Rd2 Rd8 22.Rdc2 Rd3 23.Kf1 Be5 24.h3 b5 25.cxb5 Kb7 26.Ke1 $2
+{ Stockfish 9:-5.02/33 } ( 26.Re1 { Stockfish 9:-2.94/36 } 26...Bf6 27.Re3
+Rd1+ 28.Re1 Rxe1+ 29.Kxe1 Kb6 30.Rd2 Bd4 31.a4 Ka5 32.Rd3 Kb4 33.f4 e6 34.Kd2
+h5 35.g3 Nd5 36.Rf3 Bc3+ 37.Kc2 c4 38.bxc4 Kxc4 39.g4 h4 40.Kd1 Bd4 41.Kd2
+Bc5 42.Rf1 Be3+ 43.Ke2 Bxf4 44.Kf3 Bg5 45.Re1 Nc3 46.Re5 h6 47.b6 axb6 48.a5
+bxa5 49.Rxa5 Kd4 50.Ra7 f6 51.Rc7 Nd5 52.Rd7 Ke5 53.Ra7 f5 ) 26...h5 27.g3 e6
+28.f4 $2 { Stockfish 9:-7.10/32 } ( 28.Rd2 { Stockfish 9:-3.37/34 } 28...Rd5
+29.Rdc2 Ne4 30.a4 Kb6 31.h4 Bd4 32.Re2 Nd6 33.Kf1 Ka5 34.Kg2 Kb4 35.Rd1 Kxb3
+36.Rb1+ Kc4 37.Ra2 Ne4 38.b6 axb6 39.Rxb6 Nc3 40.Ra3 Rf5 41.a5 Rxf2+ 42.Kh1
+Be5 43.a6 Bxg3 44.Rbb3 Ne2 45.Rxg3 Nxg3+ 46.Rxg3 Ra2 47.Rg7 Rxa6 48.Rxf7 )
+28...Bd4 29.a4 Rxg3 30.h4 Nd5 31.Rd1 Rxb3 32.f5 exf5 33.Rxc5 Bxc5 34.Rxd5 Be7
+35.Rd7+ Kb6 36.Rxe7 Rb4 37.Rxf7 Rxa4 38.Rxf5 $2 { Stockfish 9:-2.81/64 } ( 
+38.Rf6+ { Stockfish 9:-0.13/53 } 38...Kxb5 39.Rxf5+ Kb6 40.Rxh5 Re4+ 41.Kd2
+Re7 42.Kc3 Rc7+ 43.Kb3 Kc6 44.Kc4 Kd7+ 45.Kb4 Kd6 46.Rb5 Re7 47.Rh5 Rb7+
+48.Kc3 Kc6 49.Kc4 Rg7 50.Rh6+ Kb7 51.Kb4 Rf7 52.Kb5 Rc7 53.Ka5 Re7 54.Kb5 Kc8
+55.Ka6 Rg7 56.Kb5 Rf7 57.Ka5 Rc7 58.Ka6 Rd7 59.Rf6 Kd8 60.Rh6 Rg7 61.Kb5 Rc7
+62.Rh5 Rf7 63.Kc4 Kc8 64.Rh6 Kc7 65.Rh5 ) 38...Rxh4 39.Kf2 Rh3 40.Kg2 Rh4
+41.Kg3 Rh1 42.Kg2 Rh4 43.Kg3 Rh1 44.Kf2 $2 { Stockfish 9:-4.88/41 } ( 
+44.Rf6+ { Stockfish 9:-2.55/58 } 44...Kxb5 45.Rf5+ Ka4 46.Rf4+ Ka3 47.Rf3+
+Kb2 48.Rf2+ Kb1 49.Rf5 Rg1+ 50.Kf2 Rg7 51.Rxh5 Kc2 52.Ke1 Rd7 53.Ke2 Kc3
+54.Ke3 Kb4 55.Rh4+ Kb3 56.Rh5 Kc3 57.Kf3 Kb4 58.Rh4+ Kc5 59.Rh5+ Rd5 60.Rxh7
+a5 61.Rc7+ Kb4 62.Rb7+ Ka3 63.Ke4 Rd2 64.Ra7 a4 65.Ra8 Rd7 66.Rc8 Kb3 67.Rb8+
+Ka2 68.Ke3 Ka3 69.Rh8 Kb4 70.Rb8+ Kc4 71.Ke2 Rd4 72.Rc8+ Kb4 73.Rb8+ Ka3
+74.Rh8 Rd6 75.Rb8 Rd5 76.Rc8 Rd7 77.Rc1 Kb3 78.Rc8 a3 ) 44...h4 45.Rh5 h3
+46.Kg3 $4 { Stockfish 9:-3.30/53 } ( 46.Rxh7 { Stockfish 9:-0.20/56 } 46...h2
+47.Kg3 Rg1+ 48.Kxh2 Rg5 49.Kh3 Rxb5 50.Rh6+ Kc5 51.Ra6 Rb7 52.Kg3 Kb5 53.Ra1
+Rf7 54.Rb1+ Kc4 55.Rc1+ Kb3 56.Ra1 Kb4 57.Rb1+ Ka4 58.Ra1+ Kb3 59.Kg2 Kb4
+60.Rb1+ Ka5 61.Ra1+ Kb5 62.Rb1+ Kc4 63.Ra1 Kd4 64.Rd1+ Ke3 65.Re1+ Kd2 66.Ra1
+Kc3 67.Kg3 Rg7+ 68.Kf3 Kb4 69.Rb1+ Ka3 70.Ra1+ Kb2 71.Ra6 Re7 72.Kf2 Kc3
+73.Ra1 Kb4 74.Rb1+ Ka4 75.Ra1+ Kb3 76.Ra6 Kc4 77.Ra1 Kc3 78.Ra3+ Kb4 79.Ra6
+Kb3 80.Ra1 Rc7 81.Ke3 Kc2 82.Kd4 ) 46...h2 47.Rxh7 Rf1 48.Kxh2 Kxb5 49.Rxa7
+Kc5 50.Rg7 Rf3 51.Rg4 Kd6 52.Rg5 Re3 53.Kg2 Re5 54.Rxe5 Kxe5 1/2-1/2
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.26"]
+[Round "?"]
+[White "Shredder"]
+[Black "Duane Edmonds"]
+[Result "1-0"]
+[ECO "B22"]
+[EventDate "2018.03.26"]
+[Opening "Sicilian/Alapin Variation"]
+[WhiteElo "1602"]
+
+1.e4 c5 2.c3 d6 3.d4 Nd7 4.Nf3 b6 5.Bb5 a6 6.Bc6 Rb8 7.Bg5 f6 $2
+{ Stockfish 9:+1.13/27 } ( 7...Qc7 { Stockfish 9:-0.07/32 } ) 8.Bf4 e5 9.dxe5
+fxe5 10.Bg5 Be7 11.Bxe7 Nxe7 12.Ba4 b5 13.Bb3 c4 14.Bc2 Nc5 15.b3 Bg4 16.b4
+Ne6 17.h3 Bh5 18.g4 Bg6 19.a4 O-O 20.axb5 axb5 21.Ra6 Rb6 22.Ra7 Nf4 23.Qd2
+Nc6 24.Ra2 Ng2+ $2 { Stockfish 9:-3.60/33 } ( 24...Qf6
+{ Stockfish 9:-6.25/29 } ) 25.Kf1 Nf4 26.Kg1 h6 27.Kh2 Rf7 28.Ra3 Rbb7 29.Ra6
+Qc8 $2 { Stockfish 9:-2.07/35 } ( 29...Nd3 { Stockfish 9:-5.17/30 } 30.Bxd3
+Rxf3 31.Bf1 Rbf7 32.Ra2 Bxe4 33.Bg2 d5 34.Re1 Rd3 35.Rxe4 Rxd2 36.Rxd2 Ne7
+37.Re1 d4 38.Ra2 Nd5 39.Kg1 Qd6 40.Rae2 Nxc3 41.Nxc3 dxc3 42.Be4 g6 43.Rb1
+Kg7 44.Ra2 Qd4 45.Re1 Kh7 46.Kg2 Qd6 47.Rae2 Kg7 48.Rb1 ) 30.Nh4 Bh7 31.Qxd6
+Nxh3 $4 { Stockfish 9:+3.66/33 } ( 31...Rbc7 { Stockfish 9:-3.46/33 } 32.Ra3
+Rfd7 33.Qc5 Qd8 34.Nf3 Nd4 35.cxd4 Rxc5 36.dxc5 Qf8 37.Re1 Ne6 38.Kg2 Nd4
+39.Bd1 Nc6 40.Nc3 Nxb4 41.Nxb5 Qxc5 42.Ra8+ Kf7 43.Nc3 Rd3 44.Na4 Qc7 45.Nb2
+Rxf3 46.Kxf3 Ke7 47.Rh8 Bg6 48.Rg8 Kd6 49.Nxc4+ Qxc4 50.Rxg7 Qd3+ 51.Kg2
+Bxe4+ 52.Kh2 Qd4 ) 32.Kxh3 Rxf2 $2 { Stockfish 9:+8.88/30 } ( 32...Rbc7
+{ Stockfish 9:+3.10/34 } 33.Rb6 ) 33.Qd5+ Rbf7 34.Rxc6 Qe8 35.Rh2 Kh8 36.Nf5
+Rxh2+ 37.Kxh2 Bxf5 38.gxf5 Rd7 39.Qe6 Qh5+ 40.Kg1 Qg4+ 41.Kf2 Qf4+ 42.Kg2 Rd8
+43.Rc5 Qe3 44.Rc8 Qe2+ 45.Kh3 Rxc8 46.Qxc8+ Kh7 47.Na3 Qf3+ 48.Kh2 Qxc3
+49.Qa6 h5 $4 { Stockfish 9:+52.32/36 } ( 49...Qd2+ { Stockfish 9:0.00/64 }
+50.Kh3 Qe3+ 51.Kg2 Qe2+ 52.Kg3 Qe3+ 53.Kg2 ) 50.Qg6+ Kg8 51.Qe8+ Kh7 52.Qxh5+
+Kg8 53.Qe8+ Kh7 54.Qg6+ Kg8 55.Qe6+ Kh7 56.Qg6+ Kg8 57.f6 Qd2+ 58.Kh3 Qe3+
+59.Kh2 Qf4+ $4 { Stockfish 9:#24/54 } ( 59...Qf2+ { Stockfish 9:+7.64/36 }
+60.Kh3 Qf1+ 61.Qg2 Qxf6 62.Qg3 Qh6+ 63.Kg4 Qe6+ 64.Kf3 Qd6 65.Nxb5 Qd2 66.Na3
+Qxb4 67.Ke2 Kf7 68.Qh3 Ke7 69.Nb1 Qc5 70.Nc3 Kf7 71.Nd5 Qd6 72.Ne3 Qa6
+73.Qd7+ Kg8 74.Qd5+ Kh7 75.Qxc4 Qh6 76.Qc8 Qb6 77.Nc4 Qh6 78.Qf5+ Kh8 79.Qxe5
+Kh7 80.Kd3 Qh3+ 81.Kd4 Qd7+ 82.Nd6 Qh3 83.Kc4 Kg6 ) 60.Kg1 Qxf6 61.Qe8+ Kh7
+62.Qxb5 Qg5+ 63.Kh2 Qh4+ $4 { Stockfish 9:+14.05/29 } ( 63...Qd2+
+{ Stockfish 9:0.00/68 } 64.Kg1 Qe1+ 65.Kg2 Qe2+ 66.Kg3 Qe3+ 67.Kg4 Qf4+
+68.Kh3 Qe3+ 69.Kg2 Qe2+ ) 64.Kg2 Qg4+ 65.Kf2 Kh6 66.Nxc4 Qh4+ 67.Kf1 Kg5
+68.Qxe5+ Kg4 69.Qf5+ Kg3 70.Qf2+ Kg4 71.Bd1+ Kg5 72.Qxh4+ Kxh4 73.b5 g5 74.b6
+g4 75.b7 g3 76.b8=Q 1-0
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.26"]
+[Round "?"]
+[White "HIARCS"]
+[Black "Duane Edmonds"]
+[Result "1-0"]
+[ECO "D02"]
+[EventDate "2018.03.26"]
+[WhiteElo "1600"]
+
+1.d4 d5 2.Nf3 Nc6 3.c4 dxc4 4.d5 Nb4 $2 { Stockfish 9:+2.92/28 } ( 4...Nb8
+{ Stockfish 9:+0.32/29 } 5.e4 Nf6 6.Nc3 e6 7.Bxc4 exd5 8.Nxd5 Nxd5 9.O-O Be7
+10.Bxd5 c6 11.Bb3 Qxd1 12.Rxd1 Nd7 13.Be3 Nc5 14.Bc2 O-O 15.a3 a5 16.Nd4 Ne6
+17.Ne2 Bc5 18.e5 Bxe3 19.fxe3 f6 20.exf6 Rxf6 ) 5.Qa4+ Bd7 6.Qxb4 b5 7.Nc3 a5
+8.Qc5 e5 9.Qe3 f6 10.Qe4 b4 11.Nd1 Bb5 12.Nd4 Rb8 13.Ne6 Qe7 14.e3 Rc8
+15.Bxc4 Bxc4 16.Qxc4 f5 17.f4 e4 18.b3 Nf6 19.Bb2 g6 $2
+{ Stockfish 9:+13.82/34 } ( 19...h5 { Stockfish 9:+7.14/31 } 20.Nf2 Qd7
+21.Rd1 Rh6 22.Nh3 Ng4 23.Ke2 c6 24.Rc1 Rxe6 25.dxe6 Qd3+ 26.Qxd3 exd3+
+27.Kxd3 c5 28.Ke2 Rc6 29.Ng5 Nf6 30.h3 Be7 31.Rhd1 g6 32.Bxf6 Bxf6 33.Rd7 c4
+34.Rxc4 Rxc4 35.bxc4 a4 36.Ra7 Bxg5 37.Rxa4 ) 20.d6 Qxd6 21.Bxf6 Rg8 22.Be5
+Qd7 23.Nxc7+ Rxc7 24.Bxc7 Rg7 25.Bxa5 Re7 26.Bxb4 Re6 27.Bxf8 Kxf8 28.Rc1
+1-0
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.26"]
+[Round "?"]
+[White "Shredder"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "A00"]
+[EventDate "2018.03.26"]
+[WhiteElo "1602"]
+
+1.g3 e5 2.Bg2 d5 3.c4 c6 4.Qa4 Bd7 5.cxd5 cxd5 6.Qb3 Bc6 7.Nf3 Nd7 8.d4 Bd6
+9.Qc3 Qe7 10.dxe5 $4 Bb4 11.Bf4 Bxc3+ 12.Nxc3 d4 13.Nd1 Bxf3 14.Bxf3 Nxe5
+15.Bxe5 Qxe5 16.Bxb7 Rb8 17.Bf3 d3 18.e3 Rd8 19.O-O Nf6 20.Bc6+ Nd7 21.Nc3
+O-O 22.Rac1 d2 23.Rc2 Nb8 24.Bf3 Rd6 25.Rd1 Rfd8 26.Nb1 Qf5 27.Rcxd2 Rxd2
+28.Nxd2 Qc2 29.a4 Rxd2 30.Rxd2 Qxd2 31.b3 a5 32.Kg2 Qb4 33.Bd5 Nd7 34.h4 Nb6
+35.Bc6 Qxb3 36.Kf3 Nxa4 37.g4 Nc5 38.Kg3 a4 39.g5 a3 40.g6 hxg6 41.Kg2 a2
+42.Kg1 a1=Q+ 43.Kh2 Qe5+ 44.Kg1 Nd3 45.Kf1 Qh2 46.Bg2 Qd1# 0-1
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.27"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1-0"]
+[BlackElo "1608"]
+[ECO "C41"]
+[EventDate "2018.03.27"]
+[TimeControl "m500"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Nbd7 6.Bg5 Nc5 7.Bd3 Nxd3+ 8.cxd3
+Bg4 9.f3 Bd7 10.O-O Be7 11.h3 O-O 12.f4 c5 13.Nf3 Qb6 14.Rb1 $2
+{ Stockfish 9:-0.11/33 } ( 14.e5 { Stockfish 9:+3.45/39 } ) 14...Qb4
+{ [diagram] } 15.e5 $1 dxe5 16.fxe5 Rfe8 17.exf6 Bd6 18.fxg7 Kxg7
+{ [diagram] } 19.Kh1 $6 ( 19.Bf6+ $1 { Stockfish 9:+14.42/35 } 19...Kxf6
+20.Nd5+ Kg7 21.Nxb4 ) 19...Be5 $4 { [diagram] } 20.Nxe5 $1 Rxe5 $2 21.Bf6+ $1
+Kf8 22.Bxe5 Re8 23.Bd6+ Kg8 24.d4 $2 { 24.Qh5! is much stronger } ( 24.Qh5 $1
+{ Stockfish 9:#8/63 } 24...f5 25.Rxf5 Qd4 26.Qf7+ Kh8 27.Rg5 c4 28.Bf8 Re1+
+29.Rxe1 Qg1+ 30.Rxg1 cxd3 31.Bg7# ) 24...Qxd4 25.Qxd4 cxd4 26.Nd5 Be6 $2
+27.Nf6+ Kh8 28.Nxe8 { and Black is down far too much material to win }
+28...Bxa2 29.Be5+ Kg8 30.Nf6+ Kg7 31.Ne4+ Kg6 32.Rf6+ Kg7 33.Ra6+ Kf8 34.Rxa2
+f5 35.Nd6 d3 36.Nxf5 a6 37.b4 Kf7 38.Nd4 Kg6 39.Rf2 h6 40.Rf8 d2 41.Nf3 b6
+42.Nxd2 a5 43.bxa5 bxa5 44.Nf3 a4 45.Rb6+ Kh5 46.g4# { [diagram] } 1-0
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.28"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "1620"]
+[ECO "C46"]
+[EventDate "2018.03.28"]
+[Opening "Three Knights Game"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bb4 4.a3 Bc5 5.b4 Bd6 6.Bc4 a5 7.b5 Nd4 8.a4 Nf6 9.d3
+Bb4 10.Bb2 d5 11.exd5 O-O 12.O-O Qd6 13.Nxd4 exd4 14.Ne4 Qe5 15.Ba3 Nxe4
+16.Bxb4 axb4 17.Re1 Nxf2 18.Rxe5 Nxd1 19.Rxd1 Rxa4 20.b6 Bg4 21.Rde1 cxb6
+22.Re8 Bd7 23.Rxf8+ Kxf8 24.d6 h6 25.Re7 Ra1+ 26.Kf2 Be6 27.Bxe6 fxe6 28.Rxe6
+Ra8 29.d7 Rd8 30.Rd6 Ke7 31.Rxd4 Rxd7 32.Rxb4 Rc7 33.Re4+ Kd6 34.c4 Rc8 35.h4
+Ra8 36.Rg4 Rf8+ 37.Ke3 Re8+ 38.Kd4 Re7 39.Rg6+ Kc7 40.g4 Rf7 41.Ke5 Rd7 42.d4
+b5 43.cxb5 Re7+ 44.Re6 Rxe6+ 45.Kxe6 Kb6 46.d5 Kxb5 47.d6 Kc6 48.Ke7 Kb5
+49.d7 g5 50.hxg5 hxg5 51.d8=Q Kc5 52.Ke6 b5 53.Qxg5+ Kc4 54.Qc1+ Kd4 55.Kf5
+Kd5 56.Qc3 Kd6 57.Qb4+ Kd7 58.Qxb5+ Kd6 59.Ke4 Ke7 60.Qc6 Kf8 61.Qd7 Kg8
+62.Kf5 Kh8 63.Kg6 Kg8 64.Qg7# 1-0
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.30"]
+[Round "?"]
+[White "Shredder"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "A45"]
+[EventDate "2018.03.30"]
+[Opening "Various Indian Systems"]
+[WhiteElo "1301"]
+
+1.d4 Nf6 2.Nc3 e6 3.e4 Bb4 4.Bd3 O-O 5.Bg5 h6 6.Be3 d6 7.f3 b6 8.Qd2 Bb7
+9.Qe2 Nc6 10.g3 Re8 11.h3 a5 12.Qd2 Ba6 13.O-O-O Nh5 14.Bxa6 Rxa6 15.Nge2 Nf6
+16.Qd3 Qc8 17.Bd2 a4 18.Qb5 Qa8 19.e5 dxe5 20.dxe5 Nd5 21.Nxd5 Bxd2+ 22.Rxd2
+exd5 23.Rxd5 a3 24.b3 Ra5 25.Qd3 Rxd5 26.Qxd5 Nxe5 27.Qxa8 Rxa8 28.Kd2 Nxf3+
+29.Ke3 Ne5 30.Rd1 c5 31.c4 Re8 32.Rd6 $2 { [diagram] } 32...Nxc4+ $1 33.Kf3
+Nxd6 34.Nc3 b5 35.Kf4 b4 36.Na4 Nb7 37.h4 Re2 38.Nb6 Rxa2 39.Nc4 Rf2+ 40.Ke3
+Rf6 41.Ne5 Re6 42.Ke4 $2 f6 43.Kd3 Rxe5 44.Kc2 Re1 45.g4 a2 46.g5 fxg5
+47.hxg5 h5 48.g6 a1=Q 49.Kd2 Qc3# 0-1
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.03.30"]
+[Round "?"]
+[White "Shredder"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "A09"]
+[EventDate "2018.03.30"]
+[Opening "Reti System"]
+[WhiteElo "1801"]
+
+1.Nf3 d5 2.c4 dxc4 3.Na3 Nf6 4.Nxc4 c5 5.d4 Nc6 6.dxc5 $6 Qxd1+ 7.Kxd1 e5
+8.Nd6+ Bxd6 9.cxd6 Bd7 10.Nd2 O-O 11.g3 Rad8 $2 { Stockfish 9:0.00/32 } ( 
+11...Ng4 { Stockfish 9:-1.20/31 } 12.Rg1 Nxf2+ 13.Ke1 Ng4 14.h3 Ne3 15.Kf2
+Nxf1 16.Rxf1 ) 12.b3 Bf5 13.Ba3 Nd4 14.Rc1 Nb5 15.Bb4 Nxd6 16.Bg2
+{ [diagram] } 16...Be4 $2
+{ Stockfish 9:+0.98/34 engine prefers 16...b6 (-0.30/34) } 17.Nxe4 Nfxe4
+18.Ke1 Rfe8 19.Rc7 Rc8 20.Ba5 Rxc7 21.Bxc7 Rc8 22.Bxe4 Nxe4 23.f3
+{ [diagram] 24.fxe4 loses the Rook to 24...Rc1+ } 23...Rxc7 $1 24.Kf1 Rc1+
+25.Kg2 Rxh1 26.Kxh1 Nc3 { [diagram] } 27.Kg2 Nxe2 28.b4 b5 29.a3 f5 30.Kf2
+Nd4 31.g4 g5 32.Ke3 Kf7 33.gxf5 Nxf5+ 34.Kd3 Ke6 35.Kd2 Nd4 36.h3 h5 37.Ke3
+Kf5 38.Kf2 Kf4 39.Kg2 h4 40.Kf2 Nxf3 41.Kf1 Nd4 42.Kf2 Nc2 43.Kf1 Nxa3 44.Kf2
+Nc2 45.Kg2 Nxb4 46.Kf1 a5 47.Ke2 a4 48.Kd2 a3 49.Kc3 a2 50.Kb2 e4 51.Kc3 e3
+52.Kxb4 a1=Q 53.Kxb5 Qc3 54.Kb6 Ke5 55.Kb7 Kd5 56.Ka6 Qb2 57.Ka5 Kc4 58.Ka6
+Kc5 59.Ka7 Kc6 60.Ka6 Qb6# 0-1
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.04.01"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1-0"]
+[BlackElo "1608"]
+[ECO "A45"]
+[EventDate "2018.04.01"]
+[TimeControl "m500"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 d6 4.c3 Bg4 5.Nf3 Bxf3 6.Qxf3 Nc6 7.Bb5 d5 8.Nd2 e6
+{ [diagram] missed 9Bxc7 Qxc7 10.Qxf6 (Stockfish 9:+1.48/36) } 9.Bg5 Be7
+{ [diagram] } 10.e4 dxe4 11.Nxe4 Nxe4 12.Bxe7 Qxe7 13.Qxe4 Qd6 14.Bxc6+ Qxc6
+15.Qxc6+ bxc6 16.g4 O-O-O 17.O-O-O h5 18.h3 hxg4 19.hxg4 Rxh1 20.Rxh1 Kb7
+21.g5 $2 { Stockfish 9:0.00/49 engine recommends 21.Rh7 (+1.31/32) } 21...Rd5
+22.f4 Rf5 23.Rf1 c5 24.dxc5 Rxc5 25.Rd1 Rf5 26.Rd4 e5 27.Rd5 $2
+{ [diagram] Stockfish 9:-2.15/35 engine recommends 27.fxe5 (0.00/47) }
+27...exf4 28.Rxf5 gxf5 29.Kd2 { [diagram] } 29...Kb6 30.a4 $2
+{ Stockfish 9:0.00/47 } ( 30.Ke2 { Stockfish 9:+21.94/29 } 30...Kc6 31.Kf3 a5
+32.Kxf4 Kd7 33.Kxf5 Ke8 34.Kf6 Kf8 35.b4 a4 36.b5 Ke8 37.c4 Kf8 38.c5 Ke8
+39.a3 Kd7 40.Kxf7 Kc8 41.g6 Kb7 42.g7 c6 43.b6 Ka6 44.g8=Q ) 30...f3 31.Ke3
+$2 { Stockfish 9:+0.96/50 engine strongly recommends 31.b4 (+20.30/34) }
+31...f2 32.Kxf2 f4 33.b4 c5 34.Kf3 cxb4 35.cxb4 Kc7 36.Kxf4 { [diagram] }
+36...Kb6 37.Ke5 a5 38.bxa5+ Kxa5 39.Kf6 Kb4 40.Kxf7 Ka5 41.g6 Kxa4 42.g7 Kb5
+43.g8=Q { Black resigns } 1-0
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.04.02"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1-0"]
+[BlackElo "1213"]
+[ECO "A47"]
+[EventDate "2018.04.02"]
+[TimeControl "m500"]
+
+1.d4 b6 2.Bf4 Bb7 3.e3 Nf6 4.Nf3 e6 5.c3 Be7 6.Bd3 Bxf3 7.Qxf3 c6 8.Nd2 O-O
+9.Be5 a5 10.Bxf6 Bxf6 { [diagram] } 11.Bxh7+ $2 Kxh7 12.Qh5+ Kg8 13.Nf3 d5
+14.h4 Nd7 { [diagram] } 15.Ng5 Bxg5 $4 ( 15...Re8 { Stockfish 9:0.00/52 }
+16.Qxf7+ Kh8 17.Nxe6 Qc8 18.Qh5+ Kg8 19.Ng5 Nf8 20.Qf7+ Kh8 21.Qh5+
+{ leads to draw by threefold repetition [diagram] } ) 16.hxg5 e5 17.Qh8#
+1-0
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.04.03"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "lichess.org"]
+[Result "1-0"]
+[ECO "A41"]
+[EventDate "2018.04.03"]
+
+1.d4 d6 2.Bf4 Nc6 3.e3 e5 4.Bg3 Bf5 5.Bd3 Nh6 6.c3 Be7 7.Bb5 O-O 8.Nf3 f6
+9.Nbd2 { [diagram] } 9...e4 10.Nh4 Na5 11.Nxf5 $1 Nxf5 12.Nxe4 d5 13.Ba4 c6
+14.Qf3 Qd7 15.Nc5 Nxg3 16.Qxg3 $2 Qd8 17.O-O-O $2 { [diagram] } 17...b6
+18.Ne6 $1 Kf7 19.Nxf8 Qxf8 20.Bc2 g6 21.h4 Nb7 22.h5 Qg7 23.hxg6+ Kf8 24.gxh7
+Qh8 25.Rh6 a5 26.Rg6 Qxh7 27.Rxf6+ $1 Ke8 $2 28.Bxh7 Bxf6 29.Qg8+ Ke7 30.Qxa8
+Kd6 31.Qxb7 Bd8 32.Bf5 Bc7 33.Qc8 Ke7 34.Qd7+ Kf8 35.Bg6 Kg8 36.Qf7+ Kh8
+37.Qh7# 1-0
+
+[Event "?"]
+[Site "Camden Chess Club, Blue Bottle, Oakland, California"]
+[Date "2018.04.04"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[ECO "A80"]
+[EventDate "2018.04.04"]
+[Opening "Dutch Defence"]
+
+1.d4 f5 2.Bf4 Nf6 3.e3 g6 4.Nf3 { [diagram] London System } 4...e6 5.c3 Bg7
+6.Bd3 Ne4 7.Nbd2 Nxd2 8.Qxd2 h6
+{ [diagram] The e5 square is potentially weak, but the d-pawn is still in a
+position to challenge. Patience is necessary. } 9.e4 $1 d5 $6 10.exf5 exf5
+{ White has a significant lead in development and an open e-file. Now to
+get the Knight on the e5 square. } 11.Be5 Qe7 12.Qe2 Rh7 13.Bxg7 Rxg7
+14.Qxe7+ Rxe7+ 15.Ne5 Re6 16.O-O-O Rf6 17.Rde1 Kf8 18.f4 Bd7
+{ [diagram] It is now time to bring the h-pawn into service. } 19.h4 Ba4
+20.h5 gxh5 21.Rxh5 Nd7 22.Reh1 a6 23.Rxh6 Rxh6 24.Rxh6
+{ [diagram] Clearly winning position for White } 24...Nxe5 25.fxe5 f4 $4
+26.Rh8+ Kf7 27.Rxa8 Ke7 28.Rh8 a5 29.Rh7+ Kd8 30.Be2 $1 Bd7 31.Bf3 Be6 32.Rh4
+Kd7 33.Rxf4 b6 { [diagram] We've arrived at a very easy endgame. } 34.Bg4
+Bxg4 35.Rxg4 b5 36.Rg6 c6 37.Rf6 a4 38.g4 a3 39.b3 Kc7 40.g5 Kd7 41.g6 Ke7
+42.g7 b4 43.cxb4 c5 44.bxc5 Kd7 45.g8=Q Kc7 46.Qg7+ Kb8 47.Rf8# 1-0
+
+[Event "?"]
+[Site "Camden Chess Club"]
+[Date "2018.04.08"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "0-1"]
+[BlackElo "2002"]
+[ECO "D02"]
+[EventDate "2018.04.08"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 c5 4.c3 e6 5.Nf3 Nc6 6.Bd3 Be7 7.Nbd2 Nh5 8.Bg3 c4
+9.Bc2 Nxg3 10.hxg3 h6 11.Qe2 Bd7 12.O-O-O $2 { Stockfish 9:-0.83/25 } ( 
+12.e4 { Stockfish 9:+0.86/27 } 12...Qb6 13.Rb1 Qa5 14.a4 O-O-O 15.O-O Rhe8
+16.b4 cxb3 17.Bxb3 Bf6 18.Qe3 Be7 19.Bc2 Qc7 20.c4 Bb4 21.Qd3 Be7 22.c5 Kb8
+23.a5 Qxa5 24.Qb3 Qc7 25.Rfe1 dxe4 26.Bxe4 f5 27.Bc2 ) 12...Qb6 13.Kb1 $2
+{ Stockfish 9:-1.55/29 } ( 13.e4 { Stockfish 9:+0.52/28 } 13...O-O-O 14.Nf1
+Kb8 15.Ne3 Be8 16.exd5 exd5 17.Rh5 Qa5 18.Ne5 Bg5 19.f4 g6 20.Rhh1 Be7 21.Kb1
+Nxe5 22.dxe5 Bc6 23.e6 fxe6 24.Ng4 Qb6 25.Bxg6 Ba4 26.Bc2 Bd7 27.Ne5 Bf6
+28.Rde1 Bg7 29.g4 Be8 30.Qe3 Qxe3 31.Rxe3 d4 32.Ree1 ) 13...Bd6 14.g4 $2
+{ Stockfish 9:-0.79/32 } ( 14.Ka1 { Stockfish 9:+0.42/32 } 14...O-O-O 15.e4
+Kb8 16.Nf1 Rhe8 17.Ne3 f5 18.exf5 exf5 19.Qd2 Ne7 20.Ne5 Be6 21.g4 Bxe5
+22.gxf5 Nxf5 23.Nxf5 Bxf5 24.Bxf5 Bc7 25.Rde1 a6 26.Rxe8 Rxe8 27.Re1 Qc6
+28.Rxe8+ Qxe8 29.Bg4 Ka7 30.Qe2 Qg6 31.Bf3 Qf7 32.g3 a5 33.Bg4 Qg6 34.Be6 Qg5
+35.Qe1 Qe7 36.Kb1 ) 14...e5 15.g5 $4 { Stockfish 9:-1.07/28 } ( 15.e4
+{ Stockfish 9:+2.12/28 (Study this...) } 15...Ba3 16.b3 cxb3 17.axb3 Ne7
+18.Nxe5 Bb5 19.Qf3 f6 20.Nd3 O-O-O 21.Nf4 dxe4 22.Nxe4 Bc6 23.Rhe1 Kb8 24.Ne6
+Rc8 25.Qg3+ Ka8 26.N4c5 Bd5 27.Qd3 Nc6 28.Nxg7 Rhg8 29.Na4 Qd8 30.Nf5 Rxg4
+31.Ne3 Rg5 32.Nc5 Na5 33.Nxd5 Qxd5 34.b4 Nc4 ) 15...Bg4 16.gxh6 $2
+{ Stockfish 9:0.00/33 } ( 16.e4 { Stockfish 9:+1.46/26 } ) 16...Rxh6 17.Rxh6
+gxh6 18.Rh1 $4 { Stockfish 9:-1.91/31 } ( 18.e4 { Stockfish 9:+1.29/29 }
+18...Ba3 19.b3 cxb3 20.axb3 Ne7 21.exd5 Nxd5 22.Qxe5+ Be6 23.Ne4 O-O-O
+24.Nfd2 Ne7 25.Nf6 Ng6 26.Qe4 Kb8 27.Qf3 Ne7 28.d5 Bf5 29.Bxf5 Qxf6 30.Nc4
+Qxf5+ 31.Qxf5 Nxf5 32.Nxa3 Nd6 33.Kc2 Rg8 34.g3 Re8 35.Nc4 Ne4 36.Ra1 Nxf2 )
+18...Ba3 19.b3 $2 { Stockfish 9:-3.45/27 } ( 19.Nxc4 { Stockfish 9:-1.60/32 }
+19...dxc4 20.Be4 f5 21.Bxc6+ Qxc6 22.Qc2 exd4 23.cxd4 Be7 24.Ne5 Qxg2 25.Rxh6
+Qg1+ 26.Qc1 Qxc1+ 27.Kxc1 O-O-O 28.Re6 Bb4 29.a3 Ba5 30.Rf6 Bc7 31.Nxc4 f4
+32.a4 Bd7 33.b3 Bc6 34.Kc2 Bd5 35.Rh6 Rg8 36.Nd2 fxe3 37.fxe3 Rg2 38.Kc3 Re2
+39.Rh8+ Kd7 40.Rh7+ Kc8 ) 19...cxb3 20.Bxb3 e4 21.Rxh6 exf3 22.gxf3 Bf5+
+23.e4 dxe4 24.fxe4 $2 { Stockfish 9:-0.85/33 (Study this...) } ( 24.Nc4
+{ Stockfish 9:+1.33/31 } 24...Qa6 25.fxe4 Bd7 26.Rh8+ Bf8 27.Nd6+ Ke7 28.Qxa6
+bxa6 29.Nxf7 Rb8 30.Rh7 Kf6 31.Kc2 Be8 32.e5+ Kg6 33.Rh3 Bxf7 34.Rg3+ Kf5
+35.Rf3+ Ke4 36.Rxf7 Nxe5 37.dxe5 Kxe5 38.Rxa7 Rb6 39.Bc4 Rc6 40.Rf7 Bc5 41.f3
+a5 42.Kb3 Rf6 43.Rxf6 Kxf6 44.Ka4 Bb6 45.Kb5 Bd8 46.Bd5 Ke5 47.Be4 a4 48.c4
+Kd4 49.c5 a3 50.c6 ) 24...Be6 25.Rh8+ Bf8 26.d5 Bd7 27.dxc6 $2
+{ Stockfish 9:+1.63/31 } ( 27.Nc4 { Stockfish 9:+3.40/31 (Study this...) }
+27...Qc7 28.dxc6 bxc6 29.Qh5 O-O-O 30.Qxf7 Bd6 31.Rxd8+ Kxd8 32.Qg8+ Be8
+33.Nxd6 Qxd6 34.Qg5+ Qe7 35.Qf4 Kc8 36.e5 Bd7 37.Kb2 Kd8 38.Qe3 Be6 39.Qd4+
+Ke8 40.f4 a5 41.Qe4 Bxb3 42.Qxc6+ Qd7 43.Qxd7+ Kxd7 44.Kxb3 Ke6 45.c4 Kf5 )
+27...Qxc6 28.Kb2 $2 { Stockfish 9:+0.70/30 } ( 28.Qe3
+{ Stockfish 9:+1.87/29 (Study this...) } 28...Qf6 29.Qd4 Qxd4 30.cxd4 b5
+31.Bd5 Rc8 32.Nf3 Be6 33.Ng5 Bxd5 34.exd5 Rd8 35.Nh7 Ke7 36.Rxf8 Rxf8 37.d6+
+Kxd6 38.Nxf8 Kd5 39.Nh7 Kxd4 40.Kc2 Ke5 41.Ng5 f6 42.Nf3+ Ke4 43.Nd2+ Kd4
+44.Nb3+ Ke4 45.Kc3 Kf3 46.Nd2+ Kxf2 47.Ne4+ Ke3 48.Nxf6 a5 49.Nd7 Ke4 50.Nc5+
+Kd5 ) 28...Qf6 29.Rh5 $2 { Stockfish 9:+0.57/30 } ( 29.Rh7 { +2.48/37 }
+29...O-O-O 30.Rxf7 Qb6 31.Nc4 Qc5 32.f4 Be6 33.Rf6 Bd7 34.e5 Be7 35.Rf7 Be8
+36.Rg7 Bf8 37.Rg8 Bc6 38.Rg5 Be7 39.Rh5 b5 40.e6 Bd5 41.Qe3 bxc4 42.Qxc5+
+Bxc5 43.Bxc4 Bd6 44.Bxd5 Bxf4 45.Kc2 Re8 46.Rh7 Bg5 47.Rxa7 Re7 48.Ra8+ Kc7
+49.Kd3 Kd6 50.Ke4 Rc7 51.c4 Bf6 52.Kf5 Bc3 53.Rf8 Ke7 54.Rf7+ Kd6 55.Kg6 Rxf7
+) 29...Bd6 30.Rd5 $4 { Stockfish 9:+0.85/36 (Study this...) } ( 30.e5
+{ Stockfish 9:+7.95/26 } 30...Ba3+ 31.Kxa3 Qe7+ 32.Kb2 O-O-O 33.Rh7 Be6
+34.Ne4 Kb8 35.f4 Rd7 36.Qb5 a6 37.Qb6 Qd8 38.Qxd8+ Rxd8 39.Bxe6 fxe6 40.Nc5
+Re8 41.Rxb7+ Ka8 42.Rb6 a5 43.Ra6+ Kb8 44.Kb3 a4+ 45.Kxa4 Rh8 46.Nxe6 Rh5
+47.Kb4 Rh3 48.Kb3 Rh5 49.Ra5 Kb7 50.Rb5+ Kc8 ) 30...Rc8 31.Rd3 $2
+{ Stockfish 9:+1.60/35 (Study this...) } ( 31.e5 { Stockfish 9:+7.31/25 }
+31...Ba3+ 32.Kxa3 Qa6+ 33.Qxa6 bxa6 34.Ne4 Ke7 35.Rd6 a5 36.Ra6 Rc7 37.Rxa5
+Bg4 38.Ra6 Bc8 39.Rf6 Kd8 40.f4 Re7 41.Rxf7 Rxf7 42.Bxf7 Ke7 43.Nd6 Be6
+44.Bxe6 Kxe6 45.Ka4 Kd7 46.Ka5 Ke6 47.Ka6 Kd7 48.Kxa7 Kc6 ) 31...Ke7 32.Re3
+$4 { Stockfish 9:0.00/39 (Study this...) } ( 32.e5 { Stockfish 9:+5.65/26 }
+32...Bxe5 33.Re3 Kd8 34.Rxe5 Kc7 35.Qe3 Kb8 36.Re4 Qd8 37.Bxf7 Bc6 38.Re7 Qa5
+39.Nb3 Qb5 40.Re5 Qb6 41.Qxb6 axb6 42.f4 Rc7 43.Be6 Rh7 44.Re2 Bb5 45.c4 Bd7
+46.Nd4 Bxe6 47.Rxe6 ) 32...Bb4 33.Nc4 $4 { Stockfish 9:+0.08/35 } ( 33.e5
+{ Stockfish 9:+4.29/31 } 33...Qc6 34.Qf3 Qxf3 35.Rxf3 Bc5 36.Rxf7+ Kd8 37.f4
+Rc7 38.f5 Bc6 39.f6 Rxf7 40.Bxf7 Be3 41.Nc4 Bf4 42.e6 Bg5 43.e7+ Kc7 44.Ne5
+Ba4 45.Ng4 Kd6 46.e8=Q Bxe8 47.Bxe8 Ke6 48.f7 Be7 49.Ne3 a6 50.Kb3 Bf8 51.Kc4
+Ke5 52.Kd3 Be7 53.Nc2 Bf8 54.Kc4 Ke4 55.Nd4 b5+ 56.Kb3 Ke5 57.Kc2 b4 58.Nc6+
+Ke6 59.cxb4 ) 33...Bb5 34.e5 Qf4 35.e6 Bxc4 36.Bxc4 $2
+{ Stockfish 9:+2.82/37 } ( 36.exf7+ { Stockfish 9:+5.41/32 } 36...Kf8 37.Re8+
+Kg7 38.Bxc4 Qxc4 39.Qe5+ Kxf7 40.Qh5+ Kf6 41.Qh8+ Kf5 42.Qe5+ Kg4 43.Qg3+ Kf5
+44.Rxc8 $1 Qe2+ 45.Kb3 Be7 46.Qh3+ Kf6 47.Qd7 Qe4 48.Qd4+ Qxd4 49.cxd4 Ke6
+50.Rc7 Bh4 51.Rxb7 a5 52.Kc4 Bxf2 53.Rb5 a4 54.Ra5 Kd6 55.Rxa4 Be1 56.Ra6+
+Kc7 57.Ra7+ Kc6 58.d5+ Kd6 59.Ra8 Kd7 60.Ra6 Bg3 61.Ra7+ Kd6 ) 36...Qxc4
+37.exf7+ Kf8 38.Re8+ Kxf7
+{ [diagram] White resigns?? (missing 40.Qh5+ then 41.Qh8+ followed by
+42.Rxc8 winning the opposing Rook and threatening the Queen) } ( 38...Kxf7
+{ Stockfish 9:+7.35/45 } 39.Qh5+ $2 Kf6 40.Qh8+ Kf5 41.Rxc8 ) 0-1
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.04.10"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1/2-1/2"]
+[BlackElo "2002"]
+[ECO "A45"]
+[EventDate "2018.04.10"]
+[TimeControl "m500"]
+
+1.d4 Nf6 2.Bf4 g6 3.Nc3 d6 4.e4 Bg7 5.Bd3 Nc6 6.Nf3 Bg4 7.h3 Bxf3 8.Qxf3 Nxd4
+9.Qd1 e5 10.Bg3 O-O 11.Bh4 d5 12.Nxd5 Qd6 13.Nxf6+ Bxf6 14.Bxf6 Qxf6 15.O-O
+Qf4 16.c3 Ne6 17.Qb3 Rad8 18.Bc4 Nc5 19.Qb4 b6 20.Bd5 a5 21.Qc4 a4 22.b4 axb3
+23.axb3 h6 24.b4 Rxd5 25.Qxd5 Nxe4 26.Ra8 Nxc3 27.Rxf8+ Kxf8 28.Qd8+ Kg7
+29.Re1 c5 30.bxc5 bxc5 31.Qd6 Qd4 32.Qxe5+ Kh7 33.Qe8 Kg7 34.Re7 Qd1+ 35.Kh2
+Qd5 36.Qd7 c4 37.Qxd5 Nxd5 38.Re8 c3 39.Rc8 Kf6 40.Kg1 Ke5 41.Kf1 f5 42.Ke2
+Nf4+ 43.Kf1 Kd4 44.g3 Nxh3 45.Ke2 g5 46.f3 h5 47.Kd1 h4 48.gxh4 gxh4 49.Kc2
+Nf4 50.Rxc3 h3 51.Rb3 h2 52.Rb1 Ke3 53.Rh1 Kxf3 54.Rxh2 Nd5 55.Rh8 f4 56.Rf8
+Ke2 57.Rxf4 Nxf4 1/2-1/2
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1-0"]
+[BlackElo "2002"]
+[ECO "A45"]
+[EventDate "2018.04.11"]
+[TimeControl "m500"]
+
+1.d4 Nf6 2.Bf4 c5 3.c3 Qb6 4.Qb3 cxd4 5.Qxb6 axb6 6.cxd4 Nc6 7.e3 Nb4 8.Na3
+d6 9.Nf3 Bd7 10.Bc4 Ne4 11.O-O d5 12.Bb3 e6 13.Ne5 Ba4 14.Rfc1 Bxb3 15.axb3
+Be7 16.Rc7 Nd6 17.Nf3 Nd3 18.Bxd6 Bxd6 19.Rxb7 Nxb2 20.Rxb6 Rxa3 21.Rxa3
+{ [diagram] Black resigns } 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1-0"]
+[BlackElo "2002"]
+[ECO "A45"]
+[EventDate "2018.04.11"]
+[TimeControl "m500"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 Bf5 4.Bd3 Bg6 5.c3 Bxd3 6.Qxd3 Nc6 7.Nd2 e6 8.Ngf3 Bd6
+9.Bg3 O-O 10.Ne5 Nxe5 11.Bxe5 c5 12.Nf3 c4 13.Qe2 Rc8 14.h4 Qe7 15.h5 b5
+16.h6 a5 17.hxg7 Kxg7 18.Bxd6 Qxd6 19.Ne5 b4 20.g4 Ne4 21.Rg1 bxc3 22.Rb1 a4
+23.a3 f6 24.f3 Nd2 25.Qh2 Nxb1 26.g5 fxe5 27.Qh6+ Kh8 28.g6 Qd7 29.g7+ Kg8
+30.gxf8=Q# 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1-0"]
+[BlackElo "2002"]
+[ECO "A45"]
+[EventDate "2018.04.11"]
+[TimeControl "m500"]
+
+1.d4 Nf6 2.Bf4 c5 3.c3 d5 4.Nf3 Nc6 5.e3 Qb6 6.Qc2 g6 7.Nbd2 Nh5 8.Bg3 Nxg3
+9.hxg3 Bf5 10.Qc1 Bg7 11.Be2 e5 12.Nb3 exd4 13.exd4 cxd4 14.Nbxd4 Nxd4
+15.Nxd4 Bxd4 16.cxd4 Qxd4 17.O-O Qe5 18.Re1 O-O 19.Bf3 Qd4 20.Rd1 $1 Bd3 $2
+21.Qd2 $1 { [diagram] } 21...Qe5 22.Qxd3 Qxb2 23.Qxd5 Rab8 24.Rab1 $1 Qg7
+25.Rxb7 a6 26.Rxb8 Rxb8 27.Qd6 Qb2 28.a3 Rb3 29.Qe7 Kg7 30.Bd5 $5 Rxa3
+31.Qxf7+ Kh6 32.Qf8+ Kh5 33.Bf3+ $1 { [%cal Gd1d5] } 33...Rxf3 34.Qxf3+
+{ Black resigns. } 1-0
+
+[Event "(\"The Golden Game\")"]
+[Site "Ford Point"]
+[Date "2018.04.17"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Deep HIARCS 14 WCSC"]
+[Result "1-0"]
+[BlackElo "1618"]
+[ECO "A45"]
+[EventDate "2018.04.17"]
+[TimeControl "m500"]
+
+1.d4 Nf6 2.Bf4 c6 3.c3 d6 4.e3 Bg4 5.Nf3 Bxf3 6.gxf3 Nbd7 7.Nd2 e5 8.Bg3 Be7
+9.f4 e4 10.f3 d5 11.fxe4 Nxe4 12.Bd3 Nxg3 13.hxg3 Nf6 14.g4 Bd6 15.g5 Nd7
+16.Nf3 h6 { [diagram] (Stockfish 9:+1.50/42) } 17.gxh6 Rxh6 18.Rxh6 gxh6
+19.Qe2 Qe7 20.O-O-O O-O-O 21.Rh1 Qe6 22.Ne5 Nxe5 23.fxe5 Be7 24.Qf1 Bg5
+{ [diagram] } 25.Bf5 $3 Bxe3+ 26.Kb1 Qxf5+ 27.Qxf5+
+{ [diagram] Black resigns } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.20"]
+[Round "?"]
+[White "Shredder"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "A06"]
+[EventDate "2018.04.20"]
+[Opening "Reti System"]
+[WhiteElo "1800"]
+
+1.b4 d5 2.Nf3 e6 3.Bb2 Nf6 4.a3 Bd6 5.e3 Nbd7 6.Nc3 b6 7.Bb5 Bb7 8.Nd4 a6 $2
+{ Stockfish 9 64:-0.35/35 } ( 8...c5 { Stockfish 9 64:-1.48/29 } 9.Nb3 a6 )
+9.Bc6 Bxc6 10.Nxc6 Qc8 11.Na4 Qb7 12.Nd4 c5 13.bxc5 Bxc5 14.O-O b5 15.Nxc5
+Nxc5 16.Qf3 Na4 17.Rab1 Nxb2 18.Rxb2 O-O 19.c4 b4 $2
+{ Stockfish 9 64:+1.22/33 } ( 19...e5 { Stockfish 9 64:-0.08/40 } 20.Nf5 g6
+21.Ng3 Qc6 ) 20.Rxb4 Qc7 21.d3 Rfb8 22.Rfb1 Rxb4 23.axb4 a5 $2
+{ Stockfish 9 64:+2.47/35 } ( 23...e5 { Stockfish 9 64:+0.68/39 } 24.Nf5 g6
+25.Nh6+ Kg7 26.Ng4 Nxg4 27.Qxg4 ) 24.Qg3 Qb7 $2 { Stockfish 9 64:+2.50/36 }
+( 24...Qxg3 { Stockfish 9 64:+0.78/36 } 25.hxg3 dxc4 ) 25.b5 a4 26.c5 a3
+27.Qd6 a2 28.Ra1 Ne8 29.Qc6 Qa7 $2 { Stockfish 9 64:+7.19/39 } ( 29...Qxc6
+{ Stockfish 9 64:+3.25/48 } 30.Nxc6 Ra3 31.g4 Rb3 ) 30.b6 Qa3 31.Nc2 Qb2 $2
+{ Stockfish 9 64:+29.57/25 } ( 31...Qa5 { Stockfish 9 64:+6.67/42 } 32.b7 Rb8
+33.Qc8 Qc7 34.Qxc7 Nxc7 35.c6 h5 36.Rxa2 Kf8 37.Nd4 ) 32.Qxa8 Qb1+ 33.Rxb1 $4
+( 33.Ne1 { Stockfish 9:+22.76/21 } ) 33...axb1=Q+ 34.Ne1 Qxe1# 0-1
+
+[Event "?"]
+[Site "Oakland, California"]
+[Date "2018.04.20"]
+[Round "?"]
+[White "Shredder"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "A06"]
+[EventDate "2018.04.20"]
+[Opening "Reti System"]
+[WhiteElo "1800"]
+
+1.b4 d5 2.Nf3 e6 3.Bb2 Nf6 4.a3 Bd6 5.e3 Nbd7 6.Nc3 b6 7.Bb5 Bb7 8.Nd4 a6
+9.Bc6 Bxc6 10.Nxc6 Qc8 11.Na4 Qb7 12.Nd4 c5 13.bxc5 Bxc5 14.O-O b5 15.Nxc5
+Nxc5 16.Qf3 Na4 17.Rab1 Nxb2 18.Rxb2 O-O 19.c4 b4 20.Rxb4 Qc7 21.d3 Rfb8
+22.Rfb1 Rxb4 23.axb4 a5 24.Qg3 Qb7 25.b5 a4 26.c5 a3 27.Qd6 a2 28.Ra1 Ne8
+29.Qc6 Qa7 30.b6 Qa3 31.Nc2 Qb2 32.Qxa8 Qb1+ 33.Rxb1 axb1=Q+ 34.Ne1 Qxe1#
+0-1
+
+[Event "( ... )"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.04.21"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "lichess.org"]
+[Result "1-0"]
+[ECO "A41"]
+[EventDate "2018.04.21"]
+[Opening "Queen's Pawn"]
+[Termination "Normal"]
+[UTCDate "2018.04.21"]
+[UTCTime "04:48:55"]
+
+1.d4 d6 2.Bf4 Qd7 3.c3 Qg4 4.e3 Bd7 5.Nf3 Qe6 6.Bd3 Nf6 7.Nbd2 Nh5 8.Bg3 Nxg3
+9.hxg3 { [%cal Gh1h7]opening the h-file } 9...d5 10.Ne5 h6 11.Ndf3 f6
+{ [diagram] } 12.Bg6+ $1 { [%cal ] [diagram] } 12...Kd8 13.Nf7+ Kc8 14.Nxh8
+Qb6 15.Qd2 a5 16.Bd3 e5 { [%csl Rd3,Rf3][%cal Re5e4]threatening 17...e4 }
+17.Ng6
+{ [%csl Rf8][%cal Rg6f8]threatening 18.Nxf8, taking the unprotected Bishop }
+17...Qd6
+{ [%csl Re5][diagram] Now begins the systematic dismantle of Black's Queenside protection. }
+18.dxe5 $1 fxe5 19.Nfxe5 c5 20.Nxf8 Qxe5 21.Nxd7 Kxd7 22.Bb5+ $1
+{ [%csl Yd5][%cal Gb5d7,Ga1d1,Gd2d5,Gh1h5][diagram] The Black King is exposed. The Queen's Knight and Rook hiding in the corner are in no position to defend him. }
+22...Kc7 23.O-O-O Qf6 24.Qxd5 $1
+{ [%cal Gd5d8,Gd5c5] [diagram] threatening 25.Qd8# or 25.Qxc5+ ( winning the Queen ) }
+24...Qf8 25.Rh5 $1 { [%cal Gh5f5,Gf5f7] } 25...g5 { [diagram] } 26.Rxh6 $1
+{ if 26...Qxh6?? then 27.Qd8# [%cal Gd5d8] } 26...Nc6 { [diagram] } 27.Bxc6
+( 27.Rxc6+ { Komodo 9.02:#5/99 } 27...Kb8 28.Qe5+ Qd6 29.Rcxd6 Ka7 30.Qxc5+
+Kb8 31.Rd8# { 0.00 } ) 27...bxc6 ( 27...Rd8 28.Rh7+ Kc8 29.Qe6+ Kb8 30.Rxb7+
+Ka8 31.Rf7+ Kb8 32.Qb3+ Kc8 33.Qb7# ) 28.Rxc6+ Kb8 29.Rb6+ Ka7 ( 29...Kc8
+30.Qc6# ) 30.Qb7#
+{ [diagram] The King sits, defeated, in the lap of his Queen's Colonel (who
+never moved to aid in his defense). Still, of no help. } 1-0
+
+[Event "?"]
+[Site "Ford Point"]
+[Date "2018.04.27"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "1357"]
+[ECO "D02"]
+[EventDate "2018.04.27"]
+[Opening "Queen's Pawn Opening"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 e6 4.Nf3 c5 5.c3 Nc6 6.Bd3 Bd7 7.Nbd2 cxd4 8.exd4 Be7
+9.Ne5 Nxe5 10.Bxe5 O-O 11.Nf3 Qb6 12.Qe2 Qc6 13.h4 Ne4 14.Ng5 Nxc3 15.Bxh7+
+Kh8 16.Qh5 f6 17.Bg6+ Kg8 18.Qh7# 1-0
+
+[Event "?"]
+[Site "chess.com"]
+[Date "2018.04.29"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "LionKing-89 (UK)"]
+[Result "1-0"]
+[CurrentPosition "8/p1p1k2p/2p5/2Np2p1/3P2P1/1PP2P2/P7/7K b - - 0 31"]
+[ECO "D00"]
+[EventDate "2018.04.29"]
+[Termination "game_result.game_abandoned"]
+[TimeControl "1800"]
+
+1.d4 d5 2.Bf4 Nc6 3.e3 f6 4.Bd3 e5
+{ [diagram] This is a missed opportunity. 5.Qh5+ is much stronger
+(Stockfish 9:+1.37/34) than 5.Bg3 (0.00/29). Qh5+ was never considered. }
+5.Bg3 $6 ( 5.Qh5+ $1 Ke7 ( 5...g6 6.Bxg6+ Ke7 7.dxe5 Bg7 8.Bf5 Bxf5 9.Qxf5
+fxe5 10.Bg3 ) 6.dxe5 Nxe5 7.Bxe5 fxe5 8.Qxe5+ Kf7 ) 5...exd4 6.Bb5 Bd6 7.exd4
+Bxg3 8.hxg3 Qe7+ 9.Qe2 Qxe2+ 10.Nxe2 Ke7 11.Bxc6 bxc6 12.O-O Rb8 13.b3 Ba6
+14.Re1 Bxe2 15.Rxe2+ Kf7 16.Nc3 Nh6 17.Na4 Nf5 18.c3 Rhe8 19.Rae1 Rxe2
+20.Rxe2 Re8
+{ [diagram] 21.Rxe8 is slightly stronger (Stockfish 9:+0.65/39 vs +0.54/38)
+and leads to no loss of tempo, which was my only concern. I did not take
+the time to do the calculation during the game. } 21.Kf1 Rxe2 22.Kxe2 Ke6
+23.Nc5+ Kd6 24.g4 Nh6 25.f3 g5 26.g3 f5 27.gxf5 Nxf5 28.g4 Ng3+ $2 29.Kf2 $1
+Nh1+ 30.Kg2 Ke7 { [diagram] } 31.Kxh1
+{ Black resigns. (Stockfish 9:+8.56/32) Had the game continued, I planned
+to consider moving the Knight to the more central e5 square, putting
+pressure on c6 and making it difficult for the Black King to support his pawns. A better strategy, however, since the Black King cannot penetrate the
+Kingside with the current pawn structure, might be to move the White King to the Queenside and support the promotion of a pawn on the a-file. }
+1-0
+
+[Event "?"]
+[Site "chess.com"]
+[Date "2018.05.01"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Jamart1961 (USA)"]
+[Result "1-0"]
+[ECO "D02"]
+[EventDate "2018.05.01"]
+
+1.d4 d5 2.Bf4 e6 3.Nf3 h6 4.e3 a6 5.Bd3 g5 6.Bg3 h5 7.h4 g4 8.Ne5 Rh6 9.Bf4
+Rh8 10.f3 f5 11.fxg4 hxg4 12.g3 c5 13.c4 Nf6 14.Bg5 Bh6 15.Bxh6 Rxh6 16.Qd2
+Nh5 { [diagram] } 17.e4 Nxg3 18.Qxh6 Nxh1 19.Qh8+ Ke7 20.Qg7+ Kd6 21.Nf7+ Ke7
+22.Nxd8+ Kxd8 23.exd5 Bd7 24.dxe6 Bxe6 25.Qf8+ Kc7 26.Bxf5 Bxf5 27.Qxf5 Nd7
+28.Nc3 Re8+ 29.Kd2 cxd4 30.Nd5+ Kd8 31.Rxh1 Rf8 32.Qxg4 Re8 33.Qg5+ Kc8
+34.Nf6 1-0
+
+[Event "?"]
+[Site "lczero.org"]
+[Date "2018.05.06"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 252 - nodes: 1)"]
+[Result "1-0"]
+[ECO "D00"]
+[EventDate "2018.05.06"]
+
+1.d4 d5 2.Bf4 c5 3.c3 Qb6 4.Qb3 Qxb3 5.axb3 cxd4 6.cxd4 Nc6 7.e3 Bf5 8.Nf3 e6
+9.Nbd2 Bb4 10.Bb5 Ne7 11.Ne5 f6 12.Nxc6 Nxc6 13.Ra4 $6 a5 14.Ra1 Kf7 15.Bxc6
+bxc6 16.Rc1 a4 17.bxa4 Rxa4 18.Ke2 Ra2 19.Rxc6 Rxb2 20.Rc7+ Kg6 21.Rd1 Ra8
+22.Rcc1 Raa2 23.e4 $5 dxe4 24.Be3 Bg4+ 25.f3 exf3+ 26.gxf3 Bf5 27.Rg1+ Kf7 $2
+28.Rc7+ Ke8 $2 29.Rgxg7 Kd8 30.Rb7 Kc8 31.Rbf7 Bxd2 $2 32.Rg8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.06"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "(Unknown)"]
+[Result "1-0"]
+[BlackElo "1483"]
+[ECO "A40"]
+[WhiteElo "1577"]
+
+1.d4 g6 2.Bf4 Bg7 3.e3 Nf6 { London System vs King's Indian Defence } 4.c4
+O-O 5.Nc3 e6 { [diagram] } 6.Nf3 c6 7.Bd6 $1
+{ The Bishop has found an outpost on d6 (soon to be supported by the
+c-pawn). } 7...Re8 8.c5 b6 9.b4 a5
+{ The 9...a5 push has created a potentially weak square on b5. } 10.b5 $5
+cxb5 11.Nxb5
+{ [%csl Ga8,Ge8,Gc7][%cal Gb5c7]The Knight now has an outpost on b5 (threatening 12.Nc7, forking the Rooks) and supporting the Bishop. }
+11...Nd5 12.e4 $1 { [diagram] } 12...Na6 13.exd5 exd5+ 14.Be2
+{ a brief intermezzo .. } 14...Bb7 15.Rb1
+{ [%csl Yb6][%cal Yb1b6] The Rook is moved from a1 to remove the threat of a discovered attack if the Bishop captures the weak d4 pawn and to prepare to attack the opponents b-pawn or support his own c-pawn following cxb6. }
+15...Qf6 16.cxb6 Qe6 { [%cal Ge8e2] } 17.Ne5
+{ Here, the Knight on e5 is attacked by three Black pieces and defended by
+two. However, in this configuration, Black cannot profit from the advantage
+in the numbers. } 17...Rac8
+{ [%cal Gc8c1] Black is attempting to claim the open c-file. } 18.Bc7 $5
+{ [%cal Gb5d6,Ye2a6] [diagram] Stockfish 9:+5.65/36 } 18...Qf5 19.Nd6 Qf6
+20.Nxb7 Re7 21.Bxa6 Qh4 22.Nc5
+{ [%csl Rd5,Rd7,Rc8,Gb1,Gc5,Gc7,Ge5,Gb6,Ga6,Gd1][%cal Ga6c8,Gc5d7,Ge5d7,Gd1f3,Gb6b7,Ge1g1] White has superb coordination of pieces, a supported passed pawn on b6, a three-piece advantage, and wonderful attacking opportunities. Even though Black can double the Rooks on the e-file, the coordinated attack of the minor pieces should prevail. Were that not the case, White is so far ahead in material, even exchanges would also be welcome to hasten the endgame. The position is clearly winning for White. Stockfish 9 evaluates the position at +22.94/34. Time to tuck the King away and say goodnight. [diagram] }
+22...f6 23.O-O Rce8 24.Nexd7
+{ " Olé!! " could be heard from the crowd as the matador missed the coy
+bull with his sword. } 24...f5 25.Be5 f4 26.Bd6 $5 Qg5
+{ There is nowhere for the Rook on e7 to go to avoid the exchange, other
+than to leave the e-file. } 27.Bxe7 Rxe7 28.Re1 Rf7 29.Re8+ Bf8 30.b7
+{ [diagram] } 30...f3 31.g3 h5 32.Rxf8+ Kg7 33.Rxf7+ Kxf7 34.Qxf3+ Kg7
+35.Ne6+ Kh6 36.Qf8+ Kh7 37.Qg7# { [%csl Rh7] } 1-0
+
+[Event "?"]
+[Site "lczero.org"]
+[Date "2018.05.08"]
+[Round "?"]
+[White "Cora (n.net: 264 - nodes: 1)"]
+[Black "Duane Edmonds"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O a6 5.Bxc6 dxc6 6.d3 g6 7.a4 b5 8.Be3 Bg7
+9.Bxc5 Bxb2 10.Ra2 Bg7 11.e5 Ne7 $2 { Stockfish 9:+1.59/30 } ( 11...Qd5
+{ Stockfish 9:-0.15/31 } ) 12.Nbd2 Qd5 13.Nb3 Qd7 14.axb5 cxb5 15.c4 bxc4
+16.dxc4 Qxd1 17.Rxd1 Bb7 18.Na5 Bxf3 19.gxf3 Bxe5 20.Rad2 Bc3 21.Rd7 Bxa5 $2
+{ Stockfish 9:+5.08/31 } ( 21...Nf5 { Stockfish 9:+1.05/33 } 22.Nc6 Bf6 )
+22.Rxe7+ Kf8 23.Rdd7 Bd8 24.Rxf7+ Ke8 25.Bd6 a5 26.c5 a4 27.c6 a3 $2
+{ Stockfish 9:+42.58/31 } ( 27...h6 { Stockfish 9:+8.02/36 } ) 28.Be5 Rf8
+29.Rxh7 a2 30.c7 Bf6 31.Bxf6 Rxf6 32.Rhe7+ Kf8 33.Rh7 Ke8 $4
+{ Stockfish 9:#19/46 } ( 33...a1=R+ { Stockfish 9:0.00/55 } 34.Kg2 Kg8
+35.Rhg7+ Kh8 36.Rh7+ Kg8 ) 34.Rhe7+ ( 34.Rd8+ { #19/45 } 34...Rxd8 35.Rh8+
+Rf8 36.Rxf8+ Kxf8 37.cxd8=Q+ ) 34...Kf8 35.Rh7 a1=Q+ 36.Kg2 Kg8 37.Rdg7+ Kf8
+38.Rd7 Ke8 39.Rhe7+ Kf8 40.Rh7 1/2-1/2
+
+[Event "?"]
+[Site "chess.com"]
+[Date "2018.05.10"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "formatallan (U.S.)"]
+[Result "1-0"]
+[ECO "D00"]
+[TimeControl "3600"]
+
+1.d4 d5 2.Bf4 Nc6 3.e3 Bf5 4.Nf3 Qd7 5.Bb5 a6 6.Ne5 Qe6 7.Bxc6+ bxc6 8.O-O
+Nf6 9.Nd3 Ne4 10.Nd2 g5 11.Bxc7 Qd7 { [diagram] } 12.Nxe4 $6
+{ (Stockfish 9:+0.08/48) 12.Ba5 (+1.57/48), 12.Bg3 (+1.51/48), 12.Bb6 Qb7
+13.Ba5 (+1.44/48), and 12.Be5 Nxd2 13.Qxd2 f6 14.Bg3 (+1.27/48) are better.
+} 12...dxe4 13.Nc5 $2 { (Stockfish 9:-2.96/35) } ( 13.Be5 { +0.15/38 }
+13...exd3 14.Bxh8 ) 13...Qxc7
+{ [diagram] White has miscalculated and given away a piece and is now at a
+significant disadvantage. } 14.a4 Bg7 15.b4 O-O 16.c4 e5 $6 17.d5 $5 cxd5
+18.cxd5 { White has a passed d-pawn. } 18...Qd6 19.Qb3 Qc7 20.Rac1
+{ [%cal Gc1c7] } 20...Rac8 21.Rfd1 g4 22.g3 $6 { 22.d6 is stronger. } ( 
+22.d6 { -1.23/35 } 22...Qa7 ) 22...Qd6 23.Qc4 h5 24.Rc2 h4 25.Rdc1 hxg3
+26.hxg3 Bf6 27.b5 axb5 28.axb5 Ra8 29.Nb7 Qb6 $2 30.Qc6 Qxc6 31.bxc6
+{ [diagram] Here, although still a piece down in material, White now has
+two passed pawns onn the c- and d-files and better coordination of his
+pieces. (Stockfish 9:+0.10/37) } 31...Be7 32.Rd1 Bc8 33.d6 Bxd6 34.Nxd6 Be6
+35.Rdc1 Ra6 36.Rd2 Rd8 37.Nxe4 Rc8 38.c7 Ra4 39.Rd8+ Kg7 40.Rxc8 Bxc8 41.Nd6
+Bd7 42.c8=Q Bxc8 43.Rxc8
+{ [diagram] The nature of the game has reversed, and White now has the
+material advantage in the endgame. } 43...Ra1+ 44.Kg2 Rd1 45.Nf5+ Kf6 46.Nh4
+Kg5 47.Rc7 f6 48.Rg7+ Kh5 49.Rg6 f5 50.Rg8 Rd7 51.Nxf5 Rf7 52.Nd6 Rd7 53.Ne4
+$5 Rc7 54.Nf6+ Kh6 55.Nxg4+ Kh5 56.Nxe5 Rc3 57.f4 Kh6 58.Kf3 Kh7 59.Rg5 Kh6
+60.Nf7+ Kh7 61.f5 Rc1 62.g4 Rf1+ 63.Ke4 Rc1 64.Ke5 Rc5+ 65.Kf4 Rc4+ 66.e4 Rc1
+67.Rg6 Rf1+ 68.Ke5 Rc1 69.Ng5+ Kh8 70.Kf6 Rc6+ 71.Kf7 Rc7+ 72.Kf6 Rc6+ 73.Ke7
+Rc4 74.Nf7+ Kh7 75.e5 Rc7+ 76.Kf6 Rc6+ 77.e6 Rc8 78.Ng5+ Kh8 79.e7 Re8 80.Kf7
+Rc8 81.e8=Q+ Rxe8 82.Rh6# { [diagram] } 1-0
+
+[Event "blitz (5+5)"]
+[Site "chess.com"]
+[Date "2018.05.12"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "cvca2015 (México)"]
+[Result "1-0"]
+[BlackElo "1149"]
+[ECO "D00"]
+[TimeControl "300+5"]
+[WhiteElo "1244"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.Nc3 d5 5.Nf3 O-O 6.Bd3 Nc6 7.Qe2 Re8 8.e4 Nh5
+9.Bg3 Nxd4 10.Nxd4 Bxd4 11.exd5 Nxg3 12.hxg3 e5 13.O-O-O Bxc3 14.bxc3 Qxd5
+15.Be4 Qa5 16.f4 Be6 17.f5 Bxa2 18.fxg6 fxg6 19.Bxg6 hxg6 20.Qg4 Qb6 21.Rh6
+Qe3+ 22.Kb2 Qxh6 23.Kxa2 Qg7 24.Rh1 Rad8 25.Qc4+ Qf7 26.Rh8+ Kg7 27.Rh7+ Kg8
+$2 28.Qxf7# 1-0
+
+[Event "?"]
+[Site "lczero.org"]
+[Date "2018.05.12"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 282 - nodes: 1)"]
+[Result "1-0"]
+[ECO "D00"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nf6 4.c3 Nc6 5.Nf3 e6 6.Bd3 Bd6 7.Bg3 O-O 8.Nbd2 Bxg3
+9.hxg3 h6 10.Qe2 Qb6 11.O-O-O c4 12.Bc2 Qa5 13.Kb1 b5 14.Ne5 Nxe5 15.dxe5 Nd7
+16.Rxh6 gxh6 17.Qg4+ Kh8 18.Rh1 f5 19.Rxh6# 1-0
+
+[Event "?"]
+[Site "lczero.org"]
+[Date "2018.05.15"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 298 - nodes: 1)"]
+[Result "1-0"]
+[ECO "D02"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.c3 Nc6 5.Nd2 e6 6.Ngf3 Bd6 7.Bg3 O-O 8.Bd3 b6
+9.Qe2 Bb7 10.Ne5 Qc7 11.Ndf3 Ne4 12.Nxc6 Qxc6 13.Ne5 Qc7 14.f3 Nxg3 15.hxg3
+h6 16.f4 f6 17.Ng6 Rfe8 18.g4 a5 19.g5 fxg5 20.fxg5 Bg3+ 21.Kd2 e5 22.gxh6
+gxh6 23.Qg4 exd4 24.Rxh6 dxe3+ 25.Kc2 e2 26.Ne5+ Qg7 27.Rg6 Re7 28.Qxg3 c4
+29.Bxe2 Rxe5 30.Rxg7+ Kf8 31.Rf1+ Ke8 32.Qxe5+ Kd8 33.Rf8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.17"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "1462"]
+[ECO "D00"]
+[Opening "Queen's Pawn Opening"]
+
+1.d4 d5 2.Bf4 e6 3.e3 Nf6 4.Nd2 c5 5.c3 Nc6 6.Ngf3 Bd7 7.Bd3 h6 8.Ne5 Nxe5
+9.Bxe5 c4 10.Bc2 a6 11.Nf3 Qb6 12.Rb1 Be7 13.h4 Rc8 14.Qe2 Qa5 15.a3 O-O
+16.h5 Ne4 17.Nh4 Bf6 18.Bxf6 Nxf6 19.Nf3 Ba4 20.Ne5 Bxc2 21.Qxc2 Ne4 22.f3
+Ng3 23.Rh3 Nf5 24.g4 Nxe3 25.Qe2 f6 26.Ng6 Ng2+ 27.Qxg2 Rf7 28.f4 Qb6 29.Kd2
+Qb3 30.g5 fxg5 31.fxg5 Qa2 32.Kc1 Qb3 33.gxh6 gxh6 34.Ne5+ Rg7 35.Rg3 Rxg3
+36.Qxg3+ Kf8 37.Qf4+ Ke7 38.Qxh6 Kd6 39.Qg7 Rc7 40.Nf7+ Kc6 41.h6 Rxf7
+42.Qxf7 Qb5 43.h7 Kd6 44.Qf8+ Kc6 45.Qe8+ Kb6 46.Qxb5+ axb5 47.h8=Q Ka6
+48.Qc8 Ka7 49.Qxe6 b6 50.Qxd5 Kb8 51.Qd7 Ka8 52.Qxb5 Kb7 53.Qd7+ Kb8 54.Kc2
+Ka8 55.Rh1 b5 56.Rh8# 1-0
+
+[Event "?"]
+[Site "lczero.org"]
+[Date "2018.05.26"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 345 – nodes: 1)"]
+[Result "1-0"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.c3 Nc6 5.Nd2 Bf5 6.h3 e6 7.Ngf3 Qb6 8.Qc1 Be7
+9.Ne5 Rc8 10.g4 Bg6 11.Bg2 cxd4 12.Nxc6 Rxc6 13.exd4 Qxd4 14.cxd4 Rxc1+
+15.Rxc1 O-O 16.O-O Bd8 17.Rc8 Be7 18.Rxf8+ Kxf8 19.Rc1 Bd8 20.Rc8 Ke7 21.Bc7
+Bxc7 22.Rxc7+ Kd6 23.Rxb7 a5 24.Nb3 a4 25.Nc5 e5 26.Rb6+ Kc7 27.dxe5 Kxb6
+28.exf6 Kxc5 29.fxg7 f5 30.g8=Q fxg4 31.Qxd5+ Kb6 32.Be4 Bxe4 33.Qxe4 a3
+34.Qe3+ Kc6 35.Qxa3 Kd5 36.hxg4 Kd4 37.f3 Kd5 38.Qb4 Kc6 39.Kf2 Kd5 40.Ke3
+Kc6 41.Qa5 Kd6 42.Kd4 Ke7 43.Qb6 h5 44.gxh5 Kd7 45.Ke5 Kc8 46.Qa7 Kd8 47.Ke6
+Kc8 48.Kd6 Kd8 49.Qa8# 1-0
+
+[Event "?"]
+[Site "chess.com"]
+[Date "2018.06.04"]
+[Round "?"]
+[White "Maxik22000077 (Belarus)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "D02"]
+[TimeControl "2700+45"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 Nc6 4.Nc3 dxc4 5.e4 Bg4 6.d5 Ne5 7.Be2 Nxf3+ 8.Bxf3
+Bxf3 9.Qxf3 g6 10.e5 Nh5 11.e6 fxe6 12.dxe6 Nf6 13.Bg5 Bg7 14.Ne4 O-O
+15.Nxf6+ Bxf6 16.Bxf6 Rxf6 17.Qg4 Qd3 18.Rd1 Qc2 19.O-O Raf8 20.f3 Qxb2
+21.Qxc4 Qb6+ 22.Kh1 Rxe6 23.Rb1 Qc6 24.Qd4 Rd6 25.Qxa7 b6 26.Rbc1 Ra8
+{ [diagram] } 27.Rxc6 Rxa7 28.Rxd6 exd6 29.g4 Rxa2 { [diagram] } 30.Rc1 Ra7
+31.Kg2 c5 32.Kf2 b5 33.Ke3 Kf7 34.Ke4 b4 35.Rb1 Rb7 36.Kd5 Ke7 37.f4 Kd7
+38.f5 b3 39.Rb2 { [diagram] Black's position here is winning. } 39...Rb6 ( 
+39...Rb4 { much stronger (#4), threatening 40.Rd4#. } 40.Rd2 b2 41.fxg6 b1=Q
+42.gxh7 Qb3# ) 40.f6 Ke8 41.Ke6 c4 42.f7+ Kf8 43.Rb1 b2 44.h4 c3 45.h5 d5+
+46.Kxd5 Kxf7 47.Rf1+ Kg7 48.Re1 b1=Q 49.Re7+ Kg8 50.Re8+ Kf7 51.Re4 Qh1
+52.hxg6+ hxg6 53.Kc4 Qxe4+ 54.Kxc3 Qa4 55.g5 Rb3+ 56.Kc2 Qa2+ 57.Kd1 Rb1#
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2018.06.06"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[ECO "A40"]
+
+1.d4 e6 2.Bf4 c5 3.e3 cxd4 4.exd4 d5 5.c3 Bd7 6.Nf3 b5 7.Nbd2 Be7 8.Ne5 Nh6
+9.h3 Nf5 10.Bd3 g6 11.Ndf3 Qb6 12.Qd2 Qa5 13.h4 Rf8 14.h5 Qa4 15.hxg6 fxg6
+16.Rxh7 Rg8 17.Bg5 Bxg5 18.Nxg5 Qa5 19.O-O-O Qxa2 20.Bb1 Qb3 21.Rdh1 Qa4
+22.Ngf7 a5 23.Qg5 Ne7 24.Nd6+ Kd8 25.Qxe7+ Kc7 26.Ne8+ Rxe8 27.Qxe8 b4
+28.Nxd7 Qxd7 29.Rxd7+ Nxd7 30.Qxa8 Nf6 31.Rh8 Nd7 32.Rh7 Kb6 33.Qd8+ Kb5
+34.Qxd7+ Kc4 35.Qc6+ Kb3 36.Ba2+ Kxa2 37.Qa4# 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.06.13"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 10)"]
+[Result "1-0"]
+[ECO "A40"]
+[TimeControl "m500"]
+
+1.d4 h5 2.Bf4 h4 3.g3 hxg3 4.fxg3 Nc6 5.e3 Nb4 6.c3 Nd5 7.Nf3 Nxf4 8.exf4 e6
+9.Nbd2 Ne7 10.Bd3 Rh6 11.Qe2 Rg6 12.Bxg6 fxg6 13.Ng5 d5 14.Ndf3 a5 15.O-O a4
+16.b3 a3 17.Rfe1 Kd7 { [diagram] } 18.Qxe6+ Ke8 19.Qxg6+ Kd7 20.Ne5# 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.06.14"]
+[Round "1"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 35)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Ne4 4.Nbd2 Nxd2 5.Qxd2 f6 6.e3 Nc6 7.c3 e6 8.Bd3 g5
+9.Bg3 h5 10.h3 h4 11.Bh2 Rg8 12.g4 Rb8 13.O-O b6 14.a4 Bb7 15.b4 Qc8 16.a5
+bxa5 17.bxa5 a6 18.Rfb1 Rh8 19.e4 dxe4 20.Bxe4 Bh6 21.Rb2 Ne7 22.Rab1 f5
+23.Bxb7 Rxb7 24.Rxb7 fxg4 25.Rb8 gxf3 26.Rxc8+ Nxc8 27.Re1 g4 28.Rxe6+ Kd7
+29.Qe1 g3 30.fxg3 hxg3 31.Bxg3 Bg7 32.Rg6 Bf8 33.Qe6+ Kd8 34.Qf6+ Be7
+35.Qxh8+ Kd7 36.Rg7 Nd6 37.Bxd6 Kxd6 38.Qh6+ Kd5 39.Rxe7 f2+ 40.Kxf2 Kc4
+41.Rxc7+ Kd5 42.Qc6# 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.06.14"]
+[Round "2"]
+[White "Cora (n.net: 35)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B50"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 d6 3.Be2 Nf6 4.d3 g6 5.O-O Nc6 6.c3 Bg7 7.h3 O-O 8.a4 Be6 9.a5
+Qc8 10.Na3 Bxh3 11.gxh3 Qxh3 12.Ng5 Qh4 13.Nc4 h6 14.Nf3 Qg4+ 15.Kh1 Qh3+
+16.Kg1 Ng4 17.Qb3 Be5 18.Qxb7 Bh2+ 19.Kh1 Bf4+ 20.Kg1 Bxc1 21.Raxc1 Nd8
+22.Qxa8 Ne6 23.Qxf8+ Kxf8 24.b4 Nf4 25.Bd1 Qg2# 0-1
+
+[Event "?"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2018.06.30"]
+[Round "?"]
+[White "Cora (n.net: 38)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B30"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 Nc6 3.Be2 d6 4.O-O Nf6 5.d3 g6 6.h3 Bg7 7.a4 Be6 8.Na3 Qd7 9.g4
+$2 { [diagram] } 9...h5 $1 10.g5 Bxh3 11.gxf6 $4 Qg4+ 12.Kh2 Qg2#
+{ [diagram] } 0-1
+
+[Event "?"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2018.07.03"]
+[Round "?"]
+[White "Cora (n.net: 38)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B50"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 d6 3.Be2 Nc6 4.O-O g6 5.d3 Nf6 6.h3 Bg7 7.a4 Bd7 8.c3 a6 9.a5
+Nxa5 10.b4 cxb4 11.cxb4 Nc6 12.Bd2 $6 { (Stockfish 9:-2.27/19) } ( 12.Nc3
+{ (Stockfish 9:-1.25/23) } 12...Nxe4 13.dxe4 Bxc3 ) 12...b5 $6
+{ [diagram] making it difficult for White to activate his dark-squared
+Bishop without losing the b-pawn (Stockfish 9:-0.78/21) } ( 12...Nxe4
+{ (Stockfish 9:-3.02/44) } 13.dxe4 Bxa1 14.Nc3 Bxc3 15.Bxc3 O-O ) 13.Bc3 O-O
+14.Qc1 e5
+{ [diagram] closing the position and taking the dark-squared Bishop
+effectively out of the rest of the game } 15.Nbd2 Qb6 16.Bd1 Rac8
+{ preparing to threaten the Queen on the c-file (and potentially win the
+pawn on b4) } 17.Nb3 $6
+{ (Stockfish 9:-3.30/33) (Lczero 38:-0.58/23) (Lczero 455:-2.41/22)
+(Critter -2.19/22) } ( 17.Qb1 { (Stockfish 9:-1.00/35) } ) ( 17.Qa3
+{ (Lczero 395:-1.14/24) } ) 17...Nxb4 { winning the pawn } 18.Qd2 Nc6 19.Ba5
+Qb7 20.Rc1 Nxa5 21.Nxa5 Qb6 22.Rxc8 Rxc8 { taking control of the c-file }
+23.Nb3 Be6 24.Ng5 d5 25.Nxe6 Qxe6 26.f4 exf4 27.Qxf4 dxe4 28.Nd4 $6
+{ [diagram] } 28...Qb6 $3 { winning the Knight on d4 } 29.Qe3 Ng4 $1
+{ [diagram] } 30.Qxe4 $2 { (Stockfish 9:#-22/40) Stockfish 9:-62.34/25 } ( 
+30.Qf4 { Stockfish 9:-9.81/24 } 30...Bxd4+ 31.Kh1 Nf2+ 32.Kh2 Be3 33.Qe5 )
+30...Bxd4+ ( 30...Bxd4+ 31.Kh1 Nf2+ 32.Rxf2 Bxf2 33.g4 Rc1 34.Qf3 Rxd1+
+35.Qxd1 Qe3 36.Qf1 Qf3+ 37.Qg2 Qd1+ 38.Kh2 Bd4 39.Qg3 Qe2+ 40.Kh1 Bf2 41.Qg2
+Qe1+ 42.Kh2 Bd4 43.Qg3 Be5 44.Qxe5 Qxe5+ 45.Kg2 b4 46.Kf3 b3 47.d4 Qxd4
+48.Ke2 b2 49.g5 b1=Q 50.Kf3 Qf1+ 51.Kg3 Qff2# ) 31.Kh1 Nf2+ $1
+{ [diagram] forcing the exchange of his Rook for the Knight. White
+resigned. } 32.Rxf2 { (forced continuation) } 32...Bxf2 33.Bf3 Rc1+ 34.Kh2
+Qb8+ 35.g3 Qxg3# 0-1
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.07.13"]
+[Round "?"]
+[White "Cora (n.net: 40)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B30"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 Nc6 3.Be2 g6 4.O-O Bg7 5.d3 d6 6.c3 Nf6 7.a4 b6 8.h3 O-O 9.Na3
+a6 10.Nc4 Be6 11.Ng5 Bd7 12.a5 b5 13.Nb6 h6 $2 { (Stockfish 9:+1.30/22) } ( 
+13...Rb8 { (Stockfish 9:0.00/25) } 14.Nxd7 Qxd7 ) 14.Nf3 Rb8 15.Nxd7 Qxd7
+16.Bd2 e6 17.g3 d5 18.e5 Nh7 19.d4 c4 20.b3 Qc7 21.bxc4 bxc4 22.Qc1
+{ [%cal Gc6a5,Ga5b3,Gf8b8,Gb8b2] } 22...Nxa5 23.Rb1 Rxb1 24.Qxb1 Nb3
+{ [%cal Gb3d2,Gf8b8] } 25.Bd1 Rb8 { [%cal Gb8b1] } 26.Bf4 $2 Nd2 27.Qc1 Nxf1
+28.Kxf1 Qa5 29.Kg2 Qa2 30.Bc2 Rb2 31.Bd1 Rb1 32.Qc2 Qa1 33.Qd2 Rxd1 34.Qe2
+Bf8 35.Be3 a5 36.h4 a4 37.h5 g5 38.Qc2 Qb1 $2 ( 38...a3 $1 ) 39.Qxa4 Qb3
+40.Qa5 Rd3 41.Nd2 Qc2 42.Qc7 Rxc3 43.Qb8 Rxe3 44.fxe3 Qxd2+ 45.Kf3 c3 46.Qc8
+c2 47.Qb7 c1=Q 48.Qb8 Qf1+ 49.Kg4 f5+ 50.exf6 Nxf6# 0-1
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.07.13"]
+[Round "?"]
+[White "Cora (n.net: 40)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B30"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 Nc6 3.d3 g6 4.Be2 Bg7 5.O-O d6 6.c3 Nf6 7.a4 b6 8.h3 O-O 9.Na3
+a6 10.Nc4 h6 11.a5 bxa5 12.Bd2 Be6 13.Qc1 Qc8 14.Nb6 Qb8 15.Nxa8 Qxa8 16.g3
+Qc8 17.h4 Ng4 18.b3 f5 19.Rb1 d5 20.exd5 Bxd5 21.Qd1 e5 22.c4 Be6 23.Qc1 e4
+24.dxe4 fxe4 25.Nh2 Nxh2 26.Kxh2 Nd4 27.Be3 Nxe2 28.Qe1 Nd4 29.Bxd4 Bxd4
+30.Qxe4 Bf5 31.Qd5+ Rf7 32.Rbe1 Bd3 33.h5 g5 34.f4 Bxf1 35.Rxf1 Kg7 36.Qe4
+Qg4 37.Qg6+ Kf8 38.Qxh6+ Bg7 39.Qg6 Qe2+ 40.Kg1 Qe3+ 41.Kg2 gxf4 42.gxf4 Rxf4
+43.h6 Qe2+ 44.Kg3 Qxf1 45.Qxg7+ Ke8 46.h7 Qf2+ 47.Kh3 Rh4# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2018.07.13"]
+[Round "?"]
+[White "Cora (n.net: 40)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B30"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 Nc6 3.Be2 g6 4.O-O Bg7 5.d3 d6 6.c3 Nf6 7.a4 a6 8.h3 O-O 9.a5
+b5 10.axb6 Qxb6 11.Nbd2 Qb7 12.Nc4 Be6 13.g4 Qc8 14.Nb6 Qb8 15.Nxa8 Qxa8
+16.g5 Nh5 17.h4 Qc8 18.d4 Bh3 19.d5 Qg4+ 20.Kh1 Qg2# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2018.07.13"]
+[Round "?"]
+[White "Cora (n.net: 40)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B30"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 Nc6 3.d3 g6 4.Be2 d6 5.O-O Bg7 6.c3 Nf6 7.a4 O-O 8.h3 a5 9.Na3
+Bd7 10.Nc4 b6 11.g4 e5 12.Nxd6 Bxg4 13.hxg4 Nxg4 14.Nc4 f5 15.Ng5 h6 16.Ne6
+Qh4 17.Nxf8 Qh2# 0-1
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.07.13"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 40)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 g6 4.h4 Bg7 5.Nbd2 O-O 6.e3 h6 7.Ne5 c5 8.g4 cxd4
+9.exd4 Nc6 10.c3 Nxe5 11.Bxe5 Nxg4 12.Bxg7 Kxg7 13.Be2 Nf6 14.f3 Qc7 15.Nf1
+Bf5 16.Bd3 Bxd3 17.Qxd3 Nh5 18.O-O-O Qf4+ 19.Kb1 Ng3 20.Nxg3 Qxg3 21.Rdg1 Qf4
+22.Rg4 Qc7 23.h5 g5 24.f4 f5 25.fxg5 hxg5 26.Rxg5+ Kh6 27.Rxf5 Rxf5 28.Qxf5
+Qd6 29.Rg1 Qf6 30.Rg6+ Kh7 31.Rxf6+ { [diagram] Black resigns } 1-0
+
+[Event "( \"Riga\" )"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2018.07.13"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 40)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 g6 4.h4
+{ Here, Cora is looking to fianchetto her dark-square Bishop (and most
+likely castle on the King's side. } 4...Bg7 5.Nbd2 O-O
+{ [diagram] Cora's King is very secure (for the moment). Remember this. }
+6.e3 h5 7.Ne5 $5 c5
+{ Here, I attempt to restrict the mobility of the King's Knight. } 8.f3 cxd4
+9.exd4 Nc6 10.c3
+{ [diagram] Stockfish 9 believes Black a slight edge (0.53/32) in this
+position. } 10...Nxe5 11.dxe5 Nd7 12.g4 $1
+{ I am endeavoring to initiate an attack on the Kingside lead courageously
+(as was the case in Normandy) by an infantrant pawn storm. } 12...Nxe5
+13.gxh5 gxh5 14.Bxe5 Bxe5 15.f4 $1
+{ [diagram] Offering the sacrifice of the f-pawn in order to keep Cora's
+dark square Bishop off the a1-h8 diagonal (and off of g7, particular). The
+compensating positional advantage in the placement of my Queen in the same room as the opposing King and corresponding gain of one tempo should be
+sufficient to gain the now unprotected King. } 15...Bxf4 16.Qxh5
+{ Quite a change from the Black King's perspective from the feeling of
+comfort and bliss following 5...O-O. [diagram] } 16...Qb6 $1
+{ Brilliant defensive choice slowing the attack, attacking both the g1
+square desired by the Rook and the 5th file at the same time. } 17.O-O-O
+{ It is time to quickly protect the King and connect the Rooks } 17...e5
+18.Bc4 $6
+{ A second sacrifice inspired by the genius of Mikhail Tal. It is meant to
+honor Misha, the genius magician from Riga. } 18...dxc4 $4 ( 18...Rd8 $1
+19.Rhg1+ $2 Kf8 ) 19.Rhg1+
+{ This is now possible thanks to the sacrifice of the Bishop (and the
+blunder of accepting White's offer). The Rooks are connected and prepared
+to bring this London sonata to an end. } 19...Qg6 20.Rxg6+ fxg6 21.Qxg6+
+{ considerably better than 21.Rg1 allowing much more powerful (and faster)
+coordination of pieces } 21...Kh8 22.Rg1 Bxd2+ 23.Kxd2 Rf2+
+{ [diagram] These final, uncoordinated attacks from Black are of no
+particular concern. } 24.Ke3 Rh2 25.Qg7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.07.16"]
+[Round "?"]
+[White "Laurence Glazier (UK)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B34"]
+[TimeControl "2700+45"]
+[WhiteElo "1506"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Nf6 6.Be2 Bg7 7.O-O O-O 8.h3 a6
+9.Be3 b5 10.a3 Bb7 11.Qd2 d6 12.Rad1 Ne5 13.b3 Bc8 $2
+{ (Stockfish 9:+1.47/31) } ( 13...Bxe4 { (Stockfish 9:-1.06/35) } 14.Nxe4
+Nxe4 15.Qb4 d5 16.c4 bxc4 17.bxc4 a5 18.Qe1 Rc8 19.cxd5 Nc3 20.Rc1 Nxe2+
+21.Qxe2 Qxd5 ) 14.Rfe1 Bd7 15.f4 Qc8 $2
+{ [%csl Gh3][%cal Gd7h3,Gc8h3] (Stockfish 9:+2.93/29) } ( 15...Nc6
+{ (Stockfish 9:+0.44/33) } 16.Bf3 Nxd4 17.Bxd4 ) 16.Kh2 Nc6 17.Bf3 e5 18.fxe5
+Nxe5 19.Be2 Qc7 20.Rc1 { [diagram] } 20...d5 $1 21.Kh1 $1 ( 21.exd5
+{ loses the Queen } 21...Nf3+
+{ [%csl Gd2][%cal Gc7h2,Gf3h2,Gf3d2] [diagram] } ) 21...dxe4 22.Bg5 Qc8 $2
+{ [diagram] The position is even. (Stockfish 9:-0.00/35) } ( 22...Rac8
+{ (Stockfish 9:-1.78/28) } 23.Nd1 ) 23.Qf4 $2
+{ (Stockfish 9:-5.30/33) [diagram] } 23...Qxc3 24.Qxe5 Nh5 $1
+{ [diagram] The position is winning for Black. Here, Black has multiple
+threats and remarkable coordination of pieces. The White Queen is under
+attack from the Bishop, the Knight on d4 is hanging and is lost, the Knight on h5 is poised to attack the King (protected by the Black Queen), and
+the Bishop on d7 is positioned for a sacrifice on h3, if called upon. (Stockfish 9:-6.53/34) }
+25.Qh2 $2 { (Stockfish 9:-18.92/30) } ( 25.Qd6 { (Stockfish 9:-6.79/30) }
+25...Ng3+ { -6.65/34 } 26.Kh2 Nf5 ) 25...Ng3+ 26.Kg1 Bxd4+ 27.Be3 Qxe3# 0-1
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.08.01"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 40)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 g6 4.e3 Bg7 5.Nbd2 O-O 6.h3 h6 7.g4 Ne4 8.Bd3 g5
+9.Be5 f6 10.Bh2 f5 11.gxf5 Bxf5 12.Be5 Nd7 13.Bxg7 Kxg7 14.Ne5 Nxe5 15.dxe5
+c5 16.f4 c4 17.Bxe4 dxe4 18.Rg1 c3 ( 18...Bxh3 19.Rh1 Be6 20.Qh5
+{ [diagram] Here, White has options to attack the pawns protecting the King
+and possibly castle Queenside to connect the Rooks. } 20...Rh8 ) 19.bxc3 Qb6
+20.Qe2 Kg6 21.Nb3
+{ eyeing the d4 square, however, also tempting is the use of this structure
+as a safe haven for the King following a Queenside castle } 21...Rac8 22.c4
+Qb4+ 23.Kf2 Qc3 24.c5 Bxh3 25.Rh1
+{ [diagram] In this position, White did not consider 25...g4! or 25...gxf4
+and potentially missed stronger tactics than moving the Bishop and allowing
+the Queen to begin an attack. } 25...Be6 $2 { [diagram] (mate in 5) } ( 
+25...g4 $1 ) ( 25...gxf4 26.Rxh3 fxe3+ 27.Kg2 $18 ) 26.Qh5+ Kg7 ( 26...Kf5
+27.Qh3+ Kg6 ( 27...g4 28.Qh5# ) 28.Qxh6+ Kf7 ( 28...Kf5 29.Qxg5# ) 29.Qh5+
+Kg7 30.Qh7# ) 27.Qxh6+ Kf7 28.Qh5+ Kg8 29.Qh7# 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.08.02"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 40)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 g6 4.h3 Bg7 5.e3 O-O 6.Be2 Ne4 7.Nbd2 Nxd2 8.Qxd2 h6
+9.g4 Nc6 10.O-O-O a5 11.Bd3 Bd7 12.a3 e6 13.e4 Nxd4 14.Nxd4 Bxd4 15.Bxh6 Re8
+16.exd5 exd5 17.Bxg6 $1 Qf6 { [diagram] } 18.Bxf7+ $2 Kxf7 19.Qxd4 Qxh6+
+20.f4 Bc6 21.g5 Qh4 22.Qf6+ Kg8 23.f5 d4 24.Rhg1 Qf2 25.Qg6+ Kf8 26.f6 Re2
+27.Qg7+ Ke8 28.f7+ Ke7 29.f8=Q+ ( 29.f8=Q+ Ke6 30.Qge7+ Kd5 31.Qc5+ Ke4
+32.Rg4+ Ke3 33.Qxd4# ) 1-0
+
+[Event "(\"Sarah\")"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2018.08.04"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 40)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 g6 4.e3 Bg7 5.h3 O-O 6.Nbd2 h6 7.c3 a5 8.g4 a4 9.a3
+$6 Ne4 10.Bd3 g5 11.Bh2 Nxd2 12.Qxd2 Nc6 $1 13.O-O-O b6 14.e4 Na5 $1 15.Bc2
+Nb3+ 16.Bxb3 axb3 $6 { [diagram] } 17.Nxg5 hxg5 18.Qxg5 f6 19.Qe3 dxe4
+20.Qxe4 Rb8 21.Qg2 Bb7 22.f3 c5 23.Bxb8 Qxb8 24.d5 Rd8 25.c4 Ba6 26.Qf1 $2
+{ 26.Qe2 (attacking the e-pawn) is much stronger and more playable to me.
+The engine seems to disagree about the difference in evaluation, indicating
+a much smaller difference than I assumed. } 26...Bh6+ 27.Kb1 Qf4 28.Qe2 Bxc4
+29.Qxe7 { [diagram] } 29...Rxd5 30.Qe6+ Kg7 31.Rxd5 Qxf3 { [diagram] }
+32.Rd7+ Kg6 ( 32...Kf8 33.Qf7+ ) ( 32...Kh8 33.Qe8+ Bg8 34.Re1 ) 33.Qe8+ Kg5
+34.Qh5+ Kf4 35.Qxh6+ Kg3 36.Qc1 Bd3+ 37.Ka1 c4 38.Re7 Qf2 39.Re3+ Kg2 40.h4
+f5 41.Reh3 fxg4 42.R1h2# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.06"]
+[Round "?"]
+[White "Cora (n.net: 14)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "A00"]
+[TimeControl "m500"]
+
+1.d3 d5 2.a3 c5 3.h4 g6 4.Nf3 Nf6 5.Ne5 Bg7 6.e3 O-O 7.f3 Nh5 8.d4 Ng3 9.Rg1
+c4 10.h5 Nd7 11.h6 Bxh6 12.Nxd7 Bxd7 13.b3 b5 14.bxc4 bxc4 15.Nc3 e5 16.dxe5
+Be6 17.Rb1 a6 18.Kf2 Qh4 19.Bd2 Nh1+ 20.Ke2 Qf2# { [diagram] } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.06"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 14)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Nc6 4.e3 e5 5.Nxe5 Ne4 6.Nd2 h5 7.Be2 Rg8 8.Bxh5 g6
+9.Bf3 Bg7 10.Nxc6 bxc6 11.Nxe4 dxe4 12.Bxe4 Bb7 13.Qf3 Qb8 14.Bxc6+ Bxc6
+15.Qxc6+ Kd8 16.Bxc7+ Qxc7 17.Qxa8+ Kd7 18.Qxg8 Qa5+ 19.c3 Kd6 20.Qxg7 Kc6
+21.Qf6+ Kd5 22.Qxf7+ Kd6 23.Qxg6+ Kd5 24.Qf5+ Kc4 25.Qxa5 Kd3 26.O-O-O+ Ke4
+27.Qxa7 Kd5 28.Qc5+ Ke4 29.Qe5# { [diagram] } 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.08.06"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 15)"]
+[Result "1-0"]
+[ECO "A45"]
+[TimeControl "m500"]
+
+1.d4 Nf6 2.Bf4 d6 3.Nf3 Nc6 4.e3 e5 5.dxe5 dxe5 6.Qxd8+ Kxd8 7.Nxe5 Nxe5
+8.Bxe5 Nd7 9.Bg3 Be7 10.Be2 Re8 11.Nc3 g6 12.O-O-O c6 { [diagram] } 13.h3 h5
+14.Bh2 a5 15.g4 hxg4 16.Bxg4 a4 17.e4 a3 18.b3 Bf6 19.Rd3 Be7 20.Rhd1 b5
+21.e5 b4 22.Na4 f5 23.exf6 Bxf6 24.Nb6 { [diagram] } 24...Be7 25.Nxa8 g5
+26.Bxd7 Bxd7 27.Rxd7+ Kc8 28.Nb6# 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.08.06"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 42)"]
+[Result "1-0"]
+[ECO "D93"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 g6 4.e3 Bg7 5.c4 O-O 6.Nc3 c6 7.Be2 Nbd7
+{ [diagram] Classic London System/Grünfeld with Knight on c3 vs King's
+Indian Defence } 8.h4 $5 dxc4 9.Bxc4 b5 10.Be2 b4 $1 11.Nb1
+{ The Knight has been forced to return to it's original square. 6.Nbd2
+might well have been the better move following 5.c4. } 11...Nh5 12.Bh2
+{ Here, there is no need to give up the dark-square Bishop for the Knight
+thanks solely to 8.h4. } 12...a5 13.g4 $1 Nhf6 14.Ne5 $1 { [diagram] }
+14...Nxe5 15.Bxe5 h6 16.Nd2 Qd5 17.Rg1 Ba6 18.g5 $1
+{ [diagram] removing the defending Knight from f6 } 18...hxg5 19.hxg5 Nd7
+20.Bxg7 Kxg7 21.f4 Bxe2 22.Qxe2 c5 23.Qh2 $6 Rh8 24.Qg3 cxd4 25.e4 $1 Qd6
+26.O-O-O $5 Rac8+ 27.Kb1 e5 28.f5 d3 29.f6+ Kg8 30.Rh1 Rxh1 31.Rxh1 a4 32.Qh4
+Rc2 33.Qh8# { [diagram] } 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.08.14"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 42)"]
+[Result "1-0"]
+[ECO "D82"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 g6 4.c4 Bg7 5.Nc3 c6 6.h3 O-O 7.Nf3 Nbd7 8.Bd3 dxc4
+9.Bxc4 Nb6 10.Bb3 Nbd5 11.Nxd5 cxd5 12.O-O Nh5 13.Bh2 Nf6 14.Ne5 a5 15.a4 Ne4
+16.Bc2 f6 17.Nf3 Qe8 18.Qb1 Nd6 19.b4 axb4 20.Qxb4 Ra6 21.Bd3 Bf5 22.Bxa6
+bxa6 23.Bxd6 exd6 24.Qxd6 Bd3 25.Rfc1 Bc4 26.Rc3 Qf7 27.Nd2 Re8 28.Nxc4 dxc4
+29.Qxa6 f5 30.Rxc4 f4 31.Rc8 Rxc8 32.Qxc8+ Bf8 33.a5 fxe3 34.fxe3 Qe7 35.Rf1
+Qxe3+ 36.Kh1 Qa3 37.Qxf8+ Qxf8 38.Rxf8+ Kxf8 39.a6 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.08.16"]
+[Round "?"]
+[White "Cora (n.net: 42)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B50"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 d6 3.Be2 Nc6 4.O-O g6 5.d4 cxd4 6.Nxd4 Bg7 7.Nxc6 bxc6 8.f4 Nf6
+9.e5 Nd5 10.c4 Qb6+ 11.Kh1 Ne3 12.Bxe3 Qxe3 13.Rf3 Qb6 14.Nc3 dxe5 15.fxe5
+Bxe5 16.Na4 Qc7 17.Rf2 Bxh2 18.Bf3 O-O 19.b3 Bb7 20.Nc5 Rad8 21.Qe2 Rd4
+22.Nxb7 Be5 23.Nc5 Rh4+ 24.Kg1 Bxa1 25.Qd3 Rd8 26.Qe2 Qh2+ 27.Kf1 Qh1# 0-1
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.08.16"]
+[Round "?"]
+[White "Cora (n.net: 42)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B30"]
+[EventDate "2018.08.16"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 Nc6 3.d3 d6 4.Be2 g6 5.O-O Bg7 6.c3 Nf6 7.a4 O-O 8.h3 h6 9.a5
+e5 10.Na3 Qxa5 11.Nc4 $4 $18 { (Stockfish 9:-5.50/32) } 11...Qxa1 12.Nxd6 Rd8
+13.Nxc8 Raxc8 14.g3 c4 15.d4 b5 16.Kg2 Nxe4 17.d5 $6 Nf6 18.d6 Ne4 19.d7 Rc7
+20.Qd5 Nxf2 $6 21.Rxf2 Qxc1 22.Qd6 Rdxd7 23.Qc5 Qxb2
+{ (Stockfish 9:-12.15/31) } ( 23...Nd4 $1
+{ [diagram] (Stockfish 9:-18.51/29) } 24.Qb4 Nxe2 25.Rxe2 ) 24.Qe3 Qa3 25.Nd2
+Nb4 $5 26.Bd1 Nd3 27.Re2 Qxc3 $5 28.Ne4 Nf4+ 29.gxf4 Qxe3 30.Rxe3 Rxd1
+31.fxe5 Bxe5 32.Nf2 Rd5 33.Ng4 Bg7 34.Re8+ Kh7 35.Ne3 Re5 36.Rd8 $2 Rxe3
+37.Kf2 Rxh3 38.Kg2 Ra3 39.Kf2 Re7 40.Kg2 Re2+ 41.Kf1 Rh2 42.Kg1 Rb2 43.Kh1
+Ra1+ 44.Rd1 Rxd1# 0-1
+
+[Event "(\"Smothered\")"]
+[Site "?"]
+[Date "2018.08.17"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "1305"]
+[ECO "A40"]
+
+1.d4 e6 2.Bf4 f5 3.e3 b6 4.Nd2 Ba6 5.Bxa6 Nxa6 6.Ngf3 Nb4 7.c3 Nd3+ 8.Ke2
+Nxb2 9.Qc2 Ba3 10.Rab1 e5 11.Bxe5 Nf6 12.Rxb2 Bxb2 13.Qxb2 O-O 14.Rb1 c6
+15.Bd6 Re8 16.Ne5 Nd5 17.Qb3 Qg5 18.Kf1 b5 19.Ndf3 Qd8 20.Nd2 Qa5 21.f3 Qxc3
+{ [diagram] } 22.e4 Qxd2 23.exd5 Kh8 { [diagram] } 24.Nf7+ Kg8 25.dxc6 dxc6
+{ [diagram] textbook smothered mating pattern } 26.Nh6+ Kh8 27.Qg8+ Rxg8
+28.Nf7# { [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.16"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "1305"]
+[ECO "A45"]
+[Opening "Various Indian Systems"]
+
+1.d4 Nf6 2.Bf4 c5 3.c3 d6 4.e3 Qb6 5.Qc1 Bg4 6.h3 Bh5 7.Bd3 Qc6 8.f3 Bg6
+9.Qc2 cxd4 10.e4 dxc3 11.Nxc3 Nbd7 12.O-O-O h6 13.g4 Rc8 14.h4 Qb6 15.h5 Bh7
+16.g5 hxg5 17.Bxg5 Bg6 18.hxg6 Rxh1 19.gxf7+ Kxf7 20.Qg2 Rh5 21.Bxf6 exf6
+22.e5 g5 23.e6+ Ke7 24.exd7 Kxd7 25.Qg4+ Kc7 26.Kb1 Rh2 27.Nd5+ Kb8 28.Nxb6
+axb6 29.Bf5 Rc6 30.Rc1 d5 31.Rxc6 bxc6 32.Qg3+ Bd6 33.Qxd6+ Ka7 34.Qxh2 Kb7
+35.Qh7+ Ka6 36.Bd3+ b5 37.a4 Kb6 38.axb5 cxb5 39.Qf5 Kc5 40.Qxf6 b4 41.Qa6
+Kd4 42.Qb5 Ke5 43.Qxb4 d4 44.Qc5+ Kf4 45.Qxd4+ Kg3 46.Qg4+ Kh2 47.Nh3 Kh1
+48.Qg1# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.17"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Shredder"]
+[Result "1-0"]
+[BlackElo "1305"]
+[ECO "A45"]
+[Opening "Queen's Pawn Opening"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.c3 Nc6 5.Nf3 Qb6 6.Nbd2
+{ [diagram] allowing the capture of the (poison) pawn on b2 } 6...Bg4 7.Be2
+Qxb2 8.Rb1 Qxc3 9.Bc7 $5 cxd4 10.Rb3 Qc5 11.exd4 Bxf3 12.dxc5 Bxg2 13.Rg1 Rc8
+14.Rxb7 Bh3 15.Bb5 Bd7 16.Qa4 Ne4 { [diagram] } 17.Nxe4 dxe4 18.Bxc6 Rd8
+19.Bxd7+ Rxd7 { 20.Rb8# ends the game here but was missed (fortunately). }
+20.Ba5 f5 { [diagram] } 21.Qxd7+ Kf7 22.Qxf5+ Kg8 ( 22...Ke8 23.Rb8# )
+23.Qe6# 1-0
+
+[Event "?"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2018.08.18"]
+[Round "?"]
+[White "HIARCS 14 WCSC"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B50"]
+[TimeControl "m500"]
+[WhiteElo "1338"]
+
+1.e4 c5 2.c3 d6 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 g6 6.Bb5 Bd7 7.Bf4 Nxd4 8.Qxd4 e5
+9.Qd5 exf4 10.Qxb7 Bxb5 11.Qxb5+ Qd7 12.Qxd7+ Kxd7
+{ [diagram] Black in this position seems to have very minimal King safety
+but has an extra Bishop in compensation. } 13.Nd2 Bg7 14.O-O Nf6 15.c4 Rab8
+16.Rab1 Rhe8 17.f3 Nh5 18.b4 Bc3 19.Rbd1 Rxb4 20.Rfe1 f5 21.exf5 Rxe1+
+22.Rxe1 Bxd2 23.Re4 Be3+ 24.Kf1 gxf5 $1 25.Rxe3 fxe3 26.g4 fxg4 ( 
+{ [%cal Re3d2,Re3f2,Rf4e2,Rf4g2] } 26...Nf4
+{ [diagram] Stronger move. There is nothing White can do to prevent mate
+with 27...Rb1#. } ) 27.fxg4 Nf4
+{ The coordination of the Knight and e-pawn missed on the previous move. }
+28.c5 Rb1# 0-1
+
+[Event "?"]
+[Site "chess.com"]
+[Date "2018.08.18"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Knox125 (Brasil)"]
+[Result "0-1"]
+[BlackElo "1653"]
+[CurrentPosition "2kr3r/pppbqppp/2n1pn2/3p4/3P4/2PBPNP1/PP1N1PP1/R2QK2R w KQ - 5 10"]
+[ECO "D02"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nf3 Nc6 5.c3 Bd6 6.Bg3 Bxg3 7.hxg3 Bd7 8.Bd3 Qe7
+9.Nbd2 O-O-O 10.e4 $6 { (Stockfish 9:-0.85/30) } ( 10.b4
+{ (Stockfish 9:+0.77/32) } ) 10...dxe4 11.Nxe4 Nxe4 12.Bxe4 f5 13.Bxc6 Bxc6
+14.Rh2 Bxf3 15.Qxf3 Kb8 16.O-O-O g6 17.Re1 Qd6 18.Re5 Qa6 19.a3 Qf1+ 20.Kc2
+Qc4 21.Rh1 Rxd4 22.Rd1 $2 { (Stockfish 9:-0.97/32) } ( 22.b3 $3
+{ [diagram] 22.b3 is winning. This was missed in the game. Black cannot
+successfully protect the Rook. (Stockfish +5.37/35) } ) 22...Rxd1 23.Qxd1 Qc6
+24.Qe2 Re8 25.f4 Qa4+ 26.Kc1 Qc6 27.g4 Qa4 28.Rxe6 Rxe6 29.Qxe6 Qxf4+
+{ [diagram] Even though Qxf4+ was considered during the calculation, the
+effect of allowing this capture with check on the endgame was
+underestimated. The allows a 3-to-2 majority on the Kingside in the endgame with a tempo that allows the Black King to escape the back rank mating
+threat. } 30.Kb1 a6 31.gxf5 Qxf5+ 32.Qxf5 gxf5
+{ [diagram] Due to the miscalculation, White is now playing for a difficult
+draw hoping for a mistake from Black. The White King cannot get to the
+Queenside pawns in time. (Stockfish 9:-3.64/32) } 33.Kc2 Kc8 34.Kd3 Kd7
+35.Ke3 Ke6 36.Kf4 Kf6 37.a4 h5 38.b4 $2 { (Stockfish 9:-11.24/30) } ( 38.c4
+{ (Stockfish 9:-3.01/30) } ) 38...b5 39.a5 c6 40.g3 Ke6 41.Kg5 Ke5 42.Kxh5 f4
+43.gxf4+ Kxf4 44.Kg6 Ke4 45.Kf6 Kd3 46.Ke5 Kxc3 47.Kd6 Kxb4 48.Kxc6 Kxa5
+{ [diagram] White resigns. } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.19"]
+[Round "?"]
+[White "Cora (n.net: 20)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "A06"]
+[TimeControl "m500"]
+
+1.d3 d5 2.Nf3 c5 3.a4 Nc6 4.a5 Nf6 5.e3 g6 6.h3 Bg7 7.g4 O-O 8.g5 Nh5 9.Rg1
+d4 10.c3 e5 11.Na3 Qxa5 12.Bd2 b5 $2 { (Stockfish 9:-1.12/28) } ( 12...Qc7
+{ (Stockfish 9:-3.18/26) } ) 13.b4 cxb4 14.cxb4 Qb6 15.Nc2 Re8 16.exd4 Nxd4
+17.Ncxd4 exd4+ 18.Be2 Bf5 $1 19.Qb3 Qe6 { (Stockfish 9:-1.48/35) } ( 
+19...Qb7 $3 { (Stockfish 9:-7.81/35) } 20.Nh4 Qe7 { [%cal Ge7e2] } 21.O-O-O
+Rac8+ 22.Kb1 Qxe2 ) 20.Qxe6 Rxe6 21.Kf1 Bxh3+ 22.Ke1 Rae8 23.Rxa7 Rxe2+
+24.Kd1 Rxf2 25.Re1 Rxe1+ 26.Nxe1 Bg4+ 27.Kc1 Re2 28.Ra8+ Bf8 29.Nc2 Ng7
+30.Nxd4 Re5 31.Nc6 Re8 32.Rxe8 Nxe8 33.Na7 Bd7 $1
+{ [diagram] Here, Black uses his light-square Bishop to cleverly trap the
+White Knight in the corner. White's dark-square Bishop can do nothing to
+help. } 34.Be3 Bxb4 35.Bf2 Bd6 36.Bb6 Bf4+ 37.Kb1 Bxg5 38.d4 Be3 $1
+{ [diagram] Black's dark-squre Bishop pins the d-pawn and threatens to
+capture the pawn if White's Bishop moves off the diagonal (or the Bishop if
+the pawn moves). Note that all of Black's other pieces sit on light squares. }
+39.Bc5 Nc7 40.Ka1 Ne6 $1 41.Bb4 Bxd4+ $1 { [%cal Gd4a1,Gd4a7] } 42.Bc3 Bxc3+
+43.Ka2 Bd4 { Now, to remove the trapped Knight on a7. } 44.Nxb5 Bxb5 45.Ka3
+Bd3 { [diagram] } 46.Kb4 Kg7 47.Kb3 Kf6 48.Kb4 Ke5 49.Kb3 Kd5 50.Kb4 Bc4
+51.Ka3 Bc3 52.Ka4 Kd4 53.Ka3 Kd3 54.Ka4 Kc2 55.Ka3 Bb5 56.Ka2 Bd4 57.Ka3 Bc5+
+58.Ka2 Bc4+ 59.Ka1 Bd4# { [diagram] } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.20"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 20)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Ne4 4.Nbd2 e6 5.e3 f6 6.h3 g5 7.Bh2 Bb4 8.c3 Be7
+9.Bd3 a5 10.Nxe4 dxe4 11.Bxe4 Na6 12.Qc2 c5 { [diagram] } 13.Bxh7 Kf7 14.Ne5+
+Kf8 ( 14...fxe5 15.Qg6+ Kf8 16.Bxe5
+{ [%cal Gg6g7] [diagram] (Stockfish 9:+10.91/37) } 16...Rxh7 17.Qxh7 Bf6
+18.Qh6+ Kf7 19.Qh5+ Ke7 20.Bxf6+ Kxf6 21.h4 Qf8 22.hxg5+ Ke7 ) 15.Ng6+ Kg7
+16.Nxh8 Kxh8 17.Qg6 cxd4 18.exd4 Bd7 19.Qf7 Be8 20.Qg8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.21"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 20)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nf3 Ne4 5.Nbd2 f6 6.h3 g5 7.Bh2 Bb4 8.c3 Bf8
+9.Bd3 Bg7 { [diagram] London System } 10.Nxe4 dxe4 11.Bxe4 Qe7 12.O-O Na6
+13.b4 O-O 14.a4 Rd8 15.Qb3 f5 16.Bd3 g4 17.hxg4 fxg4 18.Ne5 Rb8 19.Nxg4 b6
+20.Ne5 Bb7 21.Rfd1 Bd5 22.Bc4 Bb7 23.Bd3 c5 24.b5 Nc7 25.Qc2 cxd4 26.cxd4 Nd5
+27.Bxh7+ Kh8 28.Qg6 Nf6 { [diagram] } 29.Nf7+ $1
+{ [%csl Rh8][%cal Rh7g8,Rg6h7,Gf7h8] } 29...Qxf7 30.Qxf7 Rbc8 31.Qxb7 Kxh7
+32.Qxa7 Nd5 33.Be5 Rg8 34.Qd7 Rcd8 35.Qxe6 Rge8 $6 { [diagram] } 36.Qh3+ $5
+Kg6 37.Qg4+ Kf7 38.Qxg7+ Ke6 39.Qg6+ Kd7 40.Qd6+ Kc8 41.Rdc1+ Kb7 42.Rc7+
+Nxc7 43.Qxc7+ Ka8 44.Qxb6 $5 { [%cal Gb6a6,Re5b8] } 44...Re7 45.Qxd8+ Kb7
+46.Qxe7+ Ka8 47.Bh8 Kb8 48.Rc1 Ka8 49.Rc8# 1-0
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.08.30"]
+[Round "?"]
+[White "Cora (n.net: 20)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B02"]
+[TimeControl "m500"]
+
+1.d3 Nf6 2.e4 d6 3.Be2 g6 4.Nf3 Bg7 5.a4 c5 6.h3 Be6 7.g4 Qd7 8.g5 Nh5 9.c3
+O-O 10.Rg1 Nc6 11.d4 cxd4 12.Nxd4 Bxh3 13.Nb3 Ne5 $2 14.f4 Nc6 15.e5 Rfd8
+16.exd6 Qxd6 17.Qxd6 Rxd6 18.Na3 Re6 19.Nc5 { [diagram] } 19...Rxe2+ $1
+20.Kxe2 Re8 21.Nxb7 e5 22.fxe5 Bxe5 23.Nb5 { [diagram] } 23...Bd4+ 24.Be3
+Bxe3 25.Rge1 Bxg5+ $6 ( 25...Nf4+ $1 26.Kd1 Ng2 27.Rh1 Bxg5 28.N7d6 ( 
+28.Rxh3 Re1+ 29.Kc2 Rxa1 ) 28...Re6 ) 26.Kf2 Bh4+ $1 27.Kf3 Bxe1 28.N7d6
+{ [diagram] } 28...Ne5+ ( 28...Bg4+ $3 { #-7/105 } 29.Kg2 Re2+ 30.Kg1 Bf2+
+31.Kh1 Bf3+ 32.Kh2 Bg3+ 33.Kg1 Bh2+ 34.Kf1 Ng3# ) 29.Ke4 Nc4+ $4 30.Nxe8 Bf5+
+31.Kd4 Bg3 $6
+{ [%csl Rd6,Rc7,Rf6,Rg7,Re8][%cal Gd4c4,Rg3c7,Rh5f6,Rh5g7,Rg8g7] } ( 
+31...Nd2 $1 ) 32.Kxc4
+{ [diagram] Black wants to remove the Knight on b5 to isolate the e8 Knight
+and prevent its escape. } 32...a6 33.Nd4
+{ [%csl Rg7,Rf6,Rd6,Rc7,Re1][%cal Rg3e1,Ya1e1] } 33...Bd7 $1 34.Nf6+ Nxf6
+35.Ne2 Be6+ 36.Kb4 Bd6+ 37.Ka5 Bc4 38.Re1 Bc5 $4
+{ Completely missing 38...Nd5! followed by 39...Bc7#. } 39.b4 Ba7 40.b5 Nd5
+41.Kxa6 Bc5 42.Kb7 Bxe2 43.Rxe2 Nxc3 44.Rc2 Nxa4 45.Rc4 h5 46.Rxa4 Bf2 47.Kc6
+h4 48.Rf4 Be1 49.b6 Bg3 50.Rg4 Kg7 51.b7 f5 52.Ra4 h3 53.Ra7 Kh6 54.Ra8 h2
+55.Rh8+ Kg7 { [diagram] } 56.Rh3 Be5 57.Kd7 Kf6 58.Kc6 g5 59.Rh6+ Kg7 60.Rh3
+g4 61.Rh5 Kg6 62.Rh4 g3 63.Rh3 f4 64.Rh4 Kg5 65.Rh7 Kg6 66.Rh4 f3 67.Rg4+ Kf5
+68.Rg8 h1=Q 69.Rf8+ Ke4 70.Re8 Qc1+ 71.Kd7 Qc5 $6 ( 71...Qc7+ $1 72.Ke6 Qd6+
+73.Kf7 Qf6+ 74.Kg8 Qg7# ) 72.b8=Q Qd5+ 73.Kc8 Qc6+ 74.Kd8 Qxe8+ $3
+{ [diagram] White resigns. } 0-1
+
+[Event "?"]
+[Site "Carroll St., Oakland, California"]
+[Date "2018.08.31"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 20)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Ne4 4.Nbd2 e6 5.e3 f6 6.h3 g5 7.Bh2 Rg8 8.Bd3 Rg7
+9.Nxe4 dxe4 10.Bxe4 Na6 11.c3 c5 12.Qc2 Qd7 13.O-O-O h6 14.g4 cxd4 15.Rxd4
+Qe7 16.Rhd1 Nc5 17.Bd6 ( 17.Bg6+ $1 Rf7 18.Bd6 { [diagram] } ) 17...Qf7
+18.Bxc5 $1 Bxc5 19.Qa4+ Kf8 20.Rd8+ Ke7 21.Qd7+ Bxd7 22.R1xd7# { [diagram] }
+1-0
+
+[Event "?"]
+[Site "chess.com"]
+[Date "2018.08.31"]
+[Round "?"]
+[White "prog01"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "E61"]
+[TimeControl "300+5"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.h3 O-O 6.Bf4 Nbd7 7.a4 c5 8.dxc5 Nxc5
+9.Nb5 a6 10.Nc3 Nfe4 $5 11.Nxe4 Nxe4 12.Ra2 Qa5+ 13.Nd2 Qb4 14.e3 Bxb2
+15.Rxb2 Qxb2 16.Nxe4
+{ [diagram] The position is roughly even in material. However, Black has a
+better pawn structure and may be able to apply pressure on the Queenside
+before White is able to mobilize his dormant pieces. } 16...Be6 17.Ng5 Qb4+
+$5 { preventing the White King from castling } ( 17...Bxc4 18.Bxc4 Qb4+
+19.Kf1 Qxc4+ ) 18.Qd2 Qb1+ 19.Qd1 Qxd1+ 20.Kxd1 Bd7 21.a5 Rab8 22.h4 b6
+23.axb6 Rxb6 24.h5 Rb2 $1
+{ Alowing the White's development. The counterattack on the Kingside can be
+managed (if my calculations are correct). } 25.hxg6 fxg6 26.Ke1 Rfb8 27.Bd3
+Bf5 { Remove the defender. } 28.Bxf5 gxf5 29.Rxh7 R8b4 30.Rxe7 Ra4 31.Re8+
+Kg7 32.Re7+ Kf8 33.Rf7+ Ke8 { White has run out of checks. } 34.e4 Ra1+
+{ White resigns. } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2018.09.08"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 20)"]
+[Result "1-0"]
+[ECO "B00"]
+[TimeControl "m500"]
+
+1.e4 a5 2.f4 d6 3.Nf3 Nf6 $6 4.d4 ( 4.e5 ) 4...Nxe4 5.Be3 e6 6.Nbd2 d5 7.Bd3
+Be7 8.O-O f6 9.c3 c6 { [diagram] } 10.Nxe4 dxe4 11.Bxe4 O-O 12.Qc2
+{ [%cal Ge4h7] } 12...f5
+{ Creating a weakness on the e5 square as a perfect outpost for the Knight.
+} 13.Bd3 b5 14.Ne5 { [%csl Yc4,Yc6,Yd7,Yf7,Yg6,Yg4,Yf3,Yd3] } 14...g6 15.Qf2
+Bb7 16.Qf3 Nd7 17.Qh3 Qc8 18.Rf3 Nxe5 19.fxe5 c5 20.Qh6 c4 21.Be2 a4 22.Rg3
+Rf7 23.Bh5 Bf8 24.Qf4 Rg7 25.Bf3 Be7 26.Rh3 g5 27.Bxb7 $1 Qxb7 28.Qf3 Qc8
+29.Qh5 $4 g4 30.Rg3 Rg6 $2 31.h3 $1 a3 32.bxa3 Bxa3 33.Kf2 $4 Bb2 34.Rb1 Rxa2
+35.hxg4 $4 fxg4 $4 36.Rxg4 Bxc3+ 37.Kg3 Rxg4+ 38.Qxg4+ Kf8 39.Rf1+ Ke7
+40.Qg7+ Ke8 41.Rf8# 1-0
+
+[Event "?"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2018.09.07"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 20)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Ne4 4.Nbd2 e6 5.e3 f6 6.h3 g5 7.Bh2 Bb4 8.c3 Bf8
+9.Bd3 Bg7 10.Nxe4 dxe4 11.Bxe4 Na6 12.Bd3 c5 13.Qc2 Bd7 $18 { [diagram] }
+14.Bxh7 $1 Qc8 15.Qg6+ Kf8 ( 15...Kd8 16.Qxg7
+{ Winning the Bishop. [diagram] } ) 16.Bd6# { [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.09.12"]
+[Round "?"]
+[White "Shredder 1.7.1"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B50"]
+[WhiteElo "1305"]
+
+1.e4 c5 2.Nf3 d6 3.d3 Nc6 4.c3 Bg4 5.d4 Nf6 6.Qd3 Bxf3 $5 7.gxf3
+{ (Stockfish 9:-0.12/39) } ( 7.Qxf3 $6
+{ (Stockfish 9:-0.45/39) This move loses a pawn and leaves White somewhat
+behind in development. } 7...cxd4 8.cxd4 Nxd4 { [diagram] } ) 7...g6 8.a4 Bg7
+9.Qb5 Qd7 10.dxc5 dxc5 11.Qxc5 O-O
+{ [diagram] Here, White has won a pawn, but is now further behind in
+development. Black has developed all of the minor pieces and Queen
+developed and has already castled on the Kingside. White has developed only the Queen. In addition, White's pawn structure on the Kingside may
+present challenges later in the game, and King safety may become problematic. (Stockfish 9:+0.26/40) (Lc0.534:+0.36/27) }
+12.e5 Nd5 13.Bc4 e6 14.f4 Rfd8 { [diagram] (Stockfish 9:-1.62/39) } 15.Rg1 $2
+{ (Stockfish 9:-6.45/40) } 15...Nxf4 $1
+{ Regaining a pawn and threatening 16...Qd8#. 15...Bf8 is also strong,
+forcing the Queen to b5. } 16.Qd6 Bxe5 17.Qxd7 Rxd7 18.Nd2 Rad8 19.Ra3 Nd3+
+20.Bxd3 Rxd3 21.h4 Bf4 $1
+{ [diagram] White will lose either the Knight or the Rook on g1. } 22.Nb3
+Bxc1 $5 23.Nxc1 Rd1+ 24.Ke2 Rxg1 25.Nd3 Ne7 26.c4 Nf5 27.Rb3 $2 Nd4+ $1
+28.Ke3 Nxb3 29.f3 Nd4 30.Ne5 Nf5+ 31.Kf2 Rgd1 32.b4 $2 R8d2# { [diagram] }
+0-1
+
+[Event "rapid game (10+15)"]
+[Site "?"]
+[Date "2018.09.13"]
+[Round "?"]
+[White "Andrew"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[Termination "Normal"]
+[TimeControl "600+15"]
+[UTCDate "2018.09.13"]
+[UTCTime "20:14:30"]
+[Variant "Standard"]
+[WhiteElo "1957"]
+
+1.e4 c5 2.Bc4 d6 3.Nf3 Nc6 4.c3 Bg4 5.h3 Bxf3 6.Qxf3 Ne5 7.Qe2
+{ [%cal Gc4b5] } 7...Nxc4 8.Qxc4 Nf6 9.d3 g6
+{ [diagram] Going for a King's Indian set up. } 10.Bg5 Bg7 11.Qb5+ Qd7 12.Qc4
+O-O 13.Nd2 h6 14.Bh4 g5 15.Bg3 Nh5 16.Bh2 e6 17.g4 Nf4 18.Bxf4 gxf4 19.O-O-O
+b5 20.Qb3 a5 21.Rdg1 a4 22.Qd1 { [diagram] } 22...b4 $6 ( 22...a3 23.b3
+{ [%cal Gg7c3] } ) 23.Nb1 $6 a3 $6 ( 23...bxc3 24.bxc3 Rfb8 ) 24.g5 hxg5 $2
+{ (Stockfish 9:-0.35/34) } ( 24...axb2+ $1 { (Stockfish 9:-9.87/39) } 25.Kd2
+bxc3+ 26.Ke2 ) ( 24...h5 $5 25.b3 bxc3 26.g6 f6 27.e5 dxe5 ) 25.Rxg5
+{ [diagram] } 25...axb2+ 26.Kxb2 bxc3+ 27.Nxc3 Rfb8+ 28.Kc2 { [diagram] }
+28...Rxa2+ $1 { exchange sacrifice (Stockfish 9:-10.20/37) } 29.Nxa2 Qa4+
+30.Kd2 Qxa2+ 31.Qc2 $2 Rb2 32.Rc1 Qa5+ 33.Kd1 Rxc2 34.Rxc2 Qa4 35.h4 Kh7
+36.Kd2 Bh6 $5 { [%cal Gh6d2](Stockfish 9:-64.86/40) } ( 36...Bd4 $3
+{ (Stockfish 9:#-20/40) } 37.Rh5+ Kg6 38.Rg5+ Kh6 39.Rg1 Bxf2 40.Rgc1 Be3+
+41.Ke1 Bxc1 42.Rxc1 Qa2 43.Kd1 f3 44.Rc2 Qb1+ 45.Kd2 f2 46.Rc1 Qb2+ 47.Ke3
+Qxc1+ 48.Kxf2 Qd2+ 49.Kf3 Qxd3+ 50.Kg4 Qb3 51.h5 Qe3 52.e5 dxe5 53.Kh4 Qg1
+54.Kh3 f5 55.Kh4 Qh2# ) 37.Rg2 $2 f3+ $1 { [diagram] White resigns. } 0-1
+
+[Event "Correspondence Chess"]
+[Site "?"]
+[Date "2018.09.15"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Butvinnik (Edmonton, Canada)"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[Termination "Normal"]
+[UTCDate "2018.09.15"]
+[UTCTime "19:52:38"]
+[Variant "Standard"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Nc6 4.e3 { London System } 4...Ne4 5.Nbd2 Bg4 6.h3
+Nxd2 7.Qxd2 { Choosing to open the g-file for the Kingside Rook. } 7...Bxf3
+8.gxf3 e6 9.O-O-O Bd6 10.Bg3 a5 11.Rg1 Qd7 12.Bb5 $1 a4 13.e4 b6 14.exd5 exd5
+15.Rde1+
+{ [diagram] Preventing the King from castling to take advantage of the open
+e-file and semi-open g-file. } 15...Kd8 16.Bxd6 $2 ( 16.Qc3 $1
+{ Wins the Knight. } ) 16...Qxd6 17.Bxc6 Qxc6 18.Qg5+ Kc8 19.Re7 Re8 20.Rge1
+Kb7 21.Rxe8 Rxe8 22.Rxe8 Qxe8 23.Qxd5+ Qc6 24.Qe4 Qxe4 25.fxe4 Kc6
+{ [diagram] } 26.f4 Kd6 27.Kd2 f6 28.h4 h5 29.c4 $1
+{ [diagram] Preventing the advance of the b-pawn to protect the pawn on a4.
+Black has few options. (Stockfish 9:+11.69/34) } ( 29.f5 $1
+{ [diagram] This freezes Black's Kingside pawns as any move of the g-pawn
+results in a passed pawn for White on the g-file and Black's f-pawn is
+still held in check by White's e4 pawn. (Stockfish 9:+10.87/34) } ) 29...g6
+30.a3 c5 31.d5 Ke7 32.Ke3 f5 33.e5 Kd7 34.Kd3
+{ [diagram] A draw was offered by Black at this point (28 Sep 2018). The
+offer was declined. White has two passed e- and f-pawns in the center of
+the board and will be able to break through on the Queenside. Black, on the other hand, has no real options. }
+34...Ke7 35.d6+ $1
+{ [diagram] This frees White's King to open the Queenside. If Black
+proceeds with a breakthrough on the Kingside, Black cannot stop the
+resulting passed pawn for White on the fifth rank and the passed d-pawn. There is no way to stop both. }
+35...Kd7 36.Kc3 Kc6 37.b3 Kd7 38.bxa4 Kc6 39.Kb3 { [diagram] Black resigns. }
+( 39.Kb3 { (Stockfish 9:#15/50) } 39...Kd7 40.a5 bxa5 41.Ka4 Ke6 42.Kxa5 g5
+43.hxg5 h4 44.g6 h3 45.g7 Kf7 46.d7 Kxg7 47.d8=Q h2 48.Qh4 Kf8 49.Qxh2 Kg8
+50.Qh5 Kg7 51.e6 Kg8 52.e7 Kg7 53.e8=Q Kf6 54.Qg5# ) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.10.03"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 20)"]
+[Result "1-0"]
+[ECO "D02"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Ne4 4.Nbd2 e6 5.e3 f6 6.Bd3 g5 7.Bg3 g4 8.Nh4 Nxg3
+9.hxg3 f5 10.c3 Bg7 11.f3 O-O 12.fxg4 fxg4 13.Qxg4 Nc6 14.Bxh7+ Kxh7 15.Nf5+
+Kg8 16.Qxg7# 1-0
+
+[Event "rapid game (10+0)"]
+[Site "?"]
+[Date "2018.10.05"]
+[Round "?"]
+[White "Nizzle04"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "E61"]
+[Opening "King's Indian Defense: Smyslov Variation"]
+[Termination "Normal"]
+[TimeControl "600+0"]
+[UTCDate "2018.10.05"]
+[UTCTime "04:42:30"]
+[Variant "Standard"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d6 4.Nf3 Bg7 5.Bg5 O-O 6.e3 c5 7.d5 Bg4 8.Be2 Nbd7
+9.h3 Bxf3 10.Bxf3 h6 11.Bh4 g5 12.Bg3 a6 13.O-O b5 14.b3 b4 15.Ne4 Nxe4 $1
+16.Bxe4 Bxa1 17.Qxa1 { [diagram] } 17...f6 18.Qd1 Ne5 19.Qh5 Qe8 20.Qxh6 Rf7
+21.Qg6+ Rg7 $4 ( 21...Nxg6 22.Bxg6 ) 22.Qxe8+ Rxe8 23.h4 gxh4 24.Bxh4 Kf7
+$6 $17 ( 24...Rg4 $1 ) 25.g3 Rh8 $1 { [diagram] } 26.Kg2 $2 ( 26.Kh2 )
+26...Rxh4 27.Bf5 Rh5 28.Bc2 Ng4 29.f4 $2 Rh2+ $5 ( 29...Nxe3+ $1 30.Kf2 Nxc2
+) 30.Kf3 Rxc2 31.Rh1 $4 { [diagram] } 31...f5 $3 32.Rh5 Rf2# { [diagram] }
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2018.10.12"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Chichote"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[Termination "Normal"]
+[TimeControl "2700+45"]
+[UTCDate "2018.10.12"]
+[UTCTime "19:36:18"]
+[Variant "Standard"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 c5 4.c3 Bf5 5.e3 e6 6.Bd3 Bxd3 7.Qxd3 c4 8.Qc2 h6
+9.Nbd2 Be7 $10
+{ [diagram] The position after the opening is equal. Here, the plan to
+attack on the Kingside may not be the strongest option. An alternative plan
+to quickly mobilize on the Queenside (10.b3 and 11.O-O – or vice versa – opening a file for the connected Rooks) may be better. }
+10.Ne5 O-O 11.O-O-O b5 { [diagram] Black initiates his Queenside attack. }
+12.a3 $6 $15 ( 12.g4
+{ [diagram] This is stronger than the move in the text. } ) 12...a5 13.e4 $2
+( 13.g4 ) 13...b4 14.Nb1 $2
+{ [diagram] Hanging the e-pawn and forcing the Knight into service in
+defense of the King. It can no longer be used as an offensive weapon. }
+14...bxa3 15.bxa3 $6 ( 15.Nxa3 { [diagram] Stronger option. } ) 15...Nxe4
+$17 $1 16.h4 $2 Na6 $2 17.f3 Nf6 18.g4 ( 18.Nc6
+{ [diagram] Removing the dark square Bishop, one of Black's Queenside
+attackers, as well as one of the Kingside defenders. However, this also
+removes an attacking piece from White's Kingside attack. } ) 18...Nc7 19.g5
+$1 Nh5 $10 { [diagram] The position is again even. } 20.gxh6 $5
+{ Sacrificing a piece for attacking chances on the King. } 20...Nxf4 21.hxg7
+Re8 $1 22.Qd2 Nd3+ 23.Nxd3 cxd3 24.Qh6 f5 25.Rdg1 Bf6 26.Rg6 $4 ( 26.h5
+{ [diagram] This move would have maintained near equality. Black still has
+a slight advantage due to the weakness of the White King and a somewhat
+difficult to crack defensive position of his own. } ) 26...Kf7 $1 $19
+{ [diagram] 26...Kf7 was never considered as a response for Black in this
+variation. This was missed completely in the analysis. The position is
+winning for Black. } 27.Rhg1 Rg8 28.Qh5 Ne8
+{ [diagram] (Stockfish 9:-6.60/29) Black has an immediate attack available
+on the b-file and a secure King position despite the congestion around his
+throne. The rest is more or less a formality. } 29.Rh6+ Ke7 30.Rh7 Nxg7
+31.Qg6 Rb8 32.Rg2 Qb6 33.Nd2 Qb2+ 34.Kd1 Qa1+ { [diagram] White resigns. }
+0-1
+
+[Event "?"]
+[Site "https://lichess.org/e8sK2yrz"]
+[Date "2018.10.24"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "ricardodff"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Normal"]
+[TimeControl "3600+45"]
+[UTCDate "2018.10.24"]
+[UTCTime "00:13:26"]
+[Variant "Standard"]
+
+1.d4 d5 2.Bf4 f6 3.e3
+{ [diagram] 3.e3 was played in response to Black's move of the f-pawn.
+Otherwise, 3.Nf3 was planned. In this case, Black did not recognize the
+threat. } 3...Nc6 4.c3 e5 5.Bg3 g5 $2 { [diagram] } 6.Qh5+ $1
+{ Forcing the Black King to move, thus eliminating the possibility of
+castling. The Black King will remain in the center of the board for the
+remainder of the game. } 6...Ke7 7.dxe5
+{ [diagram] Intending to disrupt the advanced pawn structure on the
+Kingside. } 7...fxe5 8.Qxg5+ Nf6 { [diagram] } 9.Bxe5 $1 Bg7 $4
+{ A very human blunder. It is difficult to find the emotion to defend such
+a position, especially one that has soured so rapidly. } 10.Qxg7+ Ke8
+11.Qxh8+ $6 ( 11.Bxf6 $1 { [diagram] Stronger. } ) 11...Ke7
+{ [diagram] Black resigns. 12.Bxf6+ wins the Queen. } 1-0
+
+[Event "?"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2018.10.23"]
+[Round "?"]
+[White "Cora (n.net: 42)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B50"]
+[TimeControl "m500"]
+
+1.e4 c5 2.Nf3 d6 3.Be2 Nc6 4.O-O Nf6 5.d3 g6 6.a4 Bg7 7.c3 O-O 8.h3 Be6 9.Na3
+Qd7 10.b3 Bxh3 $6 11.gxh3 Qxh3 12.Ng5 Qh4 ( 12...Qd7
+{ [diagram] Stronger move. } ) 13.Nf3 ( 13.Kg2 $1
+{ [diagram] 13.Kg2 may be winning for White. } ) 13...Qg4+ 14.Kh1 h6 15.Rg1
+Qh3+ 16.Nh2 Nh5 $2
+{ [diagram] Hastily looking to free the dark square Bishop. Black's only
+hope is to find a mating sequence on the semi-open King before the
+difference in material comes to bear. } 17.Bxh5 Be5 18.Rg2 Kh8 19.Bg4 Qh4
+20.f4 Bxc3 21.Rb1 h5 22.Bd7 f5 23.exf5 gxf5 24.Kg1 Bd4+ 25.Kh1 Rg8 26.Nb5 $2
+{ [diagram] Here, Black has attacking chances, but finds himself down two
+pieces in material. } 26...Rxg2 27.Kxg2 Rg8+ 28.Kh1 { [diagram] } 28...Qf2 $6
+( 28...Rg1+ 29.Qxg1 Bxg1 30.Kxg1 Qg3+ 31.Kh1 { [diagram] } ) 29.Qxh5+ Kg7
+30.Bxf5 $4 ( 30.Be3 $1 Bxe3 31.Qg5+ Kf7 32.Qxf5+ Kg7 33.Be6 $18 ) 30...Qg1#
+0-1
+
+[Event "blitz game (5+8)"]
+[Site "?"]
+[Date "2018.10.25"]
+[Round "?"]
+[White "Darío García (México)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[Termination "Normal"]
+[TimeControl "300+8"]
+[UTCDate "2018.10.25"]
+[UTCTime "20:09:12"]
+[Variant "Standard"]
+
+1.e4 c5 2.d3 d6 3.c3 Nc6 4.d4 cxd4 5.cxd4 e5 6.Bb5 Bd7 7.d5 Nd4 8.Bxd7+ Qxd7
+9.Nf3 Nxf3+ 10.Qxf3 Nf6 11.O-O Be7 12.Qg3 O-O 13.Bh6 Qg4 14.Qxg4 Nxg4 15.Bd2
+f5 16.exf5 Rxf5 17.f3 { [diagram] } 17...Raf8 $5 { (Stockfish 9:+0.90/37) }
+( { [%cal Gd8b6] } 17...Bd8 { (Stockfish 9:-0.00/38) } ) 18.h3 Nh6 19.g4 $2
+Rxf3 20.Rxf3 Rxf3 { [diagram] (Stockfish 9:-2.03/38) } 21.Nc3 Rxh3 22.Kg2 Rd3
+23.Rd1 Nxg4 24.Nb5 Ne3+ 25.Bxe3 Rxd1 26.Kf2 Rxd5 27.Nxa7 h6 28.Nc8
+{ [diagram] } 28...Bg5 $6 ( 28...Kf7
+{ Protects the Bishop and the e7 square. } ) 29.Kg3 $4 Bxe3 $4 ( 29...Rd3 $1
+{ [diagram] } ) 30.Ne7+ $1 Kf7 31.Nxd5 Bd4 32.b3 e4 33.a4 e3 34.Kf3 Bc5 $4
+35.Nc3 $2 ( 35.b4 Bd4 { Wasted move. } ) 35...Ke6 36.Ne4 g5 $1 37.Nc3 d5
+38.Nb5 d4 $4 ( 38...g4+ $3 { [diagram] (Stockfish 9:#-13/51) } 39.Ke2 g3
+40.b4 g2 $18 { [diagram] The g-pawn promotes on the next move. } ) 39.Nc7+
+Ke5 40.Ke2 Ke4 41.Ne6 d3+ $1 42.Ke1 Bb4+ 43.Kd1 e2+ 44.Kc1
+{ [diagram] White resigns. } ( 44.Kc1 e1=Q+ 45.Kb2 Bc3+ 46.Ka3 Qa1# ) 0-1
+
+[Event "?"]
+[Site "https://lichess.org/tVBK5ldf"]
+[Date "2018.10.26"]
+[Round "?"]
+[White "Evgeny Cheprasov (Миа́сс, Russia)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[Termination "Normal"]
+[TimeControl "2700+45"]
+[UTCDate "2018.10.26"]
+[UTCTime "17:32:34"]
+[Variant "Standard"]
+
+1.e4 c5 2.c4 { [diagram] This move weakens the d4 square. } 2...Nc6 3.d3 d6
+4.Be2 Nf6 5.Nf3 g6 6.Nc3 Bg7 7.Nd5 $5
+{ [diagram] Here, Black eyes the d4 square. Exchanging the Knights allows
+the d4 square to be occupied by the c6 Knight or g7 Bishop. It also puts
+pressure on the b2 pawn. } 7...Nxd5 8.cxd5 Nd4 9.Nxd4 Bxd4
+{ [diagram] The dark square Bishop now sits comfortably on the b4 outpost.
+There is now pressure on both the b2 and f2 pawns. } 10.O-O O-O 11.Rb1
+{ Protecting the b2 square to free the dark square Bishop on c1. } 11...f5 $5
+{ [diagram] Black attempts to open the f-file for the Rook, further
+pressuring the f-pawn. } 12.Bh6 Rf7 13.g3 $2
+{ [diagram] This somewhat natural move gives rise to an elegant and potent
+response. } 13...fxe4 $1 $17
+{ [diagram] The removal of the pawn on f5 opens the f-file for the Rook on
+f7, attacking the f2 pawn (also targeted by the dark square Bishop). It
+also opens the c8-h3 diagonal for Black's light square Bishop. } 14.dxe4 Bh3
+15.Re1 $4 $19
+{ [diagram] A natural blunder. This position is winning for Black. }
+15...Bxf2+ $5 { [diagram] } ( 15...Rxf2 { Is much stronger. } ) 16.Kh1 Qd7
+17.Bf1 $4
+{ [diagram] Allowing another strong tactic from Black, winning a Rook. }
+17...Bxe1 $3 18.Bxh3 ( 18.Qxe1 $4 Rxf1+ $1 19.Qxf1 Bxf1 20.Rxf1 Qh3 21.Rf2
+Qxh6 { [diagram] White is down a Queen. } ) 18...Qxh3 19.Qxe1 Qxh6
+{ [diagram] Black is a decisive Rook plus pawn advantage in material. }
+20.Kg2 Raf8 21.h4 Qg7 22.Qe3 Qd4 23.Qh6 $2 { Checkmate is now inevitable. }
+23...Rf2+ ( 23...Qxe4+ $1 { Immediately winning the Rook. } ) 24.Kh3 Qxe4
+25.h5 Qf5+ 26.g4 Qf3+ 27.Kh4 Rh2+ 28.Kg5 Qf4# { [diagram] } 0-1
+
+[Event "rapid game (5+8)"]
+[Site "?"]
+[Date "2018.11.16"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "mikhail_talll"]
+[Result "1-0"]
+[BlackElo "1828"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "300+8"]
+[UTCDate "2018.11.16"]
+[UTCTime "03:07:06"]
+[Variant "Standard"]
+
+1.d4 Nf6 2.Bf4 d5 3.Nf3 e6 4.e3 Bd6 5.Bg3 Nbd7 6.Bd3 Ne4 7.Nbd2 Ndf6
+{ [diagram] } 8.Ne5 Nxg3 9.hxg3 h6 10.Qf3 Qe7 11.e4 c6 12.O-O-O Bd7
+{ [diagram] } 13.Nxd7 Qxd7 $2 14.e5 O-O-O 15.exf6 gxf6 16.Qxf6 c5 17.Nf3 $6
+c4 18.Be2 c3 19.b3 Be7 20.Qf4 Bd6 21.Ne5 { [diagram] } 21...Qc7 22.Rxh6 Qa5
+23.a4 Qb4
+{ [diagram] Here, Black poses a serious mating threat with the Queen eyeing
+the a3 square. } 24.Rdh1 $1
+{ The only winning move, defending against ...Qa3+. } 24...f6 25.Rxh8 fxe5
+26.dxe5 Qa3+
+{ [diagram] Qa3+ is played, but White is prepared to meet this threat. }
+27.Kd1 Qa1+ 28.Qc1 Qb2 29.Rxd8+ Kxd8 30.exd6 { [diagram] Black resigns. }
+1-0
+
+[Event "?"]
+[Site "London, England"]
+[Date "2018.11.28"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Simon Mazman"]
+[Result "1-0"]
+[BlackElo "1676"]
+[ECO "D00"]
+[EventDate "2018.11.28"]
+
+1.d4 d5 2.Bf4 Nc6 3.e3 a6 4.Nf3 e6 5.Nbd2 Bd7 6.c3 Bd6 7.Bg3 Bxg3 8.hxg3 h6
+9.Bd3 f5 10.Ne5 Nxe5 11.dxe5 Ne7 12.Qh5+ g6 13.Qe2 c5 14.O-O-O c4 15.Bc2 Qc7
+16.f4 O-O-O 17.Nf3 Bc6 18.Nd4 Qd7 19.g4 Ba4 20.Bxa4 Qxa4 21.Kb1 Qd7 22.gxf5
+gxf5 23.g4 Rdg8 24.Rdg1 fxg4 25.Rxg4 Rxg4 26.Qxg4 Nf5 27.Nxf5 exf5 28.Qg6 b5
+29.Qxa6+ Kd8 30.Qa8+ Qc8 31.Qxd5+ Qd7 32.Qa8+ Qc8 33.Rd1+ Kc7 34.Qa5+ Kb8
+35.Qxb5+ Qb7 36.Qxc4 Qe4+ 37.Qd3 Qxd3+ 38.Rxd3 h5 39.e6 Kc8 40.Rd5 h4 41.Rxf5
+h3 42.e7 Kd7 43.Rf8 { [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.01"]
+[Round "?"]
+[White "kiro62"]
+[Black "Duane Edmonds"]
+[Result "1-0"]
+[ECO "B32"]
+[TimeControl "2700+45"]
+[UTCTime "12:48:10"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 d6 $2
+{ This is a relatively weak move because it doesn't develop a piece or
+enable development in any significant way. (Stockfish 10:+0.75/38) } ( 
+4...Nf6 { attacks the center and develops a piece. (Stockfish 10:+0.00/37)) }
+) 5.Bb5 Bd7 6.O-O a6 7.Ba4 Nf6 ( 7...b5 { (add eval) } 8.Nxc6 Bxc6 9.Bb3 Bxe4
+10.Bd5 Bxd5 11.Qxd5 ) 8.f3 e5 9.Nxc6 Bxc6 10.Bb3 Be7 11.Nc3 O-O 12.Qe2
+{ [diagram] (Stockfish 10:0.09/37) Here, I should have noticed that the b6
+square is a wekness due to the 6...a6 move to push away White's light
+square Bishop. White also has another potential outpost on d5. } 12...Ne8 $2
+{ This move weakens the defense of the d5 square. (Stockfish 10:+0.93/36)
+[diagram] } 13.Be3 Qd7 $2
+{ This move does not make sense to me now. It does not seem to serve a
+purpose. (Stockfish 10:+1.37/33) } ( 13...Nc7
+{ may be stronger. (Stockfish 10:+0.67/35) } ) 14.a4 $1 Nc7 15.a5
+{ [diagram] White now has full control of the weak b6 square. } 15...Nb5 $2
+{ This move underscores the lack of concern about assault on the d6 square.
+I underestimated the importance of this square (weakness) to the game. }
+16.Na4 $1
+{ Only now has the treat become apparent. White is threatening 17.Nb6
+forking the Queen and Rook. } 16...Bd8 17.Qf2 $1 Bxa5 18.Bb6 $3 Bb4 $2 ( 
+18...Bxb6 19.Nxb6
+{ is probably stronger, though most likely losing nonetheless. } 19...Qe7
+20.Nxa8 Rxa8 ) 19.c3 Bc5 20.Nxc5 dxc5 21.Rfd1 Qe7 $2 22.Bxc5 Qe8 23.Bxf8 Kxf8
+$6
+{ Upon review, I thought 23..Qxf8 may be stronger, and might avoid the
+recorded ending, but upon review with the engine, the game has already been
+lost at this point. (Stockfish 10:+4.91/34) } 24.f4 $3
+{ [diagram] This is a beautiful move! } 24...Bxe4 25.fxe5 Bg6 26.e6 f6 27.Rd7
+Rd8 $4 28.e7+ { I resigned. } 1-0
+
+[Event "?"]
+[Site "Oakland, California"]
+[Date "2018.12.24"]
+[Round "1"]
+[White "Tom Smith"]
+[Black "Duane Edmonds"]
+[Result "1-0"]
+[ECO "A08"]
+[Opening "King's Indian Attack: French Variation"]
+
+1.g3 d5 2.Nf3 c5 3.Bg2 Nc6 4.O-O Nf6 5.c3 e5 6.d4 cxd4 7.cxd4 e4 8.Ne5 Bd6
+9.Nxc6 bxc6 10.Qc2 Bd7 11.Nd2 $2 Qb6 $2 ( 11...h5 $1
+{ [diagram] (Stockfish 9:-1.60/40) The engine suggests initiating a
+Kingside counterattack, rather than looking for a way to defend the c5
+weakness. } 12.Nb3 h4 13.Nc5 Qc8 { [diagram] } ) 12.Nb3 Be6 $6 ( 12...h6 )
+13.a3 Nd7 14.Rb1 $2 O-O ( 14...Rb8 $1
+{ [diagram] This forces the Knight to move since it cannot be defended on
+the b3 square now that a3 has been played. } 15.Nc5 Nxc5 16.dxc5 Qxc5 )
+15.Be3 c5 $4
+{ This is a terrible blunder caused by both miscalculation and a
+misunderstanding of the position. White has four defenders of the c5
+square. Black has only three. Prior to 15.Be3 there was an equilibrium, however, this was tilted in White's favor with the move. I somehow
+failed to recognize this change. 
+
+There is also a psychological factor at play here. The blunder is perhaps
+caused by the overestimation of my opponent's strength (or, more certainly, the underestimation of my own). I have been crushed in each of our previous (3-4) games. }
+16.dxc5 Nxc5 $4
+{ Here, I make another blunder, psychology certain to be a main factor. In
+the case, 16...Qc7 was never considered as a candidate move. } 17.Nxc5 Rac8
+18.b4 $1
+{ [diagram] 18.b4 was never considered as a response to 17.Rac8. This
+represents yet another psychological oversight, still reeling from the
+disappointment of fundamentally miscalculating 15...c5. 
+
+Suddenly, I find myself down a piece and in a lost position. White has been
+given the wonderful outpost on c5 in addition to the material advantage. (Stockfish 9:+6.75/34) }
+18...Qc7 19.Qd2 h6 20.Rfc1 Qe7 21.Bd4 Bf5 22.e3 Rc7 23.Qb2 f6 24.Qb3 Be6
+25.Qd1 Rfc8 $2 ( 25...Bf7 { [diagram] Defends the h5 square. } ) 26.Qh5 Kh7
+( 26...a5 { [diagram] Attempts to undermine the support of the c5 square. } )
+27.Bh3 Bxh3 ( 27...g6 28.Qh4 Bxh3 29.Qxh3
+{ [diagram] Compare with the position in the game after 28.Qxh3. With
+27...g6, Black gains a tempo. (Stockfish 9:+6.91/33) } ) 28.Qxh3
+{ [diagram] (Stockfish 9:+7.49/33) } 28...Bxc5 $2 29.Bxc5 Rxc5 $4
+{ Simplifying White's task of material reduction. } 30.Rxc5 Rxc5 31.bxc5 Qxc5
+32.Qf5+ { [diagram] } 1-0
+
+[Event "?"]
+[Site "Oakland, California"]
+[Date "2018.12.24"]
+[Round "2"]
+[White "Duane Edmonds"]
+[Black "Tom Smith"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+
+1.d4 g6 2.Bf4 Bg7 3.e3 Nf6 4.Nf3 d6
+{ [diagram] London System against the King's Indian Defence (KID) } 5.h3 O-O
+6.Nbd2 ( 6.Be2 ) 6...Nbd7 7.Be2 c5 8.c3 a6 9.g4 $2 b5 10.c4 ( 10.a4 )
+10...Bb7 11.b3 Ne4 12.Rb1 Qa5 13.d5 Nxd2 14.Nxd2 b4 $2 15.O-O $2
+{ [diagram] } 15...f5 $2 16.Kh2 $2 ( 16.gxf5 gxf5 { [diagram] } 17.Qc2
+{ [%csl Rf5,Rg7][%cal Ge2d3,Gg1h2,Gf1g1,Yd3f5,Yg1g8] } ) 16...Ne5 17.Bxe5
+Bxe5+ 18.f4 Bh8 19.Nf3 fxg4 20.Ng5 Bc8 21.Bxg4 Qxa2+ 22.Kg3 h5 23.Be6+ Bxe6
+24.Nxe6
+{ Here, I was successful in getting the Knight to the outpost on e6.
+Black's pieces are not coordinated. I recognize that I have a clear
+advantage if i move with precision and maintain the tempo. (Stockfish 9:+2.10/38) }
+24...Rf6 25.Rf2 Qa5 26.Rg2 Rxe6 27.dxe6 Qd8 28.Kh4 $2
+{ Incautious. Fortunately, this error did not cost the game. Free lesson, i
+suppose. } 28...Bf6+ 29.Kg3 Kh7 30.Kh2 Qe8 31.Qd3 $1
+{ [diagram] [%csl Gg6][%cal Gd3g6,Gg2g6,Gb1g1] } 31...Kh6 32.Rbg1
+{ Black resigned. [diagram] } 1-0
+
+[Event "?"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2019.02.17"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 42)"]
+[Result "1-0"]
+[ECO "D00"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 g6 4.c4 Bg7 5.Nf3 O-O 6.h4 c6 7.Nbd2 b5 $4 8.cxb5 cxb5
+9.Bxb5 a6 10.Ba4 Nh5 11.Bh2 Nf6 12.Qb3 Nbd7 13.Bc6 Rb8 $4 14.Bxb8 Nxb8
+15.Qxb8 { [diagram] } 15...Qa5 16.O-O
+{ choosing to reinforce the Queenside attack. [diagram] } 16...Qd8 17.Rfc1 e6
+18.Ne5 h6 19.Bb7 Nd7 20.Qxc8 Qxh4 21.Qxd7 g5 22.Rc8 Qh5 23.Rxf8+ Bxf8
+{ [diagram] } 24.Nxf7 $6
+{ Here, I (through laziness – unwilling to look for a stronger reply) rely
+upon the material advantage to justify this simplification, trading the
+Knight for a pawn and the removal of the Queens from the board to get to an opposite-color Bishop endgame with an extra piece and two (passed) pawn
+advantage on the Queenside of the board. } ( 24.g4 $3
+{ I missed this over the board. 24.g4 removes the last guardian of the King
+and last defender of the f7 square (other than His Royal Highness himself),
+his powerful wife. } 24...Qh3 $2 25.Qxf7+ Kh8 26.Ng6# ) 24...Qxf7 25.Qxf7+
+Kxf7 26.Bxa6 Bb4 { [diagram] } 27.Nf3 Ba5 28.a3 g4 29.Ne5+ Kf6 30.Nxg4+ Kf5
+31.f3 h5 32.Ne5 h4 33.Kf1 Bd2 34.Ke2 Ba5 35.Bd3+ Kf6 36.b4 Bb6 37.a4 Kg7
+38.a5 Ba7 39.b5 Kf6 40.b6 Bb8 41.f4 Kg7 42.a6 Kf6 43.a7 Bxa7 44.bxa7 Kg7
+45.a8=Q Kf6 46.Qf8# 1-0
+
+[Event "(\"???\")"]
+[Site "?"]
+[Date "2019.03.03"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "maymeskul (Ukraine)"]
+[Result "1-0"]
+[ECO "A40"]
+
+{ asdf } 1.d4 e6 2.Bf4 Nf6 3.e3 Ne4 4.Nd2 Bb4 5.c3 Nxd2 6.Qxd2 Bd6
+{ [diagram] Black has already fallen behind in development by two tempi.
+The extra moves of the (exchanged) Black Knight and (retracted) Black
+Bishop have come at the expense of the development of Black's other pieces. }
+7.Bg3 { Giving back a tempo forpositional improvement. } 7...O-O 8.Nf3 Be7
+{ Here, another loss of tempo for Black. } 9.Bd3 d6
+{ [diagram] From this position, it is clear that White'searly advantage is
+non-trivial. White's initial development is complete, and hebegins to
+prepare for the attack. (Lc0:+1.9/13) } 10.Qc2 a6 $2 11.Bxh7+ $1
+{ This move wins a pawn. More importantly, however, it punches an
+importanthole in Black's Kingside defence. } 11...Kh8 12.Be4 $2
+{ This is an attemptto pressure the Queenside and encourage d5, cementing
+the pawn structure in thecenter with the Black pawns on light squares,
+limiting the influence of Black'slight-square Bishop on the Kingside. }
+12...f5 $1
+{ White did not considerthis response. It has the advantage of both gaining
+a tempo, requiring White toagain move the Bishop, and restricting White's
+batttery on the b1-h7 diagonal.The move does, however, weaken Black's Kingside defence. }
+13.Bd3 Nc6 14.h4 $1 b5 15.Ng5 $1
+{ [diagram] Inserting a powerful Knight on an advanced outpost. Surely, a
+luxury when one finds these. } 15...Rf6 16.Qe2 $1 g6 17.O-O-O e5 18.d5 Na5
+19.h5 $1
+{ [diagram] Now, Harry (the h-pawn) holds the key to unlock the h-file.
+It's now time to open the door. Come, quickly. } 19...Kg8 20.hxg6 Qe8
+{ [diagram] } 21.Rh8+ ( 21.Qh5 $1
+{ [diagram] 21.Qh5 is more precise. This move was considered, but was
+declined in favor of the (arguably) more aesthetic and mischievous Rook
+sacrifice. Here, there is no way for Black to prevent 22.Qh8#. } ) 21...Kg7
+( 21...Kxh8 22.Qh5+ Kg7 ( 22...Kg8 23.Qh7+ Kf8 24.g7# ) 23.Qh7+ Kf8 24.Qh8#
+( 24.g7# ) ) 22.Rxe8 Bf8 23.Qh5 Rxg6 24.Qh7+ Kf6 25.f4 ( 25.Rxf8+ $1 Kxg5
+26.Qh4# { [diagram] } ) 25...Rg7 26.Rxf8+ Ke7 { Black resigned. } 1-0
+
+[Event "?"]
+[Site "Camden Chess Club, Carroll St., Oakland, California"]
+[Date "2019.03.16"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora (n.net: 42)"]
+[Result "1-0"]
+[ECO "D00"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 g6 4.c4 ( 4.Nf3 ) ( 4.Nc3 $5 ) 4...Bg7 5.Nf3 O-O
+{ London System against Grünfeld Defence } 6.Nbd2 $2
+{ [diagram] (Lc0:-0.69/25) (Stockfish 10:-0.62/42) } ( 6.Nc3
+{ is better. [diagram] Here, White develops the Knight but exerts
+additional pressure on the center than with 6.Nbd2. (Lc0:-0.27/23)
+(Stockfish 10:-0.09/45) } ) 6...h6 7.Be2 c5 8.Rc1 $6 ( 8.dxc5 $1 ) ( 8.O-O )
+8...cxd4 9.Nxd4 Nc6 { [%cal ] } 10.N2f3 $2
+{ [%cal Rd8a5] [diagram] It is a mistake here to move the Knight because of the threat of Qa5+. As a theme of sorts, the underestimation of significance of the threat from Qa5+ is the reason I should have lost this game. }
+( 10.Nxc6 bxc6 ) 10...Nxd4 11.Nxd4 $4
+{ [diagram] (Lc0:-5.12/15) (Stockfish 10:-2.24/34) } 11...dxc4 $2 ( 
+11...Qa5+ 12.Kf1 Bd7 { [diagram] } ) 12.Bxc4 $4 Ne4 ( 12...e5 $2 13.Bxe5 Qa5+
+{ [%cal Ga5e5,Ga5e1] Winning a piece. } ) 13.Bg3 $2 ( 13.Bc7 Qd7 14.Bb5 Qd5
+15.O-O Bxd4 $2 ( 15...Nd6 ) 16.Bc4 Qd7 17.exd4 ) 13...e5 ( 13...Qa5+ $1
+14.Ke2 ( 14.Kf1 $4 Nd2+ 15.Kg1 Nxc4 16.Rxc4 ) 14...e5 ) 14.Nf3 $2
+{ Again, I underestimate the significance of the Qa5+ threat and focus on
+winning a pawn at a point when there are higher priorities. } ( 14.Nb3 $1 )
+14...Qa5+ $1 { [diagram] (Lc0:-5.05/17) (Stockfish 10:-1.75/36) } 15.Ke2 $2
+( 15.Kf1 ) 15...Nxg3+ 16.hxg3 e4 17.Nd4 Bg4+ 18.f3 exf3+ 19.gxf3 Bc8 20.Qc2
+Qb6 21.Qc3 ( 21.Rhd1 ) 21...Be6 $2 { [diagram] } 22.Bxe6 $1 fxe6 23.Qc4 Rac8
+$2 24.Qxe6+ Qxe6 25.Nxe6 Bxb2 26.Rcd1 $4
+{ This (horrible) blunder was due solely to blunt miscalculation. The
+calculation involved in this case is simple, however, the kind one rarely
+misses in chess studies. Perhaps fear over the board and impatience factor into this failure. In hindsight, it is, of course, unacceptable. Over
+the board, it was somehow unavoidable. } ( 26.Nxf8 $1 Bxc1 27.Nxg6
+{ [%cal Gg6e7] } 27...Ba3 $14 { [diagram] } ) 26...Rfe8 27.Nf4 g5 28.Nd5 Rc2+
+29.Rd2 Rxd2+ 30.Kxd2 Bg7 31.e4 Kh7 $2 32.Rc1 Kg6 33.Rc7 $4
+{ The final, desperate attempt to blunder away the game. The game is a
+theoretical draw following this blunder. } ( 33.Ke3 $1 ) 33...Be5 34.Rxb7
+Bxg3 35.Rxa7 h5 36.Ra6+ Kf7 37.Nf6 Rd8+ 38.Ke2 h4 39.Ng4 ( 39.Nh5 $2 Bd6 $1
+40.Kf2 h3 41.Kg1 Bb8 { [%cal Gd8d1] [diagram] } ) 39...Bf4
+{ [diagram] (Lc0:-0.02/13) (Stockfish 10:0.00/46)[%cal Gd8d2] } 40.a4 h3
+41.Rh6 h2 42.Nxh2 Ra8 $2 ( 42...Rd2+ 43.Ke1 Rxh2 44.Rxh2 Bxh2 45.a5
+{ [diagram] (Lc0:-0.05/14) (Stockfish 10:-0.09/66) } ) 43.Ng4 Rxa4 44.Rc6 Ra5
+45.Kd3 Ra3+ 46.Rc3 Ra1 47.Kd4 Ke6 48.Rd3 Rc1 49.Nf2 Rc6 50.Nh3 Rd6+ 51.Kc4
+Rc6+ 52.Kb5 Rc1 53.Nxf4+ gxf4 54.Kb4 $10 Ke5 $2
+{ [diagram] The game was lost with this error. It was drawn (theoretically)
+prior to 54...Ke5. I was happy to find the tactic that gains the win. }
+55.Rd5+ $1 Ke6 56.Rf5 Rf1 57.Rxf4 Ke5 $18
+{ [diagram] From here it is a reasonably straightforward Rook and pawn
+endgame in which White should win relatively simply as long as he does not
+blunder. Though not played as precisely as I would have liked, I did play well enough for the win. It is unfortunate that the same cannot be said
+for my play in the middlegame . . . a humbling and lesson-ridden win. I can say (I hope) that despite my poor play I fought hard and defended reasonably well. }
+58.Rf8 $5 ( 58.Rf5+ ) 58...Rg1 59.Kc4 Rh1 60.Kd3 Ke6 61.f4 Ke7 62.Rg8 Kf7
+63.Rg3 Kf6 64.Rg2 Rh4 65.Ke3 Rh3+ 66.Kd4 Rf3 67.f5 Ra3 68.Rg6+ Kf7 69.Rc6 Ra5
+70.e5 Ke7 71.f6+ Kf7 72.Rc5 Ra6 73.Kd5 Ra7 74.Kd6 Ra6+ 75.Rc6 Ra5 76.Rc7+ Kg6
+77.f7 Kg7 78.e6 Kf8 79.Rc8+ Kg7 80.f8=Q+ { [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.03.29"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "(Unknown)"]
+[Result "1-0"]
+[ECO "E10"]
+
+1.d4 c5 2.e3 ( 2.d5 e6 3.c4 Nf6 4.Nc3 d6 5.e4 g6 ) 2...e6 3.Nf3 Nf6 4.c4 Be7
+5.Nc3 d6 6.Bd3 d5 7.Ne5 Nbd7 8.f4 Qb6 9.g4 $2 cxd4 10.exd4 Qxd4 11.Nb5 Qc5
+12.g5 Nxe5 13.gxf6 ( 13.fxe5 { is stronger. } ) 13...Nxd3+ 14.Qxd3 Bxf6
+15.Be3 Qb4+ 16.Bd2 Qc5 17.Be3 Qb4+ 18.Bd2 Qxb2 19.Rb1 Qxa2 20.Nc7+ Ke7 $2
+{ [diagram] In the end, the difference between this move and 20...Kd7 is
+the difference in winning and losing the game this proved to be the most
+pivotal move in the game. It is proper technical to call this a blunder. I cannot bring myself to do this. The error, at least, is completely
+understandable. } 21.cxd5 Rd8 22.Bb4+
+{ Bringing the Bishop into the game with tempo. This would not be possible
+following 20...Kd7. } 22...Kd7 { [diagram] } 23.d6 ( 23.Qb5+ Kxc7 24.Qc5+ Kd7
+25.Qd6+ Ke8 26.Qf8+ Kd7 27.Qxf7+ Be7 28.Qxe7# ) 23...a6 24.Nxa8 b5 25.O-O Bb7
+26.Nb6+ Ke8 ( 26...Kc6 27.Rfc1+ Kxb6 28.Qe3+ Bd4 29.Qxd4# ) 27.d7+ Rxd7
+28.Qxd7# { [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.03.30"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cora"]
+[Result "1-0"]
+[ECO "D00"]
+[TimeControl "m500"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 Ne4 4.Nd2 e6 5.c4 Nxd2 6.Qxd2 dxc4 7.Bxc4 a5 8.Nf3 $4
+{ The only explanation for such a dissonant blunder (even for me) is the
+sativa high. So I'd like to believe. } 8...Bb4 9.O-O Bxd2 10.Nxd2
+{ Resigning on the spot is not my style. What is there to learn from that?
+} 10...Na6 11.e4 Qxd4 12.Rfd1 e5 13.Bg5
+{ Prompting 13...f6 to give the light-square Bishop more "domain" and
+prevent my opponent from castling on the Kingside. } 13...f6 14.Bh4 Qxb2
+15.Nf3 { Setting the trap . . . } 15...Qb4 16.Nxe5 $5
+{ [diagram] This move is not technically strong. It reeks of all the
+desperation from which it was born. } 16...fxe5 $4
+{ Caissa is not a fair goddess. She can, at times, be enticed to favor by
+flirtation. With this move, she smiled back with her eyes then winked at
+me. } ( 16...g5 $1 ) 17.Rd8# { [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.04.05"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Vinnigevalk"]
+[Result "1-0"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 { London System } 3...a6 $2
+{ This move does nothing for Black's development. It is a defensive move to
+prevent Bb5+. The move is premature at this point. Black's interests would
+be better served by the developing his pieces at this point. } 4.Nd2 e6
+5.Ngf3 Bb4 $2
+{ This move causes an immediate loss of tempo to 6.c3. The dark-square
+Bishop must retreat to a square it just traversed or move to the very
+passive a5 square. } 6.c3 Ba5 $2
+{ 6...Bd6 is stronger, keeping the Bishop involved in the fight for the
+center. } 7.Bd3 O-O
+{ [diagram] White has a significant lead in development caused by the
+ill-advised early a6 and loss of tempo associated with the second move of
+the dark-squared Bishop to a5. The engines already give White a significant advantage (Lc0:+3.86/17, Stockfish 10:+1.82/41) less than eight moves
+into the game. } 8.e4 $1 { [%cal Re4e5] Challenging Black in the center. }
+8...dxe4 9.Nxe4 Re8 $5 10.Bg5 $5 ( 10.Nxf6+ $1 gxf6 { [diagram] } ( 
+10...Qxf6 $4 11.Bg5 $1 { [diagram] } ) ) 10...Nbd7 11.Nxf6+ ( 11.Ne5 $1 )
+11...Nxf6 12.Ne5 Qd5 13.Kf1 Ne4 14.f4 $4 { Allows 15...f6. } ( 14.Bh6 $1 )
+14...Nxg5 $4 ( 14...f6 ) 15.fxg5 b5 { [diagram] } 16.Bxh7+ $1 Kf8 17.Qh5 Re7
+18.Bg6 $5 ( 18.Be4 $1 ) 18...Bb7 $2 ( 18...Rd7 19.Qh8+ Ke7 20.Qxg7
+{ [diagram] } ) 19.Qh8# { [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.04.27"]
+[Round "?"]
+[White "Marcpe"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "D05"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 d5 4.Bd3 c5 5.c3 c4 6.Bc2 Nbd7 7.b3 b5 8.b4 Bd6 9.O-O
+O-O 10.Ng5 h6 11.Nf3 Ne4 12.Bxe4 dxe4 13.Nfd2 f5 14.f3 Bb7 15.f4 Nf6 16.h3
+{ [diagram] (Lc0:+20.58/10, Stockfish 10:-5.05/45) } 16...Kh7 ( 16...Nd5 )
+17.Rf2 Rg8 18.g3 g5 19.g4 gxf4 20.Nf1 f3 21.Nh2 fxg4 22.Nf1 g3 ( 22...gxh3+
+23.Kh1 Nh5 24.Nbd2 Qg5 { [%cal Gg5g1] } 25.Nxf3 exf3 26.Qc2+ Kh8
+{ [diagram] } ) 23.Rb2 g2 24.Nh2 Bxh2+ $1 { [%cal ] } 25.Kf2
+{ [diagram] [%csl Gf6] } ( 25.Kxh2 Qd6+ 26.Kg1 Qg3
+{ [diagram][%cal Gg3h3,Gh3h1,Gf6g4] } ) 25...g1=Q+
+{ [diagram] White resigns.[%cal ] } ( 25...g1=Q+ 26.Qxg1 Rxg1 27.Nd2 Ng4+
+28.hxg4 Qh4# { [diagram] } ) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.05.04"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "(Unknown)"]
+[Result "1-0"]
+[ECO "A45"]
+[TimeControl "600+0"]
+[UTCDate "2019.05.04"]
+[UTCTime "13:20:56"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.c4 O-O 5.Nc3 d6 6.Nf3 Nbd7 7.e4 Re8 8.e5 dxe5
+9.Nxe5 Nxe5 10.Bxe5 Bf5 11.Bd3 Bxd3 12.Qxd3 Nd7 13.Bxg7 Kxg7 14.Ne4 $2
+{ [diagram] } 14...f5 $2 15.Ng5 $2 ( 15.Nc3 $15 ) 15...e5 $1 16.O-O-O $4 ( 
+16.d5 $5 ) 16...Qxg5+ 17.Kb1 Qxg2 $19
+{ [diagram] White is now a full piece down with no compensation due to the
+16.O-O-O blunder. } 18.dxe5 $1
+{ [diagram] Here, opening the center to take advantage of White's piece
+coordination and the vulnerability of the Black King is White's only chance
+to defend this position. Material . . . (White is already down a piece) . . . is secondary. The ability to pin the Knight or Rook to the e5 square
+is ripe with possibility. } 18...Nxe5 19.Qc3 Qxf2
+{ The costs of consistently sacrificing pawns are starting to add up. } 20.h4
+$1
+{ Threatening 21.h5 with the threat of opening the g or h-file, allowing
+attacks from the Rooks. } 20...h5 21.Rhe1 $1 Qh2
+{ [%csl Ge5][%cal Gh2e5,Ge8e5] Reinforcing the support of the e5 square. }
+22.Rd7+ $6 Kf6 23.Rd5 Qxh4 $4
+{ [diagram] Here, Black misunderstands the significance of e5 square and
+leaves it underprotected in order to capture the pawn. White's eagerness to
+attack this point has come to a head. } 24.Rdxe5 $1 Rxe5 25.Qxe5+ Kg5 $4
+{ [diagram] This is when I relaxed. Though Black is three full pawns ahead
+in material – most often, a winning advantage – ,in reality, the Black
+Queen is (tactically) lost and the poor King has no help from his Rook (still at home on a8) to defend. It would not be a terrible idea to resign in
+this position, but a gift like this is to be fully appreciated (like a perfect meal or favorite lover). Thank you for letting me finish. }
+26.Qe7+ $1 Kg4 27.Rg1+ Kh3 28.Rh1+ Kg4 29.Qxh4+ Kf3 30.Rh3+ Ke2 31.Qg3 Kf1
+32.Rh2 Rd8 33.Qf2#
+{ [diagram] Signed magnum opus. Despite the obvious blunder in the
+middlegame that required this kind of desperate creativity – much like jazz
+or the blues – does not, for me, detract from this as one of my favorite games. }
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.05.04"]
+[Round "?"]
+[White "Gandalft"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.d3 Nc6 4.Nc3 Bg4 5.Be2 Nd4 $4 6.Nxd4 cxd4 7.Bxg4 dxc3
+8.bxc3 $16 { [diagram] } 8...Nf6 9.O-O Nxg4 10.Qxg4 Rc8 11.c4 g6 12.Bb2 e5
+13.h3 Bg7 14.Rab1 b6 15.a3 O-O 16.f4 h5 17.Qg3 Qd7 18.f5 Kh7 19.fxg6+ fxg6
+20.Rxf8 Rxf8 21.d4 $2 exd4 22.Rd1 Be5 23.Qg5 Bf4 24.Qd5 Be3+ 25.Kh1 Qf7
+26.Bxd4 Bxd4 27.Qxd4 Qf4 28.Qd5 Qg3 29.Qb7+ Kh6 30.Qxa7 Rf2 31.Rg1 Rxc2
+32.Qxb6 Rxc4 33.Qb2 Rxe4 34.Qd2+ Rf4 $4 $18 35.Qxd6 Qf2 36.Qc6 Re4 37.Qc1+
+Re3 38.a4 Qg3 39.a5 Kh7 40.a6 Ra3 41.Qc6 Qb8 $18 42.Qb7+ $4 $10
+{ [diagram] Gives away White's advantage of having the extra passed pawn. }
+42...Qxb7 43.axb7 Rb3 { [diagram] } 44.b8=Q Rxb8 45.g4 h4 46.Rg2 g5 47.Kh2
+Rf8 48.Ra2 Kg6 49.Ra5 Rf4 50.Ra6+ Rf6 51.Rxf6+ Kxf6 $10 { [diagram] } 52.Kg2
+Ke5 53.Kf3 Kd4 $1 54.Kg2 $4 $19
+{ [diagram] 54.Kf2 allows White to hold with the opposition. The move in
+the text is losing. } 54...Ke3 55.Kh2 Kf3 56.Kg1 Kg3
+{ [diagram] White resigns. } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.05.07"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Magnus"]
+[Result "1-0"]
+[ECO "A40"]
+
+1.d4 e6 2.Bf4 c5 3.e3 cxd4 4.exd4 Nf6 5.Nf3 Bb4+ 6.c3 Ba5 7.Bd3 O-O 8.Nbd2 d6
+9.Qc2 e5 10.dxe5 dxe5 11.Bxe5 g6 12.O-O-O Bc7 13.Bd4 Nc6 14.Bxf6 Qxf6 15.Ne4
+Qf4+ 16.Kb1 Ne5 17.Nxe5 Qxe5 18.g3 Be6 19.f4 Qa5 20.a3 f5 21.Ng5 Bd5 22.Rhe1
+Qb6 23.c4 Bc6 24.Re7 $6 ( { [%cal Gd3c4,Gc2c3,Gc4g8,Gc3h8] } 24.c5 $1 )
+24...Bd6 25.Rxh7 { [diagram] } 25...Bxa3 26.Qc3 Bxb2 27.Rh8# { [diagram] }
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.05.07"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Magnus"]
+[Result "1-0"]
+[ECO "A40"]
+
+1.d4 e6 2.Bf4 c5 3.c3 cxd4 4.cxd4 Nc6 5.e3 Nf6 6.Nf3 Bb4+ 7.Nbd2 Ne4 8.a3
+Bxd2+ 9.Nxd2 Nxd2 10.Qxd2 O-O 11.Bd3 Na5 12.Qc2 b6 13.Bxh7+ Kh8 14.Bd6 Re8
+15.Be4 Nb7 16.Bc7 Qg5 17.O-O f5 18.Bf3 Kh7 19.e4 Rh8 20.exf5 exf5 21.Rfe1 Na5
+22.Bxa8 Nc6 23.Bxc6 dxc6 24.Qxc6 Qd2 25.b4 Qxd4 26.Be5 Qd8 27.Re3 Bd7
+{ [diagram] } 28.Rh3+ Kg8 29.Qd5+ { [diagram] Black resigned. } 1-0
+
+[Event "?"]
+[Site "https://lichess.org/jbuPMU2j"]
+[Date "2019.05.11"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "alicom126"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Normal"]
+[TimeControl "360+2"]
+[UTCDate "2019.05.11"]
+[UTCTime "06:50:19"]
+[Variant "Standard"]
+
+1.d4 d5 2.Bf4 f6 3.e3 Nc6 4.c3 e5 5.dxe5 Nxe5
+{ [diagram] Black resigned. It would have been fun to play this (6.Bxe5
+fxe5 7.Qh5+ . . . ) out. Neither 7...g6 – losing the Rook to 8.Qxe5+ – or
+7...Ke7 – forcing the King to remain in the center of the board for a while, uncastled – is pleasant for Black. (Lc0:+2.38/24, Stockfish
+10:+1.69/44) } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.06.21"]
+[Round "?"]
+[White "(Unknown)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B30"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 d6 4.Bb5 Bd7 5.a3 a6 6.Ba4 Nf6 7.h3 e6 8.d3
+{ [diagram] Sicilian Defence (Closed) } 8...Be7 9.Ne2 O-O 10.O-O e5
+{ Fixing the center. } 11.c3 Be6 $1
+{ Placing the light-square Bishop on the a2-g8 diagonal in order to put
+pressure on the b3 square. White's light-square Bishop will be driven away
+a4 if he does not choose to exchange the Bishop for the Knight on c6. } 12.b4
+( 12.Bxc6 bxc6 $10 ) 12...b5 13.Bb3 c4 $6 14.Bc2 $6 cxd3 15.Bxd3
+{ Here, White's light-square both limits the mobility of his Queen along
+the semi-open d-file and has itself limited mobility due to the pawn
+structure. } 15...h6 16.a4 Qd7 { [diagram] } 17.a5 Bxh3 $6 $16
+{ This sacrifice is unsound according to the engines and loses instantly.
+Fortunately, my opponent here was not an engine. The pressure added by this
+"bluff" in this situation (17...Bxh3 18.gxh3 Qxh3 followed by 19...Ng4) must be calculated carefully while under duress. (Lc0:+5.01/21, Stockfish
+10:+2.65/41) } 18.Ng3 $2 ( 18.gxh3 Qxh3 19.Ng3 $16
+{ . . . and the White King is safe. } ) 18...Bg4 19.Be2 Nh7 20.Nh4 $4
+{ Loses a piece. } 20...Bxe2 21.Qxe2 Bxh4 22.Nf5 Bg5 23.Bxg5 Nxg5 24.Qg4
+{ [diagram] Threatening 25.Nh6+ winning the Queen for the Knight. } 24...Qc7
+25.f4 exf4 26.Qxf4 Ne7 27.Rac1 Nxf5 28.Qxf5 Qa7+ 29.Kh1 Rae8 30.Rfe1 Re5 $1
+31.Qg4
+{ [diagram] Here, Black's pieces are well-coordinated and I found a
+wonderful tactic that wins the game. Until this point, despite the piece
+blunder, White has defended well. However, now Black has an opportunity to eliminate his weaknesses by exchanging off one of White's active
+Rooks and bringing his Rook on the f-file into the game and further improving the coordination of his pieces. }
+31...f5 $1 32.exf5 Rxe1+ 33.Rxe1 Qf2 $1 { [diagram] } 34.Qe2 Qxf5 $19
+{ [diagram] Black is a piece and a pawn ahead in material with a more
+secure King. (Lc0:-30.00/8, Stockfish 10:-10.81/41) } 35.Rd1 d5 36.Rf1 $4
+{ [diagram] Another blunder, perhaps caused in part by frustration. }
+36...Qxf1+ 37.Qxf1 Rxf1+ 38.Kh2 Kf7
+{ [diagram] The rest is fairly straightforward (and beautiful). } 39.Kg3 Kf6
+40.Kg4 Ke5 41.g3 Ke4 42.Kh4 Kd3 43.Kh5 Kxc3 44.g4 d4 45.Kg6 Ne6 46.g5 hxg5
+47.Kh7 d3 { [diagram] White resigned. } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.07.02"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Cathy"]
+[Result "1-0"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 Nc6 3.Nf3 d5 4.e3 Bg4 5.Nbd2 e6 6.h3 Bf5 7.g4 Bg6 8.Ne5 Nxe5
+9.dxe5 Ne4 10.Nxe4 $6 dxe4 $2 11.h4 Bb4+ $2 12.c3 Bc5 13.h5 O-O 14.hxg6 fxg6
+15.g5 Qe7 $16 { [diagram] } 16.Qc2 a5 17.O-O-O a4 18.a3 b5 19.Qxe4 h5 20.Qxg6
+b4 21.cxb4 Bb6 22.Rxh5 Rac8 23.Bb5 c5 { [diagram] } 24.Qh7+ Kf7 25.g6#
+{ [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.07.18"]
+[Round "?"]
+[White "(Unknown)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B21"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qa4 a6 5.Nc3 e6 6.a3 Nf6 7.Bc4 $2 $17
+{ [diagram] ...b5 becomes attractive. Now is not the time, however, because
+the Rook on h8 is unprotected. } 7...d6 $2
+{ Making room for the light-square Bishop on d7 to protect the Rook on a8
+with the Queen and to attack the White Queen on a4. (Stockfish 10:-0.25/39)
+} ( 7...Bc5 { (Stockfish 10:-1.87/35) } 8.Bd3 b5 9.Qb3 ( 9.Bxb5 $2 axb5
+10.Qxa8 O-O $19 { [diagram] } ) 9...Qb6 $17 { [diagram] } ) ( 7...b5 $4
+8.Bxb5 $1
+{ and Black cannot recapture with 8...axb5?? since this move loses the
+Rook. } ) 8.Nge2 Bd7
+{ [diagram] 9...b5 is now a threat. The Rook is protected by the Queen. }
+9.Nf4 $19
+{ In this case, my opponent failed to see the threat. Black's advantage in
+this position is overwhelming. (Lc0:-22.67/9, Stockfish 10:-7.84/43) } 9...b5
+$1 { (Lc0:-21.56/9, Stockfish 10:-4.20/44) } ( 9...Nd4 $3
+{ [diagram] A brilliant move! The White Queen has no where to go. The only
+square that is not directly under attack is b4. 10.Qb4??, however, fails to
+11...Nxc2! allowing the exchange of the Black Knight for the White Queen. This candidate move was never considered over the board caused, in part, by
+the blindness offered from the realization of a desired position (based on the desire to play (the also winning) 9...b5. (Stockfish 10:-7.76/38) }
+10.Bb5 ( 10.Qb4 Nxc2+ ) 10...Nxb5 11.Nxb5 Bxb5 12.Qb3 ) 10.Bxb5 axb5 11.Qxb5
+Nd4 12.Qd3 e5 13.Nh3 Bxh3
+{ This damages the Kingside pawn structure. The piece cannot be recaptured
+by the Queen due to 14...Nxc2, winning the Rook and a pawn. } 14.gxh3 Be7
+15.O-O Qd7 16.Bg5 h6 17.Be3 Qxh3 $2 { (Stockfish 10:-3.96/40) } ( 17...Nf3+
+{ (Stockfish 10:#-9/67) } 18.Kh1 ( 18.Kg2 Nh4+ 19.Kh1 ( 19.Kg3 $4 Nh5# )
+19...Qxh3 20.Qb5+ Kf8 21.Qb8+ Rxb8 22.Rg1 Qf3+ 23.Rg2 Qxg2# ) 18...Qxh3
+19.Bf4 exf4 20.Qxf3 Qxf3+ 21.Kg1 Ng4 22.Nb5 Qh3 23.Nc7+ Kd7 24.Rfd1 Qxh2+
+25.Kf1 Qxf2# ) 18.b4 Nf3+ 19.Kh1 Qxh2# { [diagram] } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.08.05"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Mnajila"]
+[Result "1-0"]
+[ECO "A80"]
+
+1.d4 f5 2.Bf4 g6 3.e3 d5 4.Nf3 c6 5.Nbd2 e6 6.h4 Na6 7.Ne5 Nf6 8.Be2 Qa5 9.c3
+Qb6 10.Nb3 Bd6 11.h5 { [diagram] } 11...gxh5 12.Bxh5+ Kf8 13.Bh6+ Kg8 14.Bf7#
+{ [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.08.14"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Sorena"]
+[Result "1-0"]
+[ECO "A40"]
+[TimeControl "420+3"]
+[UTCDate "2019.08.14"]
+[UTCTime "16:06:40"]
+[Variant "Standard"]
+
+1.d4 e6 2.Nf3 Nc6 3.Bf4 d5 4.e3 { The Modern London System } 4...Nf6 5.Bd3
+Ne4 6.Nbd2 Nxd2 7.Qxd2 Bb4 8.c3 Bd6 9.Bg3 Bxg3 $2
+{ [diagram] This allows the opening of the h-file for the Rook. } 10.hxg3 b6
+11.Rxh7 Rxh7 12.Bxh7 a5 13.O-O-O g6 14.Rh1 Kd7 15.Ne5+ Nxe5 16.dxe5 Ba6
+{ [diagram] } 17.e4 $1 c5 18.exd5 exd5 { [diagram] } 19.Bxg6 $1 fxg6 20.Qxd5+
+Ke7 21.Rh7+ Ke8 22.Qe6+ $6 ( 22.Qf7# ) 22...Kf8 23.Qf7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.08.14"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Spider"]
+[Result "1-0"]
+[ECO "A40"]
+[TimeControl "600+10"]
+[UTCDate "2019.08.14"]
+[UTCTime "02:53:00"]
+[Variant "Standard"]
+
+1.d4 e6 2.Bf4 c5 3.c3 cxd4 4.cxd4 Bb4+ 5.Nd2 Qh4 6.e3 g5 7.Nf3 Qg4 8.Bxg5 h6
+9.Bh4 Be7 10.Bg3 Nc6 11.Be2 Qg7 12.Qc2 Nb4 13.Qb3 a5 14.a3 a4 15.Qc4 Nf6
+16.axb4 O-O 17.Be5 d5 18.Qc2 Bd7 19.g4 Rfc8 20.Qb1 Bxb4 21.h4 Kf8 22.g5
+{ [diagram] } 22...hxg5 23.hxg5 Qg6 24.Qxg6 fxg6 25.Bxf6 Be7 $2 { [diagram] }
+26.Rh8+ Kf7 27.Ne5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.08.15"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Urzel"]
+[Result "1-0"]
+[ECO "A45"]
+[Termination "Normal"]
+[TimeControl "1200+0"]
+[UTCDate "2019.08.15"]
+[UTCTime "00:50:27"]
+[Variant "Standard"]
+
+1.d4 Nf6 2.Bf4 d6 3.e3 Ne4 4.Bd3 d5 5.Nd2 Bf5 6.Ngf3 Qd7 7.h3 Qe6 8.g4 Bg6
+9.c3 Nc6 10.Bb5 O-O-O 11.Qa4 h5 { [diagram] } 12.Bxc6 hxg4 13.Ne5 gxh3
+14.Nxg6 fxg6 15.Nxe4 bxc6 { [diagram] } 16.Nc5 Qg4 17.Qa6+ Kb8 18.Qb7#
+{ [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.08.19"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Yoyin"]
+[Result "1-0"]
+[ECO "A40"]
+[TimeControl "900+15"]
+[UTCDate "2019.08.19"]
+[UTCTime "02:26:24"]
+[Variant "Standard"]
+
+1.d4 Nc6 2.Nf3 e6 3.Bf4 Nf6 4.e3 { London System [diagram] } 4...Bb4+ 5.c3
+Ba5 6.Bd3 O-O 7.Nbd2 d6 8.b4 Bb6 9.b5 Na5 10.e4 d5 11.e5 $1 Nd7 $18
+{ [diagram] } 12.Bxh7+ $1 Kxh7 13.Ng5+ Kg8 14.Qh5 { [diagram] } 14...Qe8 $2
+( 14...Re8 { [diagram] (#5) } 15.Qxf7+ Kh8 16.Qh5+ Kg8 17.Qh7+ Kf8 18.Qh8+
+Ke7 19.Qxg7# ) 15.Qh7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.08.24"]
+[Round "?"]
+[White "Cora (n.net: 42)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.d3 d6 4.Be2 Nf6 5.O-O e6 6.g3 b6 7.a4 Be7 8.c3 O-O 9.a5
+$2 Nxa5 10.b4 cxb4 ( 10...Nc6
+{ is stronger according to both engines. This is possibly because the open
+c-file could allow pressure from White on the Queenside, especially if he
+is able to get his Knight to the outpost in the making on c6. I did not see this over the board. 10...Nc6 was a candidate, however, my assessment did
+not contemplate his Knight forming an outpost on c6 at this point in the game. The next time may be different. [diagram] }
+) 11.cxb4 Nc6 12.b5 Na5 13.h4 Nb7 $6
+{ [diagram] My plan here was to move the Knight to c5 to exert more
+pressure on the center and avoid a possible Bd2 from White. } 14.Na3 Nc5
+15.Bb2 e5
+{ [diagram] Intending to limit the mobility of the dark-square Bishop and,
+ideally, fix the center. My opponent had other ideas. } 16.d4 exd4 17.Nxd4
+Nfxe4
+{ [diagram] Black now has a 2-pawn advantage in material in a very open
+position with all major and minor pieces still on the board. White's pieces
+are somewhat more active. However, Black's pieces are perhaps slightly more coordinated. Overall, I would assume, assuming there are no missed
+tactics, that Black has achieved better than equality and is playing for a win, while White is playing for a draw. }
+18.Nc6
+{ [diagram] The Knight has made his way to the outpost on c6. The c5 Knight
+currently serves two significant purposes, defending the e4 Knight and also
+shielding the enemy Knight on c6 from support (reinforcements). This role was one of the reasons for 17...Nfxe4 rather of 17...Ncxe4 earlier in the
+game. } 18...Qd7 $2
+{ [diagram] This move potentially loses a tempo to 19.Nc4 Bb7 (preventing
+20.Nxb6!) 20.Bg4. } 19.Bf3 ( { [%csl Rb6][%cal Ra1a8,Rc4b6] } 19.Nc4 Bb7
+{ is forced. } 20.Bg4 ) 19...a6 $2 20.Nxe7+ $2
+{ Fortunately, concerned about the safety of his Knight, my opponent
+decides to trade it for the Bishop. } ( 20.Re1 $1 axb5
+{ [%csl Gc6][%cal Gd7c6] } 21.Rxe4 $1 Nxe4 22.Bxe4 $16
+{ [diagram] In this position, White's pieces are incredibly active with his
+Bishop pair aimed directly at the opposing King and his Queen anxious to
+enter the argument. Astonishingly, the c6 outpost remains (and will do so from some time) despite the removal of the supporting b-pawn. This is the
+position I did not see with 19...a6. Both engines give White a solid advantage despite being down in material (2 Knights versus a Rook and 3 pawns). Black's Queenside pawns are weak. (Lc0:+2.9/23, Stockfish 10:+1.8/44) }
+) 20...Qxe7 { [diagram] The defense of the e4 square is now in focus. }
+21.Qc2 f5 $1 22.Rfd1 $2
+{ This move came as a surprise to me as it does not appear to improve
+White's position. I suspect that uncertainty about how to do just that is
+what resulted in this passive move. } 22...Bb7 $1
+{ Reinforcing the e4 square to free one of the defenders. } 23.Bg2
+{ [diagram] } 23...f4 $1 $19 24.bxa6 ( 24.gxf4 $4 Rxf4
+{ [%cal Ge7h4,Gf4g4,Gb7g2,Ga8f8,Gf8f2,Gf4f2] [diagram] Opening immediate and significant attacking possibilities for Black. }
+) 24...Rxa6 25.Re1 fxg3 26.fxg3 Qe6
+{ Eyeing the g4 square and more mobility on the light squares. } 27.Qe2 Qf7
+{ [diagram] This was a curious move for a number of reasons. Mental fatigue
+and blind (and hopeful) intuition were significant factors in this move.
+The Knight on e4 is sufficiently defended in any case, but I did not calculate adequately to ensure I had a sufficiently winning move. 27...Qg6 is
+stronger. } 28.Bxe4 Nxe4 29.Nb5 ( 29.Rf1 Nxg3 30.Rxf7 Nxe2+ 31.Kf2 Rxf7+
+32.Kxe2 $19
+{ [diagram] Black is an exchange and three pawns (almost one piece) ahead
+in material with two passed pawns on the Queenside. } ) 29...Rxa1 30.Bxa1
+Nxg3 $1 $19 { [diagram] } 31.Qg4 $4
+{ Here, my opponent give up the fight and resigned symbolicly. } 31...Qf2#
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.11.22"]
+[Round "?"]
+[White "Nik Polevay"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "E20"]
+[EventDate "2019.11.22"]
+[TimeControl "1800+8"]
+[UTCDate "2019.11.22"]
+[UTCTime "17:47:18"]
+[Variant "Standard"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.Nf3 Nc6 $6 5.e3 d5 6.Be2 dxc4
+{ This move was made following 6.Be2 in order to affect tempo (requiring a
+second move of the Bishop). } 7.Bxc4 a6
+{ Looking to push the light-square Bishop away and open the a8-h1 file for
+my own. } 8.a3 b5 9.Be2 Bb7 10.O-O c4
+{ Further restricting the light-square Bishop. (The engines prefer to
+attack the center with 10...cxd4.) } 11.Bd2 Be7 $6
+{ This move is frowned upon by the engines. 11...Na5 is preferred.
+(11...Bd6 is also preferred to 11...Be7.) } 12.Qc2 Na5
+{ Eyeing the b3 outpost. } 13.e4 Nb3 14.Rad1 { [analyze] } 14...O-O $6
+{ The engines prefer 14...Nxd2 to castling here, removing the more-active,
+dark-square Bishop. } ( 14...Nxd4
+{ wins a pawn, but at the expense of giving up the d-file (temporarily) to
+White. Neither engine (Lc0 or Stockfish 10) objects to this move. This is
+perhaps due to the difficulty White will have in defending the e-pawn. }
+15.Nxd4 Qxd4 16.Bh6 { [diagram] } ) 15.Be3 Ng4 ( 15...Qc7
+{ might be a better alternative to contest on the d-file. (Upon engine
+analysis, 15...Qb6 is strongest. This move was barely considered over the
+board due to the threat of 16.d5. However, 16...Bc5 leads to a particularly interesting variation that is to Black's advantage.) }
+) 16.Ne5 Nxe3 ( 16...Nxe5 $1
+{ is a stronger move. The concern for opening the d-file is overblown.
+Black easily defends with 17...Qc7 (followed by Rad8). } 17.dxe5 Qc7 18.f4 )
+17.fxe3 Bg5 18.Rf3 { (Lc0:-2.7/17, Stockfish 10:-1.8/35) } 18...f6 $4
+{ [diagram] This move allows a very clever tactic that improves White's
+chances. My opponent did not see this move over the board (and neither did
+I). } 19.Ng4 $2 ( 19.Nxc4 $1 bxc4 20.Bxc4 Na5 21.Bxe6+ Kh8
+{ [diagram] Exchanging the White Knight for three Black pawns and the
+initiative. (Lc0:-1.3/27, Stockfish 10:-0.9/38) } ) 19...f5 $6
+{ In all honesty, it was unclear to me, even over the board, immediately
+after this move what my intention was in making it. I believe I was too
+hasty, not understanding initially that the e4 pawn is protected by both the Queen and Knight. }
+( 19...Bxe4 $4 20.Nxe4 f5 { [diagram] } 21.Nxg5 $1 Qxg5 22.Ne5 $18
+{ [diagram] } ) 20.Ne5 f4 $6 21.Rdf1 $4 $19
+{ This move was not anticipated. The e-pawn cannot be taken without losing
+the Queen (and the game) for a Rook. } 21...Qc7 $2 ( 21...fxe3 $4 22.Rxf8+
+Qxf8 23.Rxf8+ Rxf8 ) ( { [%cal Gd4c2,Gd4f3] } 21...Nxd4 $1
+{ Wins two pawns and leaves Black with a compelling advantage. } 22.exd4
+Qxd4+ 23.Kh1 Qxe5 $19 { [diagram] (Lc0:-20.9/10, Stockfish 10:-4.3/32) } )
+22.exf4 $2 Nxd4 $1 23.Qd2 Nxf3+ 24.Bxf3 Bxf4 25.Qd7 Bxe5 ( 25...Qxe5 $1
+26.Qxb7 Bxh2+ ( 26...Qc5+ 27.Kh1 Ra7 { Trapping the Queen. } 28.Na4
+{ Sacrificing the Knight is the only way to prevent the loss of the Queen
+for less compensation. } 28...bxa4 29.Qb4 Qxb4 30.axb4 Be5 31.Rb1 Rb7 $19
+{ [diagram] } ) 27.Kh1 ( 27.Kf2 Qd4+ 28.Ke2 Bg3 $19
+{ [diagram] Threatening 29...Qd3#. (Stockfish 10:#-11/64) } ) 27...Qf4 28.Nd5
+Qh4 { Threatening 29...Bg3+ 30.Kg1 Qh2#. } 29.Qe7 { [%cal Ge7h4] } 29...Qh6
+{ [diagram] White has run out of options short of sacrificing the Queen. }
+30.Qxe6+ Qxe6 31.Kxh2 $19 ) 26.Qxe6+ Rf7 $19
+{ Raf8 to follow. (27.Bh5 is met with 27...g6.) Black resigns. } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2019.11.26"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "(Unknown) (Brazil)"]
+[Result "1-0"]
+[ECO "D00"]
+[EventDate "2019.11.26"]
+[TimeControl "900+5"]
+[UTCDate "2019.11.26"]
+[UTCTime "18:04:14"]
+[Variant "Standard"]
+
+1.d4 d5 2.Bf4 Nc6 3.Nf3 Nf6 4.e3 e6 5.c3 a6 6.Bd3 Be7 7.Nbd2 O-O 8.e4 dxe4
+9.Nxe4 Nxe4 10.Bxe4 Na5 11.Qe2 c5 12.O-O-O Qb6 13.Be3 Rd8 { [diagram] }
+14.dxc5 $1 { [evaluate] } 14...Bxc5 15.Rxd8+ $1 Qxd8 16.Bxc5 $18
+{ [diagram] [evaluate] Black is now a piece down, well behind in
+development, and will be soon forced to give up control of the open d-file.
+} 16...e5 17.Rd1 Qe8 18.h3
+{ This move was made to prevent the pin (and exchange) of the Knight by
+Black's Bishop to restrict the mobility of the Bishop. } 18...f6 19.Qd3
+{ [diagram] The mobility of Black's light-square Bishop is constrained,
+having only the e6 square available. Black's Bishop also blocks his Rook
+and the coodination of the Rook and Queen. Black's Rook is also constrained and cumbersom to free due to the pin of the pawn on b7 by White's
+light-square Bishop. White also now threatens the h7 pawn. } 19...Qh5 $4
+{ A severe overreaction to the threat on h7. Black would have been better
+off with 19...h6 (weakening his Kingside pawn structure), or perhaps
+19...f5, rather than abandoning the defence of the back rank. } 20.Qd8+ $1
+{ The move forces the King out of safety (without support from the Queen)
+and pins Black's light-square Bishop. The following sequence is
+devastating. } 20...Kf7 21.Bd5+ Kg6 22.Qe8+ Kh6 23.Be3+ g5 24.Qf8+ Kg6
+25.Bf7+ Kf5 26.Bxh5 e4 27.Nd4+ Ke5 28.Bg4 Ra7 29.Qxc8 b5 30.Qc5#
+{ [diagram] } 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2019.11.24"]
+[Round "?"]
+[White "(Unknown)"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B23"]
+[EventDate "2019.11.24"]
+[TimeControl "3600+30"]
+[UTCDate "2019.11.24"]
+[UTCTime "04:38:23"]
+[Variant "Standard"]
+
+1.e4 c5 2.Nc3 { Sicilian Defence } 2...d6 3.Bb5+ Nc6 4.Nf3 Bd7 5.d4 cxd4
+6.Nxd4 a6 7.Ba4 Nf6 8.Bxc6 $6 { [evaluate] } 8...bxc6 9.b4 e5 10.Nf3 Bg4
+{ [diagram] The intent here is to pin the Knight to the Queen, threatening
+to force ...Bxf3 gxf3, opening the Kingside pawn structure if White unpins
+the Knight other than Qd3. } 11.Bg5 h6 12.Bh4 Be7 13.h3 Bh5 14.O-O O-O
+15.Bxf6 Bxf6 16.Qd3 $1 { Protecting both Knights. } 16...Be7
+{ Enabling ...f5. } 17.Rad1 Qd7 $2
+{ [evaluate] loses a pawn to 18.Nxe5. The intention was both to enable the
+...f5 pawn break and allow ...Rad8 protecting the backward d6 pawn.
+Unfortunately, the threat presented by Nxe5 was missed. It would perhaps be wiser to remove the f3 Knight before pursuing the ...f5 break. }
+18.Rd2 ( 18.Nxe5 $1 Qc7 19.Nf3 ) 18...f5 19.b5 $2 { [evaluate] } 19...axb5
+20.Nxe5 $1 Qc7 21.Nf3 fxe4 $1 22.Qxe4 Bxf3
+{ Creating a hole in the Kingside pawn structure. } 23.gxf3 Rae8 24.Re2 Qd7
+{ Protecting the d8 square. } 25.Kh2 Bf6 $1
+{ [evaluate] There is no way for White to rotect the Queen and defend both
+the Knight and e2 Rook. } 26.Qg4 Qxg4 27.fxg4 Bxc3 28.Rxe8 Rxe8
+{ [evaluate] Black is now a piece ahead with a decisive advantage. From
+here, it should be a simple matter of controlling the endgame and trading
+off material. White has limited options. } 29.Rg1 $2 Re1 $1 30.Rg3 $2 ( 
+30.Rg2 Be5+ $1 31.Rg3 Bxg3+ 32.Kxg3 ) ( 30.Rxe1
+{ White's best option, trading off the Rooks and conceding the Bishop
+advantage in the endgame. } 30...Bxe1 ) 30...Be5 $1 31.f4 Bxf4 32.Kg2 Bxg3
+33.Kxg3 Rf1
+{ Constricting the White King to the g and f-files for the rest of the
+game. } 34.h4 g6 35.g5 h5
+{ Solidifying the pawn structure. Now, the Black King can be moved in to
+end the day for his trapped opponent. } 36.Kh3 Kf7 37.Kg2 Rf5 38.Kg3 Ke6
+39.Kg2 Ke5 40.Kg1 Ke4 41.Kh2 Rf4 42.Kh3 Kf3 43.Kh2 Kf2 44.Kh3 b4 45.a4 bxa3
+46.c3 d5 ( 46...Rc4 { (#2) is a cleaner win. } ) 47.Kh2 Rxh4# 0-1
+
+[Event "blitz (2+8)"]
+[Site "?"]
+[Date "2019.12.18"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Yan"]
+[Result "1-0"]
+[ECO "D00"]
+[Termination "Normal"]
+[TimeControl "120+8"]
+[UTCDate "2019.12.18"]
+[UTCTime "19:55:51"]
+
+1.d4 d5 2.Bf4 a6 3.Nf3 Nf6 4.e3 Bf5 5.Bd3 Qd7 6.c3 Ne4 7.Nbd2 Nc6 8.Qc2 Nxd2
+9.Qxd2 Bg4 10.O-O-O Bxf3 11.gxf3 { Opens the g-file for White's Rooks. }
+11...Na5 12.e4 { Looking for control of the center. } 12...Nc4 13.Bxc4 dxc4
+{ Here, White has a lead in development (piece deployment and King safety,
+as well as a battery on the d-file and another on the c1-h6 diagonal) with
+control of the center of the board. } 14.Rhg1 g6 15.Bh6
+{ Preventing a Kingside castle. } 15...b5
+{ Initiating a pawn storm on the Queenside. } 16.Bxf8 Rxf8 17.f4 a5 18.Kb1 b4
+{ Here, Black opens the Queenside, but with his Rooks uncoordinated. It is
+unclear how quickly Black will be able to bring his Kingside Rook into the
+game. White holds the advantage and Black has now gifted a pawn. } 19.cxb4 e6
+20.bxa5 Ke7 $2
+{ Black, somewhat desperately, attempts to coordinate his Rooks but misses
+that this gives the White Queen the opportunity to gain a move favorable
+position on the board with tempo. } 21.Qb4+ Kf6 $18 { [diagram] } 22.Qxc4 ( 
+22.e5+ $2 $16 Kf5 $2 ( 22...Kg7
+{ The only move that saves the King from a mating sequence. } ) 23.Rg5+ Kxf4
+( 23...Ke4 24.Qe1+ Kd5 ( 24...Kf3 25.Qe3# ) 25.Qh1# ) 24.Qd2+ Ke4 ( 24...Kf3
+25.Qe3# ) 25.Qe3+ Kd5 26.Qf3# ) 22...Kg7 23.Qc3 Rfb8 24.d5+ f6 25.dxe6 Qxe6
+26.Qxc7+ $6 Kh6 27.Qc3
+{ [diagram] There is an intriguing idea in this position for White. The
+Black King on h6 could possibly be made vulnerable to an attack by the
+Queen or Rook on the h3 square. The King's movement is restricted by the f4 pawn and can be attacked on the 7th rank by the Queen or a Rook (and
+leaving the h7 pawn vulnerable). } 27...Qxe4+ 28.Ka1 Qf5 29.Rg3 Rxa5 $2
+{ This was a very fortunate error. It aligned all stars necessary for the
+planned attack. } 30.Rh3+ Kg7 31.Qc7+ Kf8 32.Qxb8+ Ke7 33.Qc7+ ( 33.Rxh7+ Ke6
+34.Qd6# ) 33...Ke6 34.Rd6# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.01.05"]
+[Round "?"]
+[White "Gustaf"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B20"]
+[TimeControl "1800+30"]
+[UTCDate "2020.01.05"]
+[UTCTime "21:07:17"]
+
+1.e4 c5 { Sicilian Defence } 2.d3 Nc6 3.c4
+{ With this move, White weakens the d4 square, and the Knight on c6 is
+poised to take it as an outpost. } 3...d6 4.Nf3 Bg4 5.Nc3 Nd4 6.Be3 $2 Nxf3+
+7.gxf3 Bh5 8.Qb3 Qd7 9.O-O-O $4 Bxf3 10.Be2 Bxh1 11.Rxh1 Nf6 12.Rg1 g6 13.e5
+dxe5 14.Bxc5 b6 15.Be3 Bg7 16.Bf3 Rb8 17.Nb5
+{ The pawn on d3 is protected only by the Queen. If the Knight can be made
+to return to c3, the pawn is vulnerable; alternately if Na3, the Knight
+will be on a weaker square with less influence. } 17...a6 18.Nc3 O-O 19.Rg5
+Qxd3 20.Rxe5 Rfc8 21.Qb4 $4 Rxc4 22.Qb3 b5 23.Bc5 $4 Qxf3 24.Bxe7 Qf4+ $1
+{ I was very proud of this move, setting up 25...Nd5!. } ( 24...Bh6+ $3
+{ [diagram] } ) 25.Re3 Nd5 $19 $1 { [diagram] } 26.Bg5 Qxg5 27.h4 Qf4 28.Qa3
+Bxc3 29.bxc3 Rxc3+ 30.Kd2 Rxa3 31.Ke2 Nxe3 32.fxe3 Qxe3+ 33.Kd1 Rxa2
+{ [diagram] White resigns. } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2020.01.23"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Zappynl"]
+[Result "1-0"]
+[ECO "D02"]
+[Termination "Normal"]
+[TimeControl "300+8"]
+[UTCDate "2020.01.23"]
+[UTCTime "23:25:30"]
+[Variant "Standard"]
+
+1.d4 Nc6 2.Nf3 d5 3.Bf4 Nb8 4.e3 c6 5.Bd3 e6 6.Nbd2 Bd6 7.Bg3 Nh6 8.e4 f6
+9.e5 fxe5 10.Nxe5 Bc7 11.Qh5+ g6 12.Qxh6 Nd7 13.Bxg6+ Ke7 14.Bh4+ Nf6
+15.Bxf6+ Kxf6 16.Bh5+ Ke7 17.Qg7+ Kd6 18.Nf7+ Kd7 19.Nxd8+ Kxd8 20.Qxh8+ Kd7
+21.Qxh7+ Kd6 22.Nf3 Bd7 23.O-O-O c5 24.c3 Kc6 25.Ne5+ Bxe5 26.dxe5 d4 27.cxd4
+c4 28.Bf3+ Kb5 29.Qxd7+ Ka6 30.Qxb7+ Ka5 31.Qxa8 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.01.26"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Dovenko"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "1800+30"]
+[UTCDate "2020.01.26"]
+[UTCTime "17:45:54"]
+
+1.d4 e6 2.Bf4 Nc6 3.Nf3 d5 4.e3 a6 5.c3 f6 6.Bd3 e5 7.dxe5 fxe5 8.Nxe5 Nxe5
+9.Bxe5 Qg5 10.Bg3 Bd6 11.Qe2 Bf5 12.Bxf5 Qxf5 13.Bxd6 cxd6 14.Nd2 Nf6
+15.O-O-O O-O 16.Nf3 Qg4 17.Nd4 Qxg2 18.Ne6 Rf7 19.Rdg1 Qe4 20.Ng5 Qa4 21.Nxf7
+Kxf7 22.Kb1 b5 23.Qc2 Qe4 24.h3 Rc8 25.a3 a5 26.Rd1 b4 27.Qxe4 Nxe4 28.cxb4
+Nxf2 29.Rhf1 1-0
+
+[Event "Rapid Tournament"]
+[Site "?"]
+[Date "2020.02.08"]
+[Round "3"]
+[White "Duane Edmonds"]
+[Black "(Unknown)"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[Termination "Normal"]
+[TimeControl "600+0"]
+[UTCDate "2020.02.08"]
+[UTCTime "19:00:03"]
+[Variant "Standard"]
+
+1.d4 f5 2.Bf4 Nf6 3.Nf3 d6 4.e3 Nc6 5.c3 e6 6.Bd3 b6 7.Nbd2 Bb7 8.e4 fxe4
+9.Nxe4 Be7 10.Qe2 O-O 11.O-O-O Qd7 12.Rde1 Nxe4 13.Qxe4 Nd8 14.Qxh7+ Kf7
+15.Bg6+ Kf6 16.Bg5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.02.17"]
+[Round "?"]
+[White "Shredder"]
+[Black "Duane Edmonds"]
+[Result "0-1"]
+[ECO "B54"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nc6 5.Nxc6 bxc6 6.f3 Nf6 7.Qd3 e6 8.g4 h6
+9.Qc3 c5 10.Qd2 Nh7 11.Qf2 Be7 12.f4 Bh4 13.f5 Bxf2+ 14.Kxf2 Qh4+ 15.Kf3 Ng5+
+16.Bxg5 hxg5 17.fxe6 Bxe6 18.c3 Bxg4+ 19.Kg2 { [diagram] } 19...Bh3+ 20.Kg1
+Qe1 21.Nd2 Qe3# 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2020.02.17"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Benan"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Normal"]
+[TimeControl "2700+4"]
+[UTCDate "2020.02.17"]
+[UTCTime "07:19:35"]
+[Variant "Standard"]
+
+1.d4 d5 2.Bf4 e6 3.e3 Bd6 4.Bg3 Bxg3 5.hxg3 Nf6 6.Bd3 O-O 7.Nd2 Nc6 8.c3 e5
+{ [diagram] } 9.Bxh7+ Kh8 10.Bf5+ Kg8 11.Bxc8 Rxc8 12.Ngf3 e4 13.Ne5 Nxe5
+14.dxe5 Nd7 15.Qh5 Re8 16.Qh8# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2020.03.26"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Guido Sauro"]
+[Result "1-0"]
+[ECO "A40"]
+[Termination "Normal"]
+[TimeControl "600+15"]
+[UTCDate "2020.03.26"]
+[UTCTime "22:41:06"]
+[Variant "Standard"]
+
+1.d4 Na6 2.Bf4 c5 3.Nf3 c4 4.c3 d6 5.e3 Nh6 6.Bxc4 f6 7.Bxh6 gxh6 8.Nbd2 h5
+9.Nh4 Bd7 10.Qxh5# 1-0
+

@@ -1,0 +1,13 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.08.31"]
+[White "prog01"]
+[Black "JustCora"]
+[WhiteElo "1216"]
+[BlackElo "1188"]
+[TimeControl "300+5"]
+[Termination "game_result.won_on_time"]
+[Result "0-1"]
+[CurrentPosition "4k3/5R2/p2p4/5pN1/2P1PB2/8/1r3PP1/r3K3 w - - 1 35"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.h3 O-O 6.Bf4 Nbd7 7.a4 c5 8.dxc5 Nxc5 9.Nb5 a6 10.Nc3 Nfe4 11.Nxe4 Nxe4 12.Ra2 Qa5+ 13.Nd2 Qb4 14.e3 Bxb2 15.Rxb2 Qxb2 16.Nxe4 Be6 17.Ng5 Qb4+ 18.Qd2 Qb1+ 19.Qd1 Qxd1+ 20.Kxd1 Bd7 21.a5 Rab8 22.h4 b6 23.axb6 Rxb6 24.h5 Rb2 25.hxg6 fxg6 26.Ke1 Rfb8 27.Bd3 Bf5 28.Bxf5 gxf5 29.Rxh7 R8b4 30.Rxe7 Ra4 31.Re8+ Kg7 32.Re7+ Kf8 33.Rf7+ Ke8 34.e4 Ra1+  0-1

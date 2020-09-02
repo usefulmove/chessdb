@@ -1,0 +1,21 @@
+[Event "American Open"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Jeremy Silman"]
+[Black "Ronald Joseph Gross"]
+[Result "1-0"]
+[ECO "E02"]
+[EventDate "????.??.??"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Bd7 6.Qxc4 Bc6 7.Nf3 Bd5 8.Qd3 Be4
+9.Qd1 c5 10.Nc3 Bc6 11.O-O Nbd7 12.Qc2 cxd4 13.Nxd4 Bxg2 14.Kxg2 Bc5 15.Rd1
+O-O 16.e4 Qe7 17.Qe2 Bxd4 18.Rxd4 e5 19.Rd1 Nb6
+{ [diagram] position discussed in chapter on the battle between bishops and
+knights } 20.Be3 ( 20.Bg5 { +0.92/40 Stockfish 9 } ) ( 20.Be3
+{ +0.78/40 Stockfish 9 } ) ( 20.Bg5 { +0.43/28 Deep HIARCS 14 } 20...Rfc8
+21.Nb5 Rc6 22.Rac1 Rxc1 23.Rxc1 a6 24.Nc7 Rf8 25.Qf3 Rd8 26.Bxf6 ) ( 20.Be3
+{ +0.78/32 Komodo 9.02 } ) 20...Rfd8 21.Qb5 Qe6 22.b3 h6 23.a4 Rxd1 24.Rxd1
+Rc8 25.Rd3 Qc6 26.Qxe5 Re8 27.Qd6 Nxe4 28.Qxc6 bxc6 29.a5 Nxc3 30.axb6 Nd5
+31.bxa7 1-0
+

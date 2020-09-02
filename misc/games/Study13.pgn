@@ -1,0 +1,23 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3q1bk1/r2b2np/2p1p3/1pPpPp2/1P1N1P2/7P/1B4RK/1B2Q3 w - - 0 1"]
+[SetUp "1"]
+
+1.Bxf5 { +6.14/38 } 1...exf5 2.e6 Qe8 ( 2...Be8 3.Nxf5 { +10.14/39 } 3...Bg6
+4.Nh6+ Kh8 5.f5 d4 ( 5...Be8 6.f6 { #11/82 } 6...d4 7.e7 Rxe7 8.Qxe7 Qb8+
+9.Kg1 Bg6 10.Bxd4 Nh5 11.f7+ Ng7 12.Qf6 Qc8 13.Rf2 Qb8 14.Qxg7+ Bxg7 15.f8=Q+
+Qxf8 16.Rxf8# ) 6.fxg6 hxg6 7.Qe4 Qd5 8.Nf7+ Kg8 9.Qxg6 Qf3 10.Qh6 Rxf7
+11.exf7+ Qxf7 12.Bxd4 Qc7+ 13.Kg1 Qd7 14.Qf6 Kh7 15.Rg4 Kg8 16.Kh2 Qc7+
+17.Kg2 Qe7 18.Qxe7 Bxe7 19.Rxg7+ Kf8 20.Rg6 Ke8 21.Rxc6 Kd7 22.Rb6 Bd8
+23.Rxb5 Bc7 24.Rb7 Kc6 25.Ra7 Bf4 26.Ra6+ Kb5 27.Rb6+ Kc4 28.Bf2 Be5 29.b5
+Bc3 30.Rb8 Be5 31.Rb7 Bc3 32.c6 ) 3.exd7 Qxe1 4.d8=Q Qe4 5.Qg5 Ra2 6.Nxf5
+Rxb2 7.Nh6+ Kh8 8.Rxb2 Qe7 9.Qxe7 Bxe7 10.Ra2 Nh5 11.Rg2 Ng7 12.Nf7+ Kg8
+13.Ne5 Bf6 14.Nxc6 Kf7 15.Rd2 Ne6 16.Kg3 Nc7 17.Ra2 Ke6 18.Re2+ Kd7 19.Ne5+
+Ke6 20.Ng4+ Kf5 21.Kf3 Bh4 22.Re5+ Kg6 23.c6 d4 24.Re4 h5 25.Ne5+ Kf5 26.Rxd4
+Bf6 27.Rd7 Bxe5 *
+

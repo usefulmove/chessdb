@@ -1,0 +1,22 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/UyoMS1C0"]
+[Date "2020.01.05"]
+[Round "-"]
+[White "GustafSWEDE"]
+[Black "soiled-dove"]
+[Result "0-1"]
+[UTCDate "2020.01.05"]
+[UTCTime "21:07:17"]
+[WhiteElo "1037"]
+[BlackElo "1574"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+21"]
+[Variant "Standard"]
+[TimeControl "1800+30"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[Termination "Normal"]
+
+1. e4 c5 2. d3 Nc6 3. c4 d6 4. Nf3 Bg4 5. Nc3 Nd4 6. Be3 Nxf3+ 7. gxf3 Bh5 8. Qb3 Qd7 9. O-O-O Bxf3 10. Be2 Bxh1 11. Rxh1 Nf6 12. Rg1 g6 13. e5 dxe5 14. Bxc5 b6 15. Be3 Bg7 16. Bf3 Rb8 17. Nb5 a6 18. Nc3 O-O 19. Rg5 Qxd3 20. Rxe5 Rfc8 21. Qb4 Rxc4 22. Qb3 b5 23. Bc5 Qxf3 24. Bxe7 Qf4+ 25. Re3 Nd5 26. Bg5 Qxg5 27. h4 Qf4 28. Qa3 Bxc3 29. bxc3 Rxc3+ 30. Kd2 Rxa3 31. Ke2 Nxe3 32. fxe3 Qxe3+ 33. Kd1 Rxa2 0-1
+
+

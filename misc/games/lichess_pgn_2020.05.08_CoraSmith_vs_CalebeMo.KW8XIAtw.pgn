@@ -1,0 +1,20 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/KW8XIAtw"]
+[Date "2020.05.08"]
+[Round "-"]
+[White "CoraSmith"]
+[Black "CalebeMo"]
+[Result "1-0"]
+[UTCDate "2020.05.08"]
+[UTCTime "17:07:55"]
+[WhiteElo "1513"]
+[BlackElo "1156"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[Termination "Normal"]
+
+1. d4 d6 2. Bf4 Nc6 3. Nf3 e5 4. dxe5 Nxe5 5. Nxe5 dxe5 6. Qxd8+ Kxd8 7. Bxe5 f6 8. Bg3 Bd6 9. Bxd6 cxd6 10. g3 Be6 11. Bg2 Rc8 12. c3 b6 13. Nd2 d5 14. Nb3 Ne7 15. O-O-O Rc7 16. e4 Ke8 17. exd5 Nxd5 18. Bxd5 Kf7 19. Bxe6+ Kxe6 20. Rhe1+ Kf7 21. Nd4 Rd7 22. Nc6 Rc7 23. Nb4 Re8 24. Rxe8 Kxe8 25. Nd5 Rd7 26. f4 Kf7 27. f5 g6 28. g4 gxf5 29. gxf5 h5 30. h4 a5 31. Nxb6 Rxd1+ 32. Kxd1 Ke7 33. Kd2 Kd6 34. Nc4+ Kd5 35. Kd3 Kc5 36. b3 Kd5 37. a4 Kc5 38. Ke4 Kc6 39. Nxa5+ Kb6 40. b4 Kc7 41. Kd5 Kb6 42. Kd6 Ka7 43. Ke6 Kb8 44. Kxf6 Kc8 45. Ke7 Kc7 46. f6 Kb6 47. f7 Kc7 48. f8=Q Kb6 49. Qf6+ Kc7 50. Qc6+ Kb8 51. Qb7# 1-0
+
+

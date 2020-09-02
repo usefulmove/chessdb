@@ -1,0 +1,29 @@
+[Event "CCCC 1: Rapid Rumble (15|5) Stage 1"]
+[Site "chess.com"]
+[Date "2018.09.16"]
+[Round "?"]
+[White "Fire 7.1"]
+[Black "Wasp 3.25"]
+[Result "1-0"]
+[BlackElo "3259"]
+[BlackType "program"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Termination "normal"]
+[Time "05:10:58"]
+[TimeControl "900+5"]
+[Variation "exchange, Bronstein variation"]
+[WhiteElo "3326"]
+[WhiteType "program"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Qd6 6.d3 Be6 7.Be3 Nh6 8.Bxh6
+gxh6 9.Nbd2 Rg8 10.Nc4 Qe7 11.g3 O-O-O 12.Qe2 f6 13.Ne3 Kb8 14.a3 Bh3 15.Rfb1
+c5 16.Nh4 Qd7 17.b4 Rg5 18.Rb3 b6 19.Rab1 Ka7 20.Nhf5 h5 21.Qe1 Qe6 22.Qc3
+Rc8 23.Re1 Rb8 24.Rb2 Rd8 25.Reb1 Re8 26.Rb3 Qd7 27.Qb2 Rb8 28.Rc3 Qe8 29.Qa2
+c6 30.Rcb3 Qd7 31.Re1 Rg6 32.Rbb1 Rb7 33.Red1 Qd8 34.c3 Qe8 35.Qc2 Bg4
+36.Nxg4 hxg4 37.d4 c4 38.Qe2 b5 39.d5 cxd5 40.Rxd5 Rd7 41.Qe3+ Kb7 42.Qd2 Rc7
+43.Rd6 Rc6 44.Rd8 Qe6 45.Rxf8 Rg8 46.Rxg8 Qxg8 47.Ne7 Qe6 48.Nxc6 Kxc6 49.Rd1
+f5 50.exf5 Qxf5 51.Qd6+ Kb7 52.Qe7+ Kb8 53.Rd8+ Qc8 54.Qxe5+ Kb7 55.Qe4+ Kc7
+56.Rxc8+ Kxc8 57.Qxh7 Kd8 58.Qf7 Kc8 59.Qe7 Kb8 60.Qd7 Ka8 61.Qc7 a5 62.bxa5
+b4 63.a6 bxc3 64.Qb7# 1-0
+

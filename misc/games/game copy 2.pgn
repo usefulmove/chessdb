@@ -1,0 +1,23 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/iIbI1Bld"]
+[Date "2020.01.01"]
+[Round "?"]
+[White "RSM1965"]
+[Black "soiled-dove"]
+[Result "0-1"]
+[BlackElo "1574"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[Termination "Normal"]
+[TimeControl "2700+12"]
+[UTCDate "2020.01.01"]
+[UTCTime "21:50:51"]
+[Variant "Standard"]
+[WhiteElo "1245"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 d5 4.Bd3 c5 5.Ne2 $4 c4 6.O-O cxd3 7.Qxd3 $19 Nc6 8.c3
+Be7 9.Nd2 O-O 10.b3 Bd6 11.Bxd6 Qxd6 12.c4 b6 13.cxd5 Nxd5 14.Ne4 Qe7 15.Rac1
+Ndb4 16.Qc4 Ba6 17.Qc3 Bxe2 18.Rfe1 Nxa2 19.Qd2 Nxc1 20.Qxc1 Bb5 21.Nc3 Qb4
+22.d5 Rac8 23.dxe6 Qxb3 24.Nxb5 Qxb5 25.exf7+ Rxf7 26.Qb1 Qxb1 27.Rxb1 Rfc7
+28.Rc1 Na5 29.Rxc7 Rxc7 30.g3 Rc2 31.Kg2 Kf7 0-1
+

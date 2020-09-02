@@ -1,0 +1,20 @@
+﻿[Event "85th BRA-ch Final 2018"]
+[White "Reis, Paulo F. Jatoba de O"]
+[Black "Lima, Darcy"]
+[Site "Petropolis"]
+[Round "2.3"]
+[Annotator "TA"]
+[Result "0-1"]
+[Date "2019.02.01"]
+[WhiteElo "2377"]
+[BlackElo "2535"]
+[PlyCount "68"]
+
+1. Nf3 {} d5 2. g3 e6 3. Bg2 Nf6 4. 0-0 Be7 5. d3 0-0 6. Nbd2 c5 7. e4 Nc6 8. Re1 Qc7 9. e5 Nd7 10. Qe2 b5 11. Nf1 Bb7 12. Bf4 {C00: French:
+Unusual White 2nd moves} Rfc8 {LiveBook: 6 Games} 13. c3 (13. Ne3 Qd8 14. h4 h6 15. c3 b4 16. c4 Nb6 17. Rad1 Rc7 18. Ng4 Qf8 19. Qe3 Nd4 20. Nxd4 cxd4 {
+0-1 (44) Svidler,P (2760)-Kramnik,V (2800) Moscow 2018} )a5 {} 14. h4 {Black has an edge.} Qd8 15. N1h2 a4 $146 ({
+Predecessor:} 15... d4 )16. h5 h6 17. Qe3 ({Better is} 17. Ng4 $15 )a3 18. b3 {[#]} d4 $1 {} 19. cxd4 {Black should prevent d5!} Nxd4 {
+Strongly threatening ...Nc2.} 20. Nxd4 ({White should play} 20. Qd2 )cxd4 $17 21. Qe2 {[#]} Bxg2 $1 22. Kxg2 Nb6 (22... Bb4 $17 23. Red1 Bc3 )23. Qg4 $1 $15 {White wants to play Bxh6.} Kh8 $36 { White is under pressure.} 24. Rac1 (24. Bd2 $15 )Nd5 $19 {} 25. Nf3 Nb4 {And now ...Rxc1 would win.} 26. Rxc8 Rxc8 27. Re4 $2 (27. Bd2 )Nxa2 28. Rxd4 Qe8 29. Bxh6 gxh6 30. Qf4 Bf8 31. Nh2 Nc3 {...a2 is the
+strong threat.} 32. Ng4 Ne2 33. Qe4 Nxd4 34. Nf6 Qc6 {Precision: White = 21%,
+Black = 76%.} 0-1
+

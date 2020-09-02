@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "2018.12.18"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Duane Edmonds"]
+[Result "1-0"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.c4 d6 5.Nf3 Nbd7 6.Nbd2 O-O 7.Bd3 Re8 8.Qe2 e5
+9.dxe5 dxe5 10.Bg5 $1 h6 11.Bxf6 Nxf6 12.O-O-O Qe7 13.Ne4 ( 13.e4 ) 13...Bf5
+14.Qc2 Nxe4 15.Bxe4 Bxe4 16.Qxe4 b6 17.h4 f5 18.Qc6 $10 Qc5 $2 19.Qd5+ $2 ( 
+19.Qxc5 bxc5 $16 { [diagram] } ) 19...Kh7 $2 ( 19...Qxd5 20.Rxd5 Rad8 21.Rhd1
+$10 { [diagram] } ) 20.Qf7 $2 { [%cal Gd1d7] } ( 20.Ng5+ Kh8 21.Nf7+ Kh7
+22.Qxc5 bxc5 23.Rd7 $16 { [%cal Gh1d1][diagram] } ) 20...Re7 $1 21.Qd5 Ree8
+$2 { This is a second missed opportunity to equalize. } ( 21...Qxd5 22.Rxd5
+$10 ) 22.Qxc5 $1 bxc5 23.Rd7 $1 Rac8 24.Rhd1 e4 25.Ng1 Kg8 26.Ne2
+{ [%csl Gd5][%cal Ge2c3,Gc3d5,Ge2f4,Gf4d5] White is eyeing the d5 square. }
+26...Be5
+{ Here, Black has the thought of protecting the c7 pawn possibly allowing
+Rb8 putting the Rook on the open b-file. [diagram] } 27.Nf4 $1 $16
+{ Forcing the exchange of Black's Bishop removing it from the long
+diagnoal. } 27...Bxf4 28.exf4 h5 29.R1d5 $18 Kf8 30.Rxc5 Re7 31.Rxe7 Kxe7
+32.Kc2 Kd6 33.b4 Re8 34.Kd2 c6 35.Ra5 Re7 36.Ra3 Rb7 37.Rb3 Ke6 38.a4 $2 c5
+39.Kc3 cxb4+ 40.Rxb4 $14 Rxb4 $4 $18 ( 40...Rd7 $14
+{ [diagram] and Black has the opportunity to try to hold for a draw. The
+trade of the Rooks concedes the game, giving Black no real hope to hold. } )
+41.Kxb4 Kd6 42.Kb5 Kc7 43.Kc5 a5 44.Kb5 Kd6 45.c5+ Kc7 46.c6 Kc8 47.Kxa5 Kc7
+48.Kb5 Kc8 49.Kb6 { Black resigns. [diagram] } ( 49.Kb6 Kd8 50.c7+ Kd7 51.Kb7
+) 1-0
+

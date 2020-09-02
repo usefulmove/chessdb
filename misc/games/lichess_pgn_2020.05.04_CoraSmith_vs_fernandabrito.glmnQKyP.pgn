@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/glmnQKyP"]
+[Date "2020.05.04"]
+[Round "-"]
+[White "CoraSmith"]
+[Black "fernandabrito"]
+[Result "1-0"]
+[UTCDate "2020.05.04"]
+[UTCTime "18:45:57"]
+[WhiteElo "1504"]
+[BlackElo "1027"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "300+6"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 Nc6 3. e3 Bb4+ 4. c3 Ba5 5. Nf3 Nf6 6. Bd3 a6 7. Nbd2 b5 8. a3 O-O 9. e4 d5 10. e5 Ng4 11. h3 Ne3 12. Bxe3 Ne7 13. Ng5 h6 14. Qh5 Nf5 15. Bxf5 exf5 16. Ngf3 Be6 17. Bxh6 gxh6 18. Qxh6 Re8 19. Ng5 Re7 20. Qh7+ Kf8 21. Qh8# 1-0
+
+

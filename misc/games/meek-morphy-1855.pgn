@@ -1,0 +1,24 @@
+[Event "Mobile"]
+[Site "Mobile, AL USA"]
+[Date "1855.03.01"]
+[Round "?"]
+[White "Alexander Beaufort Meek"]
+[Black "Paul Morphy"]
+[Result "0-1"]
+[ECO "C44"]
+[EventDate "1855.??.??"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.Ng5 Nh6 6.Nxf7 Nxf7 7.Bxf7+ Kxf7
+8.Qh5+ g6 9.Qxc5 d6 10.Qb5 Re8 11.Qb3+ d5 12.f3 Na5 13.Qd3 dxe4 14.fxe4 Qh4+
+15.g3 Rxe4+ $2 { Stockfish 9:-1.19/25 } ( 15...Qxe4+ { Stockfish 9:-3.17/24 }
+16.Qxe4 Rxe4+ 17.Kf2 Bg4 18.Rf1 Re2+ 19.Kg1+ Kg8 20.Rf2 Rxf2 21.Kxf2 Re8
+22.Bf4 Re2+ 23.Kg1 Nc4 24.b3 Ne3 25.Bxe3 dxe3 26.Nc3 Rxc2 27.Nd5 Bf3 28.Nxe3
+Re2 29.Nc4 b5 30.Na3 Rg2+ 31.Kf1 Rxh2 32.Re1 c6 ) 16.Kf2 Qe7 $2
+{ Stockfish 9:-0.15/23 } ( 16...Qf6+ { Stockfish 9:-2.67/22 } 17.Qf3 Bg4
+18.Qxf6+ Kxf6 19.Rf1 Re2+ 20.Kg1+ Kg7 21.Rf2 Rae8 22.Na3 Nc6 23.h3 Rxf2
+24.Kxf2 Re2+ 25.Kf1 Bf3 26.Bf4 d3 27.cxd3 Nd4 28.Kg1 b5 29.g4 Ne6 30.Bc1 a6
+31.Nb1 Re1+ 32.Kf2 Rxc1 33.Kxf3 Rd1 34.Ke2 Rh1 35.Kd2 Rxh3 ) 17.Nd2 Re3
+18.Qb5 c6 19.Qf1 Bh3 20.Qd1 ( 20.Qxh3 Re2+ 21.Kf3 Qe3+ 22.Kg4 h5+ 23.Qxh5
+Qe6+ 24.Kh4 gxh5 25.Rf1+ Kg6 26.Rf6+ Qxf6+ 27.Kh3 Qf5+ 28.Kh4 Rxh2# )
+20...Rf8 21.Nf3 Ke8 0-1
+

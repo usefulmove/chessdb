@@ -1,0 +1,49 @@
+[Event "Chess Study – Rilton Cup"]
+[Site "Stockholm, Sweden"]
+[Date "2010.12.31"]
+[Round "5"]
+[White "David Berczes"]
+[Black "Hans Tikkanen"]
+[Result "*"]
+[FEN "r3r3/5Rpp/p1k5/P1p5/7N/6P1/2p2P1P/2R3K1 b - - 0 28"]
+[SetUp "1"]
+
+{ [diagram] } 28...Re1+ { (Stockfish 9:0.00/35) } ( 28...Re2 $2
+{ played in the game } 29.Nf3 Rae8 30.Kf1 { (Stockfish 9:+3.06/36) } )
+29.Rxe1 Rd8 ( 29...Rb8 $2
+{ ends with the Rook on the wrong side of the pawn } 30.Rfe7 $1 Rb1 31.Re6+
+Kc7 32.Re2 c1=Q 33.Rxc1 Rxc1+ 34.Kg2 { [diagram] (Stockfish 9:+4.65/27) } )
+30.Kg2 ( 30.Rfe7 Rd1 { -1.39/24 } 31.Kg2 c1=Q
+{ [diagram] (Stockfish 9:-1.43/30) } ) 30...Rd1 31.Re6+ $1 { [diagram] }
+31...Rd6 { (Stockfish 9:0.00/36) } ( 31...Kd5 { (Stockfish 9:0.00/36) }
+32.Rb6 c1=Q { [diagram] } ) 32.Re2 c1=Q 33.Nf3
+{ [diagram] (Stockfish 9:+0.00/36) } *
+
+[Event "Chess Study"]
+[Site "Las Vegas, Nevada"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "Ivan Sokolov"]
+[Black "Nikola Mitkov"]
+[Result "*"]
+[FEN "r2qr1k1/1b1n1p1p/pp1Q1np1/2pp4/3P4/2N1P3/PP1B1PPP/1BR2RK1 b - - 0 17"]
+[SetUp "1"]
+
+17...Re5 ( 17...Ne4 { played in the game (Stockfish 9:+0.40/36) } ) 18.dxe5
+Ne8 19.Qxd5 Bxd5 20.Nxd5 Nxe5 21.e4 Nc6 { [diagram] (Stockfish 9:-0.66/37) }
+*
+
+[Event "Chess Study – Europeann Rapid Championship"]
+[Site "Warsaw, Poland"]
+[Date "2010.??.??"]
+[Round "?"]
+[White "Robert Kempinski"]
+[Black "Radoslaw Wojtaszek"]
+[Result "*"]
+[FEN "7r/p4pk1/bpBqp1p1/8/1P1b3P/P4Q1P/2R2P2/2R3K1 w - - 0 29"]
+[SetUp "1"]
+
+29.b5 $1 Bc8 30.Be8 $1
+{ [%csl Rh6,Gf7,Gg6][%cal Gf3f7,Yg7h6,Rf7g6] [diagram] } 30...Rxe8 31.Rxc8
+Rxc8 32.Rxc8 { [diagram] } *
+

@@ -1,0 +1,22 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2ZsOziHo"]
+[Date "2018.11.11"]
+[Round "-"]
+[White "turhan16"]
+[Black "dedmonds"]
+[Result "1-0"]
+[UTCDate "2018.11.11"]
+[UTCTime "09:24:31"]
+[WhiteElo "1545"]
+[BlackElo "1584"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-69"]
+[Variant "Standard"]
+[TimeControl "3600+45"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 d6 3. d3 Nc6 4. Nf3 Bg4 5. O-O Nd4 6. h3 Nxf3+ 7. gxf3 Bh5 8. Bf4 e5 9. Bg3 Be7 10. Nc3 Bh4 11. Kh2 g5 12. Nd5 a6 13. c3 b5 14. Bb3 Ne7 15. Nf6+ Kf8 16. Nxh5 Ng6 17. Bd5 Ra7 18. d4 c4 19. Qe1 Nf4 20. Nxf4 gxf4 21. Bxh4 Qxh4 22. a4 Qe7 23. axb5 axb5 24. dxe5 dxe5 25. Bc6 Rg8 26. Bxb5 Rg6 27. Rxa7 Qxa7 28. Bxc4 Qd7 29. Rg1 Rh6 30. Bf1 Qe7 31. c4 Qh4 32. c5 1-0
+
+

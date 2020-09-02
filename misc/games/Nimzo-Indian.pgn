@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "E51"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.e3 O-O 6.Bd2 b6 ( 6...Ne4 $4 7.Nxe4 $1
+) 7.cxd5 exd5 8.Bd3 c5 9.dxc5 bxc5 10.O-O Nc6 11.a3 Ba5 12.Qa4 Bb7 13.Rfd1
+Bc7 14.Nb5 Ne5 15.Nxc7 Nxf3+ 16.gxf3 Qxc7 { [diagram] } *
+

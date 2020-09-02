@@ -1,0 +1,19 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/p5MhZa0k"]
+[Date "2020.07.12"]
+[White "bakmei84"]
+[Black "CoraSmith"]
+[Result "0-1"]
+[UTCDate "2020.07.12"]
+[UTCTime "01:07:30"]
+[WhiteElo "1233"]
+[BlackElo "1605"]
+[Variant "Standard"]
+[TimeControl "1800+10"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[Termination "Normal"]
+
+1. e4 c5 2. Qf3 Nc6 3. c3 d6 4. Be2 Nf6 5. h3 g6 6. d3 Bg7 7. Qg3 O-O 8. h4 h5 9. Qh2 Ng4 10. Bxg4 Bxg4 11. f3 Bd7 12. g4 hxg4 13. h5 Ne5 14. hxg6 fxg6 15. Kd2 gxf3 16. Qh7+ Kf7 17. Kc2 Rh8 0-1
+
+

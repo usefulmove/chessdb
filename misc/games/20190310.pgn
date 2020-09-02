@@ -1,0 +1,19 @@
+[Event ""]
+[Site ""]
+[Date "2019.03.10"]
+[Round ""]
+[White "Lc0"]
+[Black "Stockfish 10"]
+[Result "1/2-1/2"]
+[TimeControl "60s"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. c3 d6 5. h3 Nbd7 6. Nf3 O-O 7. Be2 b6 8. O-O
+Re8 9. a4 a5 10. Na3 Ne4 11. Nb5 Bb7 12. Bh2 e6 13. Qc2 f5 14. Rad1 Rb8 15. Nd2
+Nxd2 16. Qxd2 Nf6 17. c4 Rc8 18. b4 Ne4 19. Qb2 axb4 20. Qxb4 Qe7 21. f3 Nf6
+22. Qa3 Bh6 23. Rfe1 Qf7 24. Kh1 Bf8 25. Qb2 Red8 26. Ra1 Ne8 27. a5 bxa5 28.
+Rxa5 Ra8 29. Rea1 Qe7 30. Ra7 Rdb8 31. Bd3 Bc6 32. Rxa8 Rxa8 33. Na7 Bd7 34.
+Qb7 Rd8 35. Bc2 Bh6 36. Bg1 Bg5 37. Ba4 c5 38. Bb5 Ng7 39. dxc5 dxc5 40. Bh2 f4
+41. Bxf4 Bxf4 42. exf4 Nf5 43. Qb6 Be8 44. Bxe8 Rxe8 45. Qc6 e5 46. Re1 e4 47.
+Nc8 Qd8 48. Nb6 Kg7 49. Nd5 exf3 50. Rxe8 f2 51. Qb7+ Kh6 52. Kh2 Qh4 53. Qb1
+Qg3+ 54. Kh1 Qh4 55. Kh2 Qg3+ 56. Kh1 Qh4 57. Kh2 { Game is drawn by
+repetition}   1/2-1/2

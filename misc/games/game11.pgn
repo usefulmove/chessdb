@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/AayLODWr"]
+[Date "2019.12.19"]
+[Round "-"]
+[White "soiled-dove"]
+[Black "Omarmichaga"]
+[Result "1-0"]
+[UTCDate "2019.12.19"]
+[UTCTime "18:46:36"]
+[WhiteElo "1603"]
+[BlackElo "1158"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-2"]
+[Variant "Standard"]
+[TimeControl "600+1"]
+[ECO "A40"]
+[Opening "English Defense"]
+[Termination "Normal"]
+
+1. d4 b6 2. Bf4 Bb7 3. Nf3 e6 4. Nbd2 h6 5. c3 g5 6. Bg3 g4 7. Ne5 h5 8. e3 f6 9. Ng6 Rh6 10. Nxf8 Kxf8 11. h3 h4 12. Bf4 Rh5 13. Qxg4 Rh7 14. Bd3 f5 15. Qe2 Bxg2 16. Rh2 Rg7 17. O-O-O Qc8 18. Rg1 Qb7 19. f3 Bxf3 20. Nxf3 Rxg1+ 21. Nxg1 Nc6 22. Qh5 Ke7 23. Qh7+ Kf6 24. Nf3 Nce7 25. Bg5# 1-0
+
+

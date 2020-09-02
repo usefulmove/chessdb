@@ -1,0 +1,18 @@
+﻿[Event "FIDE Chesscom Online Nations Cup"]
+[White "Anand, Viswanathan"]
+[Black "Nepomniachtchi, Ian"]
+[Site "Online"]
+[Round "5"]
+[Annotator "TA"]
+[Result "1-0"]
+[Date "2020.05.07"]
+[WhiteElo "2751"]
+[BlackElo "2778"]
+[PlyCount "33"]
+
+1. d4 {} Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nxc3 7. Bxc3 c5 8. d5 Bxc3+ {D85: Exchange Grünfeld: Unusual White 7th moves and lines with
+7 Nf3.} 9. bxc3 Qd6 10. Qd2 0-0 {The position is equal.} 11. f4 e6 {[#]} 12. Nf3 $5 $146 { New and interesting.} ({Predecessor:} 12. Bc4 b5 13. Bxb5 exd5 14. Bc4 Bb7 15. Nf3 Nd7 16. 0-0 Nb6 17. Be2 d4 18. e5 {1/2-1/2 (30) Giri,
+A (2763)-Vachier Lagrave,M (2767) Ekaterinburg 2020} )exd5 {[#]} 13. Bc4 $1 $36 { White has good play.} Be6 (13... Nc6 $11 {remains equal.} )(13... dxc4 14. Qxd6 )14. 0-0 $1 $16 ({Don't play} 14. exd5 $6 Bf5 $11 )({
+Much worse is} 14. Bxd5 $6 Bxd5 15. Qxd5 Qxd5 $11 )d4 $2 {} (14... Nd7 $16 )15. f5 $1 $18 Bxc4 {[#]} 16. e5 $1 {} Qd7 {[#]} (16... Bxf1 $18 17. exd6 Ba6 18. cxd4 cxd4 )17. f6 $1 { White took
+control after the opening. Accuracy: White = 88%, Black = 37%.} 1-0
+
