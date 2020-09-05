@@ -4308,3 +4308,18 @@ Kh7 50.Kb4 Kh8 { [diagram] } 51.Bxb6 Nxb6 52.Kc5 Na4+ 53.Kc6 Kh7 54.Kd7 Kg8
 Nb6 62.Kc6 Nc4 63.Kd7 Kg6 64.Ke7 Ne3 65.Ke6 Nc2 66.b6 Nd4+ 67.Kxe5 Nxf3+
 68.Kd5 Kxf6 69.b7 Ng5 70.b8=Q 1-0
 
+[Event "Chess Studies – Chinese League"]
+[Site "?"]
+[Date "2012.06.28"]
+[Round "?"]
+[White "A. Motylev"]
+[Black "Wang Hao"]
+[Result "*"]
+[BlackElo "2733"]
+[EventDate "2012.06.28"]
+[FEN "r4b1r/kb3ppp/p4p2/3p4/3NP3/1R6/1PP2PPP/4KB1R w K - 0 1"]
+[SetUp "1"]
+[WhiteElo "2683"]
+
+*
+
