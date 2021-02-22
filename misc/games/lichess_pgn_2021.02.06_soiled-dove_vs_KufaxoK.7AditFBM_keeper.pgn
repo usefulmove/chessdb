@@ -1,0 +1,19 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/7AditFBM"]
+[Date "2021.02.06"]
+[White "soiled-dove"]
+[Black "KufaxoK"]
+[Result "1-0"]
+[UTCDate "2021.02.06"]
+[UTCTime "16:51:46"]
+[WhiteElo "1343"]
+[BlackElo "846"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A41"]
+[Opening "Queen's Pawn Game"]
+[Termination "Normal"]
+
+1. d4 d6 2. Bf4 e5 3. dxe5 d5 4. Nf3 Nc6 5. e3 Bg4 6. Be2 Bb4+ 7. c3 Bc5 8. Nbd2 Qe7 9. Bb5 O-O-O 10. Bxc6 bxc6 11. O-O Nh6 12. Qa4 Qe6 13. Rfd1 Bxf3 14. Nxf3 Ng4 15. h3 Nxe5 16. Bxe5 d4 17. exd4 Bd6 18. Qa6+ Kd7 19. d5 cxd5 20. Bxd6 cxd6 21. Qxa7+ Ke8 22. Re1 Qxe1+ 23. Rxe1+ Kf8 24. Qe7+ Kg8 25. Qxd8# 1-0
+
+

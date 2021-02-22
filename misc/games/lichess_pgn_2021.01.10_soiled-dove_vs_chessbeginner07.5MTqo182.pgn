@@ -1,0 +1,19 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/5MTqo182"]
+[Date "2021.01.10"]
+[White "soiled-dove"]
+[Black "chessbeginner07"]
+[Result "1-0"]
+[UTCDate "2021.01.10"]
+[UTCTime "13:26:26"]
+[WhiteElo "1558"]
+[BlackElo "1079"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 Nc6 4. c3 Qd7 5. Nf3 O-O-O 6. Bb5 a6 7. Ne5 Qe6 8. Nxc6 bxc6 9. Bxa6+ Kb8 10. Qb3+ Ka7 11. Qb7# 1-0
+
+

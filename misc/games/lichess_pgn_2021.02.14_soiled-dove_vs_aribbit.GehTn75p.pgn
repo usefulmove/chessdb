@@ -1,0 +1,19 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/GehTn75p"]
+[Date "2021.02.14"]
+[White "soiled-dove"]
+[Black "aribbit"]
+[Result "1-0"]
+[UTCDate "2021.02.14"]
+[UTCTime "05:49:34"]
+[WhiteElo "1558"]
+[BlackElo "1102"]
+[Variant "Standard"]
+[TimeControl "900+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 e5 4. dxe5 d4 5. Nf3 Bf5 6. Bb5 Ne7 7. Nxd4 Nd5 8. Nxf5 Bc5 9. Nxg7+ Kf8 10. Bxc6 bxc6 11. Bh6 Bb4+ 12. c3 Be7 13. Ne6+ Kg8 14. Nxd8 Rxd8 15. Qg4+ Bg5 16. Qxg5# 1-0
+
+
