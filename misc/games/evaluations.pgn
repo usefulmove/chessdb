@@ -1,0 +1,28 @@
+[Event "Chess Studies"]
+[Site "?"]
+[Date "2019.11.25"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "Unknown"]
+[Result "*"]
+[EventDate "2019.11.25"]
+[FEN "r1b2rk1/pp3pp1/nq2p2p/2p5/3PB3/2P2NP1/PP3PP1/R1Q1K2R w KQ - 0 14"]
+[SetUp "1"]
+
+(  14. Ne5 { (Lc0:+2.13/27)}  15... f5 15. Bf3 cxd4 16. O-O dxc3 17. Qxc3 Nb4
+18. Rfe1 a5 19. a3 Nd5 20. Qd2 a4 21. Rac1 Rd8 22. Red1 Ra6 23. Rc2 Qd6 24. Qd4
+Qf8 25. Bh5 Qf6 26. Rc5 Qe7 27. Rd3 Kh7 28. g4 Rad6 29. Bg6+ Kg8 30. Nf7 b6 31.
+Rc1 Nc3 32. Qxd6 Rxd6 33. Rdxc3 Bd7 34. Rc8+ Bxc8 35. Rxc8+ Qf8 36. Nxd6 Qxc8
+37. Nxc8 e5 )(  14. Rxh6 { (Stockfish 10:+8.83/46)}  15... f6 15. Bh7+ Kf7 16.
+Bg6+ Ke7 17. Rh7 Rg8 18. Qh6 Kd8 19. Rxg7 Rxg7 20. Qxg7 Bd7 21. Qf8+ Kc7 22.
+Qxa8 Qxb2 23. Rd1 Qxc3+ 24. Kf1 Nb8 25. Qxa7 Nc6 26. Qxc5 Qxc5 27. dxc5 Nb4 28.
+a3 Na6 29. Rc1 b6 30. cxb6+ Kxb6 31. Nd4 Nc5 32. Rb1+ Kc7 33. g4 Ba4 34. f3 Bd7
+35. Rc1 Kb6 36. g3 Ba4 37. Kg1 Bd7 38. Rb1+ Kc7 39. Rb4 e5 40. Nf5 Bc6 41. Rc4
+Kb6 42. Kg2 Bd7 43. Nd6 Be6 44. Rb4+ Kc7 )(  14. Bc2 { (Lc0:+1.80/27)}  15...
+f5 15. O-O cxd4 16. cxd4 Bd7 17. Bb3 Nc7 18. Re1 a5 19. Qc2 a4 20. Bc4 Bb5 21.
+b3 Bc6 22. bxa4 Bxa4 23. Qd2 Qd6 24. Rac1 Bc6 25. Bb3 Bd5 26. Qc2 Bxb3 27. Qxb3
+Rfb8 28. a4 Nd5 29. Ne5 )(  14. Bc2 { (Stockfish 10:+1.07/45)}  15... f5 15.
+dxc5 Nxc5 16. O-O Bd7 17. Ne5 Bc6 18. Nxc6 Qxc6 19. Re1 Rad8 20. Qe3 Ne4 21.
+Rac1 a5 22. Bxe4 fxe4 23. Rc2 Rf5 24. Rce2 Re5 25. Qf4 Qd5 26. a4 Rf8 27. Qc1
+Qc5 28. Qe3 Qxe3 29. Rxe3 Rd8 30. b4 axb4 31. cxb4 Rd2 32. g4 Rb2 33. Rxe4 Rxe4
+34. Rxe4 Ra2 35. a5 Kf7 ) *

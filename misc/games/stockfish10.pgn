@@ -1,0 +1,17 @@
+[Event ""]
+[Site ""]
+[Date "2020.01.07"]
+[Round ""]
+[White "Stockfish_10_x64"]
+[Black "Stockfish_10_x64"]
+[Result "1-0"]
+[FEN "5r2/4r2p/1p1p2k1/pPp2p2/P1P2P2/3P1BN1/3B1P1P/5K2 b - a3 0 38"]
+[Setup "1"]
+[TimeControl "378s"]
+
+38... Kf6 39. Bc3+ Ke6 40. Bd5+ Kd7 41. Nh5 Kc8 42. Bf6 Ra7 43. Be6+ Kb8 44. Bg7
+Re8 45. Bxf5 Rb7 46. Be4 Rf7 47. f5 d5 48. cxd5 c4 49. Bd4 cxd3 50. Bxd3 Rfe7
+51. f6 Re1+ 52. Kg2 Rg8+ 53. Kf3 Kc7 54. Bxh7 Ra8 55. Nf4 Kd6 56. Bb2 Ree8 57.
+Bf5 Kc5 58. f7 Reb8 59. Bg7 Kb4 60. d6 Rd8 61. d7 Kxa4 62. Nd5 Kb3 63. Nc7 Rab8
+64. Ne8 Rxd7 65. Be6+ Ka4 66. f8=Q Rd3+ 67. Kg2 Kxb5 68. Qf4 Rd4 69. Qxb8 Rg4+
+70. Bxg4 Kb4 71. Qxb6+ Kc4 72. Be2+ Kd5 73. Qd6+ Ke4 74. Bd3#  1-0

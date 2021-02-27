@@ -1,0 +1,14 @@
+[Event ""]
+[Site ""]
+[Date "2020.01.10"]
+[Round ""]
+[White "Stockfish_10_x64"]
+[Black "Lc0"]
+[Result "1-0"]
+[FEN "5r2/4r2p/1p1p2k1/pPp2p2/P1P2P2/3P1BN1/3B1P1P/5K2 b - a3 0 38"]
+[Setup "1"]
+[TimeControl "378s"]
+
+38... h5 39. Bxh5+ Kf6 40. Bc3+ Ke6 41. Bg6 Ra7 42. h4 Kd7 43. h5 Rfa8 44. h6
+Rb7 45. h7 Kc7 46. Nxf5 d5 47. Be5+ Kd7 48. Bf7 Rf8 49. Bg8 Ra8 50. h8=Q Rf8
+51. Qg7+ Rf7 52. Bxf7 Ra7 53. Qg8 d4 54. Be6#  1-0

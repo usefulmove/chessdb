@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "4N3/1p6/3k2p1/p3r3/P1Pn4/1P2R3/6PP/6K1 b - - 0 1"]
+[Setup "1"]
+
+(  2... Ke6 2. Rd3 Re4 3. Nc7+ Ke7 4. Kf2 Re2+ 5. Kf1 Re4 6. g3 Nc6 7. Nd5+ Kf8
+8. Kf2 Re8 9. Nf4 g5 10. Nh3 Ne5 11. Rd4 g4 12. Nf4 Ke7 13. Rd5 Nc6 14. Rg5 Nd4
+15. Rxa5 Rc8 16. Rg5 Nxb3 17. Nd5+ Kf7 18. Rxg4 Nc5 19. h4 Nxa4 20. Rf4+ Kg7
+21. Ne3 Nc5 22. Nf5+ Kh7 23. Rd4 Rc7 24. g4 Nb3 25. Rf4 Rc5 26. Nd6 Rc7 27. Ke3
+Re7+ 28. Kf3 Nd2+ 29. Kf2 b6 30. Rd4 Nb3 31. Rd1 Nc5 32. g5 Ne4+ 33. Kg2 Nxd6 {
+(Stockfish 10:+3.51)}  )(  2... Ke6 2. Rd3 Re4 3. Nc7+ Ke5 4. Nb5 Ne2+ 5. Kf2
+Nc1 6. Rd5+ Kf4 7. g3+ Kg4 8. h3+ Kxh3 9. Rd1 Nxb3 10. Rh1+ Kg4 11. Rh4+ Kf5
+12. Nd6+ Ke5 13. Nxe4 Kf5 14. Ke3 Nc1 15. g4+ Ke5 16. Rh5+ gxh5 17. gxh5 Nb3
+18. h6 Nd4 19. h7 Nf5+ { (Lc0:+8.17)}  ) *
