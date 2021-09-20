@@ -4374,3 +4374,15 @@ Nb6 62.Kc6 Nc4 63.Kd7 Kg6 64.Ke7 Ne3 65.Ke6 Nc2 66.b6 Nd4+ 67.Kxe5 Nxf3+
 
 *
 
+[Event "?"]
+[Site "Chess Studies - Camden Chess Club"]
+[Date "2021.04.17"]
+[Round "?"]
+[White "Duane Edmonds"]
+[Black "S.  Ludovic"]
+[Result "*"]
+[FEN "rn1qkbnr/pbp3pp/1p2p3/3pNp2/3P1B2/4P3/PPP1BPPP/RN1QK2R b KQkq - 2 7"]
+[SetUp "1"]
+
+7...Nc6 $4 *
+
