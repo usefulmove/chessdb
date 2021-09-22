@@ -1,0 +1,19 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/nucOEmQY"]
+[Date "2020.10.03"]
+[White "all_K_long"]
+[Black "soiled-dove"]
+[Result "0-1"]
+[UTCDate "2020.10.03"]
+[UTCTime "20:27:05"]
+[WhiteElo "1170"]
+[BlackElo "1343"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Normal"]
+
+1. d4 d5 2. f4 e6 3. Nc3 Nf6 4. Nf3 c5 5. Ne5 a6 6. Be3 c4 7. Qd2 Bb4 8. h3 Ne4 9. Qd1 0-1
+
+

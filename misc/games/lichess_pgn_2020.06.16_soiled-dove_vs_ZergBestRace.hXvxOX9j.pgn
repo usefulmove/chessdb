@@ -1,0 +1,20 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/hXvxOX9j"]
+[Date "2020.06.16"]
+[Round "-"]
+[White "soiled-dove"]
+[Black "ZergBestRace"]
+[Result "1-0"]
+[UTCDate "2020.06.16"]
+[UTCTime "20:10:09"]
+[WhiteElo "1543"]
+[BlackElo "988"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Ne4 4. Nd2 Nxd2 5. Qxd2 f6 6. Nf3 e6 7. Bd3 c5 8. c3 Nd7 9. O-O-O Qe7 10. e4 e5 11. exd5 exf4 12. Rde1 Qxe1+ 13. Rxe1+ 1-0
+
+

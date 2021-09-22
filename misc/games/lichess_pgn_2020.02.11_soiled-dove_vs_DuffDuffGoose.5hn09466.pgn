@@ -1,0 +1,22 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/5hn09466"]
+[Date "2020.02.11"]
+[Round "?"]
+[White "soiled-dove"]
+[Black "DuffDuffGoose"]
+[Result "1-0"]
+[BlackElo "1089"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[Termination "Normal"]
+[TimeControl "60+5"]
+[UTCDate "2020.02.11"]
+[UTCTime "20:00:33"]
+[Variant "Standard"]
+[WhiteElo "1313"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Nc6 4.e3 e6 5.c3 Bd6 6.Bg3 Bxg3 7.hxg3 Ne4 8.Bd3 Nd6
+9.Nbd2 O-O 10.e4 dxe4 11.Nxe4 Nxe4 12.Bxe4 Na5 { [diagram] } 13.Bxh7+ Kh8
+14.Bc2+ Kg8 15.Qd3 g6 16.O-O-O Kg7 17.Rh2 Rh8 18.Rdh1 Rxh2 19.Rxh2 Nc6 20.Qe4
+f5 21.Qh4 Qxh4 22.Rxh4 Ne7 23.Ne5 Kf6 24.Rh7 Ng8 25.f4 b6 26.Rf7# 1-0
+

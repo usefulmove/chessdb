@@ -1,0 +1,19 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/JYEBssRA"]
+[Date "2020.09.19"]
+[White "Saanvi_E2"]
+[Black "CoraSmith"]
+[Result "0-1"]
+[UTCDate "2020.09.19"]
+[UTCTime "17:37:15"]
+[WhiteElo "853"]
+[BlackElo "1328"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D05"]
+[Opening "Colle System"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. e3 Nf6 3. Nf3 e6 4. Nc3 a6 5. Ne5 c5 6. Qd3 c4 7. Qd2 Bb4 8. Qe2 Ne4 9. f3 Nxc3 10. bxc3 Bxc3+ 0-1
+
+

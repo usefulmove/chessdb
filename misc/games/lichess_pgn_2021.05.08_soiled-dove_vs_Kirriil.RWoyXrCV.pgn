@@ -1,0 +1,19 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/RWoyXrCV"]
+[Date "2021.05.08"]
+[White "soiled-dove"]
+[Black "Kirriil"]
+[Result "1-0"]
+[UTCDate "2021.05.08"]
+[UTCTime "14:36:45"]
+[WhiteElo "1531"]
+[BlackElo "1115"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 c6 3. e3 f6 4. Nf3 e5 5. dxe5 fxe5 6. Nxe5 Nd7 7. Qh5+ Ke7 8. Qf7+ Kd6 9. Nxd7# 1-0
+
+

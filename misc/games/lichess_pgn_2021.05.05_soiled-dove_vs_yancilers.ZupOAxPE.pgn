@@ -1,0 +1,19 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/ZupOAxPE"]
+[Date "2021.05.05"]
+[White "soiled-dove"]
+[Black "yancilers"]
+[Result "1-0"]
+[UTCDate "2021.05.05"]
+[UTCTime "23:34:25"]
+[WhiteElo "1343"]
+[BlackElo "1017"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Ne4 4. Nd2 Nxd2 5. Qxd2 e6 6. Nf3 Nc6 7. c3 f6 8. Bd3 g5 9. Bg3 Bh6 10. Qe2 g4 11. Nh4 Bg5 12. Qxg4 Bxh4 13. Qh5+ Ke7 14. Bxh4 e5 15. dxe5 Nxe5 16. Qxe5+ Kd7 17. Bxf6 Qe8 18. Qxd5# 1-0
+
+

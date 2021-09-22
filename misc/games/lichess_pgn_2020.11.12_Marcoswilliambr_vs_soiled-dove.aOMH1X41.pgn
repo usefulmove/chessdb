@@ -1,0 +1,19 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/aOMH1X41"]
+[Date "2020.11.12"]
+[White "Marcoswilliambr"]
+[Black "soiled-dove"]
+[Result "0-1"]
+[UTCDate "2020.11.12"]
+[UTCTime "03:52:12"]
+[WhiteElo "1146"]
+[BlackElo "1343"]
+[Variant "Standard"]
+[TimeControl "360+0"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. Bc4 Nf6 5. O-O Bg4 6. b3 Nd4 7. a4 a6 8. Nd5 e6 9. Nxf6+ Qxf6 10. c3 Nxf3+ 11. gxf3 Bxf3 12. Be2 Qg5# 0-1
+
+

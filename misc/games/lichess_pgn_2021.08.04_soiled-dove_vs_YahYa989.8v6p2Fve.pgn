@@ -1,0 +1,19 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/8v6p2Fve"]
+[Date "2021.08.04"]
+[White "soiled-dove"]
+[Black "YahYa989"]
+[Result "1-0"]
+[UTCDate "2021.08.04"]
+[UTCTime "23:28:37"]
+[WhiteElo "1531"]
+[BlackElo "1220"]
+[Variant "Standard"]
+[TimeControl "10800+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 Nb4 4. c3 Nc6 5. Bd3 f5 6. Nf3 e6 7. Nbd2 Nf6 8. Ne5 Ng4 9. Nxg4 fxg4 10. Qxg4 e5 11. Qh5+ g6 12. Bxg6+ hxg6 13. Qxg6+ Kd7 14. dxe5 Rh4 15. e6+ Ke7 16. Qf7# 1-0
+
+

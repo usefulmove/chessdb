@@ -1,0 +1,20 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/nnXYepNS"]
+[Date "2020.02.18"]
+[Round "-"]
+[White "soiled-dove"]
+[Black "ahmed20104"]
+[Result "1-0"]
+[UTCDate "2020.02.18"]
+[UTCTime "00:10:08"]
+[WhiteElo "1572"]
+[BlackElo "1112"]
+[Variant "Standard"]
+[TimeControl "480+8"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 h5 4. h3 b5 5. Bxb5+ Nd7 6. Nf3 Rb8 7. a4 c6 8. Bxc6 Qb6 9. Ne5 Qb4+ 10. Nd2 Qxb2 11. Rb1 Qxb1 12. Nxb1 f6 13. Bxd7+ Kd8 14. Nf7+ Kxd7 15. Bxb8 Rh7 16. O-O Kc8 17. Bxa7 Nh6 18. Nxh6 Rxh6 19. Bc5 g5 20. Nc3 g4 21. h4 Be4 22. Nxe4 dxe4 23. c4 Rg6 24. Qb1 f5 25. Qb5 Kd8 26. Qb8+ Kd7 27. Rb1 Rc6 28. Rb7+ Ke6 29. Qxf8 Ra6 30. Qxe7# 1-0
+
+

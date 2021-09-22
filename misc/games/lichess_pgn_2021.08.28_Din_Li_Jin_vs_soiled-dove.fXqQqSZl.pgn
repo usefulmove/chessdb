@@ -1,0 +1,19 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/fXqQqSZl"]
+[Date "2021.08.28"]
+[White "Din_Li_Jin"]
+[Black "soiled-dove"]
+[Result "1-0"]
+[UTCDate "2021.08.28"]
+[UTCTime "17:38:59"]
+[WhiteElo "1116"]
+[BlackElo "1343"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B77"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Sosonko Variation"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 g6 7. f3 Bg7 8. Qd2 O-O 9. Bc4 Nd7 10. Bb3 a6 11. Nxc6 bxc6 12. Bh6 c5 13. h4 Ne5 14. h5 gxh5 15. Rxh5 Kh8 16. Bxg7+ Kxg7 17. Qh6+ 1-0
+
+

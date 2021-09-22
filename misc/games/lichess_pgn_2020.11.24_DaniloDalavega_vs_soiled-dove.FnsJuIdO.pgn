@@ -1,0 +1,19 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/FnsJuIdO"]
+[Date "2020.11.24"]
+[White "DaniloDalavega"]
+[Black "soiled-dove"]
+[Result "0-1"]
+[UTCDate "2020.11.24"]
+[UTCTime "00:14:26"]
+[WhiteElo "1053"]
+[BlackElo "1531"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nc6 4. d3 Nf6 5. c3 Bg4 6. O-O Ne5 7. Nxe5 dxe5 8. f3 Bd7 9. Nd2 a6 10. g3 Bh3 11. Re1 e6 12. g4 Be7 13. a3 O-O 14. b4 cxb4 15. axb4 b5 16. Bb3 Qxd3 17. Nb1 Rfd8 18. Re3 Qxd1+ 19. Kf2 Qf1+ 20. Kg3 Qg2+ 21. Kh4 Nxg4+ 22. Kh5 Nxe3 23. Bxe3 Qg6# 0-1
+
+

@@ -1,0 +1,20 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/cJ5jaUB9"]
+[Date "2020.03.01"]
+[Round "-"]
+[White "soiled-dove"]
+[Black "MacroOak"]
+[Result "1-0"]
+[UTCDate "2020.03.01"]
+[UTCTime "21:54:00"]
+[WhiteElo "1316"]
+[BlackElo "851"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Bd3 Bg4 6. Nf3 e6 7. Nbd2 Bd6 8. Bg3 O-O 9. e4 cxd4 10. cxd4 Bb4 11. a3 Bxd2+ 12. Qxd2 dxe4 13. Bxe4 Nxe4 14. Qf4 Bxf3 15. Qxf3 Qd5 16. O-O Nxd4 17. Qd3 Nd2 18. Qxd2 Nf3+ 19. gxf3 Qxd2 20. Rfd1 Qxb2 21. Bc7 Qc3 22. Bd6 Rfd8 23. Bb4 Qxf3 24. Rxd8+ Rxd8 25. Rc1 Qg4+ 26. Kf1 g6 27. Be7 Rd2 28. Bf6 Qh3+ 29. Ke1 1-0
+
+

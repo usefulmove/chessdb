@@ -1,0 +1,19 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/drzyjaZc"]
+[Date "2020.08.26"]
+[White "loadedmichael"]
+[Black "CoraSmith"]
+[Result "0-1"]
+[UTCDate "2020.08.26"]
+[UTCTime "00:24:32"]
+[WhiteElo "1244"]
+[BlackElo "1605"]
+[Variant "Standard"]
+[TimeControl "1800+14"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[Termination "Normal"]
+
+1. e4 c5 2. c4 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. Qd2 Nxe4 8. Qd4 Nc5 9. b4 Ne6 10. Qc3 c5 11. b5 a6 12. f4 Bd7 13. a4 Nd4 14. Qb2 g6 15. b6 Bg7 16. Kd2 Nf3+ 17. gxf3 Bxb2 18. Bxb2 O-O 19. a5 Bc6 20. Ke3 f5 21. Kf2 d5 22. Ra3 d4 23. h4 Qd6 24. h5 Qxf4 25. Rh3 g5 26. Bg2 e5 27. Rd3 e4 28. Rb3 e3+ 29. Ke2 g4 30. Rh4 Bxf3+ 31. Bxf3 gxf3+ 32. Kd3 Qxh4 33. b7 Qe4# 0-1
+
+
