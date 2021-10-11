@@ -1,0 +1,19 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/560UkzEu"]
+[Date "2021.10.10"]
+[White "soiled-dove"]
+[Black "akolev"]
+[Result "1-0"]
+[UTCDate "2021.10.10"]
+[UTCTime "18:16:49"]
+[WhiteElo "1343"]
+[BlackElo "1104"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 c6 3. e3 Bf5 4. Nf3 e6 5. Bd3 Bxd3 6. Qxd3 f6 7. Nbd2 Qa5 8. O-O Ne7 9. e4 dxe4 10. Nxe4 Nd7 11. Nd6+ Kd8 12. Nxb7+ 1-0
+
+
